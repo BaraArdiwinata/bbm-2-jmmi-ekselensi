@@ -15,7 +15,7 @@ Knowledge base konsep dan rancangan program untuk keperluan *review* oleh BPI da
 | **Pelaksanaan** | **Minggu, 15 November 2026**, 08.00–16.30 WIB, Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS |
 | **Peserta** | Staf Muda angkatan 2025, sekitar **50–70 orang** |
 | **Ketua Pelaksana** | Bara Ardiwinata |
-| **Format** | 1 hari tatap muka: 4 materi inti, 1 Simulasi Taktis (80 menit), pre-test dan post-test, dan Kegiatan Pasca Pelatihan (KPP) |
+| **Format** | 1 hari tatap muka: 4 materi inti, 1 Simulasi Taktis (**40 menit**), pre-test dan post-test, dan Kegiatan Pasca Pelatihan (KPP) |
 
 ### Mengapa BBM 2 diperlukan
 
@@ -39,7 +39,7 @@ BBM 1 (Mei 2026) membekali manajemen program dasar. **BBM 2 menyiapkan Staf Muda
 
 ### Simulasi Taktis dalam satu paragraf
 
-Delapan biro (ME, PM, KI, UM, AM, DG, MS, RL) menjalankan proker bersamaan menuju Hari Puncak fiktif. Ketergantungan antar-biro **asimetris dan searah**: tiap biro hanya boleh *memulai* koordinasi ke **2 biro tujuan** dan dilarang memulai balik ke pengirim. Hasilnya 16 relasi resmi yang membentuk satu jaring kerja. Peserta bernegosiasi dengan kapasitas terbatas, mengeskalasi ke Kadep dengan format *fakta → opsi → permintaan arahan*, dan menghadapi tiga *inject* (kapasitas media turun, instruksi ganda, Kabiro berhalangan).
+Delapan biro (Biro Manajemen Event, Biro Pengabdian Masyarakat, Biro Kajian & Inovasi Dakwah, Biro Usaha Mandiri, Biro Amaliyah Yaumiyah, Biro Digital Production, Biro Media Analysis & Strategi, dan Biro Relasi & Hubungan Eksternal) menjalankan proker bersamaan menuju Hari Puncak fiktif dalam **satu ronde 40 menit** yang sengaja padat. Ketergantungan antar-biro **asimetris dan searah**: tiap biro hanya boleh *memulai* koordinasi ke **2 biro tujuan** dan dilarang memulai balik ke pengirim, sehingga terbentuk 16 relasi resmi dalam satu jaring kerja. **Satu meja diisi Staf Muda dari biro asalnya** (bila hadir kurang dari 3 orang, digabung dengan biro lain dalam departemen yang sama). **Tidak ada jabatan yang ditunjuk**: semua setara di awal dan kepemimpinan tumbuh organik, diamati secara non-formal oleh Badan Personalia untuk pembinaan. Peserta bernegosiasi dengan kapasitas terbatas, mengeskalasi ke Kadep dengan format *fakta → opsi → permintaan arahan*, dan menghadapi tiga *inject* (kapasitas media turun, instruksi ganda, pengambil kendali berhalangan).
 
 ### KPP (Kegiatan Pasca Pelatihan)
 
@@ -74,7 +74,7 @@ Delapan biro (ME, PM, KI, UM, AM, DG, MS, RL) menjalankan proker bersamaan menuj
 
 | Dokumen | Isi |
 |---|---|
-| [Kartu Skenario Simulasi](main/kartu_skenario_simulasi.md) | 8 Kartu Rahasia siap cetak (ME, PM, KI, UM, AM, DG, MS, RL) dan lampiran fasilitator berisi titik temu kesepakatan |
+| [Kartu Skenario Simulasi](main/kartu_skenario_simulasi.md) | 8 Kartu Rahasia siap cetak (satu per biro) dan lampiran fasilitator berisi titik temu kesepakatan |
 
 > **Peringatan:** berkas kartu memuat lampiran fasilitator dan kunci kesepakatan. **Jangan dibagikan kepada peserta sebelum atau selama simulasi.**
 
@@ -95,7 +95,7 @@ Delapan biro (ME, PM, KI, UM, AM, DG, MS, RL) menjalankan proker bersamaan menuj
 | Hal | Status |
 |---|---|
 | Jadwal, tempat, judul sesi, pemateri, desain Simulasi Taktis, konsep KPP | **Disepakati** (arahan Ketua Pelaksana) |
-| Angka TUK, tim simulasi acak lintas biro, dan jumlah fasilitator | **Usulan**, menunggu persetujuan Ketua |
+| Angka TUK, jumlah fasilitator dan pengamat, mekanisme meja gabungan (dua kartu), dan naskah transparansi pengamatan | **Usulan**, menunggu persetujuan Ketua |
 | Kapasitas Aula / Ruang AV untuk sekitar 100 orang | **Belum terverifikasi** (konfirmasi ke Takmir sebelum 15 Oktober) |
 | Angka bertanda **(sim)** pada kasus simulasi | **Fiktif**, perlu divalidasi Kabiro terkait sebelum kartu dicetak |
 | Proposal kegiatan (`.docx`) | **Belum dibuat** |

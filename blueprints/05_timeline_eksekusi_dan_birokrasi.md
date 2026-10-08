@@ -52,12 +52,12 @@
 | Selasa 3 Nov | H-12 | Ajukan surat undangan peserta dan pemberitahuan | Sekpel | Pengajuan surat |
 | Kamis 5 Nov | H-10 | Ajukan form request media untuk dokumentasi hari-H | Sie Dokumentasi | Form request |
 | Jumat 6 Nov | H-9 | Ajukan surat tugas panitia dan fasilitator; RSVP peserta ditutup | Sekpel, Sie Registrasi | Daftar peserta final |
-| Minggu 8 Nov | H-7 | **Final tim simulasi dan peran, serta kode peserta.** Uji `template_simulasi_taktis.xlsx` dengan 8 akun | Sie Simulasi | Daftar tim; uji lulus |
+| Minggu 8 Nov | H-7 | **Daftar meja awal menurut biro asal** (dari RSVP), pembuatan kode peserta, dan identifikasi biro yang berpotensi hadir kurang dari 3 orang. Uji `template_simulasi_taktis.xlsx` dengan 8 akun. **Tanpa penunjukan peran** | Sie Simulasi, Sie Registrasi | Daftar meja awal; uji lulus |
 | Senin 9 Nov | H-6 | Konfirmasi jadwal salat resmi. Uji Form pre-test dan post-test (5 orang) | Sie Acara, Sie Registrasi | Jadwal salat final; Form teruji |
 | **Selasa 10 Nov** | H-5 | **Slide final pemateri dikumpulkan.** Cetak Kartu Rahasia, handout, name tag. Briefing pemateri 2 (daring) | Sie Acara, Sie Perlengkapan | Bahan siap cetak dan dicetak |
-| **Rabu 11 Nov** | H-4 | **Technical meeting fasilitator** (latihan peran Kadep, Waket, Bendum, dan inject) | Sie Simulasi | Fasilitator siap |
+| **Rabu 11 Nov** | H-4 | **Technical meeting fasilitator** (latihan peran Kadep, Waket, Bendum, dan inject; **kalibrasi 8 pengamat meja** untuk Lembar Observasi Kepemimpinan Emergen) | Sie Simulasi | Fasilitator dan pengamat siap |
 | Kamis 12 Nov | H-3 | Cek akhir seluruh dokumen, konsumsi, dan tim. Pesan konsumsi | Ketupel | Daftar periksa H-3 lengkap |
-| Jumat 13 Nov | H-2 | Konfirmasi ulang kehadiran seluruh pemateri dan fasilitator. Siapkan hotspot cadangan | Sie Acara | Konfirmasi |
+| Jumat 13 Nov | H-2 | Konfirmasi ulang kehadiran seluruh pemateri, fasilitator, dan pengamat. **Keputusan penggabungan final** biro dengan hadir < 3 orang (dalam departemen yang sama). Siapkan hotspot cadangan | Sie Acara, Sie Simulasi | Konfirmasi; daftar meja final |
 | **Sabtu 14 Nov** | H-1 | **Setup venue**, uji audio-visual, uji Wi-Fi dan Google Sheets, tata letak klaster | Sie Perlengkapan, Sie Simulasi | Venue siap |
 
 ### 2.3 Fase 3: Hari-H (Minggu, 15 November 2026)
@@ -69,7 +69,7 @@ Rundown peserta ada di dokumen 02 (bagian 1). Rundown operasional panitia:
 | 05.30 | Panitia tiba, subuh berjamaah, briefing 10 menit | Ketupel |
 | 06.30–07.15 | Penataan 8 klaster, proyektor Papan Jaring, uji Wi-Fi dan Sheets | Sie Perlengkapan, Sie Simulasi |
 | 07.15–07.45 | Gladi bersih MC, uji mikrofon, uji QR pre-test | Sie Acara |
-| 07.30 | Fasilitator dan role-player berkumpul; serah terima 8 amplop Kartu Rahasia | Sie Simulasi |
+| 07.30 | Fasilitator, role-player, dan 8 pengamat meja berkumpul; serah terima 8 amplop Kartu Rahasia (2 salinan per meja) dan formulir observasi | Sie Simulasi |
 | 08.00 | Registrasi dan pre-test | Sie Registrasi |
 | 08.20–16.30 | Acara berjalan (dokumen 02) | Semua |
 | 16.30–17.30 | Evaluasi singkat panitia, bongkar, pengembalian ruangan, serah terima inventaris | Ketupel, Sie Perlengkapan |
@@ -233,10 +233,10 @@ Softcopy proposal, surat, SPJ, LPJ, dan data peserta diarsipkan di **Google Driv
 |---|---|
 | Peserta (Staf Muda angkatan 2025) | 70 |
 | Panitia | ±12 |
-| Fasilitator dan role-player (Kadep ×4, Waket/BPI, Bendum, pengendali waktu, operator Papan Jaring, penilai ×4) | ±13 |
+| Fasilitator, role-player, dan pengamat (Kadep ×4, Waket/BPI ×1–2, Bendum, pengendali waktu, operator Papan Jaring, **pengamat meja ×8**, penilai ×1–2) | ±17–19 |
 | Pemateri (Hazal, Waket I, Waket II, Ketua Badan Keorg, Waket III, Best Kabiro BME, Kadep Syi'ar) | 7 |
-| **Total maksimum** | **±102** |
-| **Pembulatan logistik (+5%)** | **110** |
+| **Total maksimum** | **±108** |
+| **Pembulatan logistik (+5%)** | **115** |
 
 Panitia dan fasilitator dapat saling tumpang tindih. Angka di atas adalah batas atas.
 
@@ -245,12 +245,12 @@ Panitia dan fasilitator dapat saling tumpang tindih. Angka di atas adalah batas 
 | Item | Kebutuhan | Status |
 |---|---|---|
 | Surat peminjaman tempat | Diajukan ke Takmir (3.4 no. 2) | Belum diajukan |
-| **Kapasitas klaster ±100 orang** | 8 klaster meja (6–9 kursi) + area pemateri + area panitia | **Belum terverifikasi.** Konfirmasi 15 Oktober |
+| **Kapasitas ±110 orang** | 8 meja menurut biro asal (jumlah kursi menyesuaikan kehadiran; meja gabungan lebih besar) + kursi pengamat + area pemateri + area panitia | **Belum terverifikasi.** Konfirmasi 15 Oktober |
 | Pengaturan | 8 klaster berbentuk pulau, jalur lalu lintas fasilitator, 1 panggung atau area depan, 2 layar, 1 meja registrasi di pintu masuk | Rencana |
 | Kebutuhan sepanjang hari | 05.30 s.d. 17.30 (setup dan bongkar) | Dicantumkan di surat |
 | Akses ibadah | Jalur ke masjid untuk Dzuhur dan Ashar, tempat wudu | Rencana |
 | Kebersihan | Serah terima ruangan setelah acara | Rencana |
-| **Aturan keputusan** | Bila Ruang AV tidak muat klaster ±100 orang, pakai **Aula**. Bila Aula bentrok dengan kegiatan lain pada 15 November, ajukan jadwal lain atau pisahkan: sesi materi di Ruang AV dan simulasi di Aula | Keputusan 15 Oktober |
+| **Aturan keputusan** | Bila Ruang AV tidak muat ±110 orang dalam format meja, pakai **Aula**. Bila Aula bentrok dengan kegiatan lain pada 15 November, ajukan jadwal lain atau pisahkan: sesi materi di Ruang AV dan simulasi di Aula | Keputusan 15 Oktober |
 
 ### 4.3 Perangkat Audio-Visual dan Teknologi
 
@@ -263,7 +263,7 @@ Panitia dan fasilitator dapat saling tumpang tindih. Angka di atas adalah batas 
 | Laptop pemateri | 1–2 | Slide pemateri |
 | Mikrofon nirkabel | 4 | 2 pemateri, 1 MC, 1 fasilitator |
 | Sound system | 1 set | Seluruh ruangan |
-| Wi-Fi | Cukup untuk ≥ 100 perangkat | Pre/post-test, Google Sheets, dan Form |
+| Wi-Fi | Cukup untuk ≥ 110 perangkat | Pre/post-test, Google Sheets, dan Form |
 | Hotspot cadangan | 3–4 | Bila Wi-Fi gagal |
 | Kabel ekstensi dan terminal listrik | ≥ 8 | Daya laptop 8 klaster |
 | Penghitung waktu terlihat | 1 | Pengendali waktu |
@@ -274,10 +274,10 @@ Panitia dan fasilitator dapat saling tumpang tindih. Angka di atas adalah batas 
 
 | Waktu | Jenis | Jumlah | PIC |
 |---|---|---|---|
-| 09.50 | Snack pagi dan minum | 110 | Sie Konsumsi |
-| 11.10 | Makan siang dan minum (Dzuhur) | 110 | Sie Konsumsi |
-| 14.40 | Snack sore dan minum (Ashar) | 110 | Sie Konsumsi |
-| Sepanjang hari | Air mineral cadangan | 1 dus per 2 klaster | Sie Konsumsi |
+| 09.50 | Snack pagi dan minum | 115 | Sie Konsumsi |
+| 11.10 | Makan siang dan minum (Dzuhur) | 115 | Sie Konsumsi |
+| 14.25 | Snack sore dan minum (blok Ashar 14.25–15.00) | 115 | Sie Konsumsi |
+| Sepanjang hari | Air mineral cadangan | 1 dus per 2 meja | Sie Konsumsi |
 
 **Catatan:** seluruh konsumsi halal. Kumpulkan informasi alergi atau pantangan peserta lewat RSVP. Konsumsi disiapkan sebelum azan Dzuhur dan Ashar supaya waktu salat tidak terpotong. Harga dan vendor mengikuti kuotasi (belum tersedia pada dokumen sumber).
 
@@ -285,10 +285,10 @@ Panitia dan fasilitator dapat saling tumpang tindih. Angka di atas adalah batas 
 
 | Item | Jumlah | Keterangan |
 |---|---|---|
-| Name tag dengan **kode peserta** (`BBM2-01`…), warna biro asal, dan stiker peran simulasi | 110 | Termasuk panitia dan fasilitator (tanda berbeda) |
-| Lanyard | 110 | — |
-| Amplop tersegel Kartu Rahasia | **8** (+2 cadangan) | Satu per tim, berisi satu kartu (1–2 halaman) |
-| Papan nama meja biro (kode dan nama) | 8 | — |
+| Name tag dengan **kode peserta** (`BBM2-01`…) dan **warna biro asal**. **Tanpa stiker peran atau jabatan** | 115 | Termasuk panitia dan fasilitator (tanda berbeda) |
+| Lanyard | 115 | — |
+| Amplop tersegel Kartu Rahasia | **8** (+2 cadangan) | Satu per meja, berisi **2 salinan** kartu (1–2 halaman) agar seluruh anggota membaca bersamaan dalam 5 menit. Meja gabungan menerima dua amplop |
+| Papan nama meja biro (nama lengkap biro) | 8 | Berwarna sesuai biro |
 | Handout "Peta Jalur" (1 halaman) | 80 | Dari dokumen 02, bagian 3.2 C |
 | Handout tabel wewenang | 80 | Dari dokumen 02, bagian 3.1 E |
 | Poster QR pre-test dan post-test (A3) | 4 | Registrasi dan ruangan |
@@ -299,7 +299,7 @@ Panitia dan fasilitator dapat saling tumpang tindih. Angka di atas adalah batas 
 | Stopwatch | 2 | Pengendali waktu |
 | Kertas kecil pertanyaan anonim (M1) | ±80 | — |
 | Kartu inject (A, B, C) | 1 set | Untuk Master Inject |
-| Kartu peran fasilitator | 14 | — |
+| Kartu peran fasilitator dan akses formulir observasi pengamat | 19 | Pengamat meja memakai formulir terpisah (akses terbatas Badan Personalia) |
 
 ### 4.6 Cetak
 
@@ -339,9 +339,9 @@ Template RAB memuat pos Konsumsi, Cetak, Bahan Habis, Sewa, Honorarium, Pendafta
 
 | Pos | Rincian | Jumlah | Frekuensi |
 |---|---|---|---|
-| Konsumsi | Snack pagi | 110 | 1 kali |
-| | Makan siang | 110 | 1 kali |
-| | Snack sore | 110 | 1 kali |
+| Konsumsi | Snack pagi | 115 | 1 kali |
+| | Makan siang | 115 | 1 kali |
+| | Snack sore | 115 | 1 kali |
 | | Air mineral cadangan | 4 dus | 1 kali |
 | Cetak | Banner panggung | 1 | 1 paket |
 | | Name tag, handout, Kartu Rahasia, poster QR | Sesuai 4.5 | 1 paket |
@@ -362,8 +362,10 @@ Sumber dana mengikuti template: pemasukan dari Takmir dan pihak lain yang disetu
 | Pemateri berhalangan | Pengganti yang sudah dibriefing: anggota BPI atau Badan Keorg (M1, M2), Kabiro lain (M3), Kadep lain (M4) |
 | Jadwal salat bergeser | Geser blok rehat tanpa mengubah durasi sesi |
 | Hujan atau akses terganggu | Perpanjang registrasi 15 menit, geser pembukaan, dan pangkas tanya jawab M1 |
-| Peserta hadir kurang dari 50 | Tim 6 orang dikurangi menjadi 4–5. Bila kurang dari 40, dua biro dimainkan fasilitator. Dikonfirmasi pada H-2 |
-| Peserta hadir lebih dari 70 | Tim sampai 10 orang dengan peran tambahan "analis" |
+| Hadir kurang dari 3 orang dari suatu biro | Biro itu digabung dengan biro lain **dalam departemen yang sama**; meja memegang dua kartu dan dua tab. Diputuskan pada H-2 (13 November) dan dikonfirmasi lagi saat registrasi |
+| Satu departemen seluruhnya hadir kurang dari 3 orang | Ketupel dan Sie Simulasi memutuskan apakah anggota Badan Personalia menjadi peserta pengganti tanpa mengambil kendali |
+| Satu biro hadir lebih dari 10 orang | Tambah kursi di meja yang sama; meja tidak dibagi |
+| Peserta total jauh di bawah 50 atau di atas 70 | Susunan meja mengikuti biro asal; sesuaikan hanya kursi, konsumsi, dan jumlah pengamat |
 | Listrik mati | Genset venue atau tunda sesi. Seluruh data tersimpan di Sheets (cloud) |
 
 ### 4.11 Daftar Periksa H-1 (Sabtu, 14 November)
@@ -452,4 +454,4 @@ R = penanggung jawab pelaksana, A = penanggung jawab akhir, C = dikonsultasikan,
 | 7 | Opsi A atau B untuk LPJ dan KPP | Sekum dan Bendum | 18 November |
 | 8 | Tema kegiatan untuk proposal | Ketua | 12 Oktober |
 | 9 | Ketersediaan kru Digipro/Medsist untuk dokumentasi hari Minggu | Kadep Medigi | 5 November |
-| 10 | Pembagian tim simulasi acak lintas biro | Ketua | 26 Oktober |
+| 10 | Mekanisme meja gabungan (dua kartu dan dua tab) serta transparansi pengamatan kepemimpinan emergen kepada peserta | Ketua | 26 Oktober |

@@ -17,7 +17,7 @@
 |---|---|
 | Medium | Google Form, diakses melalui **QR code** (poster di meja registrasi dan di layar) |
 | Pre-test | 08.00–08.20 saat registrasi (±8 menit pengerjaan) |
-| Post-test | 16.15–16.23 (8 menit), sebelum penutupan |
+| Post-test | 16.00–16.10 (±8 menit pengerjaan), sebelum penutupan |
 | Isi | 13 butir pengetahuan (pilihan ganda, skor 0–100), 6 butir sikap (skala 1–5), 1–2 butir terbuka |
 | Tujuan | Mengukur **kenaikan pemahaman** dan **perubahan sikap** peserta, serta menjadi sumber TUK K2–K5 dan K10 |
 | Identitas | **Kode Peserta** (contoh `BBM2-17`) yang tercetak pada name tag. Digunakan untuk memasangkan pre dan post tanpa menampilkan nama pada analisis |
@@ -374,13 +374,14 @@ Kategori dipakai untuk **perencanaan dan pembinaan**, bukan untuk menekan atau m
 
 ### 3.2 Kelompok
 
-- **Satu kelompok = satu biro asal peserta.** Jumlah kelompok 8 (ME, PM, KI, UM, AM, DG, MS, RL), 6–9 orang per kelompok.
+- **Satu kelompok = satu biro asal peserta.** Jumlah kelompok 8: Biro Manajemen Event, Biro Pengabdian Masyarakat, Biro Kajian & Inovasi Dakwah, Biro Usaha Mandiri, Biro Amaliyah Yaumiyah, Biro Digital Production, Biro Media Analysis & Strategi, dan Biro Relasi & Hubungan Eksternal. Ukuran kelompok mengikuti jumlah Staf Muda tiap biro.
+- Kelompok Canvas **tidak** mengikuti penggabungan meja pada Simulasi Taktis. Meski dua biro duduk satu meja karena hadir kurang dari 3 orang, tiap biro tetap menyusun Canvas sendiri.
 - Satu **koordinator** dipilih kelompok. Seluruh anggota berkontribusi.
 - Kelompok **boleh** meminta masukan dari Kabiro dan Staf Ahli biro sendiri (dan dari hasil Ngopi Khidmah).
 
 ### 3.3 Format Canvas
 
-**Satu halaman** A4 landscape (PDF), satu slide Google Slides berukuran A4, atau gambar tercetak digital. Nama berkas `Canvas_Biro_[KODE]_BBM2.pdf` (contoh `Canvas_Biro_KI_BBM2.pdf`).
+**Satu halaman** A4 landscape (PDF), satu slide Google Slides berukuran A4, atau gambar tercetak digital. Nama berkas `Canvas_Biro_[Nama Biro]_BBM2.pdf` (contoh `Canvas_Biro_Kajian dan Inovasi Dakwah_BBM2.pdf`), mengikuti pola penamaan arsip SOP 6.2.
 
 | Blok | Judul | Pertanyaan pemandu | Isi minimal |
 |---|---|---|---|
@@ -500,6 +501,7 @@ LPJ wajib mencantumkan Realisasi TUK, tetapi asistensi LPJ jatuh pada **H+14 (Mi
 | Hambatan dan dukungan | Form Minat Peran | Hambatan, kebutuhan dukungan, hal yang membuat bertahan dan ragu |
 | Hasil belajar | Pre-test dan post-test | Skor pre, post, N-Gain, sikap L1–L6 |
 | Hasil KPP | Dashboard | Status Ngopi, Lembar Refleksi, Canvas |
+| Observasi kontribusi (Simulasi Taktis) | Lembar Observasi Kepemimpinan Emergen (formulir terpisah, dokumen 03 bagian 10) | Skor 1–4 pada 6 dimensi perilaku dengan bukti singkat per kode peserta; momen kunci saat Inject B dan C. **Bukan peringkat dan bukan dasar tunggal seleksi** |
 | Pendampingan | Catatan Personalia | Tanggal, bentuk, ringkasan, tindak lanjut |
 
 ### 5.2 Tata Kelola Data
@@ -509,7 +511,8 @@ LPJ wajib mencantumkan Realisasi TUK, tetapi asistensi LPJ jatuh pada **H+14 (Mi
 | Akses | Terbatas pada anggota Badan Personalia yang ditunjuk, Waket II, dan Ketua Umum |
 | Tujuan | Pembinaan, perencanaan suksesi, dan perbaikan program. **Bukan** untuk menghukum atau menandai peserta |
 | Persetujuan | Peserta menyetujui pada Bagian 1 formulir |
-| Keputusan seleksi peran | Tetap mengikuti mekanisme BPI. KPP **hanya** masukan, bukan penentu |
+| Keputusan seleksi peran | Tetap mengikuti mekanisme BPI. KPP dan catatan observasi simulasi **hanya** masukan, bukan penentu |
+| Transparansi observasi | Peserta diberi tahu pada briefing simulasi bahwa pola kontribusi dicatat untuk pembinaan (naskah di dokumen 03, bagian 4.1) |
 | Retensi | Disimpan selama satu periode kepengurusan untuk keperluan serah-terima. Setelah itu dihapus atau dianonimkan kecuali ada persetujuan lain |
 | Penyimpanan | Folder bersama dengan akses dibatasi di Google Drive JMMI ITS 2026 (SOP 6.1.2) |
 | Pelaporan | Hanya agregat anonim ke forum yang lebih luas |

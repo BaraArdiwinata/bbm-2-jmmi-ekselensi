@@ -114,7 +114,7 @@ Temuan berikut berasal dari pembacaan teks dokumen `tata_kelola_organisasi_jmmi_
 | 5 | Istilah tidak seragam: Ketua Biro / Kepala Biro / Kabiro; **Staf Ahli Badan** dan **Staf Ahli Biro** | 5.2, 5.3, 5.5 | Salah paham siapa yang dimaksud | Tetapkan satu istilah baku |
 | 6 | SOP proposal 6.1.2 menyebut asistensi ke "sekretaris biro/bidang", sedangkan 6.1(b) menyebut asistensi ke Sekretaris Umum dan Bendahara Umum | 6.1(b), 6.1.2 | Biro tidak tahu asistensi pertama ke siapa | Tegaskan urutan asistensi (usulan: sekretaris bidang, lalu Sekum dan Bendum) |
 | 7 | Alur kerja eksekutif menyebut "Sekretaris Pelaksana" dan "Staf Ahli/Pelaksana Proker", sementara 5.6.10 mendefinisikan Staf Ahli sebagai konsultatif dan pendamping | 5.5.2.3, 5.6.10 | Staf Ahli sering ikut berperan sebagai pelaksana, sehingga batas "memutuskan vs mempertimbangkan" kabur | Dalam BBM 2 ditegaskan Staf Ahli **tidak memutuskan atas nama biro** |
-| 8 | **SOP Peminjaman Inventaris (6.3)** hanya mengatur peminjaman inventaris sekretariat lewat Sekretaris Umum (tujuan baik, menjaga kondisi barang sesuai saat pengambilan). Tidak ada ketentuan tarif sewa, deposit, atau denda. Padahal Biro Usaha Mandiri menjalankan GoRent (penyewaan perlengkapan) | 6.3, deck Musyker Usaha Mandiri | Peminjaman antar-biro atas alat GoRent berjalan tanpa aturan tertulis tentang harga internal dan ganti rugi | Tegaskan hubungan antara peminjaman inventaris sekretariat (6.3) dan layanan GoRent. Tetapkan tarif internal, deposit, dan klausul ganti rugi secara tertulis (Kadep RnA bersama Sekum dan Bendum). Dalam Simulasi Taktis hal ini menjadi bahan negosiasi ME dan UM |
+| 8 | **SOP Peminjaman Inventaris (6.3)** hanya mengatur peminjaman inventaris sekretariat lewat Sekretaris Umum (tujuan baik, menjaga kondisi barang sesuai saat pengambilan). Tidak ada ketentuan tarif sewa, deposit, atau denda. Padahal Biro Usaha Mandiri menjalankan GoRent (penyewaan perlengkapan) | 6.3, deck Musyker Usaha Mandiri | Peminjaman antar-biro atas alat GoRent berjalan tanpa aturan tertulis tentang harga internal dan ganti rugi | Tegaskan hubungan antara peminjaman inventaris sekretariat (6.3) dan layanan GoRent. Tetapkan tarif internal, deposit, dan klausul ganti rugi secara tertulis (Kadep RnA bersama Sekum dan Bendum). Dalam Simulasi Taktis hal ini menjadi bahan negosiasi antara Biro Manajemen Event dan Biro Usaha Mandiri |
 
 **Catatan penting:** SOP 6.2 (Arsip), 6.3 (Peminjaman Inventaris), dan 6.4 (Permintaan Media) telah dikaji pada 8 Oktober 2026 dan dirangkum pada dokumen 02 dan 05. Gambar alur peminjaman inventaris (6.3 a) dan flowchart lain tidak ikut terbaca. Pemateri Materi 2 tetap memverifikasi versi terbaru sebelum slide final.
 
@@ -218,17 +218,17 @@ Seluruh narasi "amanah" dan "khidmah" di Materi 4 diturunkan dari nilai-nilai di
 | Format | 1 hari penuh, tatap muka |
 | Jam | 08.00–16.30 WIB |
 | Tempat | Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS (kapasitas **belum terverifikasi**, lihat 4.3) |
-| Komponen | 4 materi inti, 1 Simulasi Taktis (80 menit), pre-test dan post-test, debrief |
+| Komponen | 4 materi inti, 1 Simulasi Taktis (**40 menit**, disusul debrief 25 menit), pre-test dan post-test |
 | Pemateri | Ketum dan Waket I, II, III; Ketua Badan Keorganisasian; Best Kabiro BME OKR 2; Kadep Syi'ar |
 | KPP | Ngopi Khidmah (individu) dan 1-Page Canvas Biro Masa Depan (kelompok): lihat dokumen 04 |
-| Ukuran kelompok simulasi | 8 tim (satu per biro), 6–9 orang per tim pada 50–70 peserta (lihat dokumen 03) |
-| Kebutuhan fasilitator | ±13 orang (peran Kadep, Waket/BPI, Bendum, pengendali waktu, penilai) |
+| Pembentukan meja simulasi | 8 meja menurut **biro asal peserta**. Bila hadir kurang dari 3 orang, digabung dengan biro lain dalam departemen yang sama. **Tanpa jabatan yang ditunjuk**: kepemimpinan tumbuh organik dan diamati non-formal oleh Badan Personalia (lihat dokumen 03) |
+| Kebutuhan fasilitator | ±17–19 orang (peran Kadep, Waket/BPI, Bendum, pengendali waktu, operator, **8 pengamat meja**, penilai) |
 
 ### 4.3 Asumsi dan Data yang Perlu Dikonfirmasi
 
 | No | Hal | Alasan penting | Penanggung jawab konfirmasi | Batas waktu konfirmasi |
 |---|---|---|---|---|
-| 1 | **Kapasitas riil** Aula dan Ruang Audiovisual dalam format klaster ±100 orang (70 peserta + fasilitator + pemateri + panitia) | Bila kurang, simulasi 8 klaster tidak muat | Ketupel dengan Takmir/Sekretariat | 15 Oktober (bersamaan asistensi proposal, karena venue tercantum di proposal) |
+| 1 | **Kapasitas riil** Aula dan Ruang Audiovisual dalam format 8 meja untuk ±110 orang (70 peserta + fasilitator dan pengamat + pemateri + panitia) | Bila kurang, simulasi 8 klaster tidak muat | Ketupel dengan Takmir/Sekretariat | 15 Oktober (bersamaan asistensi proposal, karena venue tercantum di proposal) |
 | 2 | Jumlah dan komposisi riil Staf Muda angkatan 2025 per biro | Menentukan ukuran tim dan pairing KPP | Badan Personalia | 23 Oktober |
 | 3 | Identitas **Best Kabiro BME OKR 2** dan **Kadep Syi'ar** serta kesediaan jadwal | Pemateri M3 dan M4 | Ketupel | 12 Oktober |
 | 4 | Kesediaan Hazal, Waket I, II, III, dan Ketua Badan Keorganisasian pada 15 November | Pemateri M1 dan M2 | Ketupel | 12 Oktober |
@@ -246,11 +246,11 @@ Seluruh narasi "amanah" dan "khidmah" di Materi 4 diturunkan dari nilai-nilai di
 | Kode | Indikator | Target usulan | Instrumen | Waktu ukur |
 |---|---|---|---|---|
 | K1 | Kehadiran peserta terdaftar | ≥ 90% | Daftar hadir digital | 15 Nov |
-| K2 | Rerata skor pemahaman post-test | ≥ 75 dari 100 | Post-test (13 butir pilihan ganda) | 15 Nov, 16.15 |
+| K2 | Rerata skor pemahaman post-test | ≥ 75 dari 100 | Post-test (13 butir pilihan ganda) | 15 Nov, 16.00 |
 | K3 | N-Gain rerata kelompok (pre → post) | ≥ 0,40 (kategori sedang) | Pre-test dan post-test | 15 Nov |
 | K4 | Proporsi peserta dengan skor post-test ≥ 70 | ≥ 80% | Post-test | 15 Nov |
 | K5 | Ketepatan menjawab butir jalur eskalasi dan wewenang (butir 3, 4, 5, 6, 7, 13) | ≥ 80% benar pada post-test | Post-test | 15 Nov |
-| K6 | Relasi koordinasi berstatus *Deal* pada Papan Jaring | ≥ 12 dari 16 relasi (75%) | `PAPAN_JARING` | 15 Nov, 14.40 |
+| K6 | Relasi koordinasi berstatus *Deal* pada Papan Jaring | ≥ 12 dari 16 relasi (75%) | `PAPAN_JARING` | 15 Nov, 14.00 |
 | K7 | Pelanggaran arah per biro pada simulasi | Rata-rata ≤ 1 | `SKOR_EVALUASI` | 15 Nov |
 | K8 | Biro yang mengisi Blok E (keputusan final) dan memperoleh persetujuan Kadep | 8 dari 8 | `PAPAN_JARING` (papan keputusan) | 15 Nov |
 | K9 | Rerata kepuasan tiap materi | ≥ 4,2 dari 5 | Form Umpan Balik | H+1 (16 Nov) |
@@ -269,6 +269,7 @@ Seluruh narasi "amanah" dan "khidmah" di Materi 4 diturunkan dari nilai-nilai di
 | Q4 | Peserta menyampaikan alasan pribadi yang kuat atau keraguan yang jujur | Jawaban terbuka post-test, Ngopi Khidmah, Form Minat Peran |
 | Q5 | Suasana kekeluargaan dan kebanggaan pada sesi penutup | Catatan observasi, jawaban terbuka |
 | Q6 | Kualitas analisis dan inovasi pada 1-Page Canvas | Rubrik Canvas (dokumen 04) |
+| Q7 | Pola kontribusi dan kepemimpinan yang tumbuh organik pada Simulasi Taktis terpetakan untuk pembinaan, termasuk peran pendukung dan penengah, bukan hanya yang paling vokal | Lembar Observasi Kepemimpinan Emergen (dokumen 03, bagian 10), akses terbatas Badan Personalia |
 
 #### Keterhubungan dengan LPJ
 
@@ -291,11 +292,14 @@ Indikator berikut tidak masuk TUK acara, tetapi berguna untuk menilai BBM 2 pada
 | Tempat: Aula / Ruang Audiovisual MMI | **Final**, kapasitas menunggu verifikasi | Lihat 4.3 butir 1 |
 | Judul sesi: Arsitektur Amanah, Simpul Organisasi, Seni Eksekusi, Simulasi Taktis, Saujana Manarul Ilmi | **Final** | Konfirmasi Ketupel |
 | Pemateri: M1 Hazal + Waket I, II; M2 Ketua Badan Keorg + Waket III; M3 Best Kabiro BME OKR 2; M4 Kadep Syi'ar | **Final** | Konfirmasi Ketupel |
-| Simulasi: 1 ronde terpadu 80 menit, 8 biro, 16 relasi asimetris, 3 inject, Google Sheets | **Final**, disetujui penuh Ketupel | Artefak di `main/` |
+| Simulasi: 1 ronde terpadu **40 menit** (P1 5', P2 25', P3 5', P4 5'), 8 biro, 16 relasi asimetris, 3 inject (menit 10, 17, 22), Google Sheets | **Final** (revisi durasi atas arahan Ketua) | Artefak di `main/` |
+| Nama biro ditulis lengkap pada seluruh dokumen. Kode dua huruf hanya di dalam skrip generator | **Final** (arahan Ketua) | ID Tiket memakai nomor relasi R-01 sampai R-16 |
+| Peran tim organik: tidak ada penunjukan jabatan; kepemimpinan emergen diamati non-formal | **Final** (arahan Ketua) | Instrumen dan pengamannya di dokumen 03 bagian 2.5 dan 10 |
+| Pembentukan meja berbasis biro asal; hadir < 3 orang digabung dalam departemen yang sama | **Final** (arahan Ketua) | Mekanisme meja gabungan dua kartu adalah interpretasi penyusun, perlu konfirmasi |
 | KPP: Ngopi Khidmah dan 1-Page Canvas Biro Masa Depan | **Final secara konsep** (arahan Ketua Pelaksana, 8 Oktober 2026) | Detail ada di dokumen 04. Status HOLD KPP dicabut |
 | Pre-test dan post-test | **Final secara konsep** (arahan Ketua Pelaksana, 8 Oktober 2026) | Butir soal ada di dokumen 04 |
 | Angka TUK (4.4) | **Usulan**, belum disetujui | Perlu persetujuan Ketua |
-| Pembagian tim simulasi acak lintas biro asal, 6–9 orang per tim | **Usulan** | Konsekuensi jumlah peserta 50–70; lihat dokumen 03 |
+| Transparansi kepada peserta tentang pengamatan pola kontribusi (naskah di dokumen 03, bagian 4.1) | **Usulan penyusun** | Pengaman etika; perlu persetujuan Ketua |
 | Dokumen proposal (.docx) | **Ditahan** | Belum diminta |
 
 ---
@@ -330,7 +334,7 @@ Indikator berikut tidak masuk TUK acara, tetapi berguna untuk menilai BBM 2 pada
 | TUK | Tolok Ukur Keberhasilan |
 | KPP | Kegiatan Pasca Pelatihan |
 | OKR | Objectives and Key Results |
-| HP | Hari Puncak (konsep fiktif dalam simulasi, bukan 15 November) |
+| Hari Puncak | Hari puncak fiktif dalam Simulasi Taktis (bukan 15 November) |
 | H, H+n, H-n | Hari pelaksanaan BBM 2 (15 November 2026) dan selisih harinya |
 | Papan Jaring | Matriks 8×8 status 16 relasi koordinasi pada simulasi |
 | Medigi | Departemen Media, Informasi, dan Digitalisasi |

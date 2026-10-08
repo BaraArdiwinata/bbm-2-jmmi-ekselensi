@@ -21,21 +21,23 @@
 | 5 | 10.05 | 11.10 | 65' | **M2 — Simpul Organisasi** | Ketua Badan Keorganisasian, Waket III | Peserta membawa pulang handout "Peta Jalur" |
 | 6 | 11.10 | 12.10 | 60' | **Salat Dzuhur dan ishoma** | Sie Konsumsi, Sie Acara | Jadwal salat resmi dikonfirmasi H-5 |
 | 7 | 12.10 | 13.10 | 60' | **M3 — Seni Eksekusi** | Best Kabiro BME OKR 2 | Cerita praktisi, tanya jawab 10' |
-| 8 | 13.10 | 13.20 | 10' | Briefing simulasi dan pembagian tim, peran, serta Kartu Rahasia | Fasilitator Simulasi | Tim duduk per klaster biro |
-| 9 | 13.20 | 14.40 | 80' | **Simulasi Taktis** (P1–P4, 3 inject) | Fasilitator Simulasi (Badan Personalia) | `PAPAN_JARING` final |
-| 10 | 14.40 | 15.10 | 30' | **Salat Ashar** dan rehat, snack sore | Sie Konsumsi | |
-| 11 | 15.10 | 15.25 | 15' | **Debrief simulasi** | Fasilitator Simulasi, Ketua Badan Keorg, Waket III | Pasal dikaitkan dengan temuan simulasi |
-| 12 | 15.25 | 16.15 | 50' | **M4 — Saujana Manarul Ilmi** (sesi penutup) | Kepala Departemen Syi'ar | Klimaks refleksi |
-| 13 | 16.15 | 16.30 | 15' | **Post-test** (8'), penutupan (5'), doa dan foto bersama (2') | MC, Ketupel | Post-test via QR. Form Umpan Balik dikirim H+1 |
+| 8 | 13.10 | 13.20 | 10' | Briefing simulasi: aturan, pengumuman meja per biro asal (dan penggabungan bila ada), serta pembagian Kartu Rahasia | Fasilitator Simulasi | Meja duduk per biro asal. **Tanpa penunjukan jabatan** |
+| 9 | 13.20 | 14.00 | 40' | **Simulasi Taktis** (P1 5', P2 25', P3 5', P4 5'; 3 inject pada menit 10, 17, 22) | Fasilitator Simulasi (Badan Personalia) | `PAPAN_JARING` final; catatan pengamat |
+| 10 | 14.00 | 14.25 | 25' | **Debrief simulasi** (termasuk pelajaran kepemimpinan organik) | Fasilitator Simulasi, Ketua Badan Keorg, Waket III | Pasal dikaitkan dengan temuan simulasi |
+| 11 | 14.25 | 15.00 | 35' | **Salat Ashar** dan rehat, snack sore | Sie Konsumsi | Jeda longgar untuk wudu dan berjalan ke masjid |
+| 12 | 15.00 | 16.00 | 60' | **M4 — Saujana Manarul Ilmi** (sesi penutup) | Kepala Departemen Syi'ar | Klimaks refleksi |
+| 13 | 16.00 | 16.10 | 10' | **Post-test** | MC, Sie Registrasi dan Data | Post-test via QR (±8 menit). Form Umpan Balik dikirim H+1 |
+| 14 | 16.10 | 16.20 | 10' | Penutupan: ringkasan, informasi KPP, dan ucapan terima kasih | Ketupel, Ketum | Peserta tahu langkah KPP |
+| 15 | 16.20 | 16.30 | 10' | Doa penutup dan foto bersama | MC | Acara selesai 16.30 |
 
 Seluruh waktu diselaraskan dengan format Lampiran 1 Template Proposal (kolom *Kegiatan, Durasi, Start, Finish*). SOP 6.1.2 mensyaratkan susunan acara juga memuat penanggung jawab kegiatan, yang tersedia pada kolom *Pemateri / PIC*.
 
 ### 1.2 Catatan Waktu Ibadah
 
 - Perkiraan waktu salat Surabaya pada 15 November 2026 (hasil hitung kasar, **bukan jadwal resmi**): **Dzuhur ±11.15–11.20**, **Ashar ±14.35–14.45**.
-- Rundown menempatkan Dzuhur pada 11.10 dan Ashar pada 14.40. Bila jadwal resmi Takmir bergeser lebih dari 10 menit, Sie Acara menggeser blok rehat tanpa mengubah durasi sesi.
+- Rundown menempatkan Dzuhur pada 11.10 dan blok Ashar pada 14.25–15.00 (azan perkiraan 14.35–14.45, sehingga ada jeda sebelum dan sesudah azan). Bila jadwal resmi Takmir bergeser lebih dari 10 menit, Sie Acara menggeser blok rehat tanpa mengubah durasi sesi.
 - Azan dan iqamah dilaksanakan berjamaah di Masjid Manarul Ilmi. Peserta berpindah dari ruang acara ke masjid dalam waktu 10 menit.
-- Simulasi berakhir 14.40 supaya Ashar dapat ditunaikan tanpa memotong sesi.
+- Simulasi berakhir 14.00 dan debrief 14.25, sehingga Ashar ditunaikan tanpa memotong sesi dan masih tersisa jeda yang nyaman sebelum Materi 4.
 
 ### 1.3 Rundown Operasional Panitia (Hari-H)
 
@@ -84,7 +86,7 @@ Susunan ini adalah **usulan** untuk disesuaikan dengan jumlah personel Badan Per
 3. **M3 setelah Dzuhur**, dengan cerita praktisi (menjaga fokus saat energi turun).
 4. **Simulasi setelah M3**, supaya peserta langsung mempraktikkan M1 sampai M3.
 5. **M4 paling akhir**, supaya "panggilan hati" datang setelah peserta merasakan beban peran dalam simulasi sehingga lebih jujur dan tidak abstrak.
-6. **Debrief 15 menit sebelum M4**, supaya pelajaran teknis tertutup rapi sebelum suasana beralih ke refleksi.
+6. **Debrief 25 menit dan jeda Ashar 35 menit sebelum M4**, supaya pelajaran teknis dan pengalaman kepemimpinan organik tertutup rapi dan suasana beralih ke refleksi dengan tenang.
 
 ### 2.3 Matriks Anti-Tumpang-Tindih
 
@@ -309,11 +311,15 @@ Mencetak proposal sebelum disetujui; menghubungi pihak luar langsung; mengabaika
 
 ### 3.4 Simulasi Taktis (ringkas)
 
-**Waktu:** 13.10–14.40 (10 menit briefing + 80 menit permainan)
+**Waktu:** 13.10–14.00 (10 menit briefing + **40 menit** permainan), disusul debrief 14.00–14.25
 **Fasilitator:** Badan Personalia
 **Detail lengkap:** lihat dokumen 03.
 
-Ringkasan: satu ronde terpadu yang memperlakukan 8 biro sebagai jaringan berarah. Tiap biro hanya boleh memulai koordinasi ke 2 target, dengan 3 inject (menit 15, 25, 35). Output akhir adalah `PAPAN_JARING`, `Blok E` tiap biro, dan skor di `SKOR_EVALUASI`.
+Ringkasan: satu ronde terpadu yang memperlakukan 8 biro sebagai jaringan berarah. Tiap biro hanya boleh memulai koordinasi ke 2 biro tujuan, dengan 3 inject (menit 10, 17, 22). Alurnya P1 persiapan 5', P2 koordinasi dan inject 25', P3 finalisasi 5', P4 wrap-up 5'. Output akhir adalah `PAPAN_JARING`, Blok E tiap biro, dan skor di `SKOR_EVALUASI`.
+
+Aturan khusus format terbaru:
+- **Satu meja diisi Staf Muda dari biro asalnya.** Bila hadir kurang dari 3 orang, biro itu digabung dengan biro lain dalam **departemen yang sama** (tidak lintas departemen) dan meja memegang dua kartu.
+- **Tidak ada jabatan yang ditunjuk.** Semua setara di awal; kepemimpinan tumbuh organik dan diamati secara non-formal oleh Badan Personalia untuk pembinaan (dokumen 03, bagian 10).
 
 ---
 
@@ -321,7 +327,7 @@ Ringkasan: satu ronde terpadu yang memperlakukan 8 biro sebagai jaringan berarah
 
 **Subjudul:** Essential Awareness, Kebanggaan, dan Khidmah
 **Pemateri:** Kepala Departemen Syi'ar (sudah dua kali membawakan materi essential awareness)
-**Waktu:** 15.25–16.15 (50 menit)
+**Waktu:** 15.00–16.00 (60 menit)
 
 **Tujuan instruksional:**
 1. Peserta merasakan peran strategis JMMI bagi kampus ITS.
@@ -332,11 +338,11 @@ Ringkasan: satu ronde terpadu yang memperlakukan 8 biro sebagai jaringan berarah
 
 | Menit | Segmen | Isi |
 |---|---|---|
-| 0–10 | Pembuka personal | Cerita pribadi pemateri tentang momen yang membuat JMMI terasa seperti rumah |
+| 0–10 | Pembuka personal | Cerita pribadi pemateri tentang momen yang membuat JMMI terasa seperti rumah; menautkan dengan pengalaman peserta di simulasi dan debrief |
 | 10–25 | **Mengapa JMMI penting** | Peran JMMI di ITS: masjid sebagai pusat, kaderisasi sebagai mesin keberlanjutan, layanan sebagai bukti keberpihakan; sejarah singkat; dampak hari ini |
-| 25–38 | **Rumah bernama JMMI** | Kekeluargaan, rasa nyaman, dan bangga; potongan kisah dan testimoni singkat |
-| 38–47 | **Estafet** | Amanah bukan jabatan; pengakuan jujur bahwa beban nyata; ajakan melanjutkan sesuai kemampuan |
-| 47–50 | Muhasabah dan doa | Penutupan sesi dengan doa |
+| 25–42 | **Rumah bernama JMMI** | Kekeluargaan, rasa nyaman, dan bangga; potongan kisah dan testimoni singkat (opsional: video atau ucapan singkat pengurus aktif, serta satu atau dua peserta yang ingin berbagi secara sukarela) |
+| 42–55 | **Estafet** | Amanah bukan jabatan; pengakuan jujur bahwa beban nyata; ajakan melanjutkan sesuai kemampuan |
+| 55–60 | Muhasabah dan doa | Jeda hening, refleksi pribadi, dan doa penutup sesi |
 
 **Fakta rujukan dari Tata Kelola (bahan aman, bersumber dokumen):**
 - Forum Ta'limul Islam dibentuk **1983**; JMMI berdiri resmi **September 1989 (Safar 1410 H)**.
@@ -399,7 +405,7 @@ Data kontemporer (jumlah jamaah, program terbaru, capaian kabinet) disiapkan pem
 | **Wajib ada** | 2–3 cerita nyata (anonim bila perlu) dan satu "kesalahan terbesar" |
 | **Gaya** | Hangat, jujur, dan ringan. Boleh humor |
 | **Batas slide** | Maksimal 8 |
-| **Kalimat jembatan ke Simulasi** | "Sebentar lagi kalian akan merasakan sendiri memimpin biro di bawah tekanan. Ingat satu hal: lebih baik bertanya dan mengeskalasi tepat daripada memutuskan sendiri di luar wewenang." |
+| **Kalimat jembatan ke Simulasi** | "Sebentar lagi kalian akan merasakan sendiri bekerja bersama teman-teman biro di bawah tekanan, tanpa ada yang ditunjuk memimpin. Siapa pun boleh melangkah maju. Ingat satu hal: lebih baik bertanya dan mengeskalasi tepat daripada memutuskan sendiri di luar wewenang." |
 | **Pengumpulan bahan** | Garis besar cerita ke Sie Acara paling lambat 10 November |
 
 ### 4.4 Brief M4 — Kadep Syi'ar
@@ -412,7 +418,7 @@ Data kontemporer (jumlah jamaah, program terbaru, capaian kabinet) disiapkan pem
 | **Wajib ada** | Cerita pribadi; pengakuan jujur atas beban; ajakan menyampaikan keraguan lewat jalur KPP |
 | **Gaya** | Persuasif, hangat, dan tegas; memanfaatkan jeda hening |
 | **Batas slide** | Minimal (foto dan satu kutipan) |
-| **Koordinasi** | Mendengar debrief simulasi lebih dulu (15.10–15.25) agar bisa menautkan pengalaman peserta |
+| **Koordinasi** | Mendengar debrief simulasi lebih dulu (14.00–14.25) agar bisa menautkan pengalaman peserta, termasuk pelajaran kepemimpinan organik |
 | **Penutup** | Doa dan serah ke MC untuk post-test |
 | **Pengumpulan bahan** | Outline ke Sie Acara paling lambat 10 November |
 
@@ -433,7 +439,7 @@ Data kontemporer (jumlah jamaah, program terbaru, capaian kabinet) disiapkan pem
 | Registrasi | 4 poster QR (pre-test), meja registrasi, name tag berwarna sesuai biro |
 | M1, M2, M4 | 1 proyektor dan layar, 2 mikrofon nirkabel, laptop pemateri, pointer |
 | M3 | 1 proyektor, 1 mikrofon, kursi santai |
-| Simulasi | 8 klaster meja (6–9 kursi), ≥ 8 laptop dan 2 cadangan, **1 proyektor khusus Papan Jaring**, Wi-Fi memadai untuk ≥ 100 perangkat, hotspot cadangan, penghitung waktu terlihat dari semua meja, 8 amplop tersegel berisi Kartu Rahasia |
+| Simulasi | 8 meja menurut biro asal (jumlah kursi menyesuaikan kehadiran; meja gabungan lebih besar), ≥ 8 laptop dan 2 cadangan, **1 proyektor khusus Papan Jaring**, Wi-Fi memadai untuk ≥ 110 perangkat, hotspot cadangan, penghitung waktu terlihat dari semua meja, 8 amplop tersegel berisi **2 salinan** Kartu Rahasia per meja, kursi pengamat di dekat tiap meja |
 | Debrief | Proyektor menampilkan `PAPAN_JARING` dan `SKOR_EVALUASI` |
 | Penutup | QR post-test, kamera dokumentasi |
 
@@ -461,6 +467,6 @@ Butir soal dan kunci jawaban lengkap ada di dokumen 04.
 |---|---|---|
 | M1 atau M2 melebihi waktu | Simulasi atau M4 terpotong | Pengendali waktu memberi isyarat 10, 5, dan 1 menit; tanya jawab M1 dipotong lebih dahulu, bukan simulasi |
 | Jadwal Dzuhur atau Ashar bergeser | Peserta salat terburu-buru | Konfirmasi jadwal H-5 dan geser blok rehat |
-| Post-test tidak terisi lengkap | Data TUK K2–K5 rusak | Panitia berkeliling memastikan tautan terbuka. Waktu pengerjaan dikunci 8 menit di rundown |
-| Simulasi molor | Ashar terlambat | Sirine atau pengendali waktu menutup P3 tepat pada menit 70 |
+| Post-test tidak terisi lengkap | Data TUK K2–K5 rusak | Panitia berkeliling memastikan tautan terbuka. Waktu pengerjaan dialokasikan 10 menit di rundown (16.00–16.10) |
+| Simulasi molor | Debrief dan Ashar bergeser | Sirine atau pengendali waktu menutup P3 tepat pada menit 35 dan P4 pada menit 40. Debrief 25 menit punya ruang sekitar 10 menit untuk menyerap keterlambatan kecil |
 | Pemateri berhalangan | Sesi kosong | Tiap pemateri menunjuk pengganti yang sudah dibriefing. M1 dan M2 punya pengganti dari anggota BPI atau Badan Keorg |
