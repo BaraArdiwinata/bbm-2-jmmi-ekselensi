@@ -1,0 +1,80 @@
+# =====================================================================
+# Repository ini HANYA melacak berkas Markdown (*.md) dan .gitignore.
+# Selain itu (skrip, biner, dokumen kantor, data, cache) diabaikan.
+# Urutan aturan penting: aturan yang lebih bawah menimpa yang di atas.
+# =====================================================================
+
+# 1. Abaikan semuanya
+*
+
+# 2. Kecualikan direktori (agar Git menelusuri subfolder) dan berkas yang dilacak
+!*/
+!*.md
+!.gitignore
+
+# 3. Penegasan eksplisit: dokumen kantor, biner, dan data
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+*.tsv
+*.docx
+*.doc
+*.pdf
+*.pptx
+*.ppt
+*.odt
+*.ods
+*.odp
+*.zip
+*.rar
+*.7z
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.mov
+*.db
+*.sqlite
+
+# 4. Skrip dan kode
+*.py
+*.pyc
+*.pyo
+*.pyd
+*.js
+*.ts
+*.sh
+*.ps1
+*.bat
+*.ipynb
+
+# 5. Cache, lingkungan virtual, dan dependensi
+# (diletakkan di bawah !*/ agar berkas *.md di dalamnya ikut diabaikan)
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+ENV/
+node_modules/
+build/
+dist/
+*.egg-info/
+
+# 6. Editor, sistem operasi, dan alat bantu
+.idea/
+.vscode/
+.claude/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+*.bak
+*.swp
+~$*
