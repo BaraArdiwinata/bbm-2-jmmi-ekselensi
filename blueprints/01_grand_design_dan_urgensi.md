@@ -129,7 +129,7 @@ Penyebab keraguan di bawah ini adalah **hipotesis kerja** yang disusun dari kont
 | Beban akademik dan beban organisasi bersaing | Menyebut jadwal kuliah, praktikum, atau tugas akhir | Materi 4 membahas keseimbangan secara jujur; Form Minat Peran mencatat hambatan |
 | Belum melihat nilai dan dampak JMMI bagi dirinya | Menyebut JMMI sebatas "kegiatan" | Materi 4 (essential awareness) |
 | Iklim koordinasi yang membuat frustrasi (rancu, tarik-menarik) | Cerita konflik antar-biro | Materi 2 (jalur), Simulasi (negosiasi sehat), tindak lanjut ke Badan Keorganisasian |
-| Merasa tidak dipersiapkan | Pertanyaan "siapa yang membimbing?" | KPP Ngopi Khidmah (dipasangkan dengan Kabiro atau Staf Ahli aktif) |
+| Merasa tidak dipersiapkan | Pertanyaan "siapa yang membimbing?" | KPP Ngopi Khidmah (rombongan biro bersowan dengan Kepala Biro dan Staf Ahli aktif dari tiga biro berbeda) |
 
 **Prinsip etis:** keraguan peserta adalah **informasi** yang berharga bagi organisasi, bukan kesalahan. BBM 2 **tidak boleh** menekan peserta agar menyatakan siap. Pengukuran minat bersifat jujur dan sukarela, dan datanya tidak dipakai untuk menghukum atau menandai peserta.
 
@@ -220,7 +220,7 @@ Seluruh narasi "amanah" dan "khidmah" di Materi 4 diturunkan dari nilai-nilai di
 | Tempat | Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS (kapasitas **belum terverifikasi**, lihat 4.3) |
 | Komponen | 4 materi inti, 1 Simulasi Taktis (**40 menit**, disusul debrief 25 menit), pre-test dan post-test |
 | Pemateri | Ketum dan Waket I, II, III; Ketua Badan Keorganisasian; Best Kabiro BME OKR 2; Kadep Syi'ar |
-| KPP | Ngopi Khidmah (individu) dan 1-Page Canvas Biro Masa Depan (kelompok): lihat dokumen 04 |
+| KPP | Ngopi Khidmah (rombongan per biro bersama 1 Kepala Biro dan 2 Staf Ahli dari tiga biro berbeda, dengan bukti publikasi) dan 1-Page Canvas Biro Masa Depan (kertas A3 + sticky notes); tenggat H-1 Forum AHWA JMMI ITS 2026 (estimasi 20 atau 21 November). Lihat dokumen 04 |
 | Pembentukan meja simulasi | 8 meja menurut **biro asal peserta**. Bila hadir kurang dari 3 orang, digabung dengan biro lain dalam departemen yang sama. **Tanpa jabatan yang ditunjuk**: kepemimpinan tumbuh organik dan diamati non-formal oleh Badan Personalia (lihat dokumen 03) |
 | Kebutuhan fasilitator | ±17–19 orang (peran Kadep, Waket/BPI, Bendum, pengendali waktu, operator, **8 pengamat meja**, penilai) |
 
@@ -255,9 +255,10 @@ Seluruh narasi "amanah" dan "khidmah" di Materi 4 diturunkan dari nilai-nilai di
 | K8 | Biro yang mengisi Blok E (keputusan final) dan memperoleh persetujuan Kadep | 8 dari 8 | `PAPAN_JARING` (papan keputusan) | 15 Nov |
 | K9 | Rerata kepuasan tiap materi | ≥ 4,2 dari 5 | Form Umpan Balik | H+1 (16 Nov) |
 | K10 | Kenaikan rerata butir "siap berkhidmah di peran struktural" (pre → post) | ≥ +0,5 poin (skala 1–5) | Butir L6 pre-test dan post-test | 15 Nov |
-| K11 | Peserta yang mengisi Form Minat Peran | ≥ 85% | Form Minat Peran (KPP) | H+14 (29 Nov) |
-| K12 | Peserta yang menyerahkan Lembar Refleksi Ngopi Khidmah | ≥ 85% | Pengumpulan KPP | H+14 |
-| K13 | Biro yang menyerahkan 1-Page Canvas | 8 dari 8 | Pengumpulan KPP | H+14 |
+| K11 | Peserta yang mengisi Form Minat Peran | ≥ 85% | Form Minat Peran (KPP) | Tenggat KPP (20 atau 21 Nov) |
+| K12 | Biro yang menyelesaikan Ngopi Khidmah dengan kehadiran lengkap, tiga narasumber dari tiga biro berbeda, dan bukti publikasi (Instagram biro + grup komunal) | 8 dari 8 | Dashboard KPP | Tenggat KPP |
+| K13 | Canvas A3 terkumpul dari seluruh biro, dengan seluruh anggota menempel minimal 1 sticky note berinisial pada tiap 3 zona | 8 dari 8 biro; 100% anggota | Dashboard dan foto Canvas | Tenggat KPP |
+| K14 | Narasumber yang menerima lebih dari 2 ajakan Ngopi Khidmah | 0 | Dashboard KPP (Tab Kuota) | Tenggat KPP |
 
 #### TUK Kualitatif
 
@@ -273,7 +274,7 @@ Seluruh narasi "amanah" dan "khidmah" di Materi 4 diturunkan dari nilai-nilai di
 
 #### Keterhubungan dengan LPJ
 
-Tata Kelola 6.1.5 mewajibkan LPJ memuat **Realisasi Tolok Ukur Keberhasilan (TUK)** (BAB II 2.4) dan **Evaluasi Kegiatan** (BAB III). Seluruh TUK di atas dirancang agar angka realisasinya bisa langsung dipindahkan ke LPJ. Angka K1–K10 tersedia pada hari kegiatan hingga H+1. Angka K11–K13 baru final pada H+14, tepat pada batas asistensi LPJ (lihat dokumen 05 untuk penyiasatan jadwal).
+Tata Kelola 6.1.5 mewajibkan LPJ memuat **Realisasi Tolok Ukur Keberhasilan (TUK)** (BAB II 2.4) dan **Evaluasi Kegiatan** (BAB III). Seluruh TUK di atas dirancang agar angka realisasinya bisa langsung dipindahkan ke LPJ. Angka K1–K10 tersedia pada hari kegiatan hingga H+1. Angka K11–K14 final pada tenggat KPP (H-1 Forum AHWA JMMI ITS 2026, estimasi 20 atau 21 November), sehingga tersedia sebelum batas asistensi LPJ pada 29 November dan tidak memerlukan penyiasatan jadwal.
 
 ### 4.5 Indikator Dampak Jangka Menengah (Opsional untuk Badan Personalia)
 
@@ -296,7 +297,8 @@ Indikator berikut tidak masuk TUK acara, tetapi berguna untuk menilai BBM 2 pada
 | Nama biro ditulis lengkap pada seluruh dokumen. Kode dua huruf hanya di dalam skrip generator | **Final** (arahan Ketua) | ID Tiket memakai nomor relasi R-01 sampai R-16 |
 | Peran tim organik: tidak ada penunjukan jabatan; kepemimpinan emergen diamati non-formal | **Final** (arahan Ketua) | Instrumen dan pengamannya di dokumen 03 bagian 2.5 dan 10 |
 | Pembentukan meja berbasis biro asal; hadir < 3 orang digabung dalam departemen yang sama | **Final** (arahan Ketua) | Mekanisme meja gabungan dua kartu adalah interpretasi penyusun, perlu konfirmasi |
-| KPP: Ngopi Khidmah dan 1-Page Canvas Biro Masa Depan | **Final secara konsep** (arahan Ketua Pelaksana, 8 Oktober 2026) | Detail ada di dokumen 04. Status HOLD KPP dicabut |
+| KPP: Ngopi Khidmah (rombongan biro, tiga narasumber lintas biro, kuota 2 ajakan, bukti Instagram dan grup komunal) dan 1-Page Canvas Biro Masa Depan (kertas A3 3 zona + sticky notes berinisial) | **Final** (disetujui penuh Ketua Pelaksana) | Detail di dokumen 04. Interpretasi yang perlu konfirmasi ada di dokumen 04 bagian 8 |
+| Tenggat KPP: maksimal H-1 Forum AHWA JMMI ITS 2026 (estimasi 20 atau 21 November, durasi efektif 5–6 hari) | **Final** (arahan Ketua); tanggal Forum AHWA **belum dikonfirmasi** | Konfirmasi paling lambat 6 November |
 | Pre-test dan post-test | **Final secara konsep** (arahan Ketua Pelaksana, 8 Oktober 2026) | Butir soal ada di dokumen 04 |
 | Angka TUK (4.4) | **Usulan**, belum disetujui | Perlu persetujuan Ketua |
 | Transparansi kepada peserta tentang pengamatan pola kontribusi (naskah di dokumen 03, bagian 4.1) | **Usulan penyusun** | Pengaman etika; perlu persetujuan Ketua |

@@ -52,7 +52,7 @@ Ketergantungan antar-biro bersifat **asimetris dan searah** (directed graph). Se
 
 Pada organisasi nyata, orang yang naik ke peran struktural sering tidak dipilih karena jabatannya, melainkan karena sudah terlihat memimpin dalam praktik. Dengan memulai semua peserta dari posisi setara:
 - Peserta merasakan sendiri apa yang terjadi ketika tidak ada pembagian peran: siapa yang bergerak lebih dulu, siapa yang merangkum, siapa yang ragu.
-- Badan Personalia memperoleh gambaran objektif tentang bibit suksesor, sebagai pelengkap Form Minat Peran dan Ngopi Khidmah.
+- Badan Personalia memperoleh gambaran objektif tentang bibit suksesor, sebagai pelengkap Form Minat Peran dan Canvas Biro Masa Depan.
 - Prinsip musyawarah (Tata Kelola 7.1.1) dilatih, bukan hanya dibaca.
 
 Risiko dan pengamannya dibahas di bagian 2.5 dan bagian 10.
@@ -133,7 +133,7 @@ Peran Kadep dimainkan oleh anggota Badan Personalia atau pengurus yang memahami 
 | Risiko | Pengaman |
 |---|---|
 | Menyamakan "vokal" dengan "mampu memimpin" | Instrumen mencatat enam dimensi perilaku, termasuk mendengarkan, merangkum, dan kontribusi pendukung, bukan hanya intensitas bicara |
-| Peserta yang pendiam dianggap tidak berpotensi | Observasi hanyalah satu sumber data. Dilengkapi Form Minat Peran dan Ngopi Khidmah. Tidak ada keputusan seleksi dari satu sumber |
+| Peserta yang pendiam dianggap tidak berpotensi | Observasi hanyalah satu sumber data. Dilengkapi Form Minat Peran dan Canvas Biro Masa Depan. Tidak ada keputusan seleksi dari satu sumber |
 | Pengamat subjektif | Kalibrasi di technical meeting (11 November) dengan contoh perilaku dan skala bersama |
 | Peserta tidak tahu sedang diamati | **Transparansi:** pada briefing, fasilitator menyampaikan bahwa pola kontribusi dicatat untuk pembinaan, bukan nilai lulus atau gagal (naskah di 4.1) |
 | Kebocoran catatan | Catatan hanya diakses Badan Personalia, Waket II, dan Ketua Umum, di formulir terpisah dari berkas simulasi |
@@ -671,7 +671,7 @@ Setiap dimensi diberi skala **1–4**: 1 = belum tampak, 2 = muncul sesekali, 3 
 
 | Boleh | Dilarang |
 |---|---|
-| Menjadi bahan pembinaan dan percakapan pada Ngopi Khidmah | Menyebut peringkat atau "juara kepemimpinan" |
+| Menjadi bahan pembinaan dan percakapan pendampingan oleh Badan Personalia | Menyebut peringkat atau "juara kepemimpinan" |
 | Melengkapi pemetaan pipeline di database kader | Menentukan seleksi peran hanya dari catatan ini |
 | Menunjukkan peserta tenang dan suportif yang layak ditawari peran Staf Ahli atau peran pendukung | Membandingkan peserta di depan umum |
 | Memberi umpan balik ke peserta yang meminta | Membagikan catatan ke pihak di luar akses terbatas |

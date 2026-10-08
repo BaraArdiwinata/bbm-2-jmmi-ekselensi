@@ -43,9 +43,10 @@ Delapan biro (Biro Manajemen Event, Biro Pengabdian Masyarakat, Biro Kajian & In
 
 ### KPP (Kegiatan Pasca Pelatihan)
 
-- **Ngopi Khidmah** (individu): wawancara santai 1-on-1 dengan Kabiro atau Staf Ahli aktif, ditambah Form Minat Peran.
-- **1-Page Canvas Biro Masa Depan** (kelompok per biro): evaluasi kendala biro dan inovasi kepengurusan depan.
-- Jendela pelaksanaan **H+1 sampai H+14** (16–29 November 2026).
+- **Ngopi Khidmah** (komunal per biro): seluruh Staf Muda satu biro hadir lengkap, tatap muka, bersowan dengan **1 Kepala Biro dan 2 Staf Ahli dari tiga biro berbeda**. Tiap narasumber menerima maksimal 2 ajakan. Topik: alasan lanjut ber-JMMI, suka-duka memimpin, evaluasi biro, dan tips menjaga komitmen. Bukti: foto bersama yang diunggah ke Instagram biro dan dibagikan ke grup komunal anggota JMMI ITS.
+- **1-Page Canvas Biro Masa Depan** (fisik): satu kertas A3 per biro dengan tiga zona (Evaluasi, Refleksi Diri, Inovasi dan Asa). Setiap Staf Muda menempel minimal satu sticky note berinisial di tiap zona. Kit dibagikan panitia pada briefing KPP di akhir hari-H.
+- Form Minat Peran (individu, privat) tetap menjadi instrumen pendamping.
+- Jendela pelaksanaan **16 November sampai H-1 Forum AHWA JMMI ITS 2026** (estimasi tenggat 20 atau 21 November, ±5–6 hari efektif).
 
 ### Tenggat kritis birokrasi
 
@@ -54,6 +55,7 @@ Delapan biro (Biro Manajemen Event, Biro Pengabdian Masyarakat, Biro Kajian & In
 | **Kamis, 15 Oktober 2026** | Batas asistensi proposal (1 bulan sebelum acara) |
 | **Minggu, 1 November 2026** | Batas penyerahan proposal ke Sekretaris Umum (target operasional Jumat, 30 Oktober) |
 | **Rabu, 18 November 2026** | Batas asistensi SPJ (H+3) |
+| **Jumat 20 / Sabtu 21 November 2026** | Tenggat KPP (H-1 Forum AHWA JMMI ITS 2026; tanggal Forum AHWA perlu dikonfirmasi) |
 | **Minggu, 29 November 2026** | Batas asistensi LPJ (H+14; target operasional Jumat, 27 November) |
 
 ---

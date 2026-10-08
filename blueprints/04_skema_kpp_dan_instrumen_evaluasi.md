@@ -2,10 +2,10 @@
 
 **Program:** BBM 2 JMMI ITS Kabinet Ekselensi 2026
 **Pengelola:** Badan Personalia (Sie Registrasi dan Data, Sie Simulasi, dan tim Evaluasi)
-**Versi:** 1.0, 8 Oktober 2026
-**Status KPP:** Konsep disetujui sebagai arahan Ketua Pelaksana pada 8 Oktober 2026. Status "HOLD" sebelumnya dicabut.
+**Versi:** 2.0, pembaruan format KPP (Ngopi Khidmah komunal lintas biro, Canvas A3 fisik, tenggat H-1 Forum AHWA JMMI ITS 2026)
+**Status KPP:** **Final.** Desain disetujui penuh Ketua Pelaksana dengan format yang lebih aplikatif, taktil, dan berdampak syi'ar internal.
 
-> **Isi dokumen.** Bagian 1 memuat instrumen evaluasi hari-H (pre-test, post-test, form umpan balik). Bagian 2 memuat KPP Output 1 "Ngopi Khidmah" dan Form Minat Peran. Bagian 3 memuat KPP Output 2 "1-Page Canvas Biro Masa Depan". Bagian 4 memuat timeline dan monitoring. Bagian 5 memuat tindak lanjut database kader. Bagian 6 memuat rangkuman TUK dan sumber datanya.
+> **Isi dokumen.** Bagian 1 memuat instrumen evaluasi hari-H (pre-test, post-test, form umpan balik). Bagian 2 memuat KPP Output 1 **Ngopi Khidmah** (rombongan biro, tiga narasumber lintas biro, bukti publikasi) dan Form Minat Peran. Bagian 3 memuat KPP Output 2 **1-Page Canvas Biro Masa Depan** (kertas A3 + sticky notes). Bagian 4 memuat timeline dan monitoring. Bagian 5 memuat tindak lanjut database kader. Bagian 6 memuat rangkuman TUK. Bagian 7 memuat risiko dan bagian 8 asumsi yang perlu dikonfirmasi.
 
 ---
 
@@ -208,9 +208,9 @@ Kategori: **g ≥ 0,70** tinggi · **0,30 ≤ g < 0,70** sedang · **g < 0,30** 
 | Temuan | Tafsir | Tindak lanjut |
 |---|---|---|
 | Butir tertentu menunjukkan < 60% benar pada post-test | Materi terkait kurang tersampaikan atau butir ambigu | Evaluasi pemateri dan butir. Sertakan penjelasan pada ringkasan pasca-acara |
-| N-Gain rerata < 0,30 | Efek materi rendah | Telaah desain sesi dan tindak lanjut lewat Ngopi Khidmah |
+| N-Gain rerata < 0,30 | Efek materi rendah | Telaah desain sesi dan tindak lanjut lewat pembahasan Ngopi Khidmah dan Canvas |
 | L4 (dukungan organisasi) rendah | Persepsi dukungan kurang | Catat sebagai masukan ke Badan Keorganisasian dan BPI |
-| L6 turun atau tetap rendah | Keraguan berkhidmah belum terjawab | Prioritaskan peserta tersebut untuk pendampingan Ngopi Khidmah, dengan persetujuan mereka |
+| L6 turun atau tetap rendah | Keraguan berkhidmah belum terjawab | Prioritaskan peserta tersebut untuk percakapan pendampingan oleh Badan Personalia, dengan persetujuan mereka |
 | Jawaban terbuka memuat hambatan akademik berulang | Beban akademik adalah faktor utama | Bahas di rapat Personalia: mekanisme kelonggaran peran atau peran ringan |
 
 ### 1.9 Form Umpan Balik (H+1)
@@ -228,92 +228,127 @@ K9 (rerata kepuasan ≥ 4,2) dihitung dari rata-rata relevansi, kejelasan, dan k
 
 ---
 
-## 2. KPP Output 1 (Individu): "Ngopi Khidmah"
+## 2. KPP Output 1: "Ngopi Khidmah" (Rombongan Biro dan Syi'ar Internal)
 
 ### 2.1 Tujuan
 
-1. Memberi peserta gambaran jujur dan langsung tentang realitas peran struktural dari orang yang menjalaninya.
-2. Menghubungkan calon penerus dengan Kabiro atau Staf Ahli aktif sehingga serah-terima pengetahuan terjadi secara manusiawi.
-3. Memberi ruang aman bagi peserta untuk menyampaikan keraguan dan harapannya.
-4. Menghasilkan **Lembar Refleksi** yang menjadi bahan portofolio suksesi dan masukan bagi organisasi.
+1. Memberi seluruh Staf Muda satu biro gambaran jujur dan langsung dari orang yang menjalaninya tentang **alasan memilih lanjut ber-JMMI, suka-duka dan dinamika memimpin, evaluasi biro saat ini, serta tips menjaga komitmen**.
+2. **Memperluas wawasan lintas biro**: tiga narasumber berasal dari tiga biro yang berbeda, sehingga peserta mendengar tiga cara memimpin.
+3. Memperkuat **bonding biro**: seluruh Staf Muda satu biro datang bersama, lengkap.
+4. Menjadi **syi'ar internal**: foto bersama yang dipublikasikan menunjukkan kesiapan dan semangat regenerasi kepada seluruh anggota JMMI ITS.
+5. Menghubungkan calon penerus dengan figur aktif agar serah-terima pengetahuan terjadi secara manusiawi.
 
 ### 2.2 Konsep
 
-Ngopi Khidmah adalah **wawancara santai 1-on-1** antara satu peserta (Staf Muda angkatan 2025) dan satu narasumber (Kepala Biro atau Staf Ahli yang sedang aktif). Suasananya seperti ngobrol sambil ngopi: hangat, bukan interogasi dan bukan ujian. Tempat bebas dan nyaman: kantin, selasar masjid, atau sekretariat.
+Ngopi Khidmah adalah **sowan dan obrolan santai tatap muka (offline)** antara **satu rombongan penuh Staf Muda dari satu biro** dengan **tiga narasumber**: **1 Kepala Biro dan 2 Staf Ahli** yang sedang aktif. Suasananya seperti ngobrol sambil ngopi: hangat, bukan interogasi dan bukan ujian. Tempat bebas dan nyaman, misalnya kantin, selasar masjid, atau sekretariat.
 
-### 2.3 Aturan Pairing
+Format ini menggantikan rancangan sebelumnya (wawancara 1-on-1 per individu dengan Lembar Refleksi). Format baru bersifat komunal sehingga bonding biro dan syi'ar internal ikut tercapai.
+
+### 2.3 Aturan Inti
 
 | Aturan | Isi |
 |---|---|
-| Ketersediaan narasumber | Seluruh Kabiro (8 orang) dan Staf Ahli aktif. Jumlah Staf Ahli riil belum dikonfirmasi (deck menunjukkan beberapa biro memiliki 5–6 Staf Ahli), sehingga total narasumber diperkirakan ≥ 24 |
-| Beban narasumber | **Maksimal 3 peserta per narasumber** selama jendela pelaksanaan. Dengan 24 narasumber, kapasitas 72 sesi, cukup untuk 50–70 peserta |
-| Pilihan peserta | Peserta mengisi dua pilihan peran minat (Kabiro atau Staf Ahli) dan dua pilihan biro minat pada Form Minat Peran |
-| Penugasan | Badan Personalia memasangkan: pilihan 1 diutamakan; bila penuh, pilihan 2. **Peserta tidak dipasangkan dengan narasumber dari biro asalnya** pada pilihan 1 agar peserta mendapat perspektif baru; boleh sama bila peserta menghendaki |
-| Pengumuman | Daftar pairing diumumkan **H+2 (17 November)** |
-| Pengganti | Bila narasumber berhalangan, Personalia menunjuk pengganti dari biro yang sama atau terdekat |
+| **Unit** | Satu rombongan per biro asal, jadi ada **8 rombongan** |
+| **Kehadiran** | Seluruh Staf Muda dari biro itu **WAJIB hadir lengkap**. Tidak ada perwakilan |
+| **Tatap muka** | **Offline.** Daring hanya untuk keadaan darurat dengan persetujuan Badan Personalia |
+| **Narasumber** | **1 Kepala Biro + 2 Staf Ahli** yang aktif |
+| **Lintas biro** | Ketiga narasumber **wajib berasal dari 3 biro yang berbeda** satu sama lain. *Interpretasi penyusun:* tidak ada narasumber yang berasal dari biro rombongan itu sendiri, supaya wawasan benar-benar meluas (perlu konfirmasi Ketua) |
+| **Kuota narasumber** | Setiap Kepala Biro atau Staf Ahli **maksimal menerima 2 ajakan**, dan kedua ajakan itu harus dari **biro rombongan yang berbeda**. Tujuannya mencegah beban berlebih dan kelelahan pada figur tertentu |
+| **Topik wajib** | (1) alasan memilih lanjut ber-JMMI; (2) suka-duka dan dinamika memimpin; (3) evaluasi biro saat ini; (4) tips menjaga komitmen |
+| **Durasi** | Satu pertemuan bersama 60–90 menit |
+| **Bukti** | Foto bersama (Staf Muda lengkap + tiga narasumber), diunggah ke Instagram feeds atau story biro, dan dibagikan ke grup komunal anggota JMMI ITS |
+| **Jendela** | 16 November 2026 sampai **H-1 Forum AHWA JMMI ITS 2026** (estimasi 20 atau 21 November; lihat 4.2) |
 
-### 2.4 Pedoman Pelaksanaan
+**Kehadiran lengkap dan udzur (usulan):** bila ada anggota berhalangan karena udzur yang sah (sakit, ujian, praktikum) dan melaporkannya ke Badan Personalia **sebelum** jadwal, rombongan menjadwalkan ulang dalam jendela. Bila tidak memungkinkan, anggota tersebut menjalani sesi susulan singkat dengan salah satu narasumber dan hal ini dicatat di dashboard. Foto bersama tetap memuat seluruh anggota yang hadir pada sesi utama.
 
-| Unsur | Ketentuan |
-|---|---|
-| Durasi | 45–60 menit |
-| Jendela | **H+4 s.d. H+10** (19–25 November) |
-| Inisiatif | **Peserta** menghubungi narasumber dan menentukan jadwal (melatih adab komunikasi) |
-| Format | Tatap muka (utama). Daring hanya bila darurat |
-| Biaya | Tidak diwajibkan. Konsumsi ditanggung masing-masing atau sukarela. Tidak ada anggaran dalam RAB KPP kecuali diputuskan lain |
-| Catatan | Peserta meminta izin mencatat. Tidak merekam tanpa izin eksplisit |
-| Privasi | Hal yang disampaikan narasumber tentang orang lain tidak disebarluaskan. Lembar Refleksi tidak memuat nama pihak ketiga |
+### 2.4 Pairing dan Rotasi Narasumber
 
-### 2.5 Panduan Wawancara
+Agar jendela yang singkat (5–6 hari) tidak habis untuk mencari narasumber, Badan Personalia menyiapkan **rotasi default** sebelum hari-H. Biro diurutkan: (1) Manajemen Event, (2) Pengabdian Masyarakat, (3) Kajian & Inovasi Dakwah, (4) Usaha Mandiri, (5) Amaliyah Yaumiyah, (6) Digital Production, (7) Media Analysis & Strategi, (8) Relasi & Hubungan Eksternal. Rombongan biro urutan *n* mengajak Kepala Biro dari biro *n+1*, serta Staf Ahli dari biro *n+2* dan *n+3* (berputar kembali setelah urutan 8).
 
-**Sebelum bertemu (5 menit):** baca Tata Kelola 5.6.9 (Ketua Biro) atau 5.6.10 (Staf Ahli); siapkan 3 pertanyaan pilihan sendiri.
+| Rombongan | Kepala Biro dari | Staf Ahli 1 dari | Staf Ahli 2 dari |
+|---|---|---|---|
+| Biro Manajemen Event | Biro Pengabdian Masyarakat | Biro Kajian & Inovasi Dakwah | Biro Usaha Mandiri |
+| Biro Pengabdian Masyarakat | Biro Kajian & Inovasi Dakwah | Biro Usaha Mandiri | Biro Amaliyah Yaumiyah |
+| Biro Kajian & Inovasi Dakwah | Biro Usaha Mandiri | Biro Amaliyah Yaumiyah | Biro Digital Production |
+| Biro Usaha Mandiri | Biro Amaliyah Yaumiyah | Biro Digital Production | Biro Media Analysis & Strategi |
+| Biro Amaliyah Yaumiyah | Biro Digital Production | Biro Media Analysis & Strategi | Biro Relasi & Hubungan Eksternal |
+| Biro Digital Production | Biro Media Analysis & Strategi | Biro Relasi & Hubungan Eksternal | Biro Manajemen Event |
+| Biro Media Analysis & Strategi | Biro Relasi & Hubungan Eksternal | Biro Manajemen Event | Biro Pengabdian Masyarakat |
+| Biro Relasi & Hubungan Eksternal | Biro Manajemen Event | Biro Pengabdian Masyarakat | Biro Kajian & Inovasi Dakwah |
 
-**Alur 4 sesi:**
+**Sifat rotasi (sudah dihitung):**
+- Setiap rombongan mendapat tiga narasumber dari tiga biro berbeda, dan **tidak ada** yang berasal dari biro rombongan itu sendiri.
+- Setiap Kepala Biro menerima **1 ajakan**.
+- Jika dipilih satu Staf Ahli per biro sebagai narasumber, setiap Staf Ahli menerima tepat **2 ajakan dari dua biro berbeda**, sehingga kuota maksimal terpenuhi tanpa sisa. Karena itu Badan Personalia sebaiknya menyiapkan **Staf Ahli cadangan** pada tiap biro.
 
-| Sesi | Durasi | Tema | Pertanyaan inti | Pertanyaan lanjutan |
-|---|---|---|---|---|
-| 1. Awal Mula | 10' | Mengapa bertahan | (1) Apa yang membuat Kakak memilih bertahan setelah menjadi Staf Muda? (2) Momen paling berkesan di JMMI? | Siapa yang paling berjasa membimbing Kakak? |
-| 2. Realitas Peran | 20' | Gambaran harian | (3) Ceritakan satu hari kerja terbaik dan satu hari terberat sebagai Kabiro/Staf Ahli. (4) Apa yang paling mengejutkan saat transisi ke struktur Biro? (5) Bagaimana Kakak membagi waktu dengan akademik? (6) Apa yang tidak tertulis di Tata Kelola tapi harus dipelajari? | Apa yang akan Kakak lakukan berbeda? |
-| 3. Jalur dan Hubungan | 15' | Koordinasi | (7) Ceritakan koordinasi lintas biro yang paling alot dan bagaimana menyelesaikannya. (8) Kapan Kakak mengeskalasi ke Kadep, dan kapan menyelesaikan sendiri? (9) Bagaimana hubungan Kabiro dan Staf Ahli di biro Kakak? | Adakah pasal yang menurut Kakak perlu dirapikan? |
-| 4. Estafet | 10' | Pesan | (10) Pesan Kakak untuk calon penerus? (11) Hal yang ingin Kakak wariskan, dan hal yang ingin Kakak hentikan? (12) Satu saran untuk Kadep atau BPI? | Apa yang Kakak harapkan dari saya? |
+**Aturan penyesuaian:**
+1. Rombongan boleh mengusulkan pertukaran narasumber sesuai ketersediaan, asalkan tiga aturan inti tetap terpenuhi dan Badan Personalia menyetujui.
+2. Biro yang memiliki beberapa Staf Ahli dapat membagi beban: **kuota 2 ajakan berlaku per individu**, bukan per biro.
+3. Kuota dipantau pada dashboard (4.4) dengan hitungan otomatis per narasumber. Ajakan ketiga ditolak otomatis.
+4. Penugasan ulang bila narasumber berhalangan dilakukan Badan Personalia dalam 24 jam.
 
-**Etika pewawancara (peserta):** mendengarkan lebih banyak daripada berbicara; tidak menghakimi; boleh menyampaikan kekhawatiran sendiri; menutup dengan terima kasih dan tindak lanjut kecil.
+**Persiapan sebelum hari-H:** ketersediaan Kepala Biro dan Staf Ahli pada 16–21 November dikonfirmasi sejak 9 November, rotasi final dipublikasikan 12 November, dan setiap narasumber menerima Kartu Panduan Narasumber (2.5) sebelum acara.
 
-**Kartu panduan narasumber:**
+### 2.5 Pelaksanaan Satu Pertemuan
+
+| Menit | Segmen | Isi |
+|---|---|---|
+| 0–10 | Pembukaan | Perkenalan rombongan dan narasumber; penjelasan tujuan; suasana santai |
+| 10–25 | **Topik 1 — Alasan memilih lanjut ber-JMMI** | Mengapa narasumber bertahan setelah menjadi Staf Muda; momen yang membuat mereka tetap tinggal |
+| 25–45 | **Topik 2 — Suka-duka dan dinamika memimpin** | Gambaran hari kerja terbaik dan terberat; hal yang mengejutkan saat transisi ke struktur Biro; membagi waktu dengan akademik |
+| 45–60 | **Topik 3 — Evaluasi biro saat ini** | Hal yang berjalan baik dan hal yang masih menyulitkan; cerita koordinasi lintas biro; kapan mengeskalasi ke Kadep |
+| 60–75 | **Topik 4 — Tips menjaga komitmen** | Cara menjaga semangat tim, membangun bonding, dan menghadapi anggota yang menurun |
+| 75–85 | Penutup dan foto | Pesan untuk calon penerus; foto bersama; kesepakatan publikasi |
+
+Pertemuan minimal (60 menit) dilakukan dengan memangkas durasi tiap topik secara proporsional. **Keempat topik tetap wajib dibahas.**
+
+**Pertanyaan pemandu (boleh dikembangkan rombongan):**
+
+| Topik | Pertanyaan inti | Pertanyaan lanjutan |
+|---|---|---|
+| 1. Alasan lanjut | Apa yang membuat Kakak memilih bertahan setelah menjadi Staf Muda? Momen apa yang paling berkesan? | Siapa yang paling berjasa membimbing Kakak? |
+| 2. Suka-duka memimpin | Ceritakan satu hari kerja terbaik dan satu hari terberat. Apa yang paling mengejutkan saat transisi ke struktur Biro? Bagaimana membagi waktu dengan akademik? | Apa yang akan Kakak lakukan berbeda? |
+| 3. Evaluasi biro | Apa yang paling berjalan baik di biro Kakak, dan apa yang masih menyulitkan? Ceritakan koordinasi lintas biro yang paling alot dan bagaimana menyelesaikannya. | Adakah pasal atau SOP yang menurut Kakak perlu dirapikan? |
+| 4. Tips komitmen | Bagaimana Kakak menjaga komitmen diri dan tim? Apa yang dilakukan saat anggota mulai menurun? | Satu pesan untuk kami sebagai calon penerus? |
+
+**Aturan interaksi:**
+- **Setiap anggota rombongan mengajukan minimal satu pertanyaan** supaya sesi tidak dikuasai satu-dua orang.
+- Moderator bebas ditentukan rombongan dan boleh bergilir.
+- Satu anggota bergantian mencatat poin penting; catatan ini menjadi bahan pengisian Canvas (bagian 3).
+- Evaluasi biro dibahas konstruktif dan **tanpa menyebut nama pihak** (budaya Diskusi dan Musyawarah, Tata Kelola 7.1.1).
+- Privasi: hal yang disampaikan tentang pihak ketiga tidak disebarluaskan.
+
+**Kartu Panduan Narasumber:**
 1. Jawab jujur, termasuk tentang beban. Tidak perlu mengagungkan maupun menakut-nakuti.
 2. Jangan menekan peserta untuk menyatakan siap. Tujuannya berbagi, bukan merekrut.
-3. Jaga privasi pihak ketiga.
-4. Bila peserta menyampaikan keraguan, tanggapi dengan empati dan tawarkan pendampingan lanjutan.
-5. Boleh mengarahkan peserta ke Kadep atau Badan Personalia untuk persoalan yang di luar kewenangan Anda.
+3. Jaga privasi pihak ketiga dan tidak membuka detail internal yang sensitif di depan kamera.
+4. Bila ada peserta menyampaikan keraguan, tanggapi dengan empati dan arahkan ke Badan Personalia untuk pendampingan.
+5. Anda menerima paling banyak dua ajakan. Informasikan ke Personalia bila ada ajakan tambahan.
 
-### 2.6 Output: Lembar Refleksi (1 halaman)
+### 2.6 Bukti Verifikasi dan Publikasi
 
-Berformat dokumen satu halaman (Times New Roman 12, spasi 1,15 sesuai 6.1(a)). Dikumpulkan lewat formulir atau folder bersama.
+| Bukti | Syarat |
+|---|---|
+| **Foto bersama** | Seluruh Staf Muda biro yang hadir + ketiga narasumber, tatap muka, wajah terlihat jelas |
+| **Instagram biro** | Foto diunggah ke **feeds atau story** akun Instagram biro masing-masing. Untuk story, wajib melampirkan tangkapan layar karena cepat hilang. Disarankan feeds agar permanen |
+| **Grup komunal** | Foto dan keterangan singkat dibagikan ke **grup komunal anggota JMMI ITS** sebagai bukti komitmen dan kesiapan regenerasi |
+| **Pelaporan** | Satu koordinator mengisi Google Form "Bukti Ngopi Khidmah": biro, tanggal, tempat, jumlah hadir dari total, nama dan biro asal ketiga narasumber, tautan atau tangkapan layar Instagram, dan tangkapan layar kiriman grup |
+| **Waktu** | Disarankan terbit paling lambat 24 jam setelah sesi; semua bukti masuk paling lambat tenggat KPP |
 
-| No | Bagian | Isi | Panjang |
-|---|---|---|---|
-| 1 | Identitas | Kode peserta, biro asal, peran dan biro narasumber (nama boleh dicantumkan atas persetujuan narasumber), tanggal | 1 baris |
-| 2 | Tiga pelajaran utama | Tiga hal paling berharga yang dipelajari | 3 butir |
-| 3 | Dua fakta mengejutkan | Dua hal yang berbeda dari dugaan | 2 butir |
-| 4 | Praktik baik untuk diadopsi | Satu praktik konkret yang akan dipakai bila menjabat | 2–3 kalimat |
-| 5 | Kekhawatiran yang terjawab dan yang belum | Dua daftar pendek | 2–4 kalimat |
-| 6 | Saran untuk organisasi | Satu saran untuk Kadep, BPI, atau Badan Personalia (opsional, boleh kosong) | 1–2 kalimat |
-| 7 | Komitmen kecil | Satu langkah kecil dalam 30 hari | 1 kalimat |
+**Contoh keterangan (ilustratif, rombongan Biro Kajian & Inovasi Dakwah):**
+> "Ngopi Khidmah bersama Kepala Biro Usaha Mandiri, Staf Ahli Biro Amaliyah Yaumiyah, dan Staf Ahli Biro Digital Production. Kami belajar bahwa regenerasi bukan soal jabatan, tetapi soal amanah yang dijaga bersama. Terima kasih, Kakak-kakak, atas ilmu dan ceritanya. #BBM2 #JMMIITS #NgopiKhidmah"
 
-**Rubrik kelengkapan (bukan penilaian ketat):**
+**Etika publikasi (wajib):**
+1. Semua orang yang tampil dalam foto menyetujui pengunggahan; narasumber menyetujui keterangan.
+2. Keterangan bernada **silaturahmi, belajar, dan semangat regenerasi**. Foto ini **bukan** pernyataan bahwa seseorang pasti mencalonkan diri atau mengambil peran tertentu. Kesiapan peran individu dicatat secara privat melalui Form Minat Peran.
+3. Tidak memuat kritik terhadap pihak tertentu atau rincian internal yang sensitif.
+4. Bila biro belum memiliki akun Instagram yang aktif, Badan Personalia memutuskan kanal pengganti (misalnya akun koordinator dengan menandai akun JMMI ITS, atau dukungan Biro Media Analysis & Strategi). Request ke tim media mengikuti SOP 6.4, sehingga jangan mengandalkan desain khusus dalam jendela 5–6 hari.
 
-| Kriteria | Skor 25 | Skor 15 | Skor 5 |
-|---|---|---|---|
-| Kelengkapan bagian | Semua bagian terisi | Satu bagian kosong | Banyak bagian kosong |
-| Kedalaman refleksi | Spesifik dan menyebut contoh | Cukup spesifik | Umum |
-| Keterhubungan dengan Tata Kelola dan materi | Mengaitkan dengan pasal atau konsep BBM 2 | Menyebut sebagian | Tidak terhubung |
-| Kejujuran dan ketulusan | Menyampaikan keraguan atau harapan nyata | Netral | Normatif |
-
-Skor dipakai untuk memberi umpan balik, bukan peringkat. Pengumpulan tepat waktu dan lengkap sudah dianggap memenuhi TUK K12.
+> **Catatan Lembar Refleksi.** Lembar Refleksi individu pada rancangan sebelumnya **dihapus**. Refleksi pribadi kini ditampung pada Zona Refleksi Diri di Canvas (bagian 3), sehingga beban tulisan peserta tidak berlipat dalam jendela yang singkat.
 
 ### 2.7 Instrumen: Form Minat Peran Suksesi
 
-Form Minat Peran adalah instrumen pasangan Ngopi Khidmah. Peserta mengisinya **setelah** Ngopi (disarankan) tetapi tenggat tetap H+14. Tujuannya mengetahui kesiapan dan hambatan, bukan menyeleksi.
+Form Minat Peran adalah instrumen **individu dan privat**, terpisah dari Ngopi Khidmah, dan **dipertahankan** dari rancangan sebelumnya. Dibuka 16 November dan ditutup pada tenggat KPP. Tujuannya mengetahui kesiapan dan hambatan, bukan menyeleksi.
 
 **Bagian 1 — Persetujuan dan identitas**
 
@@ -351,7 +386,7 @@ Form Minat Peran adalah instrumen pasangan Ngopi Khidmah. Peserta mengisinya **s
 | 4.1 | Apakah Anda bersedia dihubungi Badan Personalia untuk pendampingan? | Ya · Tidak · Nanti saja |
 | 4.2 | Catatan bebas | Paragraf (opsional) |
 
-**Pengodean untuk database** (oleh Personalia setelah H+14):
+**Pengodean untuk database** (oleh Personalia setelah tenggat KPP, 22–25 November):
 
 | Kategori | Kriteria | Tindakan |
 |---|---|---|
@@ -364,71 +399,81 @@ Kategori dipakai untuk **perencanaan dan pembinaan**, bukan untuk menekan atau m
 
 ---
 
-## 3. KPP Output 2 (Kelompok): "1-Page Canvas Biro Masa Depan"
+## 3. KPP Output 2: "1-Page Canvas Biro Masa Depan" (Kertas A3 + Sticky Notes)
 
 ### 3.1 Tujuan
 
-1. Memetakan kondisi biro hari ini secara jujur: kendala, praktik yang bekerja, dan jalur koordinasi.
-2. Merumuskan inovasi kepengurusan depan secara terukur (format OKR).
-3. Menyusun satu dokumen ringkas yang dapat langsung dipakai sebagai bahan serah-terima biro.
+1. Memetakan kondisi biro hari ini secara jujur: masalah, kendala, dan bottleneck.
+2. Menampung **perasaan dan pengalaman** Staf Muda sebagai bahan refleksi dan pembinaan.
+3. Menghimpun **harapan dan gagasan terobosan** untuk kepengurusan berikutnya, termasuk penyederhanaan proker dan proyeksi peran.
+4. Menjadikan tiap anggota **pemilik gagasan** (inisial pada tiap sticky note), bukan sekadar pengisi formulir.
 
-### 3.2 Kelompok
+### 3.2 Media dan Kit Fisik
 
-- **Satu kelompok = satu biro asal peserta.** Jumlah kelompok 8: Biro Manajemen Event, Biro Pengabdian Masyarakat, Biro Kajian & Inovasi Dakwah, Biro Usaha Mandiri, Biro Amaliyah Yaumiyah, Biro Digital Production, Biro Media Analysis & Strategi, dan Biro Relasi & Hubungan Eksternal. Ukuran kelompok mengikuti jumlah Staf Muda tiap biro.
-- Kelompok Canvas **tidak** mengikuti penggabungan meja pada Simulasi Taktis. Meski dua biro duduk satu meja karena hadir kurang dari 3 orang, tiap biro tetap menyusun Canvas sendiri.
-- Satu **koordinator** dipilih kelompok. Seluruh anggota berkontribusi.
-- Kelompok **boleh** meminta masukan dari Kabiro dan Staf Ahli biro sendiri (dan dari hasil Ngopi Khidmah).
+Canvas berupa **satu lembar kertas A3 per biro** dengan **sticky notes aneka warna**. Panitia membagikan **kit fisik** langsung kepada tiap biro pada sesi **briefing KPP di akhir hari-H** (16.14–16.24).
 
-### 3.3 Format Canvas
+| Isi kit per biro | Jumlah | Keterangan |
+|---|---|---|
+| Kertas A3 yang sudah dibagi 3 zona | 1 (+1 cadangan) | Dicetak garis zona dan judul |
+| Sticky notes **3 warna** | 3 lembar per warna **per anggota** (total 9 lembar per anggota) | Satu warna per zona; contoh: oranye = Evaluasi, biru = Refleksi Diri, hijau = Inovasi dan Asa |
+| Spidol tebal hitam | 1 per 2 anggota | Agar tulisan terbaca di A3 |
+| Selotip kertas | 1 | Memperkuat sticky yang mudah lepas |
+| Map plastik A3 | 1 | Menjaga kertas tidak kusut saat dibawa |
+| Selebaran aturan pengisian (1 halaman) | 1 | Berisi 3 zona, aturan inisial, dan tenggat |
 
-**Satu halaman** A4 landscape (PDF), satu slide Google Slides berukuran A4, atau gambar tercetak digital. Nama berkas `Canvas_Biro_[Nama Biro]_BBM2.pdf` (contoh `Canvas_Biro_Kajian dan Inovasi Dakwah_BBM2.pdf`), mengikuti pola penamaan arsip SOP 6.2.
+**Perkiraan total untuk 70 peserta:** 16 kertas A3 (8 + 8 cadangan), sekitar **700 lembar** sticky notes (630 + 10% cadangan, sekitar 233 per warna), 40 spidol (+8 cadangan), 8 selotip kertas, 8 map plastik, 8 selebaran. Kit dikemas per biro sebelum hari-H dan diberi label nama biro serta warna sesuai name tag.
 
-| Blok | Judul | Pertanyaan pemandu | Isi minimal |
+### 3.3 Tiga Zona pada Kertas A3
+
+Kertas A3 diletakkan landscape dan dibagi menjadi **tiga kolom tegak** dengan lebar sama, masing-masing diberi judul zona. Pada bagian atas ditulis nama biro dan daftar narasumber Ngopi Khidmah (usulan, agar Canvas terhubung dengan obrolan).
+
+| Zona | Isi | Pertanyaan pemandu | Warna sticky (usulan) |
 |---|---|---|---|
-| 0 | Identitas | Biro apa, proker utama apa, siapa saja yang menyusun? | Nama biro, proker unggulan, nama anggota |
-| 1 | Kondisi Hari Ini: Kendala | Apa tiga kendala terbesar yang dialami biro pada kepengurusan ini? | **3 kendala** dengan bukti singkat (kejadian, frekuensi, dampak) |
-| 2 | Akar Masalah | Mengapa kendala itu terjadi? | Satu analisis "mengapa" bertingkat per kendala (minimal dua tingkat) |
-| 3 | Yang Sudah Bekerja | Praktik apa yang bagus dan perlu dipertahankan? | **2 praktik** dengan alasan |
-| 4 | Peta Jalur Koordinasi Biro | Dengan biro mana kita paling sering berinteraksi, apa yang diminta dan diberikan, kapan eskalasi? | **2–4 biro mitra**; arah (kita meminta atau diminta), isi, jalur, dan titik eskalasi menurut Tata Kelola |
-| 5 | Inovasi Kepengurusan Depan | Apa tiga inisiatif perbaikan untuk periode berikutnya? | **3 inisiatif**, tiap inisiatif disertai Objective dan 2 Key Results terukur |
-| 6 | Kebutuhan Dukungan | Apa yang dibutuhkan dari Kadep, Waket, BPI, atau badan? | 2–3 butir konkret |
-| 7 | Risiko dan Mitigasi | Apa risiko utama dan rencana menghadapinya? | **2 risiko** dengan mitigasi |
-| 8 | Rencana Serah-Terima | Dokumen dan pengetahuan apa yang harus diwariskan? | Daftar minimal 4 dokumen, mis. kalender kerja tahunan, riwayat proker, kontak dan alur, templat, pelajaran |
-| 9 | Pesan Tim | Satu kalimat untuk penerus. | 1 kalimat |
+| **1. Zona Evaluasi** | Masalah, kendala, atau bottleneck biro pada periode saat ini | Apa yang paling sering menghambat kerja biro kita? Di mana alur koordinasi macet? Apa buktinya (kejadian, seberapa sering)? | Oranye |
+| **2. Zona Refleksi Diri** | Perasaan, dinamika emosional, dan pengalaman menjadi Staf Muda di biro ini | Apa yang paling kamu rasakan selama menjadi Staf Muda? Kapan kamu merasa bangga, lelah, atau ragu? Apa yang membuatmu bertahan? | Biru |
+| **3. Zona Inovasi dan Asa** | Harapan, ide terobosan, penyederhanaan proker, dan proyeksi peran untuk kepengurusan selanjutnya | Apa satu perubahan yang akan membuat biro lebih sehat? Proker apa yang bisa disederhanakan? Peran apa yang kamu bayangkan untuk dirimu atau timmu? | Hijau |
 
-**Panduan tata letak:** grid 3 kolom × 3 baris di bawah header identitas; blok 1–2 di kolom kiri, 3–5 di tengah, 6–9 di kanan. Font minimal 9 pt supaya terbaca.
+**Contoh sticky note (ilustratif):**
+- *Zona Evaluasi:* "Permintaan lintas biro sering datang mendadak, jadi jadwal produksi bergeser. — AS"
+- *Zona Refleksi Diri:* "Awalnya takut salah, tapi tim yang saling menolong bikin aku tetap semangat. — NK"
+- *Zona Inovasi dan Asa:* "Buat kalender permintaan bulanan supaya proker lebih terencana. — RF"
 
-**Contoh ilustratif satu blok** (fiktif, hanya untuk memperjelas bentuk):
+### 3.4 Aturan Pengisian
 
-> *Blok 1 — Kendala (contoh untuk "Biro X"):*
-> *1. Permintaan dari biro lain datang mendadak (±3 kali per bulan), mengganggu jadwal produksi.*
-> *2. Tidak ada pembagian tugas tertulis antara Kabiro dan Staf Ahli, sehingga dua orang memberi arahan berbeda ke Staf Muda.*
-> *3. Dokumen proker tersebar di banyak tempat, sehingga serah-terima lambat.*
+1. **Setiap Staf Muda WAJIB menempelkan minimal 1 lembar sticky note di masing-masing dari 3 zona** (minimum 3 lembar per orang). Boleh lebih.
+2. **Setiap lembar sticky note wajib dibubuhi inisial nama lengkap penulisnya** (huruf awal tiap kata nama; contoh "BA" untuk Bara Ardiwinata). Inisial menjadi tanda akuntabilitas dan kepemilikan gagasan.
+3. Bila dua anggota memiliki inisial yang sama, tambahkan angka atau huruf ketiga (misal "BA1" dan "BA2"). Biro menuliskan **legenda inisial** (inisial dan nama lengkap) kecil di pojok bawah kertas.
+4. Satu gagasan per sticky note, tulisan jelas dengan spidol tebal, maksimal sekitar 25 kata.
+5. Bahasa santun. Kritik diarahkan pada **proses dan sistem**, bukan menyerang individu.
+6. Tidak ada zona yang dikosongkan. Tidak boleh menulis atas nama orang lain.
+7. **Pengerjaan:** dalam satu sesi biro 60–90 menit **setelah** Ngopi Khidmah (agar terisi wawasan dari obrolan). Disarankan diakhiri dengan membaca bersama dan mengelompokkan sticky yang mirip, lalu memberi judul tema di bawah kelompok.
+8. Penulis yang menilai catatannya sensitif (terutama di Zona Refleksi Diri) boleh meminta Badan Personalia membatasi aksesnya.
 
-> *Blok 5 — Inovasi (contoh):*
-> *Inisiatif 1: Kalender request bulanan.*
-> *Objective: permintaan lintas biro terencana.*
-> *KR1: 80% permintaan masuk ≥ 7 hari sebelum tenggat. KR2: ≤ 2 permintaan mendadak per bulan.*
+### 3.5 Pengumpulan
 
-### 3.4 Rubrik Canvas (100 poin)
+- **Kertas A3 fisik** diserahkan kepada Badan Personalia (titik kumpul di sekretariat) paling lambat tenggat KPP pukul 17.00.
+- **Foto resolusi tinggi** A3 (lurus dari depan, tulisan terbaca) diunggah ke folder bersama paling lambat pukul 23.59 pada hari yang sama. Nama berkas `Canvas_Biro_[Nama Biro]_BBM2.jpg`, mengikuti pola penamaan arsip SOP 6.2.
+- Sticky yang lepas dilekatkan kembali dengan selotip kertas sebelum diserahkan.
+- Fisik A3 disimpan Badan Personalia sampai tabulasi selesai, lalu diarsipkan di sekretariat.
+
+### 3.6 Rubrik Canvas (100 poin)
 
 | Kriteria | Bobot | Skor tinggi | Skor sedang | Skor rendah |
 |---|---|---|---|---|
-| **1. Kedalaman diagnosis** | 20 | Kendala berbukti dan akar masalah tingkat dalam | Kendala jelas, akar masalah dangkal | Kendala umum tanpa bukti |
-| **2. Kekonkretan dan keterukuran inovasi** | 25 | Tiga inisiatif dengan Objective dan 2 KR terukur | KR sebagian tidak terukur | Inisiatif umum tanpa KR |
-| **3. Kelayakan** | 20 | Sesuai kapasitas biro, dukungan realistis, risiko ditangani | Sebagian ambisius tanpa dukungan | Tidak realistis |
-| **4. Keterkaitan dengan Tata Kelola dan Peta Jalur** | 20 | Jalur koordinasi dan eskalasi sesuai pasal dan akurat | Sebagian benar | Keliru atau kosong |
-| **5. Kualitas serah-terima dan kejelasan visual** | 15 | Daftar dokumen lengkap, tata letak rapi, dan terbaca | Cukup | Berantakan atau tidak lengkap |
+| **1. Kelengkapan partisipasi** | 30 | **100%** anggota menempel ≥ 1 sticky di **ketiga** zona, dan semua berinisial jelas | Sebagian kecil anggota belum lengkap atau inisial tidak jelas | Banyak anggota tidak berpartisipasi |
+| **2. Kedalaman dan kekonkretan evaluasi** (Zona 1) | 25 | Masalah spesifik, berbukti, dan menunjuk akar penyebab | Masalah jelas tetapi umum | Keluhan tanpa bukti |
+| **3. Kejujuran dan kedalaman refleksi** (Zona 2) | 20 | Menyampaikan perasaan dan pengalaman nyata, beragam, dan reflektif | Cukup jujur tetapi normatif | Kosong makna atau seragam seperti disalin |
+| **4. Kekonkretan inovasi dan asa** (Zona 3) | 25 | Gagasan konkret, layak, ada penyederhanaan proker dan proyeksi peran | Sebagian gagasan umum | Harapan tanpa langkah |
 
-**Predikat:** ≥ 85 Sangat baik · 70–84 Baik · 55–69 Cukup · < 55 Perlu revisi. Predikat dipakai untuk umpan balik. Pengumpulan memenuhi TUK K13.
+**Predikat:** ≥ 85 Sangat baik · 70–84 Baik · 55–69 Cukup · < 55 Perlu revisi. Skor menilai **kelompok**, bukan individu, dan dipakai untuk umpan balik. Penyerahan lengkap tepat waktu sudah memenuhi TUK K13.
 
-### 3.5 Umpan Balik dan Pemanfaatan
+### 3.7 Pemanfaatan dan Privasi
 
-1. **Draf** dikumpulkan **H+7 (22 November)** untuk umpan balik cepat dari Badan Personalia.
-2. **Sesi umpan balik** 15 menit per biro bersama Kadep biro tersebut dan Personalia pada **H+11–H+13 (26–28 November)** (daring atau tatap muka).
-3. **Final** dikumpulkan **H+14 (29 November)**.
-4. Hasil terpilih dapat diteruskan sebagai bahan Musyker atau rapat evaluasi kepengurusan, bila Ketua menghendaki. Hal ini perlu keputusan terpisah.
-5. Badan Keorganisasian menerima ringkasan **kendala yang berulang lintas biro** sebagai masukan perbaikan tata kelola.
+1. Badan Personalia **mengodekan tema** sticky pada tiap zona (misalnya koordinasi, beban waktu, bonding, kepemimpinan, penyederhanaan proker) dan membuat ringkasan agregat.
+2. Ringkasan **tanpa inisial** diteruskan kepada Badan Keorganisasian dan Kadep sebagai masukan perbaikan tata kelola, serta kendala yang berulang lintas biro.
+3. **Zona Refleksi Diri** bersifat paling pribadi: tidak dipajang publik, aksesnya terbatas pada Badan Personalia, Waket II, dan Ketua Umum. Inisial berfungsi sebagai kepemilikan gagasan dan akuntabilitas, **bukan** untuk menghukum.
+4. Foto Canvas tidak diunggah ke media publik tanpa persetujuan biro.
+5. Hasil terpilih dapat dibawa ke forum berikutnya (termasuk Forum AHWA JMMI ITS 2026 atau Musyker) bila Ketua menghendaki. Hal itu memerlukan keputusan terpisah.
 
 ---
 
@@ -436,57 +481,82 @@ Kategori dipakai untuk **perencanaan dan pembinaan**, bukan untuk menekan atau m
 
 ### 4.1 Kalender
 
-| Hari | Tanggal | Kegiatan | PIC |
+| Tanggal | H | Kegiatan | PIC |
 |---|---|---|---|
-| H+0 | Minggu, 15 November | BBM 2: pre-test, post-test, pengumuman ringkas KPP pada penutupan | Panitia |
-| H+1 | Senin, 16 November | Peluncuran KPP: **Form Minat Peran** dibuka; Form Umpan Balik dikirim; pedoman Ngopi Khidmah dan templat Canvas dibagikan; kelompok Canvas dibentuk | Sie Registrasi dan Data |
-| H+2 | Selasa, 17 November | Pengumuman daftar **pairing** Ngopi Khidmah | Badan Personalia |
-| H+3 | Rabu, 18 November | Batas asistensi SPJ BBM 2 kepada Sekum dan Bendum (urusan panitia, bukan KPP) | Sekretaris Pelaksana dan Bendahara Pelaksana |
-| H+4 s.d. H+10 | 19–25 November | **Jendela Ngopi Khidmah** | Peserta |
-| H+4 | Kamis, 19 November | Pengingat 1: mulai jadwalkan Ngopi | Personalia |
-| H+7 | Minggu, 22 November | **Draf Canvas** dikumpulkan; pengingat 2: sisa 3 hari Ngopi | Koordinator kelompok |
-| H+10 | Rabu, 25 November | **Batas Lembar Refleksi Ngopi**; pengingat 3 | Peserta |
-| H+11 | Kamis, 26 November | **Snapshot data KPP** diserahkan ke Sekretaris Pelaksana untuk draf LPJ | Sie Registrasi dan Data |
-| H+11–H+13 | 26–28 November | Sesi umpan balik Canvas per biro | Personalia, Kadep |
-| H+13 | Sabtu, 28 November | Pengingat 4: final Form Minat Peran dan Canvas besok | Personalia |
-| H+14 | Minggu, 29 November | **Batas final:** Form Minat Peran, Canvas final. **Batas asistensi LPJ** kepada Sekum dan Bendum | Peserta, Sekretaris Pelaksana |
-| H+15–H+18 | 30 November–3 Desember | Tabulasi data dan pengodean kategori | Badan Personalia |
-| H+19–H+21 | 4–6 Desember | Laporan KPP kepada Waket II dan Ketum; rencana pendampingan | Badan Personalia |
+| 9 Nov (Senin) | H-6 | Konfirmasi ketersediaan 8 Kepala Biro dan Staf Ahli untuk jendela 16–21 November | Badan Personalia |
+| 11 Nov (Rabu) | H-4 | Rotasi narasumber final dan Kartu Panduan Narasumber dicetak | Badan Personalia |
+| 12–13 Nov | H-3, H-2 | Pembelian dan pengemasan **kit fisik** per biro | Sie Perlengkapan |
+| **Minggu, 15 Nov** | **H+0** | **16.14–16.24: briefing KPP dan pembagian kit fisik per biro**; pengumuman rotasi narasumber | Sie Registrasi dan Data, Badan Personalia |
+| Senin, 16 Nov | H+1 | Form Minat Peran dan Form Umpan Balik dibuka. Koordinator tiap rombongan menghubungi tiga narasumber; **jadwal terkonfirmasi paling lambat 21.00** dan dicatat di dashboard | Koordinator rombongan |
+| **Selasa, 17 s.d. Kamis, 19 Nov** | H+2 s.d. H+4 | **Jendela utama Ngopi Khidmah.** Bukti diunggah paling lambat 24 jam setelah sesi. Canvas dikerjakan setelah Ngopi | Tiap biro |
+| Rabu, 18 Nov | H+3 | Batas asistensi SPJ BBM 2 (urusan panitia) | Sekretaris Pelaksana, Bendahara Pelaksana |
+| Kamis, 19 Nov | H+4 | Pengingat D-1: status Ngopi dan Canvas tiap biro | Badan Personalia |
+| **Jumat, 20 Nov** | H+5 | **Tenggat operasional KPP** (bila Forum AHWA jatuh pada 21 November): Canvas fisik diserahkan pukul 17.00; foto Canvas, Form Bukti Ngopi, dan Form Minat Peran paling lambat 23.59. Hari cadangan untuk sesi Ngopi yang tertunda | Semua |
+| **Sabtu, 21 Nov** | H+6 | **Batas keras** bila Forum AHWA dikonfirmasi pada 22 November. Hanya untuk keterlambatan yang sudah dilaporkan | Semua |
+| 22–25 Nov | H+7 s.d. H+10 | Tabulasi: pengodean tema Canvas, rekap Form Minat Peran, dan rekap bukti publikasi | Badan Personalia |
+| 26 Nov–3 Des | H+11 s.d. H+18 | Percakapan 1-on-1 untuk peserta kategori Ragu yang bersedia dihubungi | Badan Personalia |
+| 27 Nov (Jumat) | H+12 | Target operasional asistensi LPJ. Data KPP final sudah tersedia | Sekretaris Pelaksana |
+| 29 Nov (Minggu) | H+14 | Batas asistensi LPJ | Sekretaris Pelaksana |
+| 4 Des (Jumat) | H+19 | Laporan KPP kepada Waket II dan Ketua Umum | Badan Personalia |
 
-### 4.2 Penyiasatan Jadwal LPJ
+### 4.2 Penetapan Tenggat Berdasarkan Forum AHWA
 
-LPJ wajib mencantumkan Realisasi TUK, tetapi asistensi LPJ jatuh pada **H+14 (Minggu, 29 November)**, bersamaan dengan batas KPP. Oleh karena itu:
-- **Opsi A (disarankan):** LPJ disiapkan lebih dulu dengan **snapshot KPP H+11 (26 November)**; angka KPP final dilampirkan sebagai addendum bila Sekum dan Bendum menerima.
-- **Opsi B:** bila addendum tidak diterima, tenggat KPP dimajukan menjadi **H+12 (27 November)** dan hari H+13–H+14 hanya untuk perbaikan.
-- Keputusan antara A dan B dikonfirmasi ke Sekum dan Bendum paling lambat **H+3 (18 November)**.
+Tenggat KPP ditetapkan **maksimal H-1 sebelum pelaksanaan Forum AHWA JMMI ITS 2026**. **Tanggal Forum AHWA belum tercantum di dokumen sumber** dan ditaksir 21 atau 22 November. Skenario:
 
-### 4.3 Dashboard Monitoring (Google Sheets)
+| Tanggal Forum AHWA | Tenggat KPP | Hari efektif (sejak 16 Nov) |
+|---|---|---|
+| Sabtu, 21 November | **Jumat, 20 November** | 5 hari |
+| Minggu, 22 November | **Sabtu, 21 November** | 6 hari |
+| Sebelum 21 November | Dirancang ulang oleh Ketupel dan Personalia | Kurang dari 5 hari |
+
+Tanggal Forum AHWA dikonfirmasi paling lambat **6 November** supaya narasumber, kit, dan briefing 15 November menyesuaikan. Selama belum pasti, seluruh materi memakai tenggat operasional Jumat, 20 November.
+
+### 4.3 Keselarasan dengan LPJ
+
+KPP kini selesai pada 20 atau 21 November, **jauh sebelum** batas asistensi LPJ (29 November). Data TUK K11–K14 sudah final untuk disusun ke LPJ (BAB II, 2.4). **Opsi A dan B pada rancangan sebelumnya tidak diperlukan lagi.**
+
+### 4.4 Dashboard Monitoring (Google Sheets)
+
+**Tab 1 — Rombongan (satu baris per biro):**
 
 | Kolom | Isi |
 |---|---|
-| Kode peserta | `BBM2-01` … |
-| Biro asal | 8 biro |
-| Narasumber Ngopi | Nama peran dan biro |
-| Status pairing | Belum, Terjadwal, Selesai |
-| Tanggal Ngopi | Tanggal |
-| Lembar Refleksi | Belum, Diterima, Direvisi |
-| Form Minat Peran | Belum, Diisi |
-| Kategori minat | Siap, Siap dengan syarat, Ragu, Belum bisa |
-| Kelompok Canvas | Kode biro |
-| Status Canvas | Belum, Draf, Final |
-| Catatan Personalia | Teks bebas |
+| Biro | Nama biro lengkap |
+| Staf Muda terdaftar dan hadir | Jumlah terdaftar, jumlah hadir saat Ngopi (harus sama) |
+| Kepala Biro narasumber | Nama dan biro asal |
+| Staf Ahli 1 dan Staf Ahli 2 | Nama dan biro asal masing-masing |
+| Validasi lintas biro (otomatis) | *Valid* bila ketiga biro asal berbeda satu sama lain dan berbeda dari biro rombongan; selain itu *Cek* |
+| Tanggal dan tempat | Jadwal pelaksanaan |
+| Bukti foto, tautan Instagram, bukti grup komunal | Link atau status diterima |
+| Canvas fisik diterima, foto Canvas | Status |
+| Anggota dengan sticky lengkap | n dari total (harus 100%) |
+| Status | Belum, Terjadwal, Selesai, Terlambat |
 
-**Ringkasan otomatis:** persentase pairing terjadwal dan selesai, persentase Lembar Refleksi diterima (K12), persentase Form Minat Peran diisi (K11), jumlah biro dengan Canvas final (K13), sebaran kategori minat.
+**Tab 2 — Kuota narasumber (satu baris per Kepala Biro atau Staf Ahli):**
 
-### 4.4 Pengingat dan Eskalasi
+| Kolom | Isi |
+|---|---|
+| Nama, peran, biro asal | Identitas narasumber |
+| Ajakan 1 dan Ajakan 2 | Biro rombongan yang mengajak |
+| Jumlah ajakan (otomatis) | `=COUNTA(ajakan1:ajakan2)`, kuota maksimal 2 |
+| Status kuota (otomatis) | `=IF(jumlah>2,"MELEBIHI KUOTA",IF(jumlah=2,"Penuh","Tersedia"))` |
+| Biro pengundang berbeda (otomatis) | *Valid* bila ajakan 1 dan 2 dari biro berbeda |
+
+**Tab 3 — Form Minat Peran (individu):** status pengisian per kode peserta (tanpa menampilkan isi jawaban).
+
+**Ringkasan otomatis:** jumlah rombongan terjadwal dan selesai, jumlah bukti lengkap (K12), jumlah Canvas diterima dan persentase partisipasi sticky (K13), persentase Form Minat Peran diisi (K11), dan jumlah narasumber yang kuotanya melampaui batas (K14, harus 0).
+
+### 4.5 Pengingat dan Eskalasi
 
 | Kondisi | Tindakan |
 |---|---|
-| Peserta belum menjadwalkan Ngopi pada H+7 | Personalia menghubungi lewat pesan pribadi dan menanyakan hambatan |
-| Narasumber tidak merespons 3 hari | Personalia menghubungi narasumber dan memberi alternatif |
-| Biro belum menyerahkan draf Canvas pada H+7 | Personalia menghubungi koordinator |
-| Kelompok Canvas macet | Pendampingan 15 menit oleh anggota Personalia |
-| Tingkat pengumpulan < 60% pada H+10 | Pengingat dari Waket II kepada Kabiro terkait |
+| Jadwal Ngopi belum terkonfirmasi pada 16 November pukul 21.00 | Badan Personalia menghubungi koordinator rombongan dan narasumber |
+| Narasumber tidak merespons dalam 24 jam | Personalia menugaskan narasumber pengganti dengan tetap memenuhi aturan lintas biro dan kuota |
+| Anggota rombongan berhalangan | Terapkan aturan udzur (2.3) |
+| Narasumber akan melewati kuota 2 ajakan | Ditolak dan dialihkan ke narasumber lain |
+| Bukti publikasi belum muncul 24 jam setelah sesi | Pengingat; periksa kendala akun atau izin foto |
+| Canvas belum lengkap pada H-1 tenggat (19 November) | Pendampingan 15 menit oleh anggota Badan Personalia |
+| Tingkat penyelesaian < 60% pada 19 November | Pengingat dari Waket II kepada Kepala Biro terkait |
 
 ---
 
@@ -500,7 +570,8 @@ LPJ wajib mencantumkan Realisasi TUK, tetapi asistensi LPJ jatuh pada **H+14 (Mi
 | Kesiapan dan minat | Form Minat Peran | Peran minat, pilihan biro, tingkat kesiapan, kategori |
 | Hambatan dan dukungan | Form Minat Peran | Hambatan, kebutuhan dukungan, hal yang membuat bertahan dan ragu |
 | Hasil belajar | Pre-test dan post-test | Skor pre, post, N-Gain, sikap L1–L6 |
-| Hasil KPP | Dashboard | Status Ngopi, Lembar Refleksi, Canvas |
+| Hasil Ngopi Khidmah | Dashboard (Tab 1 dan 2) | Narasumber, tanggal, kehadiran, bukti publikasi |
+| Hasil Canvas | Foto A3 dan rekap tema | Tema per zona, partisipasi sticky per inisial |
 | Observasi kontribusi (Simulasi Taktis) | Lembar Observasi Kepemimpinan Emergen (formulir terpisah, dokumen 03 bagian 10) | Skor 1–4 pada 6 dimensi perilaku dengan bukti singkat per kode peserta; momen kunci saat Inject B dan C. **Bukan peringkat dan bukan dasar tunggal seleksi** |
 | Pendampingan | Catatan Personalia | Tanggal, bentuk, ringkasan, tindak lanjut |
 
@@ -510,26 +581,27 @@ LPJ wajib mencantumkan Realisasi TUK, tetapi asistensi LPJ jatuh pada **H+14 (Mi
 |---|---|
 | Akses | Terbatas pada anggota Badan Personalia yang ditunjuk, Waket II, dan Ketua Umum |
 | Tujuan | Pembinaan, perencanaan suksesi, dan perbaikan program. **Bukan** untuk menghukum atau menandai peserta |
-| Persetujuan | Peserta menyetujui pada Bagian 1 formulir |
+| Persetujuan | Peserta menyetujui pada Bagian 1 Form Minat Peran. Inisial pada Canvas adalah bagian dari aturan KPP yang diumumkan saat briefing |
 | Keputusan seleksi peran | Tetap mengikuti mekanisme BPI. KPP dan catatan observasi simulasi **hanya** masukan, bukan penentu |
 | Transparansi observasi | Peserta diberi tahu pada briefing simulasi bahwa pola kontribusi dicatat untuk pembinaan (naskah di dokumen 03, bagian 4.1) |
 | Retensi | Disimpan selama satu periode kepengurusan untuk keperluan serah-terima. Setelah itu dihapus atau dianonimkan kecuali ada persetujuan lain |
-| Penyimpanan | Folder bersama dengan akses dibatasi di Google Drive JMMI ITS 2026 (SOP 6.1.2) |
+| Penyimpanan | Folder bersama dengan akses dibatasi di Google Drive JMMI ITS 2026 (SOP 6.1.2). Fisik Canvas disimpan di sekretariat |
+| Publikasi | Hanya foto Ngopi Khidmah yang dipublikasikan, dengan persetujuan semua yang tampil. Canvas dan Form Minat Peran tidak dipublikasikan |
 | Pelaporan | Hanya agregat anonim ke forum yang lebih luas |
 
 ### 5.3 Tindakan Badan Personalia
 
 | Waktu | Tindakan |
 |---|---|
-| H+15–H+18 | Tabulasi dan pengodean kategori (Siap, Siap dengan syarat, Ragu, Belum bisa) |
-| H+16–H+19 | Peta kekosongan dan kebutuhan peran per biro (berapa calon Kabiro dan Staf Ahli per biro) |
-| H+19–H+21 | Percakapan 1-on-1 dengan peserta kategori **Ragu** yang bersedia dihubungi |
-| H+21 | Laporan kepada Waket II dan Ketum: ringkasan kesiapan, hambatan dominan, rekomendasi dukungan |
+| 22–25 November | Tabulasi: pengodean kategori Form Minat Peran (Siap, Siap dengan syarat, Ragu, Belum bisa), pengodean tema Canvas, rekap bukti Ngopi |
+| 23–26 November | Peta kekosongan dan kebutuhan peran per biro (berapa calon Kepala Biro dan Staf Ahli per biro) |
+| 26 November–3 Desember | Percakapan 1-on-1 dengan peserta kategori **Ragu** yang bersedia dihubungi |
+| 4 Desember | Laporan kepada Waket II dan Ketua Umum: kesiapan, hambatan dominan, tema Canvas, dan rekomendasi dukungan |
 | Berkelanjutan | Rencana pendampingan (mentoring, pelatihan tambahan, peran ringan) untuk kategori **Siap dengan syarat** dan **Ragu** |
 
 ### 5.4 Indikator Pemanfaatan
 
-1. Seluruh peserta yang menyatakan bersedia dihubungi memperoleh tindak lanjut maksimal 14 hari setelah data final.
+1. Seluruh peserta yang menyatakan bersedia dihubungi memperoleh tindak lanjut maksimal 14 hari setelah tenggat KPP.
 2. Peta kekosongan peran per biro tersedia sebelum proses seleksi peran dimulai.
 3. Ringkasan kendala lintas biro dari Canvas diterima Badan Keorganisasian.
 
@@ -549,9 +621,10 @@ LPJ wajib mencantumkan Realisasi TUK, tetapi asistensi LPJ jatuh pada **H+14 (Mi
 | K8 | Biro dengan Blok E dan persetujuan Kadep | 8 dari 8 | `PAPAN_JARING` | 15 Nov |
 | K9 | Kepuasan per materi | ≥ 4,2 | Form Umpan Balik | 16 Nov |
 | K10 | Kenaikan rerata L6 | ≥ +0,5 | Pre dan post-test | 15 Nov |
-| K11 | Pengisian Form Minat Peran | ≥ 85% | Form Minat Peran | 29 Nov |
-| K12 | Lembar Refleksi Ngopi | ≥ 85% | Dashboard | 25–29 Nov |
-| K13 | Biro menyerahkan Canvas | 8 dari 8 | Dashboard | 29 Nov |
+| K11 | Pengisian Form Minat Peran | ≥ 85% | Form Minat Peran | Tenggat KPP (20/21 Nov) |
+| K12 | Biro menyelesaikan Ngopi Khidmah dengan **kehadiran lengkap**, tiga narasumber lintas biro, dan **bukti publikasi** (Instagram + grup komunal) | 8 dari 8 | Dashboard Tab 1 | Tenggat KPP |
+| K13 | Canvas A3 terkumpul dari seluruh biro, dengan **100% anggota** menempel ≥ 1 sticky berinisial di **tiap 3 zona** | 8 dari 8 biro; 100% anggota | Dashboard dan foto Canvas | Tenggat KPP |
+| K14 | Narasumber yang menerima lebih dari 2 ajakan | 0 | Dashboard Tab 2 | Tenggat KPP |
 
 **Penyajian dalam LPJ (BAB II 2.4):** tiap TUK ditampilkan dengan kolom *Target*, *Realisasi*, *Persentase capaian*, dan *Keterangan* (alasan bila belum tercapai). Evaluasi (BAB III) memuat kendala, solusi, serta keberhasilan dan hal yang perlu ditingkatkan.
 
@@ -563,10 +636,30 @@ LPJ wajib mencantumkan Realisasi TUK, tetapi asistensi LPJ jatuh pada **H+14 (Mi
 
 | Risiko | Dampak | Mitigasi |
 |---|---|---|
-| Peserta menganggap KPP sebagai beban tambahan | Pengumpulan rendah | Batasi ukuran output (1 halaman), beri panduan jelas, jendela cukup panjang, dan pengingat ramah |
-| Narasumber kewalahan | Sesi tertunda | Batas maksimal 3 peserta per narasumber dan cadangan |
-| Form Minat Peran dipahami sebagai alat seleksi | Peserta tidak jujur | Pernyataan privasi tegas, penjelasan lisan pada penutupan, dan kategori dipakai untuk pembinaan |
+| **Jendela hanya 5–6 hari** dan kehadiran rombongan wajib lengkap | Jadwal sulit disepakati | Rotasi default dan konfirmasi narasumber sejak 9 November, jadwal terkonfirmasi 16 November pukul 21.00, hari cadangan 20 November, aturan udzur (2.3) |
+| Tiga narasumber dari tiga biro sulit hadir bersamaan | Pertemuan tertunda | Narasumber dikonfirmasi sebelum hari-H; Personalia mengganti narasumber dalam 24 jam; bila terpaksa, pertemuan dua sesi dengan foto pada tiap sesi (usulan) |
+| Narasumber kelelahan | Mutu obrolan turun | Kuota maksimal 2 ajakan per individu dan Staf Ahli cadangan |
+| Tanggal Forum AHWA berubah | Jendela memendek | Konfirmasi paling lambat 6 November; skenario di 4.2 |
+| Publikasi dipahami sebagai tekanan untuk mencalonkan diri | Peserta tidak jujur atau merasa dipaksa | Etika publikasi (2.6): keterangan bernada silaturahmi dan belajar, kesiapan peran dicatat privat lewat Form Minat Peran |
+| Inisial pada sticky membuat peserta menahan kejujuran, terutama di Zona Refleksi Diri | Refleksi dangkal | Akses Zona 2 dibatasi, penulis boleh meminta pembatasan akses, dan kritik diarahkan pada sistem |
+| Sticky notes lepas atau kertas rusak | Data hilang | Selotip kertas, map plastik A3, foto Canvas saat selesai |
+| Biro tidak memiliki akun Instagram aktif | Bukti tidak bisa diverifikasi | Kanal pengganti diputuskan Personalia (2.6) |
 | Data sensitif bocor | Kepercayaan hilang | Akses terbatas dan retensi jelas |
-| Jadwal KPP berbenturan dengan ujian atau tugas akademik | Pengumpulan rendah | Pantau kalender akademik. Bila bentrok, longgarkan tenggat Ngopi sampai H+12 dan tetap pertahankan H+14 untuk final |
-| Canvas hanya dikerjakan koordinator | Beban tidak merata | Setiap blok diberi penanggung jawab dalam kelompok, dan koordinator melaporkan kontribusi |
-| Tumpang tindih dengan LPJ | Realisasi TUK terlambat | Gunakan opsi A atau B pada 4.2 |
+| Jadwal KPP berbenturan dengan ujian atau tugas akademik | Pengumpulan rendah | Pantau kalender akademik; udzur dilaporkan lebih awal |
+| Beban KPP terlalu padat setelah acara seharian | Kualitas turun | Output dibatasi pada satu pertemuan Ngopi dan satu Canvas; Lembar Refleksi dihapus |
+
+---
+
+## 8. Asumsi dan Hal yang Perlu Dikonfirmasi
+
+| No | Hal | Interpretasi dalam dokumen ini |
+|---|---|---|
+| 1 | Aturan "3 biro yang berbeda" | Berbeda satu sama lain **dan** berbeda dari biro rombongan |
+| 2 | Pertemuan | Satu pertemuan bersama dengan ketiga narasumber, agar foto bersama memuat semuanya. Dua sesi hanya sebagai cadangan |
+| 3 | Lembar Refleksi individu | Dihapus karena Zona Refleksi Diri pada Canvas menampung refleksi |
+| 4 | Form Minat Peran | **Dipertahankan** sebagai instrumen individu dan privat, dengan tenggat sama dengan KPP |
+| 5 | Tanggal Forum AHWA JMMI ITS 2026 | Belum tercantum di dokumen sumber; ditaksir 21 atau 22 November |
+| 6 | Kehadiran "lengkap" | Udzur sah diatur lewat penjadwalan ulang atau sesi susulan |
+| 7 | Akun Instagram biro | Diasumsikan ada; kanal pengganti disiapkan bila tidak ada |
+| 8 | Jumlah Staf Ahli per biro | Belum diketahui; rotasi default memerlukan minimal satu Staf Ahli aktif per biro dan cadangan |
+| 9 | Inisial kembar | Diselesaikan dengan angka atau huruf tambahan serta legenda inisial |

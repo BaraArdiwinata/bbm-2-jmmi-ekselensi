@@ -27,8 +27,9 @@
 | 11 | 14.25 | 15.00 | 35' | **Salat Ashar** dan rehat, snack sore | Sie Konsumsi | Jeda longgar untuk wudu dan berjalan ke masjid |
 | 12 | 15.00 | 16.00 | 60' | **M4 — Saujana Manarul Ilmi** (sesi penutup) | Kepala Departemen Syi'ar | Klimaks refleksi |
 | 13 | 16.00 | 16.10 | 10' | **Post-test** | MC, Sie Registrasi dan Data | Post-test via QR (±8 menit). Form Umpan Balik dikirim H+1 |
-| 14 | 16.10 | 16.20 | 10' | Penutupan: ringkasan, informasi KPP, dan ucapan terima kasih | Ketupel, Ketum | Peserta tahu langkah KPP |
-| 15 | 16.20 | 16.30 | 10' | Doa penutup dan foto bersama | MC | Acara selesai 16.30 |
+| 14 | 16.10 | 16.14 | 4' | Penutupan: ringkasan, sambutan penutup, dan ucapan terima kasih | Ketupel, Ketum | |
+| 15 | 16.14 | 16.24 | 10' | **Briefing KPP dan pembagian kit fisik** (kertas A3 + sticky notes aneka warna) langsung kepada tiap biro | Sie Registrasi dan Data, Badan Personalia | Tiap biro memegang kit dan memahami Ngopi Khidmah, Canvas A3, dan tenggat |
+| 16 | 16.24 | 16.30 | 6' | Doa penutup dan foto bersama | MC | Acara selesai 16.30 |
 
 Seluruh waktu diselaraskan dengan format Lampiran 1 Template Proposal (kolom *Kegiatan, Durasi, Start, Finish*). SOP 6.1.2 mensyaratkan susunan acara juga memuat penanggung jawab kegiatan, yang tersedia pada kolom *Pemateri / PIC*.
 
@@ -364,6 +365,24 @@ Data kontemporer (jumlah jamaah, program terbaru, capaian kabinet) disiapkan pem
 
 **Metode:** bercerita, dialog retoris, dan testimoni singkat (opsional: video atau ucapan singkat Kabiro dan Staf Ahli aktif). **Media:** layar minimal dan foto dokumentasi JMMI.
 
+### 3.6 Briefing KPP dan Pembagian Kit Fisik (16.14–16.24)
+
+**PIC:** Sie Registrasi dan Data bersama Badan Personalia. **Peserta duduk menurut biro asal** (warna name tag sama dengan label kit), sehingga panitia dapat menyerahkan kit langsung kepada tiap biro.
+
+**Tujuan:** setiap biro keluar ruangan dengan kit di tangan, paham tiga hal (Ngopi Khidmah, Canvas A3, tenggat), dan tahu siapa dihubungi bila ada kendala.
+
+| Menit | Isi | Penyampai |
+|---|---|---|
+| 0–2 | **Pesan kunci:** KPP bukan beban tambahan, melainkan cara menyiapkan estafet bersama biro sendiri. Dua kegiatan: Ngopi Khidmah dan Canvas A3 | Ketupel atau Badan Personalia |
+| 2–5 | **Ngopi Khidmah:** seluruh Staf Muda satu biro hadir lengkap; sowan tatap muka dengan 1 Kepala Biro dan 2 Staf Ahli dari **3 biro berbeda**; tiap narasumber maksimal 2 ajakan; 4 topik (alasan lanjut ber-JMMI, suka-duka memimpin, evaluasi biro, tips menjaga komitmen); bukti berupa foto bersama yang diunggah ke Instagram biro dan dibagikan ke grup komunal anggota JMMI ITS | Badan Personalia |
+| 5–7 | **Canvas A3:** tiga zona (Evaluasi, Refleksi Diri, Inovasi dan Asa); setiap Staf Muda wajib menempel minimal 1 sticky note di tiap zona, **berinisial nama lengkap** (contoh "BA" untuk Bara Ardiwinata) | Badan Personalia |
+| 7–9 | **Pembagian kit** kepada tiap biro beserta daftar rotasi narasumber dan selebaran aturan; hitung cepat kelengkapan | Sie Registrasi dan Data |
+| 9–10 | **Tenggat:** KPP dikumpulkan paling lambat H-1 Forum AHWA JMMI ITS 2026 (estimasi Jumat 20 atau Sabtu 21 November); jadwal Ngopi dikonfirmasi paling lambat Senin 16 November pukul 21.00; saluran bantuan Badan Personalia | Badan Personalia |
+
+**Isi kit per biro:** 1 kertas A3 berzona (+1 cadangan), sticky notes 3 warna (3 lembar per warna per anggota), spidol tebal, selotip kertas, map plastik A3, selebaran aturan 1 halaman, dan daftar rotasi narasumber. Jumlah total dan rincian logistik ada di dokumen 05; aturan lengkap di dokumen 04, bagian 2 dan 3.
+
+**Catatan etika briefing:** tegaskan bahwa foto Ngopi Khidmah bukan pernyataan seseorang pasti mencalonkan diri, dan bahwa kesiapan peran dicatat secara privat melalui Form Minat Peran.
+
 ---
 
 ## 4. Speaker's Brief
@@ -441,7 +460,7 @@ Data kontemporer (jumlah jamaah, program terbaru, capaian kabinet) disiapkan pem
 | M3 | 1 proyektor, 1 mikrofon, kursi santai |
 | Simulasi | 8 meja menurut biro asal (jumlah kursi menyesuaikan kehadiran; meja gabungan lebih besar), ≥ 8 laptop dan 2 cadangan, **1 proyektor khusus Papan Jaring**, Wi-Fi memadai untuk ≥ 110 perangkat, hotspot cadangan, penghitung waktu terlihat dari semua meja, 8 amplop tersegel berisi **2 salinan** Kartu Rahasia per meja, kursi pengamat di dekat tiap meja |
 | Debrief | Proyektor menampilkan `PAPAN_JARING` dan `SKOR_EVALUASI` |
-| Penutup | QR post-test, kamera dokumentasi |
+| Penutup dan briefing KPP | QR post-test, kamera dokumentasi, **8 kit fisik KPP** (kertas A3, sticky notes, spidol, selotip, map plastik) di meja panitia, selebaran aturan dan daftar rotasi narasumber |
 
 Daftar lengkap logistik dan konsumsi ada pada dokumen 05.
 
