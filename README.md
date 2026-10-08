@@ -43,7 +43,7 @@ Delapan biro (Biro Manajemen Event, Biro Pengabdian Masyarakat, Biro Kajian & In
 
 ### KPP (Kegiatan Pasca Pelatihan)
 
-- **Ngopi Khidmah** (komunal per biro): seluruh Staf Muda satu biro hadir lengkap, tatap muka, bersowan dengan **1 Kepala Biro dan 2 Staf Ahli dari tiga biro berbeda**. Tiap narasumber menerima maksimal 2 ajakan. Topik: alasan lanjut ber-JMMI, suka-duka memimpin, evaluasi biro, dan tips menjaga komitmen. Bukti: foto bersama yang diunggah ke Instagram biro dan dibagikan ke grup komunal anggota JMMI ITS.
+- **Ngopi Khidmah** (komunal per biro): seluruh Staf Muda satu biro hadir lengkap, tatap muka, bersowan dengan **1 Kepala Biro dan 2 Staf Ahli dari tiga biro berbeda** yang **dicari dan dihubungi sendiri** oleh Staf Muda (melatih inisiatif dan keberanian). Tiap narasumber menerima maksimal 2 ajakan dengan sistem *first-come, first-served*; bila penuh, rombongan mencari alternatif. Topik: alasan lanjut ber-JMMI, suka-duka memimpin, evaluasi biro, dan tips menjaga komitmen. Bukti: foto bersama yang diunggah ke Instagram biro dan dibagikan ke grup komunal anggota JMMI ITS.
 - **1-Page Canvas Biro Masa Depan** (fisik): satu kertas A3 per biro dengan tiga zona (Evaluasi, Refleksi Diri, Inovasi dan Asa). Setiap Staf Muda menempel minimal satu sticky note berinisial di tiap zona. Kit dibagikan panitia pada briefing KPP di akhir hari-H.
 - Form Minat Peran (individu, privat) tetap menjadi instrumen pendamping.
 - Jendela pelaksanaan **16 November sampai H-1 Forum AHWA JMMI ITS 2026** (estimasi tenggat 20 atau 21 November, ±5–6 hari efektif).
@@ -72,11 +72,12 @@ Delapan biro (Biro Manajemen Event, Biro Pengabdian Masyarakat, Biro Kajian & In
 | 04 | [Skema KPP dan Instrumen Evaluasi](blueprints/04_skema_kpp_dan_instrumen_evaluasi.md) | Pre-test dan post-test (13 butir dan kunci), butir sikap, N-Gain, Ngopi Khidmah, Form Minat Peran, 1-Page Canvas, timeline dan monitoring, database kader |
 | 05 | [Timeline Eksekusi dan Birokrasi](blueprints/05_timeline_eksekusi_dan_birokrasi.md) | Kalender tenggat, milestone 8 Oktober–6 Desember, kepatuhan SOP proposal/surat/SPJ/LPJ, checklist logistik, RACI, register risiko |
 
-### Artefak simulasi (`main/`)
+### Artefak (`main/`)
 
 | Dokumen | Isi |
 |---|---|
 | [Kartu Skenario Simulasi](main/kartu_skenario_simulasi.md) | 8 Kartu Rahasia siap cetak (satu per biro) dan lampiran fasilitator berisi titik temu kesepakatan |
+| [Draf Proposal BBM 2](main/proposal_bbm_2.md) | Draf proposal lengkap menurut template JMMI: cover, kata pengantar, BAB I–IV, RAB (estimasi Rp11.196.000), lembar pengesahan, dan 3 lampiran (susunan acara, kepanitiaan, surat permohonan dana). Belum dikonversi ke `.docx` |
 
 > **Peringatan:** berkas kartu memuat lampiran fasilitator dan kunci kesepakatan. **Jangan dibagikan kepada peserta sebelum atau selama simulasi.**
 
@@ -100,7 +101,7 @@ Delapan biro (Biro Manajemen Event, Biro Pengabdian Masyarakat, Biro Kajian & In
 | Angka TUK, jumlah fasilitator dan pengamat, mekanisme meja gabungan (dua kartu), dan naskah transparansi pengamatan | **Usulan**, menunggu persetujuan Ketua |
 | Kapasitas Aula / Ruang AV untuk sekitar 100 orang | **Belum terverifikasi** (konfirmasi ke Takmir sebelum 15 Oktober) |
 | Angka bertanda **(sim)** pada kasus simulasi | **Fiktif**, perlu divalidasi Kabiro terkait sebelum kartu dicetak |
-| Proposal kegiatan (`.docx`) | **Belum dibuat** |
+| Proposal kegiatan | **Draf Markdown tersedia** (`main/proposal_bbm_2.md`); harga satuan RAB masih estimasi dan nama panitia belum dilengkapi; berkas `.docx` belum dibuat |
 
 Seluruh rujukan pasal mengacu pada dokumen *Tata Kelola Organisasi JMMI Kabinet Ekselensi 2026*. Gambar organogram dan *flowchart* pada dokumen tersebut tidak ikut terbaca saat penyusunan.
 

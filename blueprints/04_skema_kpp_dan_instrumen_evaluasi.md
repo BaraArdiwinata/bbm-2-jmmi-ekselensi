@@ -2,7 +2,7 @@
 
 **Program:** BBM 2 JMMI ITS Kabinet Ekselensi 2026
 **Pengelola:** Badan Personalia (Sie Registrasi dan Data, Sie Simulasi, dan tim Evaluasi)
-**Versi:** 2.0, pembaruan format KPP (Ngopi Khidmah komunal lintas biro, Canvas A3 fisik, tenggat H-1 Forum AHWA JMMI ITS 2026)
+**Versi:** 2.1, pembaruan format KPP (Ngopi Khidmah komunal lintas biro dengan pemilihan narasumber mandiri dan kuota terbuka, Canvas A3 fisik, tenggat H-1 Forum AHWA JMMI ITS 2026)
 **Status KPP:** **Final.** Desain disetujui penuh Ketua Pelaksana dengan format yang lebih aplikatif, taktil, dan berdampak syi'ar internal.
 
 > **Isi dokumen.** Bagian 1 memuat instrumen evaluasi hari-H (pre-test, post-test, form umpan balik). Bagian 2 memuat KPP Output 1 **Ngopi Khidmah** (rombongan biro, tiga narasumber lintas biro, bukti publikasi) dan Form Minat Peran. Bagian 3 memuat KPP Output 2 **1-Page Canvas Biro Masa Depan** (kertas A3 + sticky notes). Bagian 4 memuat timeline dan monitoring. Bagian 5 memuat tindak lanjut database kader. Bagian 6 memuat rangkuman TUK. Bagian 7 memuat risiko dan bagian 8 asumsi yang perlu dikonfirmasi.
@@ -237,6 +237,7 @@ K9 (rerata kepuasan ≥ 4,2) dihitung dari rata-rata relevansi, kejelasan, dan k
 3. Memperkuat **bonding biro**: seluruh Staf Muda satu biro datang bersama, lengkap.
 4. Menjadi **syi'ar internal**: foto bersama yang dipublikasikan menunjukkan kesiapan dan semangat regenerasi kepada seluruh anggota JMMI ITS.
 5. Menghubungkan calon penerus dengan figur aktif agar serah-terima pengetahuan terjadi secara manusiawi.
+6. **Melatih inisiatif komunikasi dan keberanian kader:** Staf Muda mencari dan menghubungi sendiri narasumbernya, tanpa penugasan dari panitia.
 
 ### 2.2 Konsep
 
@@ -251,9 +252,9 @@ Format ini menggantikan rancangan sebelumnya (wawancara 1-on-1 per individu deng
 | **Unit** | Satu rombongan per biro asal, jadi ada **8 rombongan** |
 | **Kehadiran** | Seluruh Staf Muda dari biro itu **WAJIB hadir lengkap**. Tidak ada perwakilan |
 | **Tatap muka** | **Offline.** Daring hanya untuk keadaan darurat dengan persetujuan Badan Personalia |
-| **Narasumber** | **1 Kepala Biro + 2 Staf Ahli** yang aktif |
-| **Lintas biro** | Ketiga narasumber **wajib berasal dari 3 biro yang berbeda** satu sama lain. *Interpretasi penyusun:* tidak ada narasumber yang berasal dari biro rombongan itu sendiri, supaya wawasan benar-benar meluas (perlu konfirmasi Ketua) |
-| **Kuota narasumber** | Setiap Kepala Biro atau Staf Ahli **maksimal menerima 2 ajakan**, dan kedua ajakan itu harus dari **biro rombongan yang berbeda**. Tujuannya mencegah beban berlebih dan kelelahan pada figur tertentu |
+| **Narasumber** | **1 Kepala Biro + 2 Staf Ahli** yang aktif, **dicari dan dihubungi sendiri** oleh Staf Muda biro tersebut. Tidak ada rotasi atau penugasan dari panitia |
+| **Lintas biro** | Ketiga narasumber **wajib berasal dari 3 biro yang berbeda satu sama lain dan berbeda dari biro rombongan** (ditetapkan Ketua Pelaksana) |
+| **Kuota narasumber** | Setiap Kepala Biro atau Staf Ahli **maksimal menerima 2 ajakan** dari **biro rombongan yang berbeda**, dengan sistem **first-come, first-served**. Bila narasumber yang dibidik sudah penuh, rombongan **wajib mencari alternatif fungsionaris lain**. Tujuannya mencegah beban berlebih dan kelelahan pada figur tertentu |
 | **Topik wajib** | (1) alasan memilih lanjut ber-JMMI; (2) suka-duka dan dinamika memimpin; (3) evaluasi biro saat ini; (4) tips menjaga komitmen |
 | **Durasi** | Satu pertemuan bersama 60–90 menit |
 | **Bukti** | Foto bersama (Staf Muda lengkap + tiga narasumber), diunggah ke Instagram feeds atau story biro, dan dibagikan ke grup komunal anggota JMMI ITS |
@@ -261,33 +262,60 @@ Format ini menggantikan rancangan sebelumnya (wawancara 1-on-1 per individu deng
 
 **Kehadiran lengkap dan udzur (usulan):** bila ada anggota berhalangan karena udzur yang sah (sakit, ujian, praktikum) dan melaporkannya ke Badan Personalia **sebelum** jadwal, rombongan menjadwalkan ulang dalam jendela. Bila tidak memungkinkan, anggota tersebut menjalani sesi susulan singkat dengan salah satu narasumber dan hal ini dicatat di dashboard. Foto bersama tetap memuat seluruh anggota yang hadir pada sesi utama.
 
-### 2.4 Pairing dan Rotasi Narasumber
+### 2.4 Pemilihan Narasumber Mandiri dan Sistem Kuota Terbuka
 
-Agar jendela yang singkat (5–6 hari) tidak habis untuk mencari narasumber, Badan Personalia menyiapkan **rotasi default** sebelum hari-H. Biro diurutkan: (1) Manajemen Event, (2) Pengabdian Masyarakat, (3) Kajian & Inovasi Dakwah, (4) Usaha Mandiri, (5) Amaliyah Yaumiyah, (6) Digital Production, (7) Media Analysis & Strategi, (8) Relasi & Hubungan Eksternal. Rombongan biro urutan *n* mengajak Kepala Biro dari biro *n+1*, serta Staf Ahli dari biro *n+2* dan *n+3* (berputar kembali setelah urutan 8).
+**Prinsip.** Staf Muda tiap biro **mencari dan menghubungi sendiri** 1 Kepala Biro dan 2 Staf Ahli pilihan mereka. Tidak ada rumus rotasi dan tidak ada penugasan narasumber oleh panitia. Tujuannya melatih inisiatif komunikasi dan keberanian kader menyapa fungsionaris, kemampuan yang kelak mereka butuhkan sebagai Kepala Biro atau Staf Ahli.
 
-| Rombongan | Kepala Biro dari | Staf Ahli 1 dari | Staf Ahli 2 dari |
-|---|---|---|---|
-| Biro Manajemen Event | Biro Pengabdian Masyarakat | Biro Kajian & Inovasi Dakwah | Biro Usaha Mandiri |
-| Biro Pengabdian Masyarakat | Biro Kajian & Inovasi Dakwah | Biro Usaha Mandiri | Biro Amaliyah Yaumiyah |
-| Biro Kajian & Inovasi Dakwah | Biro Usaha Mandiri | Biro Amaliyah Yaumiyah | Biro Digital Production |
-| Biro Usaha Mandiri | Biro Amaliyah Yaumiyah | Biro Digital Production | Biro Media Analysis & Strategi |
-| Biro Amaliyah Yaumiyah | Biro Digital Production | Biro Media Analysis & Strategi | Biro Relasi & Hubungan Eksternal |
-| Biro Digital Production | Biro Media Analysis & Strategi | Biro Relasi & Hubungan Eksternal | Biro Manajemen Event |
-| Biro Media Analysis & Strategi | Biro Relasi & Hubungan Eksternal | Biro Manajemen Event | Biro Pengabdian Masyarakat |
-| Biro Relasi & Hubungan Eksternal | Biro Manajemen Event | Biro Pengabdian Masyarakat | Biro Kajian & Inovasi Dakwah |
+**Aturan pemilihan:**
+1. Ketiga narasumber dari **tiga biro yang berbeda satu sama lain** dan **berbeda dari biro rombongan**.
+2. Rombongan bebas menentukan siapa yang menghubungi. Disarankan lebih dari satu anggota terlibat, supaya keberanian itu dilatih bersama.
+3. **Narasumber berhak menerima atau menolak.** Penolakan bukan masalah; rombongan mencari alternatif.
+4. **Kuota maksimal 2 ajakan per narasumber**, dari dua biro rombongan yang berbeda, berlaku per individu (bukan per biro).
+5. **First-come, first-served** ditentukan oleh **waktu pendaftaran di Papan Kuota Terbuka** (cap waktu formulir), **bukan** urutan pesan pribadi. Pendaftaran sah hanya bila narasumber sudah menyatakan bersedia dan tanggalnya disepakati.
+6. Bila narasumber yang dibidik sudah penuh (sudah 2 ajakan sah), rombongan **wajib mencari alternatif** fungsionaris lain yang tetap memenuhi aturan lintas biro.
 
-**Sifat rotasi (sudah dihitung):**
-- Setiap rombongan mendapat tiga narasumber dari tiga biro berbeda, dan **tidak ada** yang berasal dari biro rombongan itu sendiri.
-- Setiap Kepala Biro menerima **1 ajakan**.
-- Jika dipilih satu Staf Ahli per biro sebagai narasumber, setiap Staf Ahli menerima tepat **2 ajakan dari dua biro berbeda**, sehingga kuota maksimal terpenuhi tanpa sisa. Karena itu Badan Personalia sebaiknya menyiapkan **Staf Ahli cadangan** pada tiap biro.
+**Alur:**
 
-**Aturan penyesuaian:**
-1. Rombongan boleh mengusulkan pertukaran narasumber sesuai ketersediaan, asalkan tiga aturan inti tetap terpenuhi dan Badan Personalia menyetujui.
-2. Biro yang memiliki beberapa Staf Ahli dapat membagi beban: **kuota 2 ajakan berlaku per individu**, bukan per biro.
-3. Kuota dipantau pada dashboard (4.4) dengan hitungan otomatis per narasumber. Ajakan ketiga ditolak otomatis.
-4. Penugasan ulang bila narasumber berhalangan dilakukan Badan Personalia dalam 24 jam.
+| Langkah | Kegiatan |
+|---|---|
+| 1. Pilih kandidat | Rombongan menyiapkan 3–6 kandidat Kepala Biro dan Staf Ahli, memeriksa **Papan Kuota Terbuka** untuk melihat sisa kuota, dan memastikan kombinasi tetap lintas biro |
+| 2. Hubungi dengan adab | Menghubungi lewat pesan atau bertemu langsung; menyampaikan maksud, jumlah anggota, usulan waktu dan tempat, serta empat topik (contoh pesan di bawah) |
+| 3. Dapatkan persetujuan | Narasumber menyatakan bersedia pada tanggal tertentu. Koordinator rombongan menyimpan tangkapan layar persetujuan |
+| 4. Daftar di papan | **Segera** mengisi Form Pendaftaran Narasumber (nama, peran, biro asal narasumber, tanggal sesi, tautan bukti persetujuan). Cap waktu menentukan urutan kuota |
+| 5. Validasi otomatis | Papan menandai ajakan **SAH** (urutan 1 atau 2) atau **DITOLAK: KUOTA PENUH** (urutan 3 dan seterusnya). Bila ditolak, ulangi langkah 1–4 dengan alternatif |
+| 6. Pelaksanaan | Ngopi Khidmah berlangsung sesuai 2.5 |
 
-**Persiapan sebelum hari-H:** ketersediaan Kepala Biro dan Staf Ahli pada 16–21 November dikonfirmasi sejak 9 November, rotasi final dipublikasikan 12 November, dan setiap narasumber menerima Kartu Panduan Narasumber (2.5) sebelum acara.
+**Pembatalan:** bila rombongan atau narasumber membatalkan, status diubah menjadi *Dibatalkan* dan kuota narasumber **otomatis dilepas**. Pendaftaran tanpa persetujuan narasumber (menahan slot) dibatalkan Badan Personalia.
+
+**Papan Kuota Terbuka (Google Form + Sheets), terbuka dilihat semua Staf Muda:**
+
+| Kolom | Isi |
+|---|---|
+| A. Cap waktu | Otomatis dari formulir |
+| B. Biro rombongan | Dropdown 8 biro |
+| C. Narasumber | Dropdown daftar fungsionaris aktif (disusun Badan Personalia dari data kepengurusan, tanpa penugasan) |
+| D. Peran | Kepala Biro atau Staf Ahli |
+| E. Biro asal narasumber | Dropdown |
+| F. Tanggal sesi | Tanggal |
+| G. Bukti persetujuan | Tautan tangkapan layar |
+| H. Status manual | Aktif atau Dibatalkan (diubah Personalia atas laporan) |
+| I. Urutan ajakan (otomatis) | `=COUNTIFS($C:$C,C2,$H:$H,"<>Dibatalkan",$A:$A,"<="&A2)` |
+| J. Status kuota (otomatis) | `=IF(H2="Dibatalkan","Dibatalkan",IF(I2<=2,"SAH","DITOLAK: KUOTA PENUH"))` |
+| K. Cek duplikasi (otomatis) | `=IF(COUNTIFS($B:$B,B2,$C:$C,C2,$H:$H,"<>Dibatalkan")>1,"DUPLIKAT","OK")` |
+| L. Cek lintas biro (otomatis) | `=IF(E2=B2,"Narasumber dari biro sendiri","OK")` |
+
+Tab ringkasan menampilkan, per narasumber, jumlah ajakan sah dan status *Tersedia*, *Tersisa 1*, atau *Penuh* (`=COUNTIFS(C:C,nama,J:J,"SAH")`), sehingga rombongan dapat memilih alternatif dengan cepat. Validasi lintas biro per rombongan (tiga biro berbeda dan berbeda dari biro sendiri) ditampilkan pada Tab 1 dashboard (4.4).
+
+**Peran Badan Personalia: memfasilitasi, bukan menugaskan.**
+1. Menyusun daftar fungsionaris aktif untuk papan dan menjadi administrator papan.
+2. **Pemberitahuan awal (heads-up) pada 9 November** kepada seluruh Kepala Biro dan Staf Ahli aktif: mereka mungkin diajak pada 16–21 November, kuota maksimal 2 ajakan, dan bebas menerima atau menolak.
+3. **Papan dibuka serentak** pada hari-H pukul 16.24 (setelah briefing KPP), sehingga semua biro mulai dari titik yang sama.
+4. Bila sampai **Selasa, 17 November pukul 12.00** suatu rombongan belum memiliki tiga narasumber sah, Personalia membantu menghubungkan dengan fungsionaris yang masih tersedia. Pilihan tetap pada rombongan dan catatan *difasilitasi* dicantumkan di dashboard.
+
+**Cek kecukupan pasokan.** Kebutuhan total adalah 8 ajakan Kepala Biro dan 16 ajakan Staf Ahli (24 ajakan). Kapasitas narasumber adalah 2 ajakan per individu, sehingga 8 Kepala Biro menyediakan 16 slot dan Staf Ahli menyediakan 2 × jumlah Staf Ahli aktif. Agar semua rombongan terlayani, jumlah **Staf Ahli aktif minimal 8 orang**; idealnya 16 atau lebih supaya rombongan terakhir tidak kehabisan pilihan lintas biro. Jumlah riil Staf Ahli perlu dikonfirmasi (bagian 8).
+
+**Contoh pesan undangan (ilustratif, mengajarkan adab komunikasi):**
+> "Assalamu'alaikum, Kak. Kami Staf Muda Biro Pengabdian Masyarakat (9 orang) dalam rangkaian KPP BBM 2. Kami ingin sowan dan ngobrol santai dengan Kakak tentang alasan lanjut ber-JMMI, suka-duka memimpin, evaluasi biro, dan tips menjaga komitmen. Apakah Kakak berkenan hadir sekitar 60–90 menit pada Rabu atau Kamis sore (18–19 November) di selasar masjid? Mohon maaf bila waktunya tidak memungkinkan, dan terima kasih banyak, Kak."
 
 ### 2.5 Pelaksanaan Satu Pertemuan
 
@@ -318,12 +346,12 @@ Pertemuan minimal (60 menit) dilakukan dengan memangkas durasi tiap topik secara
 - Evaluasi biro dibahas konstruktif dan **tanpa menyebut nama pihak** (budaya Diskusi dan Musyawarah, Tata Kelola 7.1.1).
 - Privasi: hal yang disampaikan tentang pihak ketiga tidak disebarluaskan.
 
-**Kartu Panduan Narasumber:**
+**Panduan Narasumber (dikirim rombongan bersama undangan):**
 1. Jawab jujur, termasuk tentang beban. Tidak perlu mengagungkan maupun menakut-nakuti.
 2. Jangan menekan peserta untuk menyatakan siap. Tujuannya berbagi, bukan merekrut.
 3. Jaga privasi pihak ketiga dan tidak membuka detail internal yang sensitif di depan kamera.
 4. Bila ada peserta menyampaikan keraguan, tanggapi dengan empati dan arahkan ke Badan Personalia untuk pendampingan.
-5. Anda menerima paling banyak dua ajakan. Informasikan ke Personalia bila ada ajakan tambahan.
+5. Anda menerima paling banyak dua ajakan dari biro berbeda. Ajakan ketiga ditolak otomatis oleh Papan Kuota; sarankan rombongan memilih alternatif.
 
 ### 2.6 Bukti Verifikasi dan Publikasi
 
@@ -483,12 +511,13 @@ Kertas A3 diletakkan landscape dan dibagi menjadi **tiga kolom tegak** dengan le
 
 | Tanggal | H | Kegiatan | PIC |
 |---|---|---|---|
-| 9 Nov (Senin) | H-6 | Konfirmasi ketersediaan 8 Kepala Biro dan Staf Ahli untuk jendela 16–21 November | Badan Personalia |
-| 11 Nov (Rabu) | H-4 | Rotasi narasumber final dan Kartu Panduan Narasumber dicetak | Badan Personalia |
+| 9 Nov (Senin) | H-6 | **Pemberitahuan awal (heads-up)** kepada seluruh Kepala Biro dan Staf Ahli aktif: dapat diajak pada 16–21 November, kuota maksimal 2 ajakan, bebas menerima atau menolak. Daftar fungsionaris untuk papan disusun | Badan Personalia |
+| 11 Nov (Rabu) | H-4 | **Papan Kuota Terbuka** dan Form Pendaftaran Narasumber siap dan diuji; panduan narasumber dan contoh pesan undangan dicetak | Badan Personalia |
 | 12–13 Nov | H-3, H-2 | Pembelian dan pengemasan **kit fisik** per biro | Sie Perlengkapan |
-| **Minggu, 15 Nov** | **H+0** | **16.14–16.24: briefing KPP dan pembagian kit fisik per biro**; pengumuman rotasi narasumber | Sie Registrasi dan Data, Badan Personalia |
-| Senin, 16 Nov | H+1 | Form Minat Peran dan Form Umpan Balik dibuka. Koordinator tiap rombongan menghubungi tiga narasumber; **jadwal terkonfirmasi paling lambat 21.00** dan dicatat di dashboard | Koordinator rombongan |
-| **Selasa, 17 s.d. Kamis, 19 Nov** | H+2 s.d. H+4 | **Jendela utama Ngopi Khidmah.** Bukti diunggah paling lambat 24 jam setelah sesi. Canvas dikerjakan setelah Ngopi | Tiap biro |
+| **Minggu, 15 Nov** | **H+0** | **16.14–16.24: briefing KPP dan pembagian kit fisik per biro**; **Papan Kuota Terbuka dibuka serentak pukul 16.24** | Sie Registrasi dan Data, Badan Personalia |
+| Senin, 16 Nov | H+1 | Form Minat Peran dan Form Umpan Balik dibuka. **Rombongan mencari dan menghubungi sendiri** 1 Kepala Biro dan 2 Staf Ahli; pendaftaran narasumber yang sudah bersedia dicatat di papan (urutan pendaftaran menentukan kuota) | Koordinator rombongan |
+| Selasa, 17 Nov | H+2 | **Pukul 12.00:** batas pendaftaran tiga narasumber; Personalia memfasilitasi rombongan yang belum lengkap. **Pukul 21.00:** seluruh jadwal terkonfirmasi di dashboard | Koordinator rombongan, Badan Personalia |
+| **Selasa, 17 s.d. Kamis, 19 Nov** | H+2 s.d. H+4 | **Jendela pelaksanaan Ngopi Khidmah** (Selasa untuk rombongan yang sudah lengkap lebih awal; Rabu dan Kamis sebagai hari utama). Bukti diunggah paling lambat 24 jam setelah sesi. Canvas dikerjakan setelah Ngopi | Tiap biro |
 | Rabu, 18 Nov | H+3 | Batas asistensi SPJ BBM 2 (urusan panitia) | Sekretaris Pelaksana, Bendahara Pelaksana |
 | Kamis, 19 Nov | H+4 | Pengingat D-1: status Ngopi dan Canvas tiap biro | Badan Personalia |
 | **Jumat, 20 Nov** | H+5 | **Tenggat operasional KPP** (bila Forum AHWA jatuh pada 21 November): Canvas fisik diserahkan pukul 17.00; foto Canvas, Form Bukti Ngopi, dan Form Minat Peran paling lambat 23.59. Hari cadangan untuk sesi Ngopi yang tertunda | Semua |
@@ -532,15 +561,16 @@ KPP kini selesai pada 20 atau 21 November, **jauh sebelum** batas asistensi LPJ 
 | Anggota dengan sticky lengkap | n dari total (harus 100%) |
 | Status | Belum, Terjadwal, Selesai, Terlambat |
 
-**Tab 2 — Kuota narasumber (satu baris per Kepala Biro atau Staf Ahli):**
+**Tab 2 — Papan Kuota Terbuka (satu baris per pendaftaran narasumber, rincian kolom di 2.4):** menghitung otomatis urutan ajakan per narasumber, status *SAH* atau *DITOLAK: KUOTA PENUH*, dan cek duplikasi serta cek narasumber dari biro sendiri.
+
+**Tab 2b — Ringkasan Narasumber (satu baris per Kepala Biro atau Staf Ahli):**
 
 | Kolom | Isi |
 |---|---|
-| Nama, peran, biro asal | Identitas narasumber |
-| Ajakan 1 dan Ajakan 2 | Biro rombongan yang mengajak |
-| Jumlah ajakan (otomatis) | `=COUNTA(ajakan1:ajakan2)`, kuota maksimal 2 |
-| Status kuota (otomatis) | `=IF(jumlah>2,"MELEBIHI KUOTA",IF(jumlah=2,"Penuh","Tersedia"))` |
-| Biro pengundang berbeda (otomatis) | *Valid* bila ajakan 1 dan 2 dari biro berbeda |
+| Nama, peran, biro asal | Identitas narasumber (dari daftar fungsionaris aktif) |
+| Ajakan sah (otomatis) | `=COUNTIFS(Papan!C:C,nama,Papan!J:J,"SAH")` |
+| Status kuota (otomatis) | `=IF(ajakan>=2,"Penuh",IF(ajakan=1,"Tersisa 1","Tersedia"))` |
+| Biro pengundang | Biro rombongan pada ajakan 1 dan 2 |
 
 **Tab 3 — Form Minat Peran (individu):** status pengisian per kode peserta (tanpa menampilkan isi jawaban).
 
@@ -550,10 +580,10 @@ KPP kini selesai pada 20 atau 21 November, **jauh sebelum** batas asistensi LPJ 
 
 | Kondisi | Tindakan |
 |---|---|
-| Jadwal Ngopi belum terkonfirmasi pada 16 November pukul 21.00 | Badan Personalia menghubungi koordinator rombongan dan narasumber |
-| Narasumber tidak merespons dalam 24 jam | Personalia menugaskan narasumber pengganti dengan tetap memenuhi aturan lintas biro dan kuota |
+| Rombongan belum memiliki tiga narasumber sah pada 17 November pukul 12.00 | Badan Personalia **memfasilitasi** (menghubungkan dengan fungsionaris yang masih tersedia); pilihan tetap pada rombongan; dicatat *difasilitasi* |
+| Narasumber yang dibidik tidak merespons dalam 24 jam | Rombongan **wajib mencari alternatif**; tidak boleh menahan slot. Pendaftaran tanpa persetujuan dibatalkan Personalia dan kuota dilepas |
 | Anggota rombongan berhalangan | Terapkan aturan udzur (2.3) |
-| Narasumber akan melewati kuota 2 ajakan | Ditolak dan dialihkan ke narasumber lain |
+| Ajakan ketiga pada narasumber yang sama | Papan menandai **DITOLAK: KUOTA PENUH**; rombongan wajib memilih alternatif lintas biro |
 | Bukti publikasi belum muncul 24 jam setelah sesi | Pengingat; periksa kendala akun atau izin foto |
 | Canvas belum lengkap pada H-1 tenggat (19 November) | Pendampingan 15 menit oleh anggota Badan Personalia |
 | Tingkat penyelesaian < 60% pada 19 November | Pengingat dari Waket II kepada Kepala Biro terkait |
@@ -636,9 +666,12 @@ KPP kini selesai pada 20 atau 21 November, **jauh sebelum** batas asistensi LPJ 
 
 | Risiko | Dampak | Mitigasi |
 |---|---|---|
-| **Jendela hanya 5–6 hari** dan kehadiran rombongan wajib lengkap | Jadwal sulit disepakati | Rotasi default dan konfirmasi narasumber sejak 9 November, jadwal terkonfirmasi 16 November pukul 21.00, hari cadangan 20 November, aturan udzur (2.3) |
-| Tiga narasumber dari tiga biro sulit hadir bersamaan | Pertemuan tertunda | Narasumber dikonfirmasi sebelum hari-H; Personalia mengganti narasumber dalam 24 jam; bila terpaksa, pertemuan dua sesi dengan foto pada tiap sesi (usulan) |
-| Narasumber kelelahan | Mutu obrolan turun | Kuota maksimal 2 ajakan per individu dan Staf Ahli cadangan |
+| **Jendela hanya 5–6 hari** dan kehadiran rombongan wajib lengkap | Jadwal sulit disepakati | Heads-up ke narasumber sejak 9 November, papan dibuka serentak 15 November pukul 16.24, batas pendaftaran 17 November pukul 12.00, hari cadangan 20 November, aturan udzur (2.3) |
+| Tiga narasumber dari tiga biro sulit hadir bersamaan | Pertemuan tertunda | Rombongan menyepakati tanggal sebelum mendaftar; Personalia memfasilitasi bila terlambat; bila terpaksa, pertemuan dua sesi dengan foto pada tiap sesi (usulan) |
+| Narasumber kelelahan | Mutu obrolan turun | Kuota maksimal 2 ajakan per individu, ditegakkan otomatis oleh papan |
+| Figur populer cepat penuh, rombongan yang mendaftar belakangan kehabisan pilihan lintas biro | Ketimpangan antarbiro | Papan terbuka agar kuota terlihat; ajakan dilatih dengan banyak kandidat; Personalia memfasilitasi setelah 17 November pukul 12.00; jumlah Staf Ahli aktif dicek (2.4) |
+| Rombongan menahan slot tanpa persetujuan narasumber | Kuota terkunci sia-sia | Pendaftaran wajib melampirkan bukti persetujuan; pendaftaran tanpa bukti dibatalkan dan kuota dilepas |
+| Rombongan ragu menghubungi fungsionaris | Pendaftaran terlambat | Contoh pesan undangan, dukungan antaranggota, dan fasilitasi Personalia sebagai jaring pengaman |
 | Tanggal Forum AHWA berubah | Jendela memendek | Konfirmasi paling lambat 6 November; skenario di 4.2 |
 | Publikasi dipahami sebagai tekanan untuk mencalonkan diri | Peserta tidak jujur atau merasa dipaksa | Etika publikasi (2.6): keterangan bernada silaturahmi dan belajar, kesiapan peran dicatat privat lewat Form Minat Peran |
 | Inisial pada sticky membuat peserta menahan kejujuran, terutama di Zona Refleksi Diri | Refleksi dangkal | Akses Zona 2 dibatasi, penulis boleh meminta pembatasan akses, dan kritik diarahkan pada sistem |
@@ -654,12 +687,14 @@ KPP kini selesai pada 20 atau 21 November, **jauh sebelum** batas asistensi LPJ 
 
 | No | Hal | Interpretasi dalam dokumen ini |
 |---|---|---|
-| 1 | Aturan "3 biro yang berbeda" | Berbeda satu sama lain **dan** berbeda dari biro rombongan |
+| 1 | Aturan "3 biro yang berbeda" | **Ditetapkan Ketua:** berbeda satu sama lain **dan** berbeda dari biro rombongan |
 | 2 | Pertemuan | Satu pertemuan bersama dengan ketiga narasumber, agar foto bersama memuat semuanya. Dua sesi hanya sebagai cadangan |
 | 3 | Lembar Refleksi individu | Dihapus karena Zona Refleksi Diri pada Canvas menampung refleksi |
 | 4 | Form Minat Peran | **Dipertahankan** sebagai instrumen individu dan privat, dengan tenggat sama dengan KPP |
 | 5 | Tanggal Forum AHWA JMMI ITS 2026 | Belum tercantum di dokumen sumber; ditaksir 21 atau 22 November |
 | 6 | Kehadiran "lengkap" | Udzur sah diatur lewat penjadwalan ulang atau sesi susulan |
 | 7 | Akun Instagram biro | Diasumsikan ada; kanal pengganti disiapkan bila tidak ada |
-| 8 | Jumlah Staf Ahli per biro | Belum diketahui; rotasi default memerlukan minimal satu Staf Ahli aktif per biro dan cadangan |
+| 8 | Jumlah Staf Ahli aktif | Belum diketahui; agar kuota 2 ajakan dan aturan lintas biro terpenuhi dibutuhkan minimal 8 Staf Ahli aktif, idealnya 16 atau lebih (2.4) |
+| 10 | Jam pembukaan papan (15 November 16.24) dan batas pendaftaran (17 November 12.00) | Usulan penyusun agar semua biro mulai serentak dan jendela 5–6 hari tidak habis untuk mencari narasumber |
+| 11 | Peran Badan Personalia | Memfasilitasi dan menjadi administrator papan; tidak menugaskan narasumber |
 | 9 | Inisial kembar | Diselesaikan dengan angka atau huruf tambahan serta legenda inisial |

@@ -129,7 +129,7 @@ Penyebab keraguan di bawah ini adalah **hipotesis kerja** yang disusun dari kont
 | Beban akademik dan beban organisasi bersaing | Menyebut jadwal kuliah, praktikum, atau tugas akhir | Materi 4 membahas keseimbangan secara jujur; Form Minat Peran mencatat hambatan |
 | Belum melihat nilai dan dampak JMMI bagi dirinya | Menyebut JMMI sebatas "kegiatan" | Materi 4 (essential awareness) |
 | Iklim koordinasi yang membuat frustrasi (rancu, tarik-menarik) | Cerita konflik antar-biro | Materi 2 (jalur), Simulasi (negosiasi sehat), tindak lanjut ke Badan Keorganisasian |
-| Merasa tidak dipersiapkan | Pertanyaan "siapa yang membimbing?" | KPP Ngopi Khidmah (rombongan biro bersowan dengan Kepala Biro dan Staf Ahli aktif dari tiga biro berbeda) |
+| Merasa tidak dipersiapkan | Pertanyaan "siapa yang membimbing?" | KPP Ngopi Khidmah (rombongan biro bersowan dengan Kepala Biro dan Staf Ahli aktif dari tiga biro berbeda, dicari sendiri oleh Staf Muda) |
 
 **Prinsip etis:** keraguan peserta adalah **informasi** yang berharga bagi organisasi, bukan kesalahan. BBM 2 **tidak boleh** menekan peserta agar menyatakan siap. Pengukuran minat bersifat jujur dan sukarela, dan datanya tidak dipakai untuk menghukum atau menandai peserta.
 
@@ -229,7 +229,7 @@ Seluruh narasi "amanah" dan "khidmah" di Materi 4 diturunkan dari nilai-nilai di
 | No | Hal | Alasan penting | Penanggung jawab konfirmasi | Batas waktu konfirmasi |
 |---|---|---|---|---|
 | 1 | **Kapasitas riil** Aula dan Ruang Audiovisual dalam format 8 meja untuk ±110 orang (70 peserta + fasilitator dan pengamat + pemateri + panitia) | Bila kurang, simulasi 8 klaster tidak muat | Ketupel dengan Takmir/Sekretariat | 15 Oktober (bersamaan asistensi proposal, karena venue tercantum di proposal) |
-| 2 | Jumlah dan komposisi riil Staf Muda angkatan 2025 per biro | Menentukan ukuran tim dan pairing KPP | Badan Personalia | 23 Oktober |
+| 2 | Jumlah dan komposisi riil Staf Muda angkatan 2025 per biro | Menentukan ukuran meja simulasi dan jumlah anggota tiap rombongan Ngopi Khidmah | Badan Personalia | 23 Oktober |
 | 3 | Identitas **Best Kabiro BME OKR 2** dan **Kadep Syi'ar** serta kesediaan jadwal | Pemateri M3 dan M4 | Ketupel | 12 Oktober |
 | 4 | Kesediaan Hazal, Waket I, II, III, dan Ketua Badan Keorganisasian pada 15 November | Pemateri M1 dan M2 | Ketupel | 12 Oktober |
 | 5 | Jadwal salat resmi untuk 15 November (perkiraan: Dzuhur ±11.15–11.20, Ashar ±14.35–14.45) | Penempatan jeda | Sie Acara | 10 November |
@@ -297,7 +297,7 @@ Indikator berikut tidak masuk TUK acara, tetapi berguna untuk menilai BBM 2 pada
 | Nama biro ditulis lengkap pada seluruh dokumen. Kode dua huruf hanya di dalam skrip generator | **Final** (arahan Ketua) | ID Tiket memakai nomor relasi R-01 sampai R-16 |
 | Peran tim organik: tidak ada penunjukan jabatan; kepemimpinan emergen diamati non-formal | **Final** (arahan Ketua) | Instrumen dan pengamannya di dokumen 03 bagian 2.5 dan 10 |
 | Pembentukan meja berbasis biro asal; hadir < 3 orang digabung dalam departemen yang sama | **Final** (arahan Ketua) | Mekanisme meja gabungan dua kartu adalah interpretasi penyusun, perlu konfirmasi |
-| KPP: Ngopi Khidmah (rombongan biro, tiga narasumber lintas biro, kuota 2 ajakan, bukti Instagram dan grup komunal) dan 1-Page Canvas Biro Masa Depan (kertas A3 3 zona + sticky notes berinisial) | **Final** (disetujui penuh Ketua Pelaksana) | Detail di dokumen 04. Interpretasi yang perlu konfirmasi ada di dokumen 04 bagian 8 |
+| KPP: Ngopi Khidmah (rombongan biro, tiga narasumber lintas biro yang dicari sendiri, kuota 2 ajakan first-come first-served, bukti Instagram dan grup komunal) dan 1-Page Canvas Biro Masa Depan (kertas A3 3 zona + sticky notes berinisial) | **Final** (disetujui penuh Ketua Pelaksana) | Detail di dokumen 04. Interpretasi yang perlu konfirmasi ada di dokumen 04 bagian 8 |
 | Tenggat KPP: maksimal H-1 Forum AHWA JMMI ITS 2026 (estimasi 20 atau 21 November, durasi efektif 5–6 hari) | **Final** (arahan Ketua); tanggal Forum AHWA **belum dikonfirmasi** | Konfirmasi paling lambat 6 November |
 | Pre-test dan post-test | **Final secara konsep** (arahan Ketua Pelaksana, 8 Oktober 2026) | Butir soal ada di dokumen 04 |
 | Angka TUK (4.4) | **Usulan**, belum disetujui | Perlu persetujuan Ketua |
