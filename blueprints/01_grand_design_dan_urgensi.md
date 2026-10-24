@@ -4,7 +4,7 @@
 **Penyelenggara:** Badan Personalia (B-3), Bidang 2, JMMI ITS Kabinet Ekselensi 2026
 **Ketua Pelaksana:** Bara Ardiwinata
 **Pelaksanaan:** Minggu, 15 November 2026, 08.00–16.30 WIB, Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS
-**Versi dokumen:** 1.0, disusun 8 Oktober 2026 (H-38)
+**Versi dokumen:** 1.1, disusun 8 Oktober 2026 (H-38), diperbarui 24 Oktober 2026 pasca-audiensi (pembingkaian Tata Kelola yang belum final, Materi 2 sebagai prinsip komunikasi lintas tim, zona Canvas *Appreciative Inquiry*)
 **Status:** Knowledge base internal. Dokumen ini bukan proposal resmi. Proposal tetap ditahan sampai ada arahan.
 
 > **Cara membaca seluruh set blueprint.** Dokumen 01 menjelaskan *mengapa* dan *untuk apa*. Dokumen 02 memuat silabus dan rundown. Dokumen 03 memuat juklak Simulasi Taktis. Dokumen 04 memuat evaluasi dan KPP. Dokumen 05 memuat timeline, birokrasi, dan logistik. Artefak operasional ada di folder `main/`: `template_simulasi_taktis.xlsx`, `kartu_skenario_simulasi.md`, dan `generate_template_simulasi.py`.
@@ -17,7 +17,7 @@ JMMI ITS Kabinet Ekselensi 2026 menambahkan satu lapisan baru dalam struktur org
 
 BBM 2 dirancang untuk menutup tiga celah itu pada satu hari tatap muka:
 
-1. **Celah pemahaman hierarki:** siapa memutuskan apa, lewat jalur mana (Materi 1 dan Materi 2).
+1. **Celah pemahaman hierarki dan komunikasi lintas tim:** siapa memutuskan apa menurut konvensi struktur saat ini (Materi 1), serta bagaimana berkomunikasi, berkolaborasi, dan mengeskalasi dengan beretika (Materi 2).
 2. **Celah kepemimpinan biro:** cara memimpin tim, mendelegasikan, dan menyelesaikan konflik (Materi 3 dan Simulasi Taktis).
 3. **Celah kesiapan mental dan kesadaran keberlanjutan:** alasan batin dan kebanggaan untuk melanjutkan estafet (Materi 4).
 
@@ -33,11 +33,11 @@ Pesertanya adalah **Staf Muda angkatan 2025, sekitar 50–70 orang**. Alurnya **
 |---|---|---|
 | Waktu | Mei 2026 | Minggu, 15 November 2026 |
 | Fokus | Ilmu manajerial dasar | Regenerasi, hierarki struktural, dan awareness keberlanjutan JMMI |
-| Materi | Analisis kondisi lingkungan, perumusan gagasan awal, TUK, penjadwalan, kepanitiaan | Arsitektur amanah, jalur koordinasi dan SOP, kepemimpinan biro, essential awareness dan khidmah |
+| Materi | Analisis kondisi lingkungan, perumusan gagasan awal, TUK, penjadwalan, kepanitiaan | Arsitektur amanah, prinsip komunikasi dan kolaborasi lintas tim, kepemimpinan biro, essential awareness dan khidmah |
 | Tujuan | Menyiapkan Staf Muda mengeksekusi proker mereka | Menyiapkan Staf Muda menjadi Kepala Biro atau Staf Ahli pada kepengurusan berikutnya |
 | Kaitan | Dasar teknik perencanaan program | Memakai dasar BBM 1, tetapi menggeser fokus dari **mengelola program** ke **memimpin dalam struktur** |
 
-Konsekuensi desain: BBM 2 **tidak mengulang** teori TUK, penjadwalan, dan kepanitiaan. Materi 3 hanya membahas kepemimpinan dari sisi praktisi, dan Simulasi Taktis menguji pemahaman struktur, bukan teknik perencanaan.
+Konsekuensi desain: BBM 2 **tidak mengulang** teori TUK, penjadwalan, dan kepanitiaan. Materi 3 hanya membahas kepemimpinan dari sisi praktisi, dan Simulasi Taktis menguji pemahaman struktur (sebagai simulasi berbasis konvensi struktur kabinet saat ini), bukan teknik perencanaan.
 
 ### 1.2 Restrukturisasi Organogram
 
@@ -98,7 +98,7 @@ BBM 2 adalah intervensi penutup celah kesiapan, yaitu kesiapan **mental, pemaham
 | Dimensi | Kondisi yang teramati | Akibat | Respons BBM 2 |
 |---|---|---|---|
 | **Mental** | Pengurus tahun ke-2 mendadak memegang peran struktural yang tidak ada pada tahun sebelumnya. Mereka tidak punya contoh pendahulu pada lapisan yang sama. | Ragu mengambil keputusan, takut salah, ragu terhadap batas wewenang | Materi 3 (cerita praktisi), Materi 4 (kebanggaan dan amanah) |
-| **Pemahaman hierarki** | Wewenang Kabiro, Kadep, dan Staf Ahli berdekatan, dan jalur "komando" bercampur dengan "koordinasi langsung" | Instruksi ganda, lompat jalur, keputusan diambil pada tingkat yang salah | Materi 1 (peta wewenang), Materi 2 (jalur), Simulasi Taktis |
+| **Pemahaman hierarki** | Wewenang Kabiro, Kadep, dan Staf Ahli berdekatan, dan jalur "komando" bercampur dengan "koordinasi langsung" | Instruksi ganda, lompat jalur, keputusan diambil pada tingkat yang salah | Materi 1 (peta wewenang menurut konvensi saat ini), Materi 2 (prinsip koordinasi dan etika eskalasi), Simulasi Taktis |
 | **Kepemimpinan biro** | Pengurus yang sebelumnya pelaksana kini harus membagi tugas, membina, dan menjaga komitmen anggota | Delegasi tidak jelas, Staf Ahli dan Kabiro berbagi peran secara tidak tertulis, komitmen anggota naik turun | Materi 3, Simulasi Taktis |
 
 ### 2.2 Ambiguitas Pasal Tata Kelola (Komando vs Koordinasi dan Lainnya)
@@ -107,7 +107,7 @@ Temuan berikut berasal dari pembacaan teks dokumen `tata_kelola_organisasi_jmmi_
 
 | No | Temuan | Lokasi | Dampak | Rekomendasi tindak lanjut |
 |---|---|---|---|---|
-| 1 | "Satu jalur komando" bersanding dengan "koordinasi langsung" tanpa batas operasional: kapan cukup **diketahui**, kapan harus **izin**? | 5.5.1; 5.5.2.5 (Bidang 1), 5.5.2.6 (Bidang 2), 5.5.2.7 (Bidang 3) | Biro tidak yakin kapan boleh menghubungi biro lain langsung | Buat definisi tertulis tiga tingkat: *mengetahui*, *meminta persetujuan*, *memerintah*. Dalam BBM 2 dijembatani lewat "tabel wewenang" (Materi 1) dan aturan arah (Simulasi) |
+| 1 | "Satu jalur komando" bersanding dengan "koordinasi langsung" tanpa batas operasional: kapan cukup **diketahui**, kapan harus **izin**? | 5.5.1; 5.5.2.5 (Bidang 1), 5.5.2.6 (Bidang 2), 5.5.2.7 (Bidang 3) | Biro tidak yakin kapan boleh menghubungi biro lain langsung | Buat definisi tertulis tiga tingkat: *mengetahui*, *meminta persetujuan*, *memerintah*. Dalam BBM 2 dijembatani lewat "tabel wewenang" (Materi 1), **tiga tingkat koordinasi sebagai prinsip universal** (memberi tahu, meminta persetujuan, memutuskan bersama; Materi 2), dan aturan arah (Simulasi) |
 | 2 | **Sekretaris Pelaksana** muncul di alur eksekutif (5.5.2.3) dan alur kesekretariatan (5.5.2.4), tetapi **tidak ada** di bagan biro (5.2: Ketua Biro, Staf Ahli, Staf Muda) | 5.2, 5.5.2.3, 5.5.2.4 | Tidak jelas siapa Sekretaris Pelaksana di tingkat biro dan kepada siapa ia bertanggung jawab | Tegaskan bahwa Sekretaris Pelaksana adalah **peran kepanitiaan per proker** (praktik di deck Musyker: dijabat Staf Ahli atau Staf Muda), bukan jabatan biro |
 | 3 | **Asisten Departemen** disebut di 5.5.2.2, tetapi bagan departemen di 5.2 hanya memuat Ketua dan Sekretaris Bendahara | 5.2, 5.5.2.2 | Kebingungan jumlah unsur di departemen | Selaraskan bagan atau hapus rujukan Asisten Departemen |
 | 4 | Pasal **Ketua Departemen** (5.6.6) memuat teks yang tampak disalin dari Ketua Badan (mis. "Asisten Badan", "tugas internal badan") pada bagian Tugas | 5.6.6 | Wewenang Kadep tidak setegas yang dibutuhkan untuk membedakan dari Kabiro | Revisi pasal 5.6.6 agar memuat tugas khas departemen saja |
@@ -117,6 +117,12 @@ Temuan berikut berasal dari pembacaan teks dokumen `tata_kelola_organisasi_jmmi_
 | 8 | **SOP Peminjaman Inventaris (6.3)** hanya mengatur peminjaman inventaris sekretariat lewat Sekretaris Umum (tujuan baik, menjaga kondisi barang sesuai saat pengambilan). Tidak ada ketentuan tarif sewa, deposit, atau denda. Padahal Biro Usaha Mandiri menjalankan GoRent (penyewaan perlengkapan) | 6.3, deck Musyker Usaha Mandiri | Peminjaman antar-biro atas alat GoRent berjalan tanpa aturan tertulis tentang harga internal dan ganti rugi | Tegaskan hubungan antara peminjaman inventaris sekretariat (6.3) dan layanan GoRent. Tetapkan tarif internal, deposit, dan klausul ganti rugi secara tertulis (Kadep RnA bersama Sekum dan Bendum). Dalam Simulasi Taktis hal ini menjadi bahan negosiasi antara Biro Manajemen Event dan Biro Usaha Mandiri |
 
 **Catatan penting:** SOP 6.2 (Arsip), 6.3 (Peminjaman Inventaris), dan 6.4 (Permintaan Media) telah dikaji pada 8 Oktober 2026 dan dirangkum pada dokumen 02 dan 05. Gambar alur peminjaman inventaris (6.3 a) dan flowchart lain tidak ikut terbaca. Pemateri Materi 2 tetap memverifikasi versi terbaru sebelum slide final.
+
+**Status Tata Kelola dan pembingkaian BBM 2 (keputusan Ketua Pelaksana, pasca-audiensi).** Tata Kelola Kabinet Ekselensi 2026 belum disahkan secara final, dan belum pasti apakah kepengurusan berikutnya mempertahankan organogram dan SOP yang sama. Konsekuensi desain:
+1. **Materi 2 tidak mengajarkan SOP kaku.** Fokusnya prinsip komunikasi, kolaborasi lintas tim, dan etika eskalasi, ditambah segmen adaptabilitas. Detail administrasi (surat, proposal, SPJ, LPJ, request media, inventaris) hanya tampil sebagai **Lembar Konvensi Sementara** yang dibagikan sebagai rujukan, tidak diajarkan dan tidak diujikan.
+2. **Materi 1 dan Simulasi Taktis dibingkai sebagai "simulasi berbasis konvensi struktur kabinet saat ini".** Peserta berlatih dalam struktur yang berlaku, sambil memahami bahwa prinsipnya bertahan walau bentuknya berubah.
+3. **Ketidakfinalan dijadikan kekuatan.** Materi 2 menjaring masukan anonim peserta tentang bagian yang rancu sebagai bahan penyempurnaan oleh Badan Keorganisasian. Temuan 1–8 pada tabel di atas menjadi agenda internal.
+4. **Instrumen evaluasi** (butir pre-test dan post-test 6–12) menguji prinsip dan skenario, bukan hafalan angka atau pasal.
 
 ### 2.3 Risiko Resistensi Kader Staf Muda
 
@@ -128,14 +134,14 @@ Penyebab keraguan di bawah ini adalah **hipotesis kerja** yang disusun dari kont
 | Peran tidak jelas, sehingga takut salah langkah | Pertanyaan "ini wewenang siapa?" | Materi 1 dan 2, Simulasi Taktis (berlatih tanpa risiko) |
 | Beban akademik dan beban organisasi bersaing | Menyebut jadwal kuliah, praktikum, atau tugas akhir | Materi 4 membahas keseimbangan secara jujur; Form Minat Peran mencatat hambatan |
 | Belum melihat nilai dan dampak JMMI bagi dirinya | Menyebut JMMI sebatas "kegiatan" | Materi 4 (essential awareness) |
-| Iklim koordinasi yang membuat frustrasi (rancu, tarik-menarik) | Cerita konflik antar-biro | Materi 2 (jalur), Simulasi (negosiasi sehat), tindak lanjut ke Badan Keorganisasian |
+| Iklim koordinasi yang membuat frustrasi (rancu, tarik-menarik) | Cerita konflik antar-biro | Materi 2 (prinsip koordinasi dan etika eskalasi), Simulasi (negosiasi sehat), tindak lanjut ke Badan Keorganisasian lewat penjaringan masukan di Materi 2 |
 | Merasa tidak dipersiapkan | Pertanyaan "siapa yang membimbing?" | KPP Ngopi Khidmah (rombongan biro bersowan dengan Kepala Biro dan Staf Ahli aktif dari tiga biro berbeda, dicari sendiri oleh Staf Muda) |
 
 **Prinsip etis:** keraguan peserta adalah **informasi** yang berharga bagi organisasi, bukan kesalahan. BBM 2 **tidak boleh** menekan peserta agar menyatakan siap. Pengukuran minat bersifat jujur dan sukarela, dan datanya tidak dipakai untuk menghukum atau menandai peserta.
 
 ### 2.4 Pertanyaan Kunci BBM 2
 
-1. Apakah calon pengisi lapisan Biro mampu menjelaskan siapa memutuskan apa, dan lewat jalur mana?
+1. Apakah calon pengisi lapisan Biro mampu menjelaskan siapa memutuskan apa (menurut konvensi saat ini), serta berkoordinasi dan mengeskalasi dengan beretika?
 2. Apakah mereka punya gambaran praktis memimpin tim biro: delegasi, bonding, dan konflik?
 3. Apakah mereka punya alasan batin yang kokoh, atau setidaknya alasan jujur, untuk melanjutkan?
 4. Apakah organisasi memperoleh data yang jelas tentang kesiapan dan hambatan calon penerus?
@@ -191,7 +197,7 @@ Seluruh narasi "amanah" dan "khidmah" di Materi 4 diturunkan dari nilai-nilai di
 | Modul | Pasal rujukan utama |
 |---|---|
 | M1 Arsitektur Amanah | 5.2, 5.3, 5.4, 5.5.2.3, 5.5.2.5–5.5.2.7, 5.6.6, 5.6.9–5.6.11 |
-| M2 Simpul Organisasi | 5.5.1, 5.5.2.4, 5.5.2.7, 6.1 (6.1.1–6.1.6), 6.4 (terutama 6.4.12–6.4.13) |
+| M2 Simpul Organisasi | Prinsip lintas pasal; konvensi saat ini hanya sebagai contoh: 5.5.1, 5.5.2.7, 7.1.1. Lembar Konvensi Sementara (rujukan, tidak diujikan): 6.1, 6.3, 6.4 |
 | M3 Seni Eksekusi | 5.6.9, 5.6.10, 5.6.11, 7.1.1, 7.1.2, 7.1.3 |
 | M4 Saujana Manarul Ilmi | Bab II (2.2, 2.5–2.7, 2.14), Pilar F dan B (3.3), Mukadimah |
 | Simulasi Taktis | 5.5.1, 5.5.2.5–5.5.2.7, 5.6.9, 6.4.12 |
@@ -249,7 +255,7 @@ Seluruh narasi "amanah" dan "khidmah" di Materi 4 diturunkan dari nilai-nilai di
 | K2 | Rerata skor pemahaman post-test | ≥ 75 dari 100 | Post-test (13 butir pilihan ganda) | 15 Nov, 16.00 |
 | K3 | N-Gain rerata kelompok (pre → post) | ≥ 0,40 (kategori sedang) | Pre-test dan post-test | 15 Nov |
 | K4 | Proporsi peserta dengan skor post-test ≥ 70 | ≥ 80% | Post-test | 15 Nov |
-| K5 | Ketepatan menjawab butir jalur eskalasi dan wewenang (butir 3, 4, 5, 6, 7, 13) | ≥ 80% benar pada post-test | Post-test | 15 Nov |
+| K5 | Ketepatan menjawab butir wewenang serta prinsip koordinasi dan eskalasi (butir 3, 4, 5, 6, 7, 13) | ≥ 80% benar pada post-test | Post-test | 15 Nov |
 | K6 | Relasi koordinasi berstatus *Deal* pada Papan Jaring | ≥ 12 dari 16 relasi (75%) | `PAPAN_JARING` | 15 Nov, 14.00 |
 | K7 | Pelanggaran arah per biro pada simulasi | Rata-rata ≤ 1 | `SKOR_EVALUASI` | 15 Nov |
 | K8 | Biro yang mengisi Blok E (keputusan final) dan memperoleh persetujuan Kadep | 8 dari 8 | `PAPAN_JARING` (papan keputusan) | 15 Nov |
@@ -265,11 +271,11 @@ Seluruh narasi "amanah" dan "khidmah" di Materi 4 diturunkan dari nilai-nilai di
 | Kode | Indikator | Cara menilai |
 |---|---|---|
 | Q1 | Peserta mampu menjelaskan dengan kata sendiri perbedaan peran Kabiro, Staf Ahli, dan Kadep | Observasi fasilitator pada debrief, jawaban terbuka post-test |
-| Q2 | Peserta menunjukkan perilaku jalur yang benar saat simulasi (eskalasi tepat, tidak mengambil keputusan di luar wewenang, adab komunikasi) | Rubrik `SKOR_EVALUASI` (kriteria 3 dan 5) |
+| Q2 | Peserta menunjukkan perilaku koordinasi yang tepat saat simulasi (eskalasi tepat, tidak mengambil keputusan di luar wewenang, adab komunikasi) | Rubrik `SKOR_EVALUASI` (kriteria 3 dan 5) |
 | Q3 | Kualitas negosiasi: kesepakatan konkret, seimbang, dapat dieksekusi | Rubrik kriteria 2 |
 | Q4 | Peserta menyampaikan alasan pribadi yang kuat atau keraguan yang jujur | Jawaban terbuka post-test, Ngopi Khidmah, Form Minat Peran |
 | Q5 | Suasana kekeluargaan dan kebanggaan pada sesi penutup | Catatan observasi, jawaban terbuka |
-| Q6 | Kualitas analisis dan inovasi pada 1-Page Canvas | Rubrik Canvas (dokumen 04) |
+| Q6 | Kualitas praktik baik, peluang tumbuh, serta asa dan terobosan pada 1-Page Canvas (pendekatan *Appreciative Inquiry*) | Rubrik Canvas (dokumen 04) |
 | Q7 | Pola kontribusi dan kepemimpinan yang tumbuh organik pada Simulasi Taktis terpetakan untuk pembinaan, termasuk peran pendukung dan penengah, bukan hanya yang paling vokal | Lembar Observasi Kepemimpinan Emergen (dokumen 03, bagian 10), akses terbatas Badan Personalia |
 
 #### Keterhubungan dengan LPJ
@@ -293,11 +299,14 @@ Indikator berikut tidak masuk TUK acara, tetapi berguna untuk menilai BBM 2 pada
 | Tempat: Aula / Ruang Audiovisual MMI | **Final**, kapasitas menunggu verifikasi | Lihat 4.3 butir 1 |
 | Judul sesi: Arsitektur Amanah, Simpul Organisasi, Seni Eksekusi, Simulasi Taktis, Saujana Manarul Ilmi | **Final** | Konfirmasi Ketupel |
 | Pemateri: M1 Hazal + Waket I, II; M2 Ketua Badan Keorg + Waket III; M3 Best Kabiro BME OKR 2; M4 Kadep Syi'ar | **Final** | Konfirmasi Ketupel |
+| Materi 2 dibingkai ulang: **Prinsip Komunikasi, Kolaborasi Lintas Tim, dan Etika Eskalasi**, dengan segmen adaptabilitas (Opsi A) | **Final** (keputusan Ketua Pelaksana, pasca-audiensi 24 Oktober 2026) | Alasan: Tata Kelola belum final. Detail di dokumen 02 bagian 3.2 |
+| Materi 1 dan Simulasi Taktis dibingkai sebagai "simulasi berbasis konvensi struktur kabinet saat ini" | **Final** (keputusan Ketua Pelaksana) | Dokumen 02 dan 03 |
+| Butir pre-test dan post-test Materi 2 (butir 6–12) menguji prinsip koordinasi dan skenario etika eskalasi, bukan hafalan angka atau pasal | **Final** (keputusan Ketua Pelaksana) | Dokumen 04 bagian 1.4 |
 | Simulasi: 1 ronde terpadu **40 menit** (P1 5', P2 25', P3 5', P4 5'), 8 biro, 16 relasi asimetris, 3 inject (menit 10, 17, 22), Google Sheets | **Final** (revisi durasi atas arahan Ketua) | Artefak di `main/` |
 | Nama biro ditulis lengkap pada seluruh dokumen. Kode dua huruf hanya di dalam skrip generator | **Final** (arahan Ketua) | ID Tiket memakai nomor relasi R-01 sampai R-16 |
 | Peran tim organik: tidak ada penunjukan jabatan; kepemimpinan emergen diamati non-formal | **Final** (arahan Ketua) | Instrumen dan pengamannya di dokumen 03 bagian 2.5 dan 10 |
 | Pembentukan meja berbasis biro asal; hadir < 3 orang digabung dalam departemen yang sama | **Final** (arahan Ketua) | Mekanisme meja gabungan dua kartu adalah interpretasi penyusun, perlu konfirmasi |
-| KPP: Ngopi Khidmah (rombongan biro, tiga narasumber lintas biro yang dicari sendiri, kuota 2 ajakan first-come first-served, bukti Instagram dan grup komunal) dan 1-Page Canvas Biro Masa Depan (kertas A3 3 zona + sticky notes berinisial) | **Final** (disetujui penuh Ketua Pelaksana) | Detail di dokumen 04. Interpretasi yang perlu konfirmasi ada di dokumen 04 bagian 8 |
+| KPP: Ngopi Khidmah (rombongan biro, tiga narasumber lintas biro yang dicari sendiri, kuota 2 ajakan first-come first-served, bukti Instagram dan grup komunal) dan 1-Page Canvas Biro Masa Depan (kertas A3 + sticky notes berinisial; tiga zona *Appreciative Inquiry*: **Cahaya Biro** (Warisan Baik yang Kita Jaga), **Ruang Tumbuh** (Peluang yang Ingin Kita Jelajahi), **Asa dan Terobosan** (Estafet Kita Selanjutnya)) | **Final** (disetujui penuh Ketua Pelaksana; nama zona dan topik ketiga Ngopi Khidmah ("Kekuatan biro dan hal yang ingin dikembangkan bersama") ditetapkan pasca-audiensi) | Detail di dokumen 04. Interpretasi yang perlu konfirmasi ada di dokumen 04 bagian 8 |
 | Tenggat KPP: maksimal H-1 Forum AHWA JMMI ITS 2026 (estimasi 20 atau 21 November, durasi efektif 5–6 hari) | **Final** (arahan Ketua); tanggal Forum AHWA **belum dikonfirmasi** | Konfirmasi paling lambat 6 November |
 | Pre-test dan post-test | **Final secara konsep** (arahan Ketua Pelaksana, 8 Oktober 2026) | Butir soal ada di dokumen 04 |
 | Angka TUK (4.4) | **Usulan**, belum disetujui | Perlu persetujuan Ketua |

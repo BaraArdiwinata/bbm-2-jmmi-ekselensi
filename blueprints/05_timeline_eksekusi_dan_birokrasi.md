@@ -49,7 +49,7 @@
 | Tanggal | H | Kegiatan | PIC | Keluaran |
 |---|---|---|---|---|
 | Senin 2 Nov | H-13 | Ajukan surat peminjaman tempat dan fasilitas, surat undangan pemateri | Sekpel | Pengajuan surat |
-| Senin 2 – Jumat 6 Nov | H-13 s.d. H-9 | **Validasi kasus dan angka simulasi** dengan Kabiro terkait. Validasi isi SOP M2 bersama Sekum dan Bendum | Sie Simulasi, Pemateri M2 | Kartu dan angka final |
+| Senin 2 – Jumat 6 Nov | H-13 s.d. H-9 | **Validasi kasus dan angka simulasi** dengan Kabiro terkait. Validasi Lembar Konvensi Sementara (handout M2) bersama Sekum dan Bendum, serta tinjauan butir tes 6–12 oleh Ketua Badan Keorganisasian dan Waket III | Sie Simulasi, Pemateri M2 | Kartu dan angka final |
 | Selasa 3 Nov | H-12 | Ajukan surat undangan peserta dan pemberitahuan | Sekpel | Pengajuan surat |
 | Kamis 5 Nov | H-10 | Ajukan form request media untuk dokumentasi hari-H | Sie Dokumentasi | Form request |
 | Jumat 6 Nov | H-9 | Ajukan surat tugas panitia dan fasilitator; RSVP peserta ditutup. **Konfirmasi tanggal Forum AHWA JMMI ITS 2026** untuk menetapkan tenggat KPP | Sekpel, Sie Registrasi, Ketupel | Daftar peserta final; tenggat KPP pasti |
@@ -294,18 +294,18 @@ Panitia dan fasilitator dapat saling tumpang tindih. Angka di atas adalah batas 
 | Lanyard | 115 | — |
 | Amplop tersegel Kartu Rahasia | **8** (+2 cadangan) | Satu per meja, berisi **2 salinan** kartu (1–2 halaman) agar seluruh anggota membaca bersamaan dalam 5 menit. Meja gabungan menerima dua amplop |
 | Papan nama meja biro (nama lengkap biro) | 8 | Berwarna sesuai biro |
-| Handout "Peta Jalur" (1 halaman) | 80 | Dari dokumen 02, bagian 3.2 C |
+| Handout M2 dua halaman: "Prinsip dan Skrip Koordinasi" dan Lembar Konvensi Sementara | 80 | Dari dokumen 02, bagian 3.2 C dan G. Lembar Konvensi Sementara dicetak setelah divalidasi Sekum dan Bendum |
 | Handout tabel wewenang | 80 | Dari dokumen 02, bagian 3.1 E |
 | Poster QR pre-test dan post-test (A3) | 4 | Registrasi dan ruangan |
 | Poster QR tautan tab biro | 8 | Satu per meja |
-| **Kit fisik KPP: kertas A3 berzona 3 kolom** | **16** (8 + 8 cadangan) | Satu per biro; garis zona dan judul dicetak |
-| **Kit fisik KPP: sticky notes aneka warna (3 warna)** | **±700 lembar** (3 warna × 3 lembar × peserta, +10%) | Satu warna per zona; dikemas per biro menurut jumlah anggota |
+| **Kit fisik KPP: kertas A3 berzona 3 kolom** | **16** (8 + 8 cadangan) | Satu per biro; garis zona dan judul dicetak: **Cahaya Biro (Warisan Baik yang Kita Jaga)**, **Ruang Tumbuh (Peluang yang Ingin Kita Jelajahi)**, **Asa dan Terobosan (Estafet Kita Selanjutnya)**, beserta pertanyaan pemandu. Teks dan nama zona harus final sebelum cetak (sekitar 10 November) |
+| **Kit fisik KPP: sticky notes aneka warna (3 warna)** | **±700 lembar** (3 warna × 3 lembar × peserta, +10%) | Satu warna per zona (usulan: kuning = Cahaya Biro, hijau = Ruang Tumbuh, biru = Asa dan Terobosan); dikemas per biro menurut jumlah anggota |
 | **Kit fisik KPP: spidol tebal hitam** | 40 (+8 cadangan) | 1 per 2 anggota |
 | **Kit fisik KPP: selotip kertas** | 8 | Memperkuat sticky yang mudah lepas |
 | **Kit fisik KPP: map plastik A3** | 8 | Menjaga kertas tidak kusut |
 | Selebaran aturan Canvas dan Ngopi Khidmah (1 halaman) | 8 | Satu per biro |
 | Panduan narasumber dan contoh pesan undangan (1 halaman) | 8 (+ versi digital) | Satu per biro; diteruskan rombongan kepada narasumber yang mereka hubungi |
-| Kertas flipchart | 8 lembar | Latihan jalur (M2) |
+| Kertas flipchart | 8 lembar | Latihan berpasangan (M2) dan penjaringan masukan peserta, bila tidak memakai formulir daring |
 | Spidol | 16 | — |
 | Pulpen dan kertas catatan | 80 | — |
 | Stopwatch | 2 | Pengendali waktu |

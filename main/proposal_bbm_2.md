@@ -105,14 +105,14 @@ Adapun kegiatan Islami yang akan kami selenggarakan adalah **Be A Better Muslim 
 
 Kabinet Ekselensi JMMI ITS 2026 menata organisasi dengan satu lapisan baru, yaitu Biro, sehingga alur kepengurusan berubah dari Badan Pengurus Inti–Departemen menjadi Badan Pengurus Inti–Departemen–Biro. Lapisan ini diisi pengurus tahun ke-2 yang pada periode sebelumnya masih berstatus Staf Muda: Kepala Biro dan Staf Ahli kini memimpin delapan biro yang menjalankan program kerja di bawah koordinasi empat departemen. Penataan ini sejalan dengan misi kabinet untuk mewujudkan tata kelola yang transparan, terukur, dan bertanggung jawab. Namun, evaluasi internal menunjukkan bahwa peralihan peran berlangsung lebih cepat daripada kesiapan pemahaman: wewenang Kepala Biro, Kepala Departemen, dan Staf Ahli masih saling berdekatan, alur koordinasi dan birokrasi masih sering rancu, dan sebagian Staf Muda belum yakin melanjutkan khidmah pada peran struktural.
 
-Regenerasi tidak dapat diserahkan pada keberuntungan. Pilar F Kabinet Ekselensi menegaskan Tata Kelola, Regenerasi, dan Kemandirian Sumber Daya, dan sejarah JMMI menunjukkan bahwa keberlanjutan dakwah kampus bertumpu pada kaderisasi yang berjenjang serta budaya kerja yang hidup, bukan pada figur. Setelah Be A Better Muslim I membekali Staf Muda dengan manajemen program dasar, Badan Personalia menyelenggarakan Be A Better Muslim II (BBM 2) bagi Staf Muda angkatan 2025 sebagai calon Kepala Biro dan Staf Ahli: memahami hierarki dan jalur koordinasi, berlatih memimpin dan bernegosiasi melalui Simulasi Taktis, serta menumbuhkan kesadaran bahwa kepemimpinan di JMMI adalah amanah dan khidmah. Rangkaian ini ditutup dengan Kegiatan Pasca Pelatihan yang menjadi bekal suksesi sebelum Forum AHWA JMMI ITS 2026.
+Regenerasi tidak dapat diserahkan pada keberuntungan. Pilar F Kabinet Ekselensi menegaskan Tata Kelola, Regenerasi, dan Kemandirian Sumber Daya, dan sejarah JMMI menunjukkan bahwa keberlanjutan dakwah kampus bertumpu pada kaderisasi yang berjenjang serta budaya kerja yang hidup, bukan pada figur. Setelah Be A Better Muslim I membekali Staf Muda dengan manajemen program dasar, Badan Personalia menyelenggarakan Be A Better Muslim II (BBM 2) bagi Staf Muda angkatan 2025 sebagai calon Kepala Biro dan Staf Ahli: memahami hierarki menurut konvensi struktur kabinet saat ini serta prinsip komunikasi dan kolaborasi lintas tim, berlatih memimpin dan bernegosiasi melalui Simulasi Taktis, serta menumbuhkan kesadaran bahwa kepemimpinan di JMMI adalah amanah dan khidmah. Rangkaian ini ditutup dengan Kegiatan Pasca Pelatihan yang menjadi bekal suksesi sebelum Forum AHWA JMMI ITS 2026.
 
 ### 1.2 Tujuan
 
 Adapun tujuan dilaksanakannya kegiatan ini adalah:
 
 1. Menyiapkan kesiapan manajerial dan mental Staf Muda angkatan 2025 sebagai calon Kepala Biro dan Staf Ahli pada kepengurusan berikutnya;
-2. Meluruskan pemahaman tentang hierarki, pembagian wewenang, jalur koordinasi, eskalasi, dan birokrasi administrasi (proposal, SPJ, LPJ, serta permintaan media) menurut Tata Kelola JMMI ITS;
+2. Meluruskan pemahaman tentang hierarki dan pembagian wewenang menurut konvensi struktur kabinet saat ini, serta membekali prinsip komunikasi, kolaborasi lintas tim, dan etika eskalasi yang tetap relevan meskipun struktur berubah;
 3. Melatih kemampuan negosiasi, pengambilan keputusan bersama, dan komunikasi lintas biro melalui Simulasi Taktis;
 4. Menumbuhkan kesadaran khidmah, rasa memiliki, dan kebanggaan ber-JMMI sebagai landasan keberlanjutan regenerasi; dan
 5. Menghimpun data kesiapan, hambatan, dan minat peran calon penerus melalui Kegiatan Pasca Pelatihan sebagai bahan pembinaan dan perencanaan suksesi.
@@ -120,14 +120,14 @@ Adapun tujuan dilaksanakannya kegiatan ini adalah:
 ### 1.3 Manfaat
 
 **Bagi peserta**
-1. Memperoleh pemahaman yang jelas tentang posisi, wewenang, dan batas peran dalam struktur Kepala Biro, Staf Ahli, Kepala Departemen, dan Badan Pengurus Inti;
+1. Memperoleh pemahaman yang jelas tentang posisi, wewenang, dan batas peran dalam struktur Kepala Biro, Staf Ahli, Kepala Departemen, dan Badan Pengurus Inti menurut konvensi saat ini, serta bekal komunikasi dan kolaborasi lintas tim yang beretika;
 2. Memperoleh bekal praktis memimpin tim, mendelegasikan tugas, menjaga komitmen, dan menyelesaikan konflik;
 3. Memperoleh pengalaman langsung bekerja di bawah tekanan lintas biro, serta kesempatan bertanya kepada Kepala Biro dan Staf Ahli aktif.
 
 **Bagi keberlanjutan regenerasi JMMI**
 1. Terbentuknya calon penerus yang memahami tata kelola dan siap mengemban amanah;
 2. Terhimpunnya data kesiapan dan hambatan kader sebagai dasar pembinaan serta pemetaan kebutuhan peran;
-3. Terdokumentasinya evaluasi dan gagasan perbaikan tiap biro sebagai masukan bagi penyempurnaan tata kelola.
+3. Terdokumentasinya praktik baik, peluang tumbuh, dan gagasan terobosan tiap biro, serta masukan peserta, sebagai bahan bagi penyempurnaan tata kelola.
 
 **Bagi kampus Institut Teknologi Sepuluh Nopember**
 1. Terjaganya kesinambungan organisasi dakwah kampus yang menjadi poros pembinaan keislaman dan pelayanan sivitas akademika;
@@ -160,25 +160,25 @@ Kegiatan ini merupakan rangkaian upgrading kader JMMI ITS berupa pelatihan satu 
 
 | Tahap | Modul | Pokok bahasan | Pemateri |
 |---|---|---|---|
-| **Paham** | Materi 1: “Arsitektur Amanah” | Hierarki, Fungsionaris dan Eksekutif, transisi organogram, serta peta wewenang Kepala Biro, Staf Ahli, Staf Muda, dan Kepala Departemen | Ketua Umum JMMI ITS, Wakil Ketua I, dan Wakil Ketua II |
-| **Paham** | Materi 2: “Simpul Organisasi” | Jalur koordinasi, eskalasi, SOP administrasi (proposal, SPJ, LPJ), permintaan media, dan jalur kerja sama eksternal | Ketua Badan Keorganisasian dan Wakil Ketua III |
+| **Paham** | Materi 1: “Arsitektur Amanah” | Hierarki, Fungsionaris dan Eksekutif, transisi organogram, serta peta wewenang Kepala Biro, Staf Ahli, Staf Muda, dan Kepala Departemen menurut konvensi struktur kabinet saat ini | Ketua Umum JMMI ITS, Wakil Ketua I, dan Wakil Ketua II |
+| **Paham** | Materi 2: “Simpul Organisasi” | Prinsip komunikasi dan kolaborasi lintas tim: musyawarah, koordinasi asertif, etika eskalasi, diplomasi internal, serta adaptabilitas ketika struktur berubah | Ketua Badan Keorganisasian dan Wakil Ketua III |
 | **Mampu** | Materi 3: “Seni Eksekusi” | Memimpin tim biro, menyusun proker yang realistis, delegasi, bonding, dan penyelesaian konflik dari sudut pandang praktisi | Best Kepala Biro Manajemen Event periode OKR 2 |
 | **Mau** | Materi 4: “Saujana Manarul Ilmi” | Essential awareness, peran strategis JMMI di ITS, kebanggaan, dan ajakan berkhidmah | Kepala Departemen Syi’ar |
 
 **b. Simulasi Taktis (40 menit)**
 
-Simulasi Taktis adalah satu ronde permainan koordinasi lintas biro berbasis Google Sheets. Delapan biro, yaitu Biro Manajemen Event, Biro Pengabdian Masyarakat, Biro Kajian & Inovasi Dakwah, Biro Usaha Mandiri, Biro Amaliyah Yaumiyah, Biro Digital Production, Biro Media Analysis & Strategi, serta Biro Relasi & Hubungan Eksternal, menjalankan proker masing-masing secara bersamaan. Setiap meja diisi Staf Muda dari biro asalnya, tanpa penunjukan jabatan sehingga kepemimpinan tumbuh secara organik. Ketergantungan antar-biro bersifat searah: tiap biro hanya boleh memulai koordinasi ke dua biro tujuan, sehingga terbentuk 16 relasi kerja. Peserta bernegosiasi dengan kapasitas terbatas, mengeskalasi persoalan kepada Kepala Departemen, dan menghadapi tiga dinamika lapangan (kapasitas media turun, instruksi ganda, dan pengambil kendali berhalangan). Sesi dilanjutkan debrief selama 25 menit yang mengaitkan temuan dengan pasal Tata Kelola.
+Simulasi Taktis adalah satu ronde permainan koordinasi lintas biro berbasis Google Sheets, dibingkai sebagai simulasi berbasis konvensi struktur kabinet saat ini. Delapan biro, yaitu Biro Manajemen Event, Biro Pengabdian Masyarakat, Biro Kajian & Inovasi Dakwah, Biro Usaha Mandiri, Biro Amaliyah Yaumiyah, Biro Digital Production, Biro Media Analysis & Strategi, serta Biro Relasi & Hubungan Eksternal, menjalankan proker masing-masing secara bersamaan. Setiap meja diisi Staf Muda dari biro asalnya, tanpa penunjukan jabatan sehingga kepemimpinan tumbuh secara organik. Ketergantungan antar-biro bersifat searah: tiap biro hanya boleh memulai koordinasi ke dua biro tujuan, sehingga terbentuk 16 relasi kerja. Peserta bernegosiasi dengan kapasitas terbatas, mengeskalasi persoalan kepada Kepala Departemen, dan menghadapi tiga dinamika lapangan (kapasitas media turun, instruksi ganda, dan pengambil kendali berhalangan). Sesi dilanjutkan debrief selama 25 menit yang mengaitkan temuan dengan prinsip koordinasi dan etika eskalasi.
 
 **c. Kegiatan Pasca Pelatihan (KPP) berorientasi suksesi**
 
 KPP berlangsung sejak 16 November 2026 hingga satu hari sebelum Forum AHWA JMMI ITS 2026 (estimasi 20 atau 21 November 2026), terdiri atas:
-1. **Ngopi Khidmah.** Seluruh Staf Muda satu biro hadir lengkap, bersowan secara tatap muka dengan satu Kepala Biro dan dua Staf Ahli dari tiga biro yang berbeda satu sama lain dan berbeda dari biro asal. Narasumber dicari dan dihubungi sendiri oleh Staf Muda, dengan kuota maksimal dua ajakan per narasumber (*first-come, first-served*). Topiknya: alasan memilih lanjut ber-JMMI, suka-duka dan dinamika memimpin, evaluasi biro saat ini, serta tips menjaga komitmen. Buktinya berupa foto bersama yang diunggah ke Instagram biro dan dibagikan ke grup komunal anggota JMMI ITS.
-2. **1-Page Canvas Biro Masa Depan.** Satu lembar kertas A3 per biro dengan tiga zona (Evaluasi, Refleksi Diri, serta Inovasi dan Asa). Setiap Staf Muda menempelkan minimal satu sticky note berinisial pada tiap zona. Kit fisik dibagikan panitia pada akhir acara hari-H.
+1. **Ngopi Khidmah.** Seluruh Staf Muda satu biro hadir lengkap, bersowan secara tatap muka dengan satu Kepala Biro dan dua Staf Ahli dari tiga biro yang berbeda satu sama lain dan berbeda dari biro asal. Narasumber dicari dan dihubungi sendiri oleh Staf Muda, dengan kuota maksimal dua ajakan per narasumber (*first-come, first-served*). Topiknya: alasan memilih lanjut ber-JMMI, suka-duka dan dinamika memimpin, kekuatan biro dan hal yang ingin dikembangkan bersama, serta tips menjaga komitmen. Buktinya berupa foto bersama yang diunggah ke Instagram biro dan dibagikan ke grup komunal anggota JMMI ITS.
+2. **1-Page Canvas Biro Masa Depan.** Satu lembar kertas A3 per biro dengan tiga zona berpendekatan *Appreciative Inquiry* (berbasis kekuatan): **Cahaya Biro** (Warisan Baik yang Kita Jaga), **Ruang Tumbuh** (Peluang yang Ingin Kita Jelajahi), serta **Asa dan Terobosan** (Estafet Kita Selanjutnya). Setiap Staf Muda menempelkan minimal satu sticky note berinisial pada tiap zona. Kit fisik dibagikan panitia pada akhir acara hari-H.
 3. **Form Minat Peran**, instrumen privat untuk memetakan kesiapan dan hambatan calon penerus.
 
 **d. Evaluasi**
 
-Pemahaman peserta diukur melalui pre-test dan post-test berbasis formulir digital (13 butir pengetahuan dan 6 butir sikap), serta Form Umpan Balik pada hari berikutnya.
+Pemahaman peserta diukur melalui pre-test dan post-test berbasis formulir digital (13 butir pengetahuan berbasis pemahaman dan skenario penerapan prinsip, serta 6 butir sikap), serta Form Umpan Balik pada hari berikutnya.
 
 **e. Tolok Ukur Keberhasilan (TUK)**
 

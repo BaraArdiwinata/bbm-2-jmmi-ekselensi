@@ -5,7 +5,7 @@
 **Peserta:** Staf Muda angkatan 2025, ±50–70 orang, duduk per meja menurut **biro asalnya**
 **Fasilitator:** Badan Personalia (Bidang 2)
 **Medium:** Google Sheets (`main/template_simulasi_taktis.xlsx`) dan Kartu Rahasia (`main/kartu_skenario_simulasi.md`)
-**Versi:** 2.0, revisi atas arahan Ketua
+**Versi:** 2.1, pembingkaian "simulasi berbasis konvensi struktur kabinet saat ini" (24 Oktober 2026); versi 2.0 adalah revisi atas arahan Ketua
 
 ---
 
@@ -20,6 +20,15 @@
 
 Dampak lanjutan: debrief diperpanjang menjadi 25 menit, jumlah pengamat bertambah, dan Kartu Rahasia memakai suara "tim biro" tanpa istilah Kabiro atau Staf Ahli.
 
+### 0.1 Pembingkaian: Simulasi Berbasis Konvensi Struktur Kabinet Saat Ini
+
+Tata Kelola Kabinet Ekselensi 2026 belum disahkan secara final dan belum pasti dipertahankan pada kepengurusan berikutnya. Keputusan Ketua Pelaksana (pasca-audiensi): Simulasi Taktis resmi dibingkai sebagai **simulasi berbasis konvensi struktur kabinet saat ini**. Konsekuensinya:
+
+1. Semua rujukan "SOP", "Tata Kelola", jalur eskalasi, dan bagian **"Batasan wewenang dan SOP"** pada Kartu Rahasia adalah **aturan permainan**, bukan pasal baku yang dijamin berlaku pada kepengurusan berikutnya.
+2. Yang dilatih adalah **prinsip**: koordinasi asertif (memberi tahu, meminta persetujuan, memutuskan bersama), negosiasi berbasis kepentingan, eskalasi dengan format fakta–opsi–permintaan arahan, dan musyawarah. Prinsip ini sejalan dengan Materi 2.
+3. Fasilitator menyampaikan pembingkaian ini pada briefing (4.1) dan mengaitkannya saat debrief (11.7). Titik ambigu yang muncul dicatat sebagai masukan untuk Badan Keorganisasian (11.8).
+4. Tidak ada perubahan pada graf 16 relasi, kasus biro, inject, rubrik, atau template Google Sheets. Perubahan hanya pada pembingkaian dan bahasa pengantar.
+
 ---
 
 ## 1. Konsep Game
@@ -32,7 +41,7 @@ Ketergantungan antar-biro bersifat **asimetris dan searah** (directed graph). Se
 
 ### 1.2 Tujuan Belajar
 
-1. Memilih jalur yang tepat: komando, koordinasi langsung, atau eskalasi (Tata Kelola 5.5.1).
+1. Menerapkan prinsip koordinasi (memberi tahu, meminta persetujuan, memutuskan bersama) dan memilih jalur yang tepat: koordinasi langsung atau eskalasi, menurut konvensi struktur saat ini (Tata Kelola 5.5.1).
 2. Bernegosiasi lintas biro dengan kapasitas terbatas dan menghasilkan kesepakatan konkret dalam waktu singkat.
 3. Mengambil keputusan bersama di bawah tekanan tanpa melampaui wewenang biro.
 4. Melapor dan meminta arahan Kadep dengan format *fakta → opsi → permintaan arahan*.
@@ -107,7 +116,7 @@ Keputusan penggabungan final diumumkan pada **13 November (H-2)** berdasarkan ko
 - **Tidak ada penunjukan** Kepala Biro, Staf Ahli, ketua, juru bicara, atau pencatat oleh panitia. Semua peserta memulai dari posisi setara.
 - Fasilitator **tidak menunjuk dan tidak menyarankan** siapa yang memimpin. Bila tim bertanya "siapa yang jadi ketua?", jawabannya: "Itu keputusan tim."
 - Peran yang muncul secara alami dapat berupa: pemrakarsa, pengarah diskusi, pencatat, penghubung antarmeja, penjaga waktu, analis kapasitas, penengah, atau pelapor ke Kadep. **Semua peran bernilai**, tidak hanya yang paling vokal.
-- Wewenang Tata Kelola tetap berlaku: keputusan yang melampaui batas wewenang biro tetap harus dieskalasi ke Kadep, sebanyak apa pun anggota yang menyetujuinya.
+- Batas wewenang menurut konvensi struktur saat ini tetap berlaku sebagai aturan permainan: keputusan yang melampaui batas wewenang biro tetap harus dieskalasi ke Kadep, sebanyak apa pun anggota yang menyetujuinya.
 - Keputusan tim diambil lewat musyawarah (Tata Kelola 7.1.1) dan dicatat pada tab biro.
 
 ### 2.4 Fasilitator dan Pengamat
@@ -221,7 +230,7 @@ Legenda: **[=]** satu departemen · **[D]** lintas departemen dalam satu bidang 
 
 | Menit | Kegiatan | Penyampai |
 |---|---|---|
-| 0–2 | Tujuan dan gambaran game; kondisi H-21; ritme 40 menit yang sengaja padat | Fasilitator utama |
+| 0–2 | Tujuan dan gambaran game; kondisi H-21; ritme 40 menit yang sengaja padat; **pembingkaian: "simulasi berbasis konvensi struktur kabinet saat ini"** (aturan dan batas wewenang di kartu adalah aturan permainan, bukan pasal baku; yang dilatih adalah prinsip) | Fasilitator utama |
 | 2–4 | Aturan arah, eskalasi, dan larangan menginisiasi balik | Fasilitator utama |
 | 4–6 | **Tidak ada jabatan.** Semua setara; tim menentukan sendiri cara bekerja. Pengumuman meja dan penggabungan bila ada | Fasilitator utama, Sie Simulasi |
 | 6–8 | Pengenalan tab Google Sheets (Blok A–E, flag arah, ID tiket) | Operator Papan Jaring |
@@ -777,13 +786,13 @@ Bukan jawaban tunggal. Dipakai untuk menilai kualitas kesepakatan (rubrik 2).
 |---|---|---|
 | 0–3 | Tampilkan `PAPAN_JARING` dan rekap (Deal, Reject, Batal, Pending) | Operator |
 | 3–10 | Refleksi tim: tiga pertanyaan debrief (di bawah); 3–4 meja bicara | Fasilitator utama |
-| 10–17 | Kaitkan temuan dengan pasal: Ketua Badan Keorganisasian dan Waket III menyoroti dua atau tiga pelanggaran atau praktik baik tanpa menyebut nama | Ketua Keorganisasian, Waket III |
+| 10–17 | Kaitkan temuan dengan prinsip koordinasi dan etika eskalasi (Materi 2) serta konvensi struktur saat ini: Ketua Badan Keorganisasian dan Waket III menyoroti dua atau tiga pelanggaran atau praktik baik tanpa menyebut nama | Ketua Keorganisasian, Waket III |
 | 17–22 | **Pelajaran kepemimpinan organik:** bagaimana keputusan lahir di meja, bagaimana yang pendiam dilibatkan, apa yang terjadi saat pengambil kendali ditarik (Inject C). Tidak menyebut nama peserta | Fasilitator utama |
 | 22–25 | Penutup: tiga pelajaran utama dan jembatan ke jeda Ashar dan Materi 4 | Fasilitator utama |
 
 **Tiga pertanyaan debrief:**
 1. Tiket mana yang paling alot dan mengapa? Apa yang akhirnya membuka kebuntuan?
-2. Kapan kalian memilih eskalasi dan kapan menyelesaikan sendiri? Apa dasarnya di Tata Kelola?
+2. Kapan kalian memilih eskalasi dan kapan menyelesaikan sendiri? Apa dasarnya, baik prinsip koordinasi maupun konvensi struktur saat ini?
 3. Siapa yang menanggung dampak keputusan kalian di biro lain, dan apakah kalian mengetahuinya?
 
 **Pertanyaan tambahan untuk bagian kepemimpinan organik:**
@@ -795,7 +804,7 @@ Bukan jawaban tunggal. Dipakai untuk menilai kualitas kesepakatan (rubrik 2).
 
 ### 11.8 Temuan untuk Badan Keorganisasian
 
-Penilai mencatat **titik ambigu Tata Kelola** yang muncul saat simulasi (misalnya kapan "diketahui" cukup, atau batas tarif dan denda GoRent). Catatan ini diserahkan ke Badan Keorganisasian sebagai masukan revisi Tata Kelola. Dengan begitu simulasi menghasilkan dua manfaat: pelatihan peserta dan evaluasi dokumen.
+Penilai mencatat **titik ambigu Tata Kelola** yang muncul saat simulasi (misalnya kapan "diketahui" cukup, atau batas tarif dan denda GoRent). Catatan ini diserahkan ke Badan Keorganisasian sebagai masukan revisi Tata Kelola, digabung dengan masukan anonim peserta yang dijaring pada Materi 2. Dengan begitu simulasi menghasilkan dua manfaat: pelatihan peserta dan evaluasi dokumen.
 
 ---
 

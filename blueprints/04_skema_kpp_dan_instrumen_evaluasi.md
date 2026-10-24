@@ -2,8 +2,8 @@
 
 **Program:** BBM 2 JMMI ITS Kabinet Ekselensi 2026
 **Pengelola:** Badan Personalia (Sie Registrasi dan Data, Sie Simulasi, dan tim Evaluasi)
-**Versi:** 2.1, pembaruan format KPP (Ngopi Khidmah komunal lintas biro dengan pemilihan narasumber mandiri dan kuota terbuka, Canvas A3 fisik, tenggat H-1 Forum AHWA JMMI ITS 2026)
-**Status KPP:** **Final.** Desain disetujui penuh Ketua Pelaksana dengan format yang lebih aplikatif, taktil, dan berdampak syi'ar internal.
+**Versi:** 2.2, penyesuaian pasca-audiensi (butir tes Materi 2 berbasis prinsip koordinasi dan etika eskalasi, bukan hafalan pasal; tiga zona Canvas memakai pendekatan *Appreciative Inquiry*; topik ketiga Ngopi Khidmah diselaraskan). Format KPP sebelumnya: Ngopi Khidmah komunal lintas biro dengan pemilihan narasumber mandiri dan kuota terbuka, Canvas A3 fisik, tenggat H-1 Forum AHWA JMMI ITS 2026
+**Status KPP:** **Final.** Desain disetujui penuh Ketua Pelaksana dengan format yang lebih aplikatif, taktil, dan berdampak syi'ar internal. Nama zona Canvas dan topik ketiga Ngopi Khidmah ditetapkan Ketua Pelaksana pasca-audiensi.
 
 > **Isi dokumen.** Bagian 1 memuat instrumen evaluasi hari-H (pre-test, post-test, form umpan balik). Bagian 2 memuat KPP Output 1 **Ngopi Khidmah** (rombongan biro, tiga narasumber lintas biro, bukti publikasi) dan Form Minat Peran. Bagian 3 memuat KPP Output 2 **1-Page Canvas Biro Masa Depan** (kertas A3 + sticky notes). Bagian 4 memuat timeline dan monitoring. Bagian 5 memuat tindak lanjut database kader. Bagian 6 memuat rangkuman TUK. Bagian 7 memuat risiko dan bagian 8 asumsi yang perlu dikonfirmasi.
 
@@ -45,6 +45,8 @@
 
 Rujukan pasal mengacu pada dokumen `tata_kelola_organisasi_jmmi_kabinet_ekselensi_2026.pdf`.
 
+> **Pembingkaian butir.** Tata Kelola belum disahkan secara final dan belum pasti dipertahankan pada kepengurusan berikutnya. Butir 1–5 (Materi 1) karena itu menguji pemahaman atas **konvensi struktur kabinet saat ini**, bukan pasal yang dianggap baku. Butir 6–12 (Materi 2) menguji **prinsip komunikasi, kolaborasi lintas tim, dan etika eskalasi** lewat skenario; tidak ada butir yang meminta hafalan angka tenggat atau nomor pasal SOP. Rujukan pasal pada kunci hanya untuk memudahkan validasi, bukan materi yang diujikan.
+
 **Butir 1.** Menurut Tata Kelola, kelompok yang termasuk **Fungsionaris** adalah...
 - A. Kepala Biro, Staf Ahli Biro, dan Staf Muda Biro
 - B. Ketua Badan, Asisten Badan, Sekretaris Badan, Ketua Departemen, dan Sekretaris Departemen
@@ -85,61 +87,61 @@ Rujukan pasal mengacu pada dokumen `tata_kelola_organisasi_jmmi_kabinet_ekselens
 
 **Kunci: C** (5.6.9 c). *Modul: M1. Kelompok K5.*
 
-**Butir 6.** Laporan progres dan kendala Staf Muda disampaikan...
-- A. langsung ke Wakil Ketua
-- B. melalui atasan langsung secara berjenjang
-- C. kepada biro lain
-- D. kepada Sekretaris Umum
+**Butir 6.** Staf Muda menemukan kendala yang tidak dapat diselesaikan di tingkat biro. Langkah eskalasi yang paling beretika adalah...
+- A. mengadukan langsung kepada pimpinan tertinggi agar cepat selesai
+- B. menyampaikan fakta, opsi penyelesaian, dan permintaan arahan melalui atasan langsung secara berjenjang
+- C. membahasnya di grup angkatan untuk mencari dukungan
+- D. menunggu sampai masalahnya reda dengan sendirinya
 
-**Kunci: B** (5.5.1). *Modul: M2. Kelompok K5.*
+**Kunci: B** (prinsip pelaporan berjenjang dan format fakta–opsi–permintaan; konvensi struktur saat ini: 5.5.1). *Modul: M2. Kelompok K5.*
 
-**Butir 7.** Koordinasi langsung antarbiro diperbolehkan dengan syarat...
-- A. memiliki izin tertulis dari BPI
-- B. hanya bila kedua biro berada pada satu departemen
-- C. hanya melalui grup umum
-- D. tetap diketahui koordinator masing-masing
+**Butir 7.** Biro lain meminta bantuan mendadak yang mustahil dipenuhi tepat waktu. Respons yang paling asertif adalah...
+- A. menyanggupi semuanya agar tidak mengecewakan
+- B. mengabaikan pesan sampai ada pengingat kedua
+- C. menolak singkat tanpa penjelasan
+- D. menyampaikan batas kapasitas dengan sopan, menawarkan alternatif waktu atau bentuk bantuan, dan memberi tahu koordinator
 
-**Kunci: D** (5.5.1). *Modul: M2. Kelompok K5.*
+**Kunci: D** (koordinasi asertif; koordinasi antarbagian tetap diketahui koordinator, 5.5.1). *Modul: M2. Kelompok K5.*
 
-**Butir 8.** Tawaran kerja sama dari pihak eksternal disalurkan melalui jalur...
-- A. Biro Relasi dan Hubungan Eksternal → Kadep Relasi dan Advokasi + Waket III → biro yang sesuai
-- B. langsung ke Kepala Biro terkait
-- C. Biro Digital Production
-- D. Sekretaris Umum saja
+**Butir 8.** Biro Anda hendak mengubah jam serah materi, dan perubahan itu menggeser pekerjaan biro lain. Tingkat koordinasi yang paling tepat adalah...
+- A. meminta kesepakatan biro yang terdampak sebelum perubahan ditetapkan
+- B. cukup memberi tahu setelah perubahan berlaku
+- C. memutuskan sepihak karena jadwal adalah wewenang biro sendiri
+- D. menunggu sampai biro lain mengajukan keberatan
 
-**Kunci: A** (5.5.2.7). *Modul: M2.*
+**Kunci: A** (tiga tingkat koordinasi: memberi tahu, meminta persetujuan, memutuskan bersama). *Modul: M2.*
 
-**Butir 9.** Keputusan yang wajib mendapat persetujuan BPI adalah...
-- A. pembagian tugas internal biro
-- B. jadwal piket staf
-- C. perubahan kebijakan organisasi, program kerja lintas bidang, atau tata kelola organisasi
-- D. format caption unggahan
+**Butir 9.** Ketika anggota tim berbeda pendapat dalam musyawarah, sikap yang paling sesuai prinsip musyawarah adalah...
+- A. langsung memakai suara terbanyak tanpa mendengar pihak yang kalah
+- B. memakai pendapat anggota yang paling senior
+- C. mendengar lebih dahulu, memisahkan pendapat dari pribadi, lalu menyepakati langkah bersama
+- D. menunda keputusan sampai semua orang setuju mutlak
 
-**Kunci: C** (5.5.2.7 penutup). *Modul: M2.*
+**Kunci: C** (budaya Diskusi dan Musyawarah, 7.1.1). *Modul: M2.*
 
-**Butir 10.** Tim media (Digipro atau Medsist) berhak menolak atau menunda request apabila...
-- A. request diajukan melalui Google Form
-- B. brief tidak jelas atau diajukan terlalu dekat dengan deadline
-- C. requester adalah Kepala Biro
-- D. request menyangkut kajian keislaman
+**Butir 10.** Tim biro lain menolak permintaan Anda karena kapasitas mereka penuh. Langkah yang paling selaras dengan diplomasi internal adalah...
+- A. menekan mereka lewat grup umum agar merasa tidak enak
+- B. memahami kepentingan dan batas mereka, menawarkan penyesuaian tenggat atau ruang lingkup, dan mengeskalasi hanya bila tetap buntu
+- C. meminta Kabiro Anda menegur Kabiro mereka
+- D. menghubungi kenalan pribadi di biro itu agar permintaan tetap diproses
 
-**Kunci: B** (6.4.12). *Modul: M2.*
+**Kunci: B** (diplomasi internal dan etika eskalasi). *Modul: M2.*
 
-**Butir 11.** Batas waktu asistensi proposal kegiatan dan batas penyerahan proposal ke Sekretaris Umum secara berurutan adalah...
-- A. H-2 minggu dan H-1 minggu
-- B. H-2 bulan dan H-1 bulan
-- C. H-1 minggu dan H-3 hari
-- D. H-1 bulan dan H-2 minggu
+**Butir 11.** Eskalasi masalah kepada atasan paling tepat dilakukan ketika...
+- A. ada perbedaan pendapat sekecil apa pun
+- B. ingin menunjukkan bahwa pihak lain bersalah
+- C. belum sempat berbicara langsung dengan pihak terkait
+- D. upaya langsung sudah ditempuh tetapi buntu, atau keputusan berdampak melampaui kewenangan biro
 
-**Kunci: D** (6.1.2 c; asistensi H-1 bulan, penyerahan ke Sekum H-2 minggu). *Modul: M2.*
+**Kunci: D** (etika eskalasi; keputusan lintas bidang atau tata kelola memerlukan BPI, 5.5.2.7). *Modul: M2.*
 
-**Butir 12.** Asistensi SPJ dan LPJ kepada Sekretaris Umum dan Bendahara Umum dilakukan paling lambat...
-- A. SPJ H+3 dan LPJ H+14
-- B. SPJ H+7 dan LPJ H+30
-- C. SPJ H+14 dan LPJ H+3
-- D. keduanya H+7
+**Butir 12.** Struktur atau tata kelola berubah pada kepengurusan berikutnya. Sikap yang paling tepat adalah...
+- A. mempertahankan prinsip komunikasi, kejelasan peran, dan etika koordinasi, sambil menyesuaikan bentuk jalur dengan ketentuan terbaru
+- B. menolak menyesuaikan diri sampai ada pelatihan ulang
+- C. menganggap seluruh pelajaran hari ini gugur
+- D. tetap memakai alur lama tanpa konfirmasi
 
-**Kunci: A** (6.1.6 b). *Modul: M2.*
+**Kunci: A** (adaptabilitas: prinsip tetap, bentuk dapat berubah). *Modul: M2.*
 
 **Butir 13 (kasus).** Seorang Waket memberi instruksi lisan langsung kepada Anda sebagai Staf Muda, dan instruksi itu bertentangan dengan arahan Kabiro Anda. Langkah paling tepat adalah...
 - A. mengeksekusi karena Waket lebih tinggi
@@ -147,7 +149,7 @@ Rujukan pasal mengacu pada dokumen `tata_kelola_organisasi_jmmi_kabinet_ekselens
 - C. menyampaikan ke Kabiro agar dikonfirmasi ke Kadep melalui jalur koordinasi
 - D. membahasnya di grup angkatan
 
-**Kunci: C** (5.5.1 dan 5.5.2.3; pelaporan melalui atasan langsung). *Modul: M1, M2, Simulasi (inject B). Kelompok K5.*
+**Kunci: C** (pelaporan melalui atasan langsung menurut konvensi struktur saat ini, 5.5.1 dan 5.5.2.3; prinsip koordinasi dan etika eskalasi). *Modul: M1, M2, Simulasi (inject B). Kelompok K5.*
 
 **Ringkasan kunci:** 1B · 2C · 3D · 4A · 5C · 6B · 7D · 8A · 9C · 10B · 11D · 12A · 13C.
 
@@ -155,7 +157,7 @@ Rujukan pasal mengacu pada dokumen `tata_kelola_organisasi_jmmi_kabinet_ekselens
 
 **Kelompok butir jalur dan wewenang (K5):** butir 3, 4, 5, 6, 7, 13.
 
-> **Catatan validasi:** kunci disusun dari teks Tata Kelola yang telah dibaca. Pasal 6.4.12 dan 6.1.6 sudah dikonfirmasi pada teks. Sebelum formulir dikunci, Badan Keorganisasian dan Sekum meninjau butir 9, 11, dan 12 supaya sejalan dengan interpretasi resmi terbaru.
+> **Catatan validasi:** butir 1–5 dan 13 disusun dari teks Tata Kelola yang telah dibaca dan diperlakukan sebagai konvensi struktur saat ini. Sebelum formulir dikunci (uji coba H-6, 9 November), Badan Keorganisasian meninjau butir 1–5 dan 13 agar sejalan dengan interpretasi terbaru, sedangkan Ketua Badan Keorganisasian dan Waket III meninjau butir 6–12 agar sejalan dengan isi Materi 2. Isi tenggat administrasi (proposal, SPJ, LPJ) dan SOP media tidak lagi diujikan.
 
 ### 1.5 Butir Sikap dan Kesiapan (Skala 1–5)
 
@@ -232,7 +234,7 @@ K9 (rerata kepuasan ≥ 4,2) dihitung dari rata-rata relevansi, kejelasan, dan k
 
 ### 2.1 Tujuan
 
-1. Memberi seluruh Staf Muda satu biro gambaran jujur dan langsung dari orang yang menjalaninya tentang **alasan memilih lanjut ber-JMMI, suka-duka dan dinamika memimpin, evaluasi biro saat ini, serta tips menjaga komitmen**.
+1. Memberi seluruh Staf Muda satu biro gambaran jujur dan langsung dari orang yang menjalaninya tentang **alasan memilih lanjut ber-JMMI, suka-duka dan dinamika memimpin, kekuatan biro dan hal yang ingin dikembangkan bersama, serta tips menjaga komitmen**.
 2. **Memperluas wawasan lintas biro**: tiga narasumber berasal dari tiga biro yang berbeda, sehingga peserta mendengar tiga cara memimpin.
 3. Memperkuat **bonding biro**: seluruh Staf Muda satu biro datang bersama, lengkap.
 4. Menjadi **syi'ar internal**: foto bersama yang dipublikasikan menunjukkan kesiapan dan semangat regenerasi kepada seluruh anggota JMMI ITS.
@@ -255,7 +257,7 @@ Format ini menggantikan rancangan sebelumnya (wawancara 1-on-1 per individu deng
 | **Narasumber** | **1 Kepala Biro + 2 Staf Ahli** yang aktif, **dicari dan dihubungi sendiri** oleh Staf Muda biro tersebut. Tidak ada rotasi atau penugasan dari panitia |
 | **Lintas biro** | Ketiga narasumber **wajib berasal dari 3 biro yang berbeda satu sama lain dan berbeda dari biro rombongan** (ditetapkan Ketua Pelaksana) |
 | **Kuota narasumber** | Setiap Kepala Biro atau Staf Ahli **maksimal menerima 2 ajakan** dari **biro rombongan yang berbeda**, dengan sistem **first-come, first-served**. Bila narasumber yang dibidik sudah penuh, rombongan **wajib mencari alternatif fungsionaris lain**. Tujuannya mencegah beban berlebih dan kelelahan pada figur tertentu |
-| **Topik wajib** | (1) alasan memilih lanjut ber-JMMI; (2) suka-duka dan dinamika memimpin; (3) evaluasi biro saat ini; (4) tips menjaga komitmen |
+| **Topik wajib** | (1) alasan memilih lanjut ber-JMMI; (2) suka-duka dan dinamika memimpin; (3) kekuatan biro dan hal yang ingin dikembangkan bersama; (4) tips menjaga komitmen |
 | **Durasi** | Satu pertemuan bersama 60–90 menit |
 | **Bukti** | Foto bersama (Staf Muda lengkap + tiga narasumber), diunggah ke Instagram feeds atau story biro, dan dibagikan ke grup komunal anggota JMMI ITS |
 | **Jendela** | 16 November 2026 sampai **H-1 Forum AHWA JMMI ITS 2026** (estimasi 20 atau 21 November; lihat 4.2) |
@@ -315,7 +317,7 @@ Tab ringkasan menampilkan, per narasumber, jumlah ajakan sah dan status *Tersedi
 **Cek kecukupan pasokan.** Kebutuhan total adalah 8 ajakan Kepala Biro dan 16 ajakan Staf Ahli (24 ajakan). Kapasitas narasumber adalah 2 ajakan per individu, sehingga 8 Kepala Biro menyediakan 16 slot dan Staf Ahli menyediakan 2 × jumlah Staf Ahli aktif. Agar semua rombongan terlayani, jumlah **Staf Ahli aktif minimal 8 orang**; idealnya 16 atau lebih supaya rombongan terakhir tidak kehabisan pilihan lintas biro. Jumlah riil Staf Ahli perlu dikonfirmasi (bagian 8).
 
 **Contoh pesan undangan (ilustratif, mengajarkan adab komunikasi):**
-> "Assalamu'alaikum, Kak. Kami Staf Muda Biro Pengabdian Masyarakat (9 orang) dalam rangkaian KPP BBM 2. Kami ingin sowan dan ngobrol santai dengan Kakak tentang alasan lanjut ber-JMMI, suka-duka memimpin, evaluasi biro, dan tips menjaga komitmen. Apakah Kakak berkenan hadir sekitar 60–90 menit pada Rabu atau Kamis sore (18–19 November) di selasar masjid? Mohon maaf bila waktunya tidak memungkinkan, dan terima kasih banyak, Kak."
+> "Assalamu'alaikum, Kak. Kami Staf Muda Biro Pengabdian Masyarakat (9 orang) dalam rangkaian KPP BBM 2. Kami ingin sowan dan ngobrol santai dengan Kakak tentang alasan lanjut ber-JMMI, suka-duka memimpin, kekuatan biro dan hal yang ingin dikembangkan bersama, serta tips menjaga komitmen. Apakah Kakak berkenan hadir sekitar 60–90 menit pada Rabu atau Kamis sore (18–19 November) di selasar masjid? Mohon maaf bila waktunya tidak memungkinkan, dan terima kasih banyak, Kak."
 
 ### 2.5 Pelaksanaan Satu Pertemuan
 
@@ -324,7 +326,7 @@ Tab ringkasan menampilkan, per narasumber, jumlah ajakan sah dan status *Tersedi
 | 0–10 | Pembukaan | Perkenalan rombongan dan narasumber; penjelasan tujuan; suasana santai |
 | 10–25 | **Topik 1 — Alasan memilih lanjut ber-JMMI** | Mengapa narasumber bertahan setelah menjadi Staf Muda; momen yang membuat mereka tetap tinggal |
 | 25–45 | **Topik 2 — Suka-duka dan dinamika memimpin** | Gambaran hari kerja terbaik dan terberat; hal yang mengejutkan saat transisi ke struktur Biro; membagi waktu dengan akademik |
-| 45–60 | **Topik 3 — Evaluasi biro saat ini** | Hal yang berjalan baik dan hal yang masih menyulitkan; cerita koordinasi lintas biro; kapan mengeskalasi ke Kadep |
+| 45–60 | **Topik 3 — Kekuatan biro dan hal yang ingin dikembangkan bersama** | Praktik baik yang layak diwariskan; cerita koordinasi lintas biro yang berhasil; peluang yang ingin dikuatkan bersama; kapan dan bagaimana meminta dukungan Kadep |
 | 60–75 | **Topik 4 — Tips menjaga komitmen** | Cara menjaga semangat tim, membangun bonding, dan menghadapi anggota yang menurun |
 | 75–85 | Penutup dan foto | Pesan untuk calon penerus; foto bersama; kesepakatan publikasi |
 
@@ -336,14 +338,14 @@ Pertemuan minimal (60 menit) dilakukan dengan memangkas durasi tiap topik secara
 |---|---|---|
 | 1. Alasan lanjut | Apa yang membuat Kakak memilih bertahan setelah menjadi Staf Muda? Momen apa yang paling berkesan? | Siapa yang paling berjasa membimbing Kakak? |
 | 2. Suka-duka memimpin | Ceritakan satu hari kerja terbaik dan satu hari terberat. Apa yang paling mengejutkan saat transisi ke struktur Biro? Bagaimana membagi waktu dengan akademik? | Apa yang akan Kakak lakukan berbeda? |
-| 3. Evaluasi biro | Apa yang paling berjalan baik di biro Kakak, dan apa yang masih menyulitkan? Ceritakan koordinasi lintas biro yang paling alot dan bagaimana menyelesaikannya. | Adakah pasal atau SOP yang menurut Kakak perlu dirapikan? |
+| 3. Kekuatan biro dan hal yang ingin dikembangkan | Apa praktik atau kebiasaan terbaik di biro Kakak yang layak diwariskan? Ceritakan satu koordinasi lintas biro yang berhasil dan apa kuncinya. Jika satu hal kecil di biro bisa dikuatkan, apa dampak terbesarnya? | Dukungan apa dari atasan atau biro lain yang paling membantu, dan apa yang masih ingin Kakak kembangkan bersama tim? |
 | 4. Tips komitmen | Bagaimana Kakak menjaga komitmen diri dan tim? Apa yang dilakukan saat anggota mulai menurun? | Satu pesan untuk kami sebagai calon penerus? |
 
 **Aturan interaksi:**
 - **Setiap anggota rombongan mengajukan minimal satu pertanyaan** supaya sesi tidak dikuasai satu-dua orang.
 - Moderator bebas ditentukan rombongan dan boleh bergilir.
 - Satu anggota bergantian mencatat poin penting; catatan ini menjadi bahan pengisian Canvas (bagian 3).
-- Evaluasi biro dibahas konstruktif dan **tanpa menyebut nama pihak** (budaya Diskusi dan Musyawarah, Tata Kelola 7.1.1).
+- Pembahasan biro berfokus pada **kekuatan dan peluang tumbuh**, disampaikan konstruktif dan **tanpa menyebut nama pihak** (budaya Diskusi dan Musyawarah, Tata Kelola 7.1.1).
 - Privasi: hal yang disampaikan tentang pihak ketiga tidak disebarluaskan.
 
 **Panduan Narasumber (dikirim rombongan bersama undangan):**
@@ -372,7 +374,7 @@ Pertemuan minimal (60 menit) dilakukan dengan memangkas durasi tiap topik secara
 3. Tidak memuat kritik terhadap pihak tertentu atau rincian internal yang sensitif.
 4. Bila biro belum memiliki akun Instagram yang aktif, Badan Personalia memutuskan kanal pengganti (misalnya akun koordinator dengan menandai akun JMMI ITS, atau dukungan Biro Media Analysis & Strategi). Request ke tim media mengikuti SOP 6.4, sehingga jangan mengandalkan desain khusus dalam jendela 5–6 hari.
 
-> **Catatan Lembar Refleksi.** Lembar Refleksi individu pada rancangan sebelumnya **dihapus**. Refleksi pribadi kini ditampung pada Zona Refleksi Diri di Canvas (bagian 3), sehingga beban tulisan peserta tidak berlipat dalam jendela yang singkat.
+> **Catatan Lembar Refleksi.** Lembar Refleksi individu pada rancangan sebelumnya **dihapus**. Refleksi pribadi kini ditampung pada zona **Cahaya Biro** dan **Ruang Tumbuh** di Canvas (bagian 3), sehingga beban tulisan peserta tidak berlipat dalam jendela yang singkat.
 
 ### 2.7 Instrumen: Form Minat Peran Suksesi
 
@@ -431,10 +433,22 @@ Kategori dipakai untuk **perencanaan dan pembinaan**, bukan untuk menekan atau m
 
 ### 3.1 Tujuan
 
-1. Memetakan kondisi biro hari ini secara jujur: masalah, kendala, dan bottleneck.
-2. Menampung **perasaan dan pengalaman** Staf Muda sebagai bahan refleksi dan pembinaan.
-3. Menghimpun **harapan dan gagasan terobosan** untuk kepengurusan berikutnya, termasuk penyederhanaan proker dan proyeksi peran.
+1. **Menemukan dan merayakan kekuatan biro:** praktik baik, kebiasaan, dan warisan yang layak dijaga, serta alasan Staf Muda bertahan.
+2. **Memetakan peluang tumbuh** biro dan diri sendiri, dibingkai sebagai peluang yang ingin dijelajahi bersama, bukan daftar kekurangan.
+3. Menghimpun **asa dan gagasan terobosan** untuk estafet kepengurusan berikutnya, termasuk penyederhanaan proker dan proyeksi peran.
 4. Menjadikan tiap anggota **pemilik gagasan** (inisial pada tiap sticky note), bukan sekadar pengisi formulir.
+
+**Pendekatan: *Appreciative Inquiry* (berbasis kekuatan).** Zona pada rancangan sebelumnya bernama *Evaluasi* dan *Refleksi Diri*. Setelah audiensi, kedua nama itu dinilai terasa menghakimi dan mengintimidasi bagi Staf Muda yang baru melewati satu hari penuh. Canvas kini mengikuti siklus 4D *Appreciative Inquiry*:
+
+| Tahap 4D | Zona | Fokus |
+|---|---|---|
+| **Discovery** (menemukan yang terbaik) | Zona 1, Cahaya Biro | Apresiasi kekuatan dan praktik baik yang sudah hidup |
+| **Discovery menuju Design** (menemukan peluang) | Zona 2, Ruang Tumbuh | Hal yang bisa tumbuh, dibingkai sebagai peluang dan langkah kecil |
+| **Dream dan Design** (membayangkan dan merancang) | Zona 3, Asa dan Terobosan | Gambaran biro terbaik setahun lagi dan terobosan untuk mencapainya |
+
+Tahap *Destiny* (menjalankan) berlangsung setelah KPP, lewat ringkasan tema untuk Badan Keorganisasian, Kadep, dan perencanaan Badan Personalia (3.7).
+
+> **Pertimbangan (trade-off).** Data kendala dan *bottleneck* yang tajam menjadi lebih halus dibanding rancangan lama. Sebagian tetap tertangkap lewat Zona 2. Hambatan personal tetap ditampung **Form Minat Peran** (privat, bagian 2.7), dan kendala sistemik yang tajam dikumpulkan lewat jalur evaluasi OKR atau forum evaluasi Badan Keorganisasian, bukan lewat Canvas.
 
 ### 3.2 Media dan Kit Fisik
 
@@ -443,7 +457,7 @@ Canvas berupa **satu lembar kertas A3 per biro** dengan **sticky notes aneka war
 | Isi kit per biro | Jumlah | Keterangan |
 |---|---|---|
 | Kertas A3 yang sudah dibagi 3 zona | 1 (+1 cadangan) | Dicetak garis zona dan judul |
-| Sticky notes **3 warna** | 3 lembar per warna **per anggota** (total 9 lembar per anggota) | Satu warna per zona; contoh: oranye = Evaluasi, biru = Refleksi Diri, hijau = Inovasi dan Asa |
+| Sticky notes **3 warna** | 3 lembar per warna **per anggota** (total 9 lembar per anggota) | Satu warna per zona; usulan: kuning = Cahaya Biro, hijau = Ruang Tumbuh, biru = Asa dan Terobosan |
 | Spidol tebal hitam | 1 per 2 anggota | Agar tulisan terbaca di A3 |
 | Selotip kertas | 1 | Memperkuat sticky yang mudah lepas |
 | Map plastik A3 | 1 | Menjaga kertas tidak kusut saat dibawa |
@@ -457,25 +471,28 @@ Kertas A3 diletakkan landscape dan dibagi menjadi **tiga kolom tegak** dengan le
 
 | Zona | Isi | Pertanyaan pemandu | Warna sticky (usulan) |
 |---|---|---|---|
-| **1. Zona Evaluasi** | Masalah, kendala, atau bottleneck biro pada periode saat ini | Apa yang paling sering menghambat kerja biro kita? Di mana alur koordinasi macet? Apa buktinya (kejadian, seberapa sering)? | Oranye |
-| **2. Zona Refleksi Diri** | Perasaan, dinamika emosional, dan pengalaman menjadi Staf Muda di biro ini | Apa yang paling kamu rasakan selama menjadi Staf Muda? Kapan kamu merasa bangga, lelah, atau ragu? Apa yang membuatmu bertahan? | Biru |
-| **3. Zona Inovasi dan Asa** | Harapan, ide terobosan, penyederhanaan proker, dan proyeksi peran untuk kepengurusan selanjutnya | Apa satu perubahan yang akan membuat biro lebih sehat? Proker apa yang bisa disederhanakan? Peran apa yang kamu bayangkan untuk dirimu atau timmu? | Hijau |
+| **1. Cahaya Biro** *(Warisan Baik yang Kita Jaga)* | Praktik baik, kebiasaan, momen terbaik, dan sosok atau hal yang membuat Staf Muda bertahan | Kapan biro kita paling hidup dan membanggakan? Praktik atau kebiasaan apa yang layak diwariskan? Siapa atau apa yang membuatmu bertahan? | Kuning |
+| **2. Ruang Tumbuh** *(Peluang yang Ingin Kita Jelajahi)* | Hal yang dapat dikuatkan atau dipelajari, dibingkai sebagai peluang bagi diri dan tim | Jika satu hal kecil dikuatkan, apa dampak terbesarnya? Ilmu, dukungan, atau kebiasaan apa yang ingin kamu tumbuhkan untuk dirimu dan tim? | Hijau |
+| **3. Asa dan Terobosan** *(Estafet Kita Selanjutnya)* | Gambaran biro terbaik setahun lagi, ide terobosan, penyederhanaan proker, dan proyeksi peran untuk kepengurusan selanjutnya | Bayangkan biro ini setahun lagi dalam keadaan terbaiknya: apa yang terjadi? Terobosan, penyederhanaan proker, dan peran apa yang kamu bayangkan? | Biru |
+
+Judul zona pada kertas A3 dicetak dengan nama utama dan anak judul dalam kurung, misalnya "Cahaya Biro (Warisan Baik yang Kita Jaga)". Pertanyaan pemandu dicetak kecil di bawah judul tiap zona.
 
 **Contoh sticky note (ilustratif):**
-- *Zona Evaluasi:* "Permintaan lintas biro sering datang mendadak, jadi jadwal produksi bergeser. — AS"
-- *Zona Refleksi Diri:* "Awalnya takut salah, tapi tim yang saling menolong bikin aku tetap semangat. — NK"
-- *Zona Inovasi dan Asa:* "Buat kalender permintaan bulanan supaya proker lebih terencana. — RF"
+- *Cahaya Biro:* "Evaluasi mingguan yang hangat membuat kami saling mendukung. Kebiasaan ini layak diwariskan. — AS"
+- *Ruang Tumbuh:* "Kita bisa lebih terencana jika ada kalender permintaan lintas biro bulanan. Langkah kecil: buat templatenya bersama. — NK"
+- *Asa dan Terobosan:* "Setahun lagi, alur serah-terima proker biro kita rapi sehingga Staf Muda baru cepat paham. — RF"
 
 ### 3.4 Aturan Pengisian
 
 1. **Setiap Staf Muda WAJIB menempelkan minimal 1 lembar sticky note di masing-masing dari 3 zona** (minimum 3 lembar per orang). Boleh lebih.
-2. **Setiap lembar sticky note wajib dibubuhi inisial nama lengkap penulisnya** (huruf awal tiap kata nama; contoh "BA" untuk Bara Ardiwinata). Inisial menjadi tanda akuntabilitas dan kepemilikan gagasan.
+2. **Setiap lembar sticky note wajib dibubuhi inisial nama lengkap penulisnya** (huruf awal tiap kata nama; contoh "BA" untuk Bara Ardiwinata). Inisial dibingkai sebagai **tanda kepemilikan gagasan dan apresiasi**, bukan alat pengawasan.
 3. Bila dua anggota memiliki inisial yang sama, tambahkan angka atau huruf ketiga (misal "BA1" dan "BA2"). Biro menuliskan **legenda inisial** (inisial dan nama lengkap) kecil di pojok bawah kertas.
 4. Satu gagasan per sticky note, tulisan jelas dengan spidol tebal, maksimal sekitar 25 kata.
-5. Bahasa santun. Kritik diarahkan pada **proses dan sistem**, bukan menyerang individu.
+5. **Bahasa positif dan konstruktif.** Di Zona Ruang Tumbuh, tulis dengan pola "Kita bisa lebih … jika …" atau "Aku ingin belajar …", **disertai satu langkah kecil**. Peluang diarahkan pada **proses dan sistem**; tidak menyebut nama atau jabatan seseorang dalam konteks negatif.
 6. Tidak ada zona yang dikosongkan. Tidak boleh menulis atas nama orang lain.
-7. **Pengerjaan:** dalam satu sesi biro 60–90 menit **setelah** Ngopi Khidmah (agar terisi wawasan dari obrolan). Disarankan diakhiri dengan membaca bersama dan mengelompokkan sticky yang mirip, lalu memberi judul tema di bawah kelompok.
-8. Penulis yang menilai catatannya sensitif (terutama di Zona Refleksi Diri) boleh meminta Badan Personalia membatasi aksesnya.
+7. **Opsional:** sticky apresiasi untuk rekan sebiro pada Zona Cahaya Biro (menyebut kontribusi nyata, bukan perbandingan antarorang). Ini tambahan dan **tidak menggantikan** minimum 1 sticky per zona.
+8. **Pengerjaan:** dalam satu sesi biro 60–90 menit **setelah** Ngopi Khidmah (agar terisi wawasan dari obrolan). Urutan pengisian mengikuti alur zona (Cahaya Biro, Ruang Tumbuh, lalu Asa dan Terobosan) supaya suasana dibuka dengan apresiasi. Disarankan diakhiri dengan membaca bersama dan mengelompokkan sticky yang mirip, lalu memberi judul tema di bawah kelompok.
+9. Penulis yang menilai catatannya sensitif, di zona mana pun, boleh meminta Badan Personalia membatasi aksesnya.
 
 ### 3.5 Pengumpulan
 
@@ -489,17 +506,17 @@ Kertas A3 diletakkan landscape dan dibagi menjadi **tiga kolom tegak** dengan le
 | Kriteria | Bobot | Skor tinggi | Skor sedang | Skor rendah |
 |---|---|---|---|---|
 | **1. Kelengkapan partisipasi** | 30 | **100%** anggota menempel ≥ 1 sticky di **ketiga** zona, dan semua berinisial jelas | Sebagian kecil anggota belum lengkap atau inisial tidak jelas | Banyak anggota tidak berpartisipasi |
-| **2. Kedalaman dan kekonkretan evaluasi** (Zona 1) | 25 | Masalah spesifik, berbukti, dan menunjuk akar penyebab | Masalah jelas tetapi umum | Keluhan tanpa bukti |
-| **3. Kejujuran dan kedalaman refleksi** (Zona 2) | 20 | Menyampaikan perasaan dan pengalaman nyata, beragam, dan reflektif | Cukup jujur tetapi normatif | Kosong makna atau seragam seperti disalin |
-| **4. Kekonkretan inovasi dan asa** (Zona 3) | 25 | Gagasan konkret, layak, ada penyederhanaan proker dan proyeksi peran | Sebagian gagasan umum | Harapan tanpa langkah |
+| **2. Kekonkretan praktik baik** (Zona 1, Cahaya Biro) | 20 | Praktik baik spesifik, berasal dari pengalaman nyata, dan jelas mengapa layak diwariskan | Praktik jelas tetapi umum | Pujian normatif atau seragam seperti disalin |
+| **3. Kualitas peluang tumbuh** (Zona 2, Ruang Tumbuh) | 25 | Peluang spesifik, konstruktif, tidak menyalahkan, dan disertai langkah kecil | Peluang jelas tetapi belum ada langkah | Keluhan atau kalimat menyalahkan tanpa arah |
+| **4. Kekonkretan asa dan terobosan** (Zona 3, Asa dan Terobosan) | 25 | Gagasan konkret, layak, ada penyederhanaan proker dan proyeksi peran | Sebagian gagasan umum | Harapan tanpa langkah |
 
 **Predikat:** ≥ 85 Sangat baik · 70–84 Baik · 55–69 Cukup · < 55 Perlu revisi. Skor menilai **kelompok**, bukan individu, dan dipakai untuk umpan balik. Penyerahan lengkap tepat waktu sudah memenuhi TUK K13.
 
 ### 3.7 Pemanfaatan dan Privasi
 
 1. Badan Personalia **mengodekan tema** sticky pada tiap zona (misalnya koordinasi, beban waktu, bonding, kepemimpinan, penyederhanaan proker) dan membuat ringkasan agregat.
-2. Ringkasan **tanpa inisial** diteruskan kepada Badan Keorganisasian dan Kadep sebagai masukan perbaikan tata kelola, serta kendala yang berulang lintas biro.
-3. **Zona Refleksi Diri** bersifat paling pribadi: tidak dipajang publik, aksesnya terbatas pada Badan Personalia, Waket II, dan Ketua Umum. Inisial berfungsi sebagai kepemilikan gagasan dan akuntabilitas, **bukan** untuk menghukum.
+2. Ringkasan **tanpa inisial** diteruskan kepada Badan Keorganisasian dan Kadep, **dibingkai sebagai kekuatan yang dijaga dan peluang yang ingin dikembangkan** (bukan daftar kekurangan), termasuk peluang berulang lintas biro dan masukan penyempurnaan tata kelola.
+3. **Catatan personal** (misalnya perasaan lelah atau ragu) di zona mana pun tidak dipajang publik, dan aksesnya terbatas pada Badan Personalia, Waket II, dan Ketua Umum. Inisial berfungsi sebagai kepemilikan dan apresiasi gagasan, **bukan** untuk menghukum atau menilai pribadi.
 4. Foto Canvas tidak diunggah ke media publik tanpa persetujuan biro.
 5. Hasil terpilih dapat dibawa ke forum berikutnya (termasuk Forum AHWA JMMI ITS 2026 atau Musyker) bila Ketua menghendaki. Hal itu memerlukan keputusan terpisah.
 
@@ -674,7 +691,8 @@ KPP kini selesai pada 20 atau 21 November, **jauh sebelum** batas asistensi LPJ 
 | Rombongan ragu menghubungi fungsionaris | Pendaftaran terlambat | Contoh pesan undangan, dukungan antaranggota, dan fasilitasi Personalia sebagai jaring pengaman |
 | Tanggal Forum AHWA berubah | Jendela memendek | Konfirmasi paling lambat 6 November; skenario di 4.2 |
 | Publikasi dipahami sebagai tekanan untuk mencalonkan diri | Peserta tidak jujur atau merasa dipaksa | Etika publikasi (2.6): keterangan bernada silaturahmi dan belajar, kesiapan peran dicatat privat lewat Form Minat Peran |
-| Inisial pada sticky membuat peserta menahan kejujuran, terutama di Zona Refleksi Diri | Refleksi dangkal | Akses Zona 2 dibatasi, penulis boleh meminta pembatasan akses, dan kritik diarahkan pada sistem |
+| Inisial pada sticky membuat peserta menahan keterbukaan, terutama pada catatan personal di Zona Ruang Tumbuh | Isian dangkal atau seragam | Pola bahasa positif ("Kita bisa lebih … jika …"), penulis boleh meminta pembatasan akses, dan hambatan personal tetap ditampung Form Minat Peran yang privat |
+| Pembingkaian positif membuat kendala nyata tidak tertangkap | Masukan perbaikan tata kelola kurang tajam | Zona Ruang Tumbuh mewajibkan peluang spesifik dengan langkah kecil; kendala sistemik yang tajam ditampung jalur evaluasi OKR dan Badan Keorganisasian |
 | Sticky notes lepas atau kertas rusak | Data hilang | Selotip kertas, map plastik A3, foto Canvas saat selesai |
 | Biro tidak memiliki akun Instagram aktif | Bukti tidak bisa diverifikasi | Kanal pengganti diputuskan Personalia (2.6) |
 | Data sensitif bocor | Kepercayaan hilang | Akses terbatas dan retensi jelas |
@@ -689,7 +707,7 @@ KPP kini selesai pada 20 atau 21 November, **jauh sebelum** batas asistensi LPJ 
 |---|---|---|
 | 1 | Aturan "3 biro yang berbeda" | **Ditetapkan Ketua:** berbeda satu sama lain **dan** berbeda dari biro rombongan |
 | 2 | Pertemuan | Satu pertemuan bersama dengan ketiga narasumber, agar foto bersama memuat semuanya. Dua sesi hanya sebagai cadangan |
-| 3 | Lembar Refleksi individu | Dihapus karena Zona Refleksi Diri pada Canvas menampung refleksi |
+| 3 | Lembar Refleksi individu | Dihapus karena zona Cahaya Biro dan Ruang Tumbuh pada Canvas menampung refleksi |
 | 4 | Form Minat Peran | **Dipertahankan** sebagai instrumen individu dan privat, dengan tenggat sama dengan KPP |
 | 5 | Tanggal Forum AHWA JMMI ITS 2026 | Belum tercantum di dokumen sumber; ditaksir 21 atau 22 November |
 | 6 | Kehadiran "lengkap" | Udzur sah diatur lewat penjadwalan ulang atau sesi susulan |

@@ -3,8 +3,10 @@
 **Program:** BBM 2 JMMI ITS Kabinet Ekselensi 2026
 **Pelaksanaan:** Minggu, 15 November 2026, 08.00–16.30 WIB
 **Tempat:** Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS
-**Versi:** 1.0, 8 Oktober 2026
+**Versi:** 1.1, 24 Oktober 2026 (pembaruan pasca-audiensi: Materi 2 dibingkai ulang menjadi prinsip komunikasi dan kolaborasi lintas tim; Materi 1 dan Simulasi Taktis dibingkai sebagai simulasi berbasis konvensi struktur kabinet saat ini; zona Canvas A3 memakai pendekatan *Appreciative Inquiry*)
 **Peserta:** Staf Muda angkatan 2025, ±50–70 orang
+
+> **Pembingkaian struktur (keputusan Ketua Pelaksana).** Tata Kelola Kabinet Ekselensi 2026 belum disahkan secara final dan belum pasti dipertahankan pada kepengurusan berikutnya. Karena itu Materi 1 (wewenang) dan Simulasi Taktis disajikan sebagai **"simulasi berbasis konvensi struktur kabinet saat ini"**: peserta berlatih membaca peran dan berkoordinasi dalam struktur yang berlaku sekarang, sambil memahami bahwa **prinsipnya bertahan walau bentuknya berubah**. Materi 2 tidak mengajarkan SOP kaku; ia mengajarkan prinsip komunikasi dan kolaborasi lintas tim.
 
 ---
 
@@ -16,14 +18,14 @@
 |---|---|---|---|---|---|---|
 | 1 | 08.00 | 08.20 | 20' | Registrasi, pembagian name tag (kode peserta dan warna biro asal), **pre-test** via QR | Sie Registrasi dan Data | Daftar hadir digital terisi. Pre-test 13 butir pilihan ganda + 6 butir sikap + 1 pertanyaan terbuka (±8 menit) |
 | 2 | 08.20 | 08.35 | 15' | Pembukaan: tilawah, sambutan Ketua Pelaksana dan Ketua Umum | MC, Ketupel, Ketum | Peserta memahami tujuan dan alur satu hari |
-| 3 | 08.35 | 09.50 | 75' | **M1 — Arsitektur Amanah** | Hazal (Ketum), Waket I, Waket II | Peta wewenang dipahami. Tanya jawab 15' |
+| 3 | 08.35 | 09.50 | 75' | **M1 — Arsitektur Amanah** | Hazal (Ketum), Waket I, Waket II | Peta wewenang menurut konvensi struktur saat ini dipahami. Tanya jawab 15' |
 | 4 | 09.50 | 10.05 | 15' | Rehat dan snack pagi | Sie Konsumsi | |
-| 5 | 10.05 | 11.10 | 65' | **M2 — Simpul Organisasi** | Ketua Badan Keorganisasian, Waket III | Peserta membawa pulang handout "Peta Jalur" |
+| 5 | 10.05 | 11.10 | 65' | **M2 — Simpul Organisasi** | Ketua Badan Keorganisasian, Waket III | Peserta membawa pulang handout "Prinsip dan Skrip Koordinasi" (dengan Lembar Konvensi Sementara) |
 | 6 | 11.10 | 12.10 | 60' | **Salat Dzuhur dan ishoma** | Sie Konsumsi, Sie Acara | Jadwal salat resmi dikonfirmasi H-5 |
 | 7 | 12.10 | 13.10 | 60' | **M3 — Seni Eksekusi** | Best Kabiro BME OKR 2 | Cerita praktisi, tanya jawab 10' |
 | 8 | 13.10 | 13.20 | 10' | Briefing simulasi: aturan, pengumuman meja per biro asal (dan penggabungan bila ada), serta pembagian Kartu Rahasia | Fasilitator Simulasi | Meja duduk per biro asal. **Tanpa penunjukan jabatan** |
-| 9 | 13.20 | 14.00 | 40' | **Simulasi Taktis** (P1 5', P2 25', P3 5', P4 5'; 3 inject pada menit 10, 17, 22) | Fasilitator Simulasi (Badan Personalia) | `PAPAN_JARING` final; catatan pengamat |
-| 10 | 14.00 | 14.25 | 25' | **Debrief simulasi** (termasuk pelajaran kepemimpinan organik) | Fasilitator Simulasi, Ketua Badan Keorg, Waket III | Pasal dikaitkan dengan temuan simulasi |
+| 9 | 13.20 | 14.00 | 40' | **Simulasi Taktis** (simulasi berbasis konvensi struktur kabinet saat ini; P1 5', P2 25', P3 5', P4 5'; 3 inject pada menit 10, 17, 22) | Fasilitator Simulasi (Badan Personalia) | `PAPAN_JARING` final; catatan pengamat |
+| 10 | 14.00 | 14.25 | 25' | **Debrief simulasi** (termasuk pelajaran kepemimpinan organik) | Fasilitator Simulasi, Ketua Badan Keorg, Waket III | Prinsip koordinasi dan etika eskalasi dikaitkan dengan temuan simulasi |
 | 11 | 14.25 | 15.00 | 35' | **Salat Ashar** dan rehat, snack sore | Sie Konsumsi | Jeda longgar untuk wudu dan berjalan ke masjid |
 | 12 | 15.00 | 16.00 | 60' | **M4 — Saujana Manarul Ilmi** (sesi penutup) | Kepala Departemen Syi'ar | Klimaks refleksi |
 | 13 | 16.00 | 16.10 | 10' | **Post-test** | MC, Sie Registrasi dan Data | Post-test via QR (±8 menit). Form Umpan Balik dikirim H+1 |
@@ -76,14 +78,14 @@ Susunan ini adalah **usulan** untuk disesuaikan dengan jumlah personel Badan Per
 
 | Fase | Sesi | Pertanyaan yang dijawab peserta |
 |---|---|---|
-| **Paham** | M1, M2 | "Posisiku di mana, batasku apa, jalurnya bagaimana?" |
+| **Paham** | M1, M2 | "Posisiku di mana dan batasku apa (menurut konvensi saat ini), serta bagaimana aku berkomunikasi dan berkolaborasi lintas tim dengan beretika?" |
 | **Mampu** | M3, Simulasi Taktis | "Bagaimana memimpin biro, dan sanggupkah aku?" |
 | **Mau** | M4 | "Mengapa aku tetap mau berkhidmah?" |
 
 ### 2.2 Alasan Urutan
 
 1. **M1 pertama**, karena peserta sedang berenergi tinggi dan paling perlu kerangka pikir sebelum menerima detail.
-2. **M2 setelah M1**, karena jalur dan SOP hanya bermakna setelah peserta tahu siapa pemegang wewenang.
+2. **M2 setelah M1**, karena prinsip koordinasi dan etika eskalasi hanya bermakna setelah peserta tahu siapa pemegang wewenang (menurut konvensi saat ini).
 3. **M3 setelah Dzuhur**, dengan cerita praktisi (menjaga fokus saat energi turun).
 4. **Simulasi setelah M3**, supaya peserta langsung mempraktikkan M1 sampai M3.
 5. **M4 paling akhir**, supaya "panggilan hati" datang setelah peserta merasakan beban peran dalam simulasi sehingga lebih jujur dan tidak abstrak.
@@ -98,14 +100,17 @@ P = bahasan utama, S = bahasan pendukung (maksimal 2 menit), — = tidak dibahas
 | Alasan perubahan organogram | **P** | — | — | — |
 | Fungsionaris vs Eksekutif | **P** | — | — | — |
 | Wewenang Kabiro, Kadep, Staf Ahli, Staf Muda | **P** | S | S | — |
-| Satu jalur komando dan eskalasi | S | **P** | — | — |
-| SOP proposal, SPJ, LPJ, dan surat | — | **P** | — | — |
-| Request media dan jalur eksternal | — | **P** | — | — |
+| Etika eskalasi dan prinsip koordinasi lintas tim | S | **P** | — | — |
+| Musyawarah, koordinasi asertif, diplomasi internal (antartim) | — | **P** | — | — |
+| Adaptabilitas saat struktur berubah | S | **P** | — | S |
+| Lembar Konvensi Sementara (surat, media, asistensi): dibagikan, tidak diajarkan | — | S | — | — |
 | Menyusun proker yang realistis | — | — | **P** | — |
-| Delegasi, bonding, konflik | — | — | **P** | — |
+| Delegasi, bonding, konflik (dalam tim) | — | — | **P** | — |
 | Beban peran dan keseimbangan akademik | — | — | S | **P** |
 | Sejarah dan peran JMMI di ITS | S | — | — | **P** |
 | Kebanggaan dan ajakan estafet | — | — | — | **P** |
+
+**Batas M2 dan M3:** Materi 2 membahas komunikasi dan koordinasi **antartim** (lintas biro dan lintas bidang). Materi 3 membahas dinamika **di dalam** satu tim biro (delegasi, komitmen, bonding, konflik internal). Pemateri M2 tidak mengulas manajemen anggota tim, dan pemateri M3 tidak mengulas jalur lintas biro.
 
 ---
 
@@ -116,6 +121,8 @@ P = bahasan utama, S = bahasan pendukung (maksimal 2 menit), — = tidak dibahas
 **Subjudul:** Hierarki, Fungsionaris–Eksekutif, dan Transisi Organogram
 **Pemateri:** Hazal (Ketua Umum) didampingi Waket I dan Waket II
 **Waktu:** 08.35–09.50 (75 menit)
+
+**Pembingkaian:** Materi 1 dibawakan sebagai pemetaan wewenang menurut **konvensi struktur kabinet saat ini**. Pemateri menegaskan bahwa Tata Kelola belum disahkan final dan struktur dapat berubah pada kepengurusan berikutnya; yang diajarkan adalah cara membaca peran, batas, dan hubungan antarperan, supaya peserta tetap mampu membaca struktur baru.
 
 **Tujuan instruksional:**
 1. Peserta menjelaskan alasan organogram berubah dari BPI → Departemen menjadi BPI → Departemen → Biro.
@@ -172,7 +179,7 @@ P = bahasan utama, S = bahasan pendukung (maksimal 2 menit), — = tidak dibahas
 | Perubahan kebijakan atau program lintas bidang | — | — | — | Mengeskalasi | **BPI memutuskan** | 5.5.2.7 penutup |
 | Menghentikan sementara program yang melanggar SOP | — | — | — | — | **Ketum** | 5.6.1 c |
 
-> **Catatan bagi pemateri:** tabel ini adalah **sintesis** teks pasal, bukan kutipan. Bila ada sel yang tidak tegas di dokumen, pemateri menyebutnya sebagai area yang akan dirapikan Badan Keorganisasian, bukan memutuskan sendiri.
+> **Catatan bagi pemateri:** tabel ini adalah **sintesis** teks pasal sebagai **konvensi struktur saat ini**, bukan kutipan dan bukan aturan yang dijamin berlaku pada kepengurusan berikutnya. Bila ada sel yang tidak tegas di dokumen, pemateri menyebutnya sebagai area yang akan dirapikan Badan Keorganisasian, bukan memutuskan sendiri.
 
 **F. Contoh alur Bidang 1 (5.5.2.5).** Waket I → Dept Pelayanan Masjid dan Dakwah dan Dept Syi'ar → 4 biro. Departemen dapat memberi arahan, rekomendasi, asistensi, monitoring, dan evaluasi kepada biro **tanpa mengambil alih kewenangan operasional**. Pelaporan Biro → Departemen → Waket I.
 
@@ -184,94 +191,93 @@ P = bahasan utama, S = bahasan pendukung (maksimal 2 menit), — = tidak dibahas
 
 ### 3.2 Materi 2 — "Simpul Organisasi"
 
-**Subjudul:** Jalur Koordinasi, Eskalasi, dan SOP Administrasi
+**Subjudul:** Prinsip Komunikasi, Kolaborasi Lintas Tim, dan Etika Eskalasi
 **Pemateri:** Ketua Badan Keorganisasian dan Waket III
 **Waktu:** 10.05–11.10 (65 menit)
 
-**Tujuan instruksional:**
-1. Peserta memilih jalur yang tepat untuk instruksi, pelaporan, koordinasi lintas biro, dan eskalasi.
-2. Peserta menyebutkan batas waktu proposal, SPJ, dan LPJ.
-3. Peserta menjelaskan mekanisme request media dan jalur kerja sama eksternal.
+**Pembingkaian (ditetapkan Ketua Pelaksana pasca-audiensi).** Tata Kelola belum disahkan secara final dan belum pasti dipertahankan pada kepengurusan berikutnya. Materi 2 karena itu **tidak mengajarkan SOP yang kaku atau dogmatis**. Isinya adalah **prinsip universal** komunikasi dan kolaborasi lintas tim yang berlaku di struktur apa pun. Jalur yang berlaku saat ini hanya dipakai sebagai **contoh konvensi sementara**. Ketidakfinalan Tata Kelola dijadikan kekuatan: Materi 2 menjadi forum uji-coba, dan masukan peserta menjadi bahan penyempurnaan oleh Badan Keorganisasian.
 
-**Indikator capaian:** butir post-test 6, 7, 8, 9, 10, 11, 12, 13.
+**Tujuan instruksional:**
+1. Peserta menerapkan prinsip **musyawarah** dan **koordinasi asertif** (memberi tahu, meminta persetujuan, memutuskan bersama) dalam situasi lintas tim.
+2. Peserta menyusun **eskalasi yang beretika** dengan format *fakta → opsi → permintaan arahan*, dan menilai kapan eskalasi tepat dilakukan.
+3. Peserta menunjukkan **diplomasi internal** (memahami kepentingan pihak lain, menawarkan penyesuaian) ketika permintaan ditolak atau koordinasi buntu.
+4. Peserta menjelaskan sikap **adaptif** saat struktur atau tata kelola berubah: prinsip tetap, bentuk dapat berubah.
+
+**Indikator capaian:** butir post-test 6–12 (butir 13 bersama Materi 1 dan Simulasi) dan butir sikap L2 (lihat dokumen 04).
 
 | Menit | Segmen | Pembicara | Isi |
 |---|---|---|---|
-| 0–30 | Jalur koordinasi, eskalasi, dan SOP administrasi | Ketua Badan Keorg | Instruksi, pelaporan, koordinasi dan kolaborasi (5.5.1); batas "diketahui" vs "izin"; eskalasi Kabiro → Kadep → Waket → BPI; SOP proposal, SPJ, LPJ, dan surat (6.1) |
-| 30–50 | Request media, kerja sama eksternal, dan lintas biro | Waket III | Alur khusus Bidang 3 (5.5.2.7); request media ke Digipro dan Medsist dan hak menolak (6.4.12); kerja sama eksternal lewat Biro Relasi; koordinasi lintas biro yang agile tetapi akuntabel |
-| 50–65 | Latihan "Jalur Tepat" dan tanya jawab | Keduanya | Lima mini-kasus; tiap meja menunjuk jalur pada kartu; kunci dibahas langsung |
+| 0–10 | Mengapa komunikasi lintas tim adalah "simpul" | Ketua Badan Keorg | Satu kasus nyata JMMI (anonim) tentang koordinasi yang rancu; bahwa sebagian kerancuan bersumber dari ambiguitas aturan, bukan hanya dari pelaksana |
+| 10–25 | **Musyawarah yang hidup dan koordinasi asertif** | Ketua Badan Keorg | Prinsip musyawarah; tiga tingkat koordinasi (memberi tahu, meminta persetujuan, memutuskan bersama); format fakta–opsi–permintaan; cara meminta dan menolak dengan adab |
+| 25–40 | **Etika eskalasi dan diplomasi internal** | Waket III | Kapan, kepada siapa, dan bagaimana mengeskalasi tanpa "mengadu"; negosiasi kepentingan lintas biro dan lintas bidang; contoh dari Bidang 3 (kerja sama eksternal dan request berbasis permintaan) |
+| 40–50 | Latihan berpasangan | Keduanya | Tiga skenario singkat (permintaan mepet, instruksi ganda, kesepakatan buntu); pasangan menyusun respons dengan skrip koordinasi, kunci dibahas langsung |
+| 50–60 | **Prinsip tetap, bentuk bisa berubah** | Ketua Badan Keorg | Cara beradaptasi bila struktur berganti; **penjaringan masukan peserta** tentang bagian yang rancu |
+| 60–65 | Penutup dan jembatan ke Materi 3 | Waket III | Rangkuman tiga prinsip; handout; jembatan ke memimpin tim |
 
 **Poin bahasan rinci**
 
-**A. Tabel mekanisme koordinasi (5.5.1).**
+**A. Mengapa "simpul".** Organisasi yang sehat tidak hanya memiliki bagan yang jelas, tetapi juga simpul-simpul komunikasi yang berjalan. Pemateri membuka dengan satu kasus nyata yang pernah terjadi (misalnya permintaan lintas biro yang datang mendadak atau instruksi ganda) dan bertanya: pada titik mana komunikasi tersendat? Pemateri menyebut jujur bahwa sebagian kerancuan memang berasal dari ambiguitas aturan, sehingga peserta tidak merasa sepenuhnya bersalah, sekaligus tahu bahwa perbaikannya sedang berjalan (lihat F).
 
-| Prinsip | Alur | Ketentuan |
-|---|---|---|
-| Instruksi | BPI → Fungsionaris → Pelaksana | Arahan dan kebijakan disampaikan melalui struktur koordinasi |
-| Pelaporan | Pelaksana → Fungsionaris → BPI | Progres, kendala, dan hasil dilaporkan melalui atasan langsung |
-| Koordinasi antarbagian | Antarbagian ↔ antarbagian | Koordinasi lintas bagian dapat dilakukan langsung, tetap diketahui koordinator masing-masing |
-| Kolaborasi antarbagian | Antarbagian ↔ antarbagian | Pembagian peran, tanggung jawab, dan sumber daya disepakati bersama, tetap dalam koordinasi koordinator masing-masing |
+**B. Musyawarah yang hidup (budaya Diskusi dan Musyawarah, 7.1.1, sebagai konvensi saat ini).**
+- **Mendengar dahulu**, baru menanggapi. Pendapat dipisahkan dari pribadi pemberinya.
+- Menyepakati **langkah bersama**, bukan sekadar menang suara. Catat keputusan, penanggung jawab, dan tenggat.
+- Bila belum sepakat, tentukan **apa yang masih dibutuhkan** (data, waktu, atau pihak lain) dan kapan dibahas lagi, bukan menunda tanpa batas.
 
-**B. Alur eskalasi (5.5.2.7).** Kepala Biro → Kepala Departemen → Wakil Ketua Bidang → BPI. Kewenangan: Kadep memberi instruksi operasional, asistensi, dan pengawasan mutu kepada biro. Kabiro mengatur pelaksanaan teknis kepada Staf Ahli dan Staf Muda. **Keputusan yang berdampak pada perubahan kebijakan organisasi, program kerja lintas bidang, atau tata kelola organisasi memerlukan persetujuan BPI.**
+**C. Koordinasi asertif.** Asertif berarti jelas dan santun: menyampaikan kebutuhan dan batas tanpa menyerang dan tanpa menyerah.
 
-**C. Lembar Peta Jalur (handout 1 halaman).**
-
-| Kebutuhan | Jalur | Batas atau catatan | Dasar |
+| Tingkat koordinasi | Kapan dipakai | Contoh | Kata kunci |
 |---|---|---|---|
-| Menerima instruksi | BPI → Fungsionaris → Pelaksana | Lewat struktur, bukan jalur pribadi | 5.5.1 |
-| Melapor progres atau kendala | Pelaksana → atasan langsung → Fungsionaris → BPI | Berjenjang | 5.5.1 |
-| Meminta bantuan biro lain | Langsung ke biro tujuan | Pastikan koordinator masing-masing **tahu** | 5.5.1 |
-| Program bersama lintas biro | Kolaborasi dengan pembagian peran dan sumber daya tertulis | Tetap dalam koordinasi koordinator | 5.5.1 |
-| Masalah yang tidak selesai di tingkat biro | Eskalasi: Kabiro → Kadep → Waket → BPI | Sertakan fakta, opsi, dan permintaan arahan | 5.5.2.7 |
-| Kebijakan, program lintas bidang, atau tata kelola | BPI memutuskan | Jangan diputuskan di bawah | 5.5.2.7 |
-| Meminta produk media | Form Request ke Digipro atau Medsist (satu form satu konten) | Desain dan video kurang dari 3 menit **H-7**; video lebih dari 3 menit **H-10**; revisi maksimal 2 kali. Tim media boleh menolak atau menunda bila brief tidak jelas, terlalu dekat deadline, bahan belum ada, di luar layanan, atau kapasitas tidak memungkinkan | 6.4.2, 6.4.3, 6.4.12, 6.4.13 |
-| Meminjam inventaris sekretariat | Lewat Sekretaris Umum atau g-form bila mendesak | Jaga kondisi barang sesuai saat pengambilan. Tarif, deposit, dan denda **tidak** diatur | 6.3 |
-| Kerja sama pihak luar | Biro Relasi → Kadep RnA dan Waket III (grup koordinasi) → biro terkait | Jangan menghubungi pihak luar sendiri | 5.5.2.7 |
-| Koordinasi Dept ↔ Biro | Langsung untuk monitoring, evaluasi, asistensi | Tanpa mengambil alih operasional biro | 5.5.2.5 |
-| Asistensi SDM dari Badan | Badan ↔ Dept/Biro langsung | Hasil dilaporkan ke Waket II | 5.5.2.6 |
-| Proposal | Mulai H-2 bulan; asistensi H-1 bulan; serah ke Sekum H-2 minggu | Cetak setelah disetujui Sekum dan Bendum | 6.1.2 c |
-| SPJ dan LPJ | Asistensi SPJ H+3; asistensi LPJ H+14 | Format 6.1.5 | 6.1.3–6.1.6 |
-| Surat | Template → isi → form pengajuan → konfirmasi CP → nomor dan asistensi Pembina → pantau progres | Maksimal H-3 sebelum deadline | 6.1.1 b |
+| **Memberi tahu** | Tindakan tidak membebani atau mengubah pekerjaan pihak lain | Mengabarkan jadwal rapat internal yang tidak melibatkan biro lain | "Kami informasikan bahwa …" |
+| **Meminta persetujuan** | Tindakan memengaruhi pekerjaan atau sumber daya pihak lain | Menggeser jam serah materi yang menggeser pekerjaan biro lain | "Apakah memungkinkan jika …?" |
+| **Memutuskan bersama** | Pembagian peran atau sumber daya antartim | Program bersama lintas biro | Kesepakatan tertulis, tetap diketahui koordinator masing-masing |
 
-**D. SOP administrasi (6.1).**
-- Font Times New Roman 12, spasi 1,15 untuk surat, proposal, LPJ, dan keperluan kesekretariatan.
-- Setiap proposal, SPJ, dan LPJ diasistensikan kepada Sekum dan Bendum lebih dulu. Keduanya mengontrol administrasi seluruh biro dan departemen.
-- Surat yang dikeluarkan Sekum: surat ketetapan, rekomendasi, tugas, keterangan, undangan, permohonan, pemberitahuan, sertifikat, kontrak, peringatan, balasan. Surat yang dikeluarkan Sekretaris Pelaksana: surat undangan, pemberitahuan, permohonan dana, dan peminjaman tempat dan fasilitas.
-- **Tujuh langkah surat:** (1) unduh template; (2) isi lengkap tanpa bagian kosong; (3) isi formulir pengajuan; (4) konfirmasi ke Contact Person; (5) mendapat nomor surat dan diasistensikan ke Pembina sebelum tanda tangan; (6) pantau progres; (7) selesai paling lambat H-3 sebelum deadline.
-- **Proposal (6.1.2):** dimulai 2 bulan sebelum kegiatan; asistensi ke sekretaris biro/bidang paling lambat 1 bulan sebelum; softcopy diarsipkan di Google Drive JMMI ITS 2026; **dilarang mencetak** sebelum persetujuan Sekum dan Bendum; persetujuan boleh daring atau luring; diserahkan ke Sekum paling lambat 2 pekan sebelum kegiatan.
-- **Format proposal:** Cover, Kata Pengantar, Daftar Isi, BAB I Pendahuluan (Latar Belakang maksimal 2 paragraf, Tujuan, Manfaat), BAB II Rencana Kegiatan, BAB III Rencana Anggaran, Penutup, Lembar Pengesahan, Lampiran (susunan acara, kepanitiaan, surat permohonan dana).
-- **SPJ** (6.1.3): kelengkapan LPJ berisi pernyataan dana digunakan sesuai ketentuan, dibuktikan foto kegiatan dan foto nota. **LPJ** (6.1.4–6.1.5): wajib bagi seluruh kepanitiaan, memuat Realisasi **TUK** dan Evaluasi (Kendala, Solusi, Keberhasilan dan Hal yang Perlu Ditingkatkan). Dibuat oleh Sekretaris Pelaksana dibantu Sekdep (6.1.6).
+Tiga tingkat ini adalah **kerangka universal**, bukan pasal. Ia selaras dengan konvensi saat ini bahwa koordinasi antarbagian boleh langsung dan tetap diketahui koordinator masing-masing (5.5.1).
 
-**E. Alur khusus Bidang 3 (5.5.2.7).**
-- Alur umum: BPI → Waket III → Kadep → Kabiro → Staf Ahli/Staf Muda.
-- **Digipro dan Medsist** boleh berkoordinasi dengan biro atau badan lain pada pekerjaan berbasis request.
-- **Kerja sama eksternal** masuk lewat Biro Relasi dan Hubungan Eksternal, diteruskan ke Kadep RnA dan Waket III lewat grup koordinasi, lalu didistribusikan ke biro yang sesuai.
-- Koordinasi lintas biro untuk menyinkronkan program dan menghindari tumpang tindih.
+**Skrip koordinasi (isi handout "Prinsip dan Skrip Koordinasi").**
 
-**F. Lima mini-kasus latihan "Jalur Tepat" (kunci untuk pemateri).**
+| Situasi | Pola kalimat |
+|---|---|
+| Meminta | "Kami perlu [kebutuhan] pada [tanggal]. Opsi dari kami: [A atau B]. Apakah memungkinkan, atau ada waktu yang lebih cocok?" |
+| Menolak dengan adab | "Terima kasih sudah memercayai kami. Saat ini kapasitas kami penuh sampai [tanggal]. Yang bisa kami bantu: [alternatif]. Kami juga akan memberi tahu koordinator kami." |
+| Eskalasi | "Fakta: [apa yang terjadi]. Opsi yang sudah kami coba: [..]. Permintaan arahan: [keputusan yang dibutuhkan] sebelum [tenggat]." |
 
-| No | Kasus | Jalur yang tepat |
+**D. Etika eskalasi dan diplomasi internal.**
+- **Kapan:** setelah upaya langsung ditempuh namun buntu, atau bila keputusan berdampak melampaui kewenangan biro. Bukan pada setiap perbedaan pendapat.
+- **Kepada siapa:** atasan langsung, berjenjang. Pada konvensi saat ini: Kabiro → Kadep → Waket → BPI (5.5.2.7). Keputusan yang berdampak pada kebijakan organisasi atau program lintas bidang diputuskan di tingkat yang berwenang, bukan di bawah.
+- **Bagaimana:** format fakta–opsi–permintaan arahan; menyebut kejadian, bukan menyalahkan orang; tertulis bila perlu.
+- **Yang dihindari:** membahas masalah di grup umum atau grup angkatan, melompati atasan lewat jalur pribadi, dan menahan masalah sampai membesar.
+- **Diplomasi internal:** pahami **kepentingan** di balik posisi pihak lain; tawarkan penyesuaian (tenggat, ruang lingkup, bentuk bantuan); cari titik temu yang membuat kedua pihak tetap bisa bekerja. Ini sejalan dengan negosiasi pada Simulasi Taktis.
+- **Contoh konvensi saat ini pada Bidang 3 (5.5.2.7):** kerja sama eksternal masuk lewat Biro Relasi dan Hubungan Eksternal agar satu pintu, dan tim media boleh menolak atau menunda request yang briefnya tidak jelas atau terlalu dekat tenggat. Contoh ini dipakai untuk memperlihatkan **alasan** di balik aturan (menghindari tumpang tindih dan menjaga kapasitas), bukan untuk dihafal.
+
+**E. Latihan berpasangan: tiga skenario (kunci untuk pemateri).** Peserta berpasangan, menyusun respons dengan skrip koordinasi dalam 5 menit, lalu dua pasangan membacakan dan pemateri membahas.
+
+| No | Skenario | Respons yang baik (prinsip) |
 |---|---|---|
-| 1 | Biro A membutuhkan poster dalam 1 hari | Form Request ke Digipro atau Medsist. Tim media boleh menolak karena mepet, sehingga diajukan lebih awal atau diminta eskalasi prioritas ke Kadep Medigi |
-| 2 | Ada tawaran sponsor dari perusahaan yang menghubungi Staf Muda lewat pesan pribadi | Arahkan ke Biro Relasi. Biro Relasi meneruskan ke Kadep RnA dan Waket III |
-| 3 | Dua biro berbeda departemen berebut Aula pada hari yang sama | Koordinasi langsung dengan sepengetahuan Kadep masing-masing. Bila buntu, eskalasi ke Kadep, lalu Waket |
-| 4 | Waket memberi arahan lisan kepada Staf Muda yang berbeda dengan arahan Kabiro | Staf Muda menyampaikan ke Kabiro. Kabiro mengonfirmasi ke Kadep |
-| 5 | Biro ingin mengubah program menjadi kegiatan lintas bidang yang berdampak pada kebijakan | Eskalasi sampai BPI. Tidak boleh diputuskan sendiri |
+| 1 | **Permintaan mepet.** Biro lain meminta poster dalam 1 hari | Menyampaikan batas kapasitas dengan sopan, menawarkan alternatif (jadwal baru atau cakupan lebih kecil), meminta brief yang jelas, memberi tahu koordinator. Bila buntu dan berdampak, eskalasi dengan fakta–opsi–permintaan |
+| 2 | **Instruksi ganda.** Arahan lisan dari pimpinan di atas Kabiro berbeda dengan arahan Kabiro | Tidak mengeksekusi sepihak dan tidak mengabaikan. Menyampaikan ke atasan langsung agar dikonfirmasi melalui jalur koordinasi yang berlaku |
+| 3 | **Kesepakatan buntu.** Dua biro berbeda departemen berebut ruang pada hari yang sama | Menggali kepentingan masing-masing, menawarkan opsi (bergantian atau membagi waktu), menyepakati tertulis, tetap diketahui koordinator. Bila tetap buntu, eskalasi bersama ke atasan masing-masing |
 
-**G. Kesalahan umum yang perlu disebut (hipotesis dari evaluasi).**
-Mencetak proposal sebelum disetujui; menghubungi pihak luar langsung; mengabaikan Kadep dalam koordinasi lintas bagian; menganggap Staf Ahli sebagai pemberi perintah; terlambat mengajukan surat atau request media.
+**F. Prinsip tetap, bentuk bisa berubah.**
+- **Prinsip yang tetap:** kejelasan peran dan batas, komunikasi terbuka, kesepakatan tertulis, serta etika eskalasi.
+- **Bentuk yang bisa berubah:** nama jabatan, urutan jalur, dan tenggat administrasi.
+- **Kiat beradaptasi:** tanyakan "apa tujuan aturan ini?", konfirmasi ke koordinator atau Badan Keorganisasian bila ragu, dan dokumentasikan kesepakatan.
+- **Penjaringan masukan peserta (oleh Ketua Badan Keorganisasian):** peserta menuliskan secara anonim satu bagian jalur, aturan, atau komunikasi yang masih rancu menurut mereka (kertas atau Google Form yang dibuka sejak registrasi, bersama pertanyaan anonim M1). Hasilnya menjadi bahan penyempurnaan Tata Kelola oleh Badan Keorganisasian. Delapan ambiguitas yang telah dipetakan pada dokumen 01 (bagian 2.2) menjadi bahan agenda internal pemateri, bukan untuk diperdebatkan di depan peserta.
 
-**H. Ringkasan SOP Permintaan Media (6.4) dan Peminjaman Inventaris (6.3).**
-- **Request media:** diajukan lewat Google Form resmi Medigi; **satu form untuk satu konten**; brief memakai template (disimpan sebagai PDF); jam operasional **07.00–20.00 WIB**.
-- **Batas pengajuan** (dihitung dari tanggal hasil dibutuhkan): desain kreatif **H-7**, motion graphic **H-7**, video atau konten kurang dari 3 menit **H-7**, video atau konten lebih dari 3 menit **H-10**. Estimasi desain 4–5 hari pengerjaan ditambah 1–2 hari revisi minor. Pengajuan yang lebih mepet tidak menjamin selesai.
-- **Konfirmasi dan revisi** lewat grup koordinasi asistensi (bukan chat pribadi): Grup 1 untuk BPI, Keorganisasian, dan RnA; Grup 2 untuk Personalia, Amaliyah, Maven, dan Usaha Mandiri; Grup 3 untuk Kemuslimahan, Pengmas, dan KID. Revisi maksimal **2 kali**. Perubahan brief atau deadline setelah pengerjaan dimulai tidak diperkenankan tanpa konfirmasi PIC.
-- **Peminjaman inventaris (6.3):** diajukan lewat Sekretaris Umum atau g-form bila mendesak; barang dipakai untuk tujuan baik dan dijaga sesuai keadaan saat pengambilan; barang tidak dibawa keluar sekretariat tanpa sepengetahuan pihak lain. SOP ini **tidak** mengatur tarif sewa, deposit, atau denda.
-- **Arsip (6.2):** nama berkas `Bulan dan Tahun_Proposal_Nama Kegiatan` (juga untuk SPJ, LPJ, dan dokumen program kerja); surat keluar `Tanggal keluar-No-hal-tujuan`; semua dihimpun di Google Drive JMMI ITS 2026.
+**G. Lembar Konvensi Sementara (halaman kedua handout; rujukan, tidak diajarkan dan tidak diujikan).** Lembar ini berlabel "Konvensi sementara per Oktober 2026; dapat berubah sesuai Tata Kelola yang disahkan" dan dibagikan sebagai rujukan praktis.
 
-> **Catatan verifikasi untuk pemateri:** ringkasan di atas bersumber dari teks Tata Kelola yang dikaji pada 8 Oktober 2026. Gambar alur (flowchart) tidak ikut terbaca. Pemateri tetap memverifikasi versi terbaru sebelum slide final.
-> Sekum dan Bendum memvalidasi isi SOP administrasi, format proposal, SPJ, dan LPJ sebelum hari-H (keputusan Ketupel). Pemateri tidak boleh menyajikan data administrasi yang belum divalidasi.
+| Kebutuhan | Konvensi saat ini | Catatan |
+|---|---|---|
+| Surat | Template → isi → form pengajuan → konfirmasi Contact Person → nomor surat dan asistensi Pembina → pantau progres | Ajukan paling lambat H-3 sebelum tenggat (6.1.1) |
+| Proposal, SPJ, dan LPJ | Diasistensikan ke Sekum dan Bendum; proposal tidak dicetak sebelum disetujui | Tenggat rinci mengikuti pemberitahuan Sekretaris Umum; angka tidak dihafal |
+| Request media | Form resmi Medigi; satu form satu konten; brief jelas | Ajukan jauh hari (acuan H-7 hingga H-10 sesuai jenis konten); revisi terbatas; tim media dapat menolak atau menunda bila kapasitas tidak memungkinkan (6.4) |
+| Meminjam inventaris | Lewat Sekretaris Umum atau g-form bila mendesak | Jaga kondisi barang (6.3) |
+| Kerja sama pihak luar | Lewat Biro Relasi dan Hubungan Eksternal | Jangan menghubungi pihak luar sendiri (5.5.2.7) |
 
-**Metode:** pemaparan bergantian, lembar Peta Jalur, dan latihan kartu. **Media:** satu layar (12 slide maksimal) dan handout satu halaman.
+> **Catatan verifikasi untuk pemateri:** isi Lembar Konvensi Sementara bersumber dari teks Tata Kelola yang dikaji pada 8 Oktober 2026 (gambar alur tidak ikut terbaca). Sekum dan Bendum memvalidasi isinya sebelum hari-H. Pemateri tidak menyajikan data administrasi yang belum divalidasi dan tidak menyebut lembar ini sebagai aturan baku.
+
+**H. Pola yang perlu dihindari (hipotesis dari evaluasi).** Melompati atasan, menghubungi pihak luar langsung, mengabaikan koordinator saat berkoordinasi lintas bagian, menganggap Staf Ahli sebagai pemberi perintah, serta terlambat atau tidak jelas dalam meminta bantuan.
+
+**Metode:** pemaparan interaktif, latihan berpasangan, dan penjaringan masukan. **Media:** satu layar (12 slide maksimal) dan handout dua halaman ("Prinsip dan Skrip Koordinasi" serta Lembar Konvensi Sementara).
 
 ---
 
@@ -315,6 +321,8 @@ Mencetak proposal sebelum disetujui; menghubungi pihak luar langsung; mengabaika
 **Waktu:** 13.10–14.00 (10 menit briefing + **40 menit** permainan), disusul debrief 14.00–14.25
 **Fasilitator:** Badan Personalia
 **Detail lengkap:** lihat dokumen 03.
+
+**Pembingkaian:** Simulasi Taktis dibawakan sebagai **simulasi berbasis konvensi struktur kabinet saat ini**. Aturan arah, jalur eskalasi, dan batas kewenangan di dalamnya adalah *aturan permainan*, bukan pasal baku, dan dikaitkan dengan prinsip koordinasi serta etika eskalasi dari Materi 2 saat debrief.
 
 Ringkasan: satu ronde terpadu yang memperlakukan 8 biro sebagai jaringan berarah. Tiap biro hanya boleh memulai koordinasi ke 2 biro tujuan, dengan 3 inject (menit 10, 17, 22). Alurnya P1 persiapan 5', P2 koordinasi dan inject 25', P3 finalisasi 5', P4 wrap-up 5'. Output akhir adalah `PAPAN_JARING`, Blok E tiap biro, dan skor di `SKOR_EVALUASI`.
 
@@ -374,8 +382,8 @@ Data kontemporer (jumlah jamaah, program terbaru, capaian kabinet) disiapkan pem
 | Menit | Isi | Penyampai |
 |---|---|---|
 | 0–2 | **Pesan kunci:** KPP bukan beban tambahan, melainkan cara menyiapkan estafet bersama biro sendiri. Dua kegiatan: Ngopi Khidmah dan Canvas A3 | Ketupel atau Badan Personalia |
-| 2–5 | **Ngopi Khidmah:** seluruh Staf Muda satu biro hadir lengkap; sowan tatap muka dengan 1 Kepala Biro dan 2 Staf Ahli dari **3 biro berbeda dan berbeda dari biro sendiri**, yang **dicari dan dihubungi sendiri** oleh Staf Muda; tiap narasumber maksimal 2 ajakan dengan sistem **first-come, first-served** lewat Papan Kuota Terbuka (narasumber yang penuh wajib dicarikan alternatif); 4 topik (alasan lanjut ber-JMMI, suka-duka memimpin, evaluasi biro, tips menjaga komitmen); bukti berupa foto bersama yang diunggah ke Instagram biro dan dibagikan ke grup komunal anggota JMMI ITS | Badan Personalia |
-| 5–7 | **Canvas A3:** tiga zona (Evaluasi, Refleksi Diri, Inovasi dan Asa); setiap Staf Muda wajib menempel minimal 1 sticky note di tiap zona, **berinisial nama lengkap** (contoh "BA" untuk Bara Ardiwinata) | Badan Personalia |
+| 2–5 | **Ngopi Khidmah:** seluruh Staf Muda satu biro hadir lengkap; sowan tatap muka dengan 1 Kepala Biro dan 2 Staf Ahli dari **3 biro berbeda dan berbeda dari biro sendiri**, yang **dicari dan dihubungi sendiri** oleh Staf Muda; tiap narasumber maksimal 2 ajakan dengan sistem **first-come, first-served** lewat Papan Kuota Terbuka (narasumber yang penuh wajib dicarikan alternatif); 4 topik (alasan lanjut ber-JMMI, suka-duka memimpin, kekuatan biro dan hal yang ingin dikembangkan bersama, tips menjaga komitmen); bukti berupa foto bersama yang diunggah ke Instagram biro dan dibagikan ke grup komunal anggota JMMI ITS | Badan Personalia |
+| 5–7 | **Canvas A3** (pendekatan *Appreciative Inquiry*): tiga zona, yaitu **Cahaya Biro** (Warisan Baik yang Kita Jaga), **Ruang Tumbuh** (Peluang yang Ingin Kita Jelajahi), dan **Asa dan Terobosan** (Estafet Kita Selanjutnya); setiap Staf Muda wajib menempel minimal 1 sticky note di tiap zona, **berinisial nama lengkap** sebagai tanda kepemilikan gagasan dan apresiasi (contoh "BA" untuk Bara Ardiwinata); Zona Ruang Tumbuh ditulis dengan pola "Kita bisa lebih … jika …" disertai satu langkah kecil | Badan Personalia |
 | 7–9 | **Pembagian kit** kepada tiap biro beserta selebaran aturan dan panduan narasumber; hitung cepat kelengkapan; **Papan Kuota Terbuka dibuka pukul 16.24** (tautan atau QR) | Sie Registrasi dan Data |
 | 9–10 | **Tenggat:** KPP dikumpulkan paling lambat H-1 Forum AHWA JMMI ITS 2026 (estimasi Jumat 20 atau Sabtu 21 November); jadwal Ngopi dikonfirmasi paling lambat Senin 16 November pukul 21.00; saluran bantuan Badan Personalia | Badan Personalia |
 
@@ -393,26 +401,27 @@ Data kontemporer (jumlah jamaah, program terbaru, capaian kabinet) disiapkan pem
 |---|---|
 | **Fokus** | Dasar pikir perubahan organogram dan pemetaan wewenang |
 | **Wajib dibahas** | Alasan penambahan Biro; pembagian Fungsionaris dan Eksekutif; wewenang Kabiro, Kadep, Staf Ahli, dan Staf Muda; hak Staf Muda; peran tiga badan di Bidang 2 |
-| **Dilarang dibahas panjang** | SOP surat, proposal, dan LPJ (milik M2); cerita memimpin tim (M3); ajakan emosional (M4) |
+| **Dilarang dibahas panjang** | Detail SOP administrasi (surat, proposal, LPJ), karena tidak diajarkan di BBM 2; prinsip koordinasi dan eskalasi (milik M2); cerita memimpin tim (M3); ajakan emosional (M4) |
+| **Pembingkaian wajib** | Sampaikan bahwa seluruh pemetaan adalah **konvensi struktur kabinet saat ini**; Tata Kelola belum disahkan final dan dapat berubah, sehingga yang dipelajari adalah cara membaca peran dan batas |
 | **Gaya** | Terbuka dan jujur tentang yang belum mulus. Mengakui bahwa sebagian kerancuan ada di dokumen, bukan hanya di pelaksana |
 | **Pembagian peran** | Hazal: latar dan harapan. Waket I: Fungsionaris vs Eksekutif dan contoh Bidang 1. Waket II: tabel wewenang dan Bidang 2 |
 | **Batas slide** | Maksimal 12 |
-| **Kalimat jembatan ke M2** | "Setelah paham siapa memutuskan apa, sekarang kita lihat lewat jalur mana keputusan itu berjalan." |
+| **Kalimat jembatan ke M2** | "Setelah paham siapa memutuskan apa, sekarang kita belajar bagaimana berkomunikasi dan berkolaborasi antartim dengan beretika, apa pun bentuk strukturnya." |
 | **Pengumpulan bahan** | Slide final ke Sie Acara paling lambat 10 November |
 
 ### 4.2 Brief M2 — Ketua Badan Keorganisasian dan Waket III
 
 | Unsur | Isi |
 |---|---|
-| **Fokus** | Jalur koordinasi, eskalasi, dan SOP |
-| **Wajib dibahas** | Instruksi, pelaporan, koordinasi dan kolaborasi (5.5.1); eskalasi dan batas BPI; SOP proposal, SPJ, LPJ, dan surat; request media dan jalur eksternal |
-| **Dilarang** | Mengulang tabel wewenang (M1); membahas isi kasus simulasi; menyajikan angka SOP yang belum divalidasi Sekum dan Bendum |
-| **Pembagian peran** | Ketua Keorg: jalur, eskalasi, SOP administrasi. Waket III: request media, kerja sama eksternal, lintas biro |
-| **Handout** | Lembar Peta Jalur satu halaman (lihat 3.2 C) |
+| **Fokus** | Prinsip komunikasi, kolaborasi lintas tim, dan etika eskalasi, termasuk sikap adaptif saat struktur berubah |
+| **Wajib dibahas** | Musyawarah yang hidup; tiga tingkat koordinasi (memberi tahu, meminta persetujuan, memutuskan bersama); koordinasi asertif dan skrip kalimat; etika eskalasi (fakta–opsi–permintaan arahan); diplomasi internal; prinsip tetap, bentuk bisa berubah; penjaringan masukan peserta |
+| **Dilarang** | Mengajarkan atau menguji hafalan pasal dan angka SOP (tenggat proposal, SPJ, LPJ); mengulang tabel wewenang (M1); membahas isi kasus simulasi; membahas manajemen anggota tim (M3); menyajikan data administrasi yang belum divalidasi Sekum dan Bendum |
+| **Pembagian peran** | Ketua Keorg: kasus pembuka, musyawarah, koordinasi asertif, adaptabilitas, dan penjaringan masukan. Waket III: etika eskalasi, diplomasi internal lintas biro dan lintas bidang, serta penutup |
+| **Handout** | Dua halaman: "Prinsip dan Skrip Koordinasi" dan Lembar Konvensi Sementara (lihat 3.2 C dan G) |
 | **Batas slide** | Maksimal 12 |
-| **Penekanan** | Contoh kesalahan umum dan solusi konkret, bukan sekadar membaca pasal |
-| **Kalimat jembatan ke M3** | "Jalur sudah jelas. Namun yang menjalankannya adalah manusia, jadi sekarang kita belajar memimpin tim." |
-| **Pengumpulan bahan** | Slide final dan hasil validasi Sekum dan Bendum paling lambat 10 November |
+| **Penekanan** | Kasus nyata dan latihan, bukan membaca pasal. Sampaikan bahwa ketidakfinalan Tata Kelola adalah kesempatan peserta ikut menyempurnakannya |
+| **Kalimat jembatan ke M3** | "Komunikasi antartim sudah kita pahami prinsipnya. Namun yang menjalankannya adalah manusia, jadi sekarang kita belajar memimpin tim." |
+| **Pengumpulan bahan** | Slide final, handout, dan hasil validasi Lembar Konvensi Sementara oleh Sekum dan Bendum paling lambat 10 November |
 
 ### 4.3 Brief M3 — Best Kabiro BME OKR 2
 
