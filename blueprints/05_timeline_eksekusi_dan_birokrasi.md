@@ -279,12 +279,12 @@ Panitia dan fasilitator dapat saling tumpang tindih. Angka di atas adalah batas 
 
 | Waktu | Jenis | Jumlah | PIC |
 |---|---|---|---|
-| 09.50 | Snack pagi dan minum | 115 | Sie Konsumsi |
-| 11.10 | Makan siang dan minum (Dzuhur) | 115 | Sie Konsumsi |
-| 14.25 | Snack sore dan minum (blok Ashar 14.25–15.00) | 115 | Sie Konsumsi |
+| 09.50 | Snack pagi dan minum | 60 | Sie Konsumsi |
+| 11.10 | Makan siang dan minum (Dzuhur) | 60 | Sie Konsumsi |
+| 14.25 | Snack sore dan minum (blok Ashar 14.25–15.00) | 60 | Sie Konsumsi |
 | Sepanjang hari | Air mineral cadangan | 1 dus per 2 meja | Sie Konsumsi |
 
-**Catatan:** seluruh konsumsi halal. Kumpulkan informasi alergi atau pantangan peserta lewat RSVP. Konsumsi disiapkan sebelum azan Dzuhur dan Ashar supaya waktu salat tidak terpotong. Harga dan vendor mengikuti kuotasi (belum tersedia pada dokumen sumber).
+**Catatan:** jumlah porsi ditetapkan **60** sesuai RAB (Rp600.000 untuk makan siang). Bila kehadiran aktual melebihi 60, kebutuhan konsumsi wajib ditambah dan dianggarkan ulang. Seluruh konsumsi halal. Kumpulkan informasi alergi atau pantangan peserta lewat RSVP. Konsumsi disiapkan sebelum azan Dzuhur dan Ashar supaya waktu salat tidak terpotong. Harga dan vendor mengikuti kuotasi (belum tersedia pada dokumen sumber).
 
 ### 4.5 Perlengkapan Peserta dan Simulasi
 
@@ -298,8 +298,8 @@ Panitia dan fasilitator dapat saling tumpang tindih. Angka di atas adalah batas 
 | Handout tabel wewenang | 80 | Dari dokumen 02, bagian 3.1 E |
 | Poster QR pre-test dan post-test (A3) | 4 | Registrasi dan ruangan |
 | Poster QR tautan tab biro | 8 | Satu per meja |
-| **Kit fisik KPP: kertas A3 berzona 3 kolom** | **16** (8 + 8 cadangan) | Satu per biro; garis zona dan judul dicetak: **Cahaya Biro (Warisan Baik yang Kita Jaga)**, **Ruang Tumbuh (Peluang yang Ingin Kita Jelajahi)**, **Asa dan Terobosan (Estafet Kita Selanjutnya)**, beserta pertanyaan pemandu. Teks dan nama zona harus final sebelum cetak (sekitar 10 November) |
-| **Kit fisik KPP: sticky notes aneka warna (3 warna)** | **±700 lembar** (3 warna × 3 lembar × peserta, +10%) | Satu warna per zona (usulan: kuning = Cahaya Biro, hijau = Ruang Tumbuh, biru = Asa dan Terobosan); dikemas per biro menurut jumlah anggota |
+| **Kit fisik KPP: kertas A3 berzona 3 kolom** | **8** (tanpa cadangan, sesuai RAB) | Satu per biro; garis zona dan judul dicetak: **Cahaya Biro (Warisan Baik yang Kita Jaga)**, **Ruang Tumbuh (Peluang yang Ingin Kita Jelajahi)**, **Asa dan Terobosan (Estafet Kita Selanjutnya)**, beserta pertanyaan pemandu. Teks dan nama zona harus final sebelum cetak (sekitar 10 November) |
+| **Kit fisik KPP: sticky notes aneka warna (3 warna)** | **300 lembar** (3 pad @100 lembar, sesuai RAB) | Satu warna per zona (usulan: kuning = Cahaya Biro, hijau = Ruang Tumbuh, biru = Asa dan Terobosan); dikemas per biro menurut jumlah anggota |
 | **Kit fisik KPP: spidol tebal hitam** | 40 (+8 cadangan) | 1 per 2 anggota |
 | **Kit fisik KPP: selotip kertas** | 8 | Memperkuat sticky yang mudah lepas |
 | **Kit fisik KPP: map plastik A3** | 8 | Menjaga kertas tidak kusut |
@@ -354,15 +354,15 @@ Template RAB memuat pos Konsumsi, Cetak, Bahan Habis, Sewa, Honorarium, Pendafta
 
 | Pos | Rincian | Jumlah | Frekuensi |
 |---|---|---|---|
-| Konsumsi | Snack pagi | 115 | 1 kali |
-| | Makan siang | 115 | 1 kali |
-| | Snack sore | 115 | 1 kali |
+| Konsumsi | Snack pagi | 60 | 1 kali |
+| | Makan siang | 60 | 1 kali |
+| | Snack sore | 60 | 1 kali |
 | | Air mineral cadangan | 4 dus | 1 kali |
 | Cetak | Banner panggung | 1 | 1 paket |
 | | Name tag, handout, Kartu Rahasia, poster QR | Sesuai 4.5 | 1 paket |
 | | Kertas A3 berzona, selebaran KPP, panduan narasumber | Sesuai 4.5 | 1 paket |
 | Bahan habis | Spidol, kertas flipchart, pulpen, kertas catatan, double tape | Sesuai 4.5 | 1 paket |
-| | **Kit fisik KPP:** kertas A3 (16), sticky notes (±700), spidol (48), selotip kertas (8), map plastik A3 (8) | Sesuai 4.5 | 1 paket |
+| | **Kit fisik KPP:** kertas A3 (8), sticky notes (300 lembar), spidol (48), selotip kertas (8), map plastik A3 (8) | Sesuai 4.5 | 1 paket |
 | Sewa | Sound, proyektor tambahan, mikrofon (bila tidak tersedia dari Takmir) | Menyesuaikan | 1 paket |
 | Honorarium | Pemateri (7 orang) dan bingkisan | 7 | 1 kali |
 | Pendaftaran | — | — | — |

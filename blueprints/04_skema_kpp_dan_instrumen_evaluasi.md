@@ -456,14 +456,16 @@ Canvas berupa **satu lembar kertas A3 per biro** dengan **sticky notes aneka war
 
 | Isi kit per biro | Jumlah | Keterangan |
 |---|---|---|
-| Kertas A3 yang sudah dibagi 3 zona | 1 (+1 cadangan) | Dicetak garis zona dan judul |
-| Sticky notes **3 warna** | 3 lembar per warna **per anggota** (total 9 lembar per anggota) | Satu warna per zona; usulan: kuning = Cahaya Biro, hijau = Ruang Tumbuh, biru = Asa dan Terobosan |
+| Kertas A3 yang sudah dibagi 3 zona | 1 | Dicetak garis zona dan judul. Total 8 lembar sesuai RAB, tanpa cadangan |
+| Sticky notes **3 warna** | Total 300 lembar untuk seluruh peserta (3 pad @100 lembar, sesuai RAB), dibagi per biro menurut jumlah anggota | Satu warna per zona; usulan: kuning = Cahaya Biro, hijau = Ruang Tumbuh, biru = Asa dan Terobosan. Lihat catatan kecukupan di bawah tabel |
 | Spidol tebal hitam | 1 per 2 anggota | Agar tulisan terbaca di A3 |
 | Selotip kertas | 1 | Memperkuat sticky yang mudah lepas |
 | Map plastik A3 | 1 | Menjaga kertas tidak kusut saat dibawa |
 | Selebaran aturan pengisian (1 halaman) | 1 | Berisi 3 zona, aturan inisial, dan tenggat |
 
-**Perkiraan total untuk 70 peserta:** 16 kertas A3 (8 + 8 cadangan), sekitar **700 lembar** sticky notes (630 + 10% cadangan, sekitar 233 per warna), 40 spidol (+8 cadangan), 8 selotip kertas, 8 map plastik, 8 selebaran. Kit dikemas per biro sebelum hari-H dan diberi label nama biro serta warna sesuai name tag.
+**Perkiraan total sesuai RAB (BAB III proposal):** 8 kertas A3, **300 lembar** sticky notes (3 pad @100 lembar, sekitar 100 per warna), 40 spidol (+8 cadangan), 8 selotip kertas, 8 map plastik, 8 selebaran. Kit dikemas per biro sebelum hari-H dan diberi label nama biro serta warna sesuai name tag.
+
+> **Catatan kecukupan sticky.** Jatah 300 lembar menutup aturan minimum 3.4 (satu lembar per zona per anggota, sekitar 210 lembar untuk 70 peserta). Jatah "3 lembar per warna per anggota" pada tabel di atas (sekitar 630 lembar) **tidak** tercukupi. Bila jatah itu tetap dipakai, diperlukan tambahan sekitar 330 lembar, yaitu keputusan Ketua Pelaksana.
 
 ### 3.3 Tiga Zona pada Kertas A3
 
