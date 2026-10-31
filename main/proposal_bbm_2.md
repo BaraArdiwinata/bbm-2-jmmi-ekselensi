@@ -180,20 +180,6 @@ KPP berlangsung sejak 16 November 2026 hingga satu hari sebelum Forum AHWA JMMI 
 
 Pemahaman peserta diukur melalui pre-test dan post-test berbasis formulir digital (13 butir pengetahuan berbasis pemahaman dan skenario penerapan prinsip, serta 6 butir sikap), serta Form Umpan Balik pada hari berikutnya.
 
-**e. Tolok Ukur Keberhasilan (TUK)**
-
-| Kode | Indikator | Target |
-|---|---|---|
-| T1 | Kehadiran peserta terdaftar | ≥ 90% |
-| T2 | Rerata skor post-test | ≥ 75 dari 100 |
-| T3 | N-Gain rerata kelompok (pre-test ke post-test) | ≥ 0,40 (kategori sedang) |
-| T4 | Peserta dengan skor post-test ≥ 70 | ≥ 80% |
-| T5 | Relasi koordinasi berstatus *Deal* pada Simulasi Taktis | ≥ 12 dari 16 relasi |
-| T6 | Rerata kepuasan peserta per materi | ≥ 4,2 dari 5 |
-| T7 | Biro yang menyelesaikan Ngopi Khidmah (kehadiran lengkap, tiga narasumber lintas biro, bukti publikasi) | 8 dari 8 biro |
-| T8 | Canvas A3 terkumpul, seluruh anggota menempel ≥ 1 sticky note berinisial pada tiap zona | 8 dari 8 biro; 100% anggota |
-| T9 | Peserta yang mengisi Form Minat Peran | ≥ 85% |
-
 ### 2.4 Sasaran Kegiatan
 
 Sasaran kegiatan “Be A Better Muslim II (BBM 2)” ini adalah seluruh Staf Muda JMMI ITS Kabinet Ekselensi Angkatan 2025 dari delapan biro, dengan target peserta sebanyak **50–70 orang**.
@@ -224,68 +210,29 @@ Terlampir pada **Lampiran 2**. Kepanitiaan disusun oleh Badan Personalia (Bidang
 
 ## BAB III RENCANA ANGGARAN
 
-> Seluruh harga satuan merupakan **estimasi** yang akan divalidasi dengan kuotasi vendor sebelum proposal disetujui. Perkiraan jumlah orang: 70 peserta, 12 panitia, 19 fasilitator dan pengamat, serta 7 pemateri (maksimum ±108 orang), dibulatkan menjadi 115 porsi.
+> Seluruh harga satuan merupakan **estimasi** yang akan divalidasi dengan kuotasi vendor sebelum proposal disetujui. Konsumsi dihitung untuk 60 porsi.
 
 ### 3.1 Pemasukan
 
 | Sumber Dana | Nominal |
 |---|---|
-| TAKMIR | Rp8.531.000 |
-| KAS JMMI | Rp2.665.000 |
-| **TOTAL** | **Rp11.196.000** |
+| KAS JMMI | Rp805.000 |
+| **TOTAL** | **Rp805.000** |
 
 ### 3.2 Pengeluaran
 
 | No | Keterangan | Jumlah | Frekuensi | Sumber dana | Harga Satuan (Rp) | Total (Rp) |
 |---|---|---|---|---|---|---|
 | | **KONSUMSI** | | | | | |
-| 1 | Snack pagi dan minum (peserta, panitia, fasilitator, pemateri) | 115 | Porsi | TAKMIR | Rp10.000 | Rp1.150.000 |
-| 2 | Makan siang dan minum | 115 | Porsi | TAKMIR | Rp22.000 | Rp2.530.000 |
-| 3 | Snack sore dan minum | 115 | Porsi | TAKMIR | Rp10.000 | Rp1.150.000 |
-| 4 | Air mineral cadangan (dus isi 24) | 4 | Dus | TAKMIR | Rp22.000 | Rp88.000 |
-| | *Subtotal* | | | | | **Rp4.918.000** |
-| | **CETAK** | | | | | |
-| 1 | Banner panggung | 1 | Paket | TAKMIR | Rp250.000 | Rp250.000 |
-| 2 | Name tag dan lanyard | 115 | Buah | TAKMIR | Rp5.000 | Rp575.000 |
-| 3 | Cetak dokumen hitam-putih (Kartu Rahasia simulasi, handout, selebaran KPP, panduan narasumber, susunan acara) | 300 | Lembar | TAKMIR | Rp500 | Rp150.000 |
-| 4 | Cetak warna A3 kertas Canvas berzona (8 + 8 cadangan) | 16 | Lembar | TAKMIR | Rp6.000 | Rp96.000 |
-| 5 | Cetak poster A3 kode QR (pre-test, post-test, dan tab biro) | 12 | Lembar | TAKMIR | Rp6.000 | Rp72.000 |
-| | *Subtotal* | | | | | **Rp1.143.000** |
+| 1 | Makan siang dan minum | 60 | Porsi | KAS JMMI | Rp10.000 | Rp600.000 |
+| 2 | Jajan Kiloan | 3 | Ball | KAS JMMI | Rp40.000 | Rp120.000 |
+| 3 | Air galon isi ulang | 1 | Refill | KAS JMMI | Rp10.000 | Rp10.000 |
+| | *Subtotal* | | | | | **Rp730.000** |
 | | **BAHAN HABIS** | | | | | |
-| 1 | Sticky notes 3 warna untuk Canvas (kebutuhan ±700 lembar; dibeli kelipatan pad 100 lembar) | 9 | Pad | KAS JMMI | Rp9.000 | Rp81.000 |
-| 2 | Spidol tebal hitam kit KPP | 48 | Buah | KAS JMMI | Rp7.000 | Rp336.000 |
-| 3 | Selotip kertas | 8 | Roll | KAS JMMI | Rp8.000 | Rp64.000 |
-| 4 | Map plastik A3 | 8 | Buah | KAS JMMI | Rp6.000 | Rp48.000 |
-| 5 | Spidol dan kertas flipchart (latihan materi dan simulasi) | 1 | Paket | KAS JMMI | Rp136.000 | Rp136.000 |
-| 6 | Pulpen dan kertas catatan peserta | 80 | Set | KAS JMMI | Rp3.000 | Rp240.000 |
-| 7 | Double tape, lakban, dan gunting | 1 | Paket | KAS JMMI | Rp60.000 | Rp60.000 |
-| 8 | Paket data hotspot cadangan untuk Google Sheets dan formulir | 4 | Buah | KAS JMMI | Rp60.000 | Rp240.000 |
-| | *Subtotal* | | | | | **Rp1.205.000** |
-| | **SEWA** | | | | | |
-| 1 | Sewa proyektor dan layar kedua (Papan Jaring simulasi), bila tidak tersedia dari Takmir | 1 | Unit | TAKMIR | Rp300.000 | Rp300.000 |
-| 2 | Sewa mikrofon nirkabel tambahan | 2 | Unit | TAKMIR | Rp100.000 | Rp200.000 |
-| 3 | Operasional venue dan sound system (operator, kebersihan, listrik) | 1 | Paket | TAKMIR | Rp500.000 | Rp500.000 |
-| | *Subtotal* | | | | | **Rp1.000.000** |
-| | **HONORARIUM** | | | | | |
-| 1 | Honorarium dan transport pemateri *(opsional, mengikuti kebijakan honorarium)* | 7 | Orang | TAKMIR | Rp150.000 | Rp1.050.000 |
-| 2 | Plakat atau bingkisan apresiasi pemateri | 7 | Buah | TAKMIR | Rp60.000 | Rp420.000 |
-| | *Subtotal* | | | | | **Rp1.470.000** |
-| | **PENDAFTARAN** | | | | | |
-| 1 | Biaya pendaftaran (peserta tidak dipungut biaya) | – | – | – | – | Rp0 |
-| | *Subtotal* | | | | | **Rp0** |
-| | **SERAGAM** | | | | | |
-| 1 | Kaos panitia *(opsional)* | 12 | Buah | KAS JMMI | Rp80.000 | Rp960.000 |
-| | *Subtotal* | | | | | **Rp960.000** |
-| | **LAIN-LAIN** | | | | | |
-| 1 | Dana tak terduga | 1 | Paket | KAS JMMI | Rp500.000 | Rp500.000 |
-| | *Subtotal* | | | | | **Rp500.000** |
-| | **TOTAL** | | | | | **Rp11.196.000** |
-
-**Catatan anggaran:**
-1. Biaya per peserta (70 orang) rata-rata ±Rp160.000.
-2. Bila komponen opsional (honorarium pemateri Rp1.050.000 dan kaos panitia Rp960.000) ditiadakan, total menjadi **Rp9.186.000**.
-3. Dokumentasi foto dan video dan publikasi diajukan melalui Biro Digital Production dan Biro Media Analysis & Strategi sesuai SOP Permintaan Media (6.4), sehingga tidak dianggarkan.
-4. Dana permohonan kepada Takmir sebesar **Rp8.531.000** (Konsumsi, Cetak, Sewa, dan Honorarium). Sisanya, **Rp2.665.000**, bersumber dari Kas JMMI.
+| 1 | Sticky notes 3 warna untuk Canvas (3 pad @100 lembar = 300 lembar) | 3 | Pad | KAS JMMI | Rp9.000 | Rp27.000 |
+| 2 | Kertas Warna A3 | 8 | Lembar | KAS JMMI | Rp6.000 | Rp48.000 |
+| | *Subtotal* | | | | | **Rp75.000** |
+| | **TOTAL** | | | | | **Rp805.000** |
 
 <div style="page-break-after: always;"></div>
 
@@ -321,7 +268,7 @@ Surabaya, 14 Oktober 2026
 
 | | |
 |---|---|
-| **Ketua Umum**<br>JMMI-ITS<br><br><br><br><br>**Muhammad Hazal Ma’aly Mahmud**<br>NRP. 5012231209 | **Ketua Pelaksana**<br><br><br><br><br><br>**Bara Ardiwinata**<br>NRP. (dilengkapi Ketua Pelaksana) |
+| **Ketua Umum**<br>JMMI-ITS<br><br><br><br><br>**Muhammad Hazal Ma’aly Mahmud**<br>NRP. 5012231209 | **Ketua Pelaksana**<br><br><br><br><br><br>**Bara Ardiwinata**<br>NRP. 5026231232 |
 
 &nbsp;
 
@@ -432,7 +379,7 @@ Hari       : Minggu
 Tanggal    : 15 November 2026  
 Tempat     : Aula Masjid Manarul Ilmi ITS
 
-Acara tersebut menghabiskan dana sekitar Rp11.196.000 (Sebelas Juta Seratus Sembilan Puluh Enam Ribu Rupiah). Demi kelancaran operasional acara tersebut, kami bermaksud meminta permohonan dana sebesar Rp8.531.000 (Delapan Juta Lima Ratus Tiga Puluh Satu Ribu Rupiah) demi terlaksananya kegiatan dari JMMI ITS tersebut, adapun perincian dana tersebut terlampir dalam proposal kegiatan.
+Acara tersebut menghabiskan dana sebesar Rp805.000 (Delapan Ratus Lima Ribu Rupiah). Demi kelancaran operasional acara tersebut, kami bermaksud meminta permohonan dana sebesar Rp805.000 (Delapan Ratus Lima Ribu Rupiah) demi terlaksananya kegiatan dari JMMI ITS tersebut, adapun perincian dana tersebut terlampir dalam proposal kegiatan.
 
 Demikian surat ini kami buat, besar harapan kami agar kegiatan ini dapat berjalan dengan lancar. Atas perhatian dan kerjasamanya kami sampaikan terima kasih.
 
