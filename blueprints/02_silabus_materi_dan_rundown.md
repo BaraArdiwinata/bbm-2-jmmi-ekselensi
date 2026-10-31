@@ -135,7 +135,7 @@ P = bahasan utama, S = bahasan pendukung (maksimal 2 menit), — = tidak dibahas
 |---|---|---|---|
 | 0–25 | Dasar pemikiran dan transisi organogram | Hazal | Alasan strategis penambahan lapisan Biro; kaitan dengan Misi 2 (tata kelola transparan dan terukur) dan Pilar F; apa yang berubah dari tahun lalu bagi Staf Muda; apa yang **belum mulus** dalam transisi (disampaikan jujur); harapan kepada calon pengisi lapisan Biro |
 | 25–45 | Fungsionaris vs Eksekutif, dan alur Bidang 1 | Waket I | Pembagian golongan menurut 5.3; wewenang Kadep dan Kabiro berdampingan; contoh alur Dept Pelayanan dan Dept Syi'ar → 4 biro; koordinasi langsung Kadep ↔ Biro **tanpa mengambil alih kewenangan operasional biro** |
-| 45–60 | Tabel wewenang dan alur Bidang 2 | Waket II | Tabel *memutuskan / mengusulkan / mengetahui*; peran tiga badan di Bidang 2 (Personalia, Keorganisasian, Kemuslimahan) dan hak koordinasi langsung mereka ke departemen dan biro; hak Staf Muda (5.6.11) |
+| 45–60 | Tabel wewenang dan alur Bidang 2 | Waket II | Tabel *memutuskan / mengusulkan / mengetahui*; peran tiga badan di Bidang 2 (Personalia, Keorganisasian, Kemuslimahan) dan hak koordinasi langsung mereka ke departemen dan biro; hak Staf Muda (5.6.11); penutup berupa peta jalan kepengurusan berikutnya (yang tetap dan yang mungkin berubah) |
 | 60–75 | Tanya jawab | Ketiganya | Pertanyaan anonim dikumpulkan sejak registrasi (kertas atau Google Form) dan dijawab bergantian |
 
 **Poin bahasan rinci**
