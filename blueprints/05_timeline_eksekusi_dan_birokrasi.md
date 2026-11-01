@@ -49,7 +49,7 @@
 | Tanggal | H | Kegiatan | PIC | Keluaran |
 |---|---|---|---|---|
 | Senin 2 Nov | H-13 | Ajukan surat peminjaman tempat dan fasilitas, surat undangan pemateri | Sekpel | Pengajuan surat |
-| Senin 2 – Jumat 6 Nov | H-13 s.d. H-9 | **Validasi kasus dan angka simulasi** dengan Kabiro terkait. Validasi Lembar Konvensi Sementara (handout M2) bersama Sekum dan Bendum, serta tinjauan butir tes 6–12 oleh Ketua Badan Keorganisasian dan Waket III | Sie Simulasi, Pemateri M2 | Kartu dan angka final |
+| Senin 2 – Jumat 6 Nov | H-13 s.d. H-9 | **Validasi kasus dan angka simulasi** dengan Kabiro terkait. Validasi Lembar Konvensi Sementara (handout M2) bersama Sekum dan Bendum, serta tinjauan butir tes 6–12 oleh Waket III dan Staf Ahli Badan Personalia (pemateri M2 yang baru) | Sie Simulasi, Pemateri M2 | Kartu dan angka final |
 | Selasa 3 Nov | H-12 | Ajukan surat undangan peserta dan pemberitahuan | Sekpel | Pengajuan surat |
 | Kamis 5 Nov | H-10 | Ajukan form request media untuk dokumentasi hari-H | Sie Dokumentasi | Form request |
 | Jumat 6 Nov | H-9 | Ajukan surat tugas panitia dan fasilitator; RSVP peserta ditutup. **Konfirmasi tanggal Forum AHWA JMMI ITS 2026** untuk menetapkan tenggat KPP | Sekpel, Sie Registrasi, Ketupel | Daftar peserta final; tenggat KPP pasti |
@@ -71,20 +71,20 @@ Rundown peserta ada di dokumen 02 (bagian 1). Rundown operasional panitia:
 | 06.30–07.15 | Penataan 8 klaster, proyektor Papan Jaring, uji Wi-Fi dan Sheets | Sie Perlengkapan, Sie Simulasi |
 | 07.15–07.45 | Gladi bersih MC, uji mikrofon, uji QR pre-test. **8 kit fisik KPP ditata di meja panitia** menurut label biro | Sie Acara, Sie Perlengkapan |
 | 07.30 | Fasilitator, role-player, dan 8 pengamat meja berkumpul; serah terima 8 amplop Kartu Rahasia (2 salinan per meja) dan formulir observasi | Sie Simulasi |
-| 08.00 | Registrasi dan pre-test | Sie Registrasi |
-| 08.20–16.14 | Acara berjalan (dokumen 02) | Semua |
-| **16.14–16.24** | **Briefing KPP dan pembagian kit fisik** (kertas A3, sticky notes aneka warna, spidol, selotip, map) langsung kepada tiap biro; penjelasan Ngopi Khidmah (narasumber dicari sendiri oleh Staf Muda, kuota terbuka first-come first-served), Canvas, dan tenggat; **Papan Kuota Terbuka dibuka serentak pukul 16.24** | Sie Registrasi dan Data, Badan Personalia |
-| 16.24–16.30 | Doa penutup dan foto bersama | MC |
-| 16.30–17.30 | Evaluasi singkat panitia, bongkar, pengembalian ruangan, serah terima inventaris | Ketupel, Sie Perlengkapan |
+| 08.30 | Registrasi peserta | Sie Acara |
+| 09.00–15.51 | Acara berjalan (dokumen 02) | Semua |
+| **15.51–16.01** | **Briefing Penugasan KPP dan pembagian kit fisik** (kertas A3, sticky notes aneka warna, spidol, selotip, map, amplop tertutup) langsung kepada tiap biro; penjelasan Ngopi Khidmah (komposisi dua Kepala Biro kelompok A dan B, 1 Staf Ahli Biro, dan 1–2 fungsionaris badan; dicari sendiri oleh Staf Muda; kuota terbuka first-come first-served), Canvas dua zona dan amplop Ruang Tumbuh, dan tenggat; **Papan Kuota Terbuka dibuka serentak pukul 16.01** | Ketua Pelaksana, Sie Acara, Badan Personalia |
+| 16.01–16.06 | Penutup dan foto bersama (doa penutup) | MC |
+| 16.06–17.06 | Evaluasi singkat panitia, bongkar, pengembalian ruangan, serah terima inventaris | Ketupel, Sie Perlengkapan |
 | 17.30 | Panitia membuat catatan bukti (foto nota dan foto kegiatan) | Bendahara Pelaksana, Sie Dokumentasi |
 
 ### 2.4 Fase 4: Pasca-Event (16 November–6 Desember)
 
 | Tanggal | H | Kegiatan | PIC |
 |---|---|---|---|
-| Senin 16 Nov | H+1 | Form Minat Peran dan Form Umpan Balik dibuka. **Tiap rombongan mencari dan menghubungi sendiri** 1 Kepala Biro dan 2 Staf Ahli (tiga biro berbeda, beda dari biro sendiri); narasumber yang sudah bersedia segera didaftarkan di Papan Kuota (urutan pendaftaran menentukan kuota maksimal 2 ajakan per narasumber). Rekap data pre dan post-test | Koordinator rombongan, Sie Registrasi dan Data |
-| Selasa 17 Nov | H+2 | **Pukul 12.00:** batas pendaftaran tiga narasumber; Badan Personalia memfasilitasi rombongan yang belum lengkap. **Pukul 21.00:** seluruh jadwal terkonfirmasi di dashboard | Koordinator rombongan, Badan Personalia |
-| **Selasa 17 – Kamis 19 Nov** | H+2 s.d. H+4 | **Jendela pelaksanaan Ngopi Khidmah** (rombongan biro lengkap bersama 1 Kepala Biro dan 2 Staf Ahli dari tiga biro berbeda; Rabu dan Kamis sebagai hari utama). Bukti Instagram dan grup komunal terbit paling lambat 24 jam setelah sesi. Canvas A3 dikerjakan setelah Ngopi | Tiap biro |
+| Senin 16 Nov | H+1 | Form Minat Peran dan Form Umpan Balik dibuka. **Tiap rombongan mencari dan menghubungi sendiri** komposisi narasumber sesuai dokumen 04, bagian 2.3 (dua Kepala Biro kelompok A dan B, 1 Staf Ahli Biro, dan 1–2 fungsionaris badan); narasumber yang sudah bersedia segera didaftarkan di Papan Kuota (urutan pendaftaran menentukan kuota maksimal 2 ajakan per narasumber). Rekap data pre dan post-test | Koordinator rombongan, Sie Registrasi dan Data |
+| Selasa 17 Nov | H+2 | **Pukul 12.00:** batas pendaftaran komposisi narasumber lengkap; Badan Personalia memfasilitasi rombongan yang belum lengkap. **Pukul 21.00:** seluruh jadwal terkonfirmasi di dashboard | Koordinator rombongan, Badan Personalia |
+| **Selasa 17 – Kamis 19 Nov** | H+2 s.d. H+4 | **Jendela pelaksanaan Ngopi Khidmah** (rombongan biro lengkap bersama komposisi narasumber sesuai dokumen 04, bagian 2.3; Rabu dan Kamis sebagai hari utama). Bukti Instagram dan grup komunal terbit paling lambat 24 jam setelah sesi. Canvas A3 dikerjakan setelah Ngopi | Tiap biro |
 | **Rabu 18 Nov** | H+3 | **Batas asistensi SPJ** (foto kegiatan dan foto nota) | Sekpel, Bendahara Pelaksana |
 | Kamis 19 Nov | H+4 | Pengingat D-1: status Ngopi dan Canvas tiap biro; pendampingan 15 menit bagi biro yang belum lengkap | Badan Personalia |
 | **Jumat 20 Nov** | H+5 | **Tenggat operasional KPP** (bila Forum AHWA 21 November): Canvas fisik diserahkan pukul 17.00; foto Canvas, Form Bukti Ngopi, dan Form Minat Peran paling lambat 23.59. Hari cadangan sesi Ngopi yang tertunda | Semua biro |
@@ -140,7 +140,7 @@ Template `docs/template_proposal.docx` terdiri dari Cover, Kata Pengantar, Dafta
 | BAB I 1.2 Tujuan | Poin-poin tujuan yang menjawab masalah: memahami hierarki dan wewenang, menguasai jalur koordinasi dan SOP, memiliki bekal memimpin biro, dan tumbuhnya kesadaran keberlanjutan | 01 bagian 2.4, 02 |
 | BAB I 1.3 Manfaat | Bagi peserta, biro, organisasi | 01 |
 | BAB II 2.1 Nama Kegiatan | Be A Better Muslim II (BBM 2) | — |
-| BAB II 2.2 Tema | Disesuaikan Ketua. Usulan berbasis judul modul (misalnya "Amanah, Saujana, dan Estafet") | Keputusan Ketua |
+| BAB II 2.2 Tema | Ditetapkan Ketua (1 November 2026): "Membentang saujana asa, menyatukan langkah dan karya" | Keputusan Ketua |
 | BAB II 2.3 Deskripsi | Satu hari penuh, 4 materi inti, 1 simulasi, KPP | 02, 04 |
 | BAB II 2.4 Sasaran | Khusus: Staf Muda angkatan 2025 JMMI ITS (±50–70 orang). Template menyebut sasaran umum anggota dan civitas ITS, sehingga **harus diganti** menjadi sasaran spesifik | 01 bagian 4.1 |
 | BAB II 2.5 Waktu dan Tempat | Hari: Minggu. Tanggal: 15 November 2026. Tempat: Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS. **Template memuat contoh Ramadhan 1446 H dan Zoom, wajib dihapus** | 02 |
@@ -163,7 +163,7 @@ Aturan (6.1.1): template surat diunduh dari `its.id/m/TemplateSuratJMMIITS2026`;
 |---|---|---|---|---|---|---|
 | 1 | Surat Permohonan Dana (Lampiran 3 proposal) | Sekretaris Pelaksana | Ketua Takmir Masjid Manarul Ilmi | 30 Oktober (bersama proposal) | **27 Oktober** | Nominal mengikuti RAB |
 | 2 | Surat Peminjaman Tempat dan Fasilitas | Sekretaris Pelaksana | Takmir (Aula atau Ruang AV, proyektor, sound) | 5 November | **2 November** | Jadwal pasang: 14 November |
-| 3 | Surat Undangan pemateri dan role-player | Sekretaris Pelaksana | Hazal, Waket, Ketua Badan Keorg, Best Kabiro BME, Kadep Syi'ar, Kadep dan Bendum role-player | 6 November | **2 November** | Mencantumkan jadwal sesi dan kebutuhan materi |
+| 3 | Surat Undangan pemateri dan role-player | Sekretaris Pelaksana | Hazal, Waket I, Waket II, Waket III, Staf Ahli Badan Personalia, Best Kabiro BME (OKR 1 dan 2), Kadep Syi'ar, Kadep dan Bendum role-player | 6 November | **2 November** | Mencantumkan jadwal sesi dan kebutuhan materi |
 | 4 | Surat Undangan atau Pemberitahuan peserta | Sekretaris Pelaksana | Staf Muda angkatan 2025 | 6 November | **3 November** | Memuat kewajiban membawa laptop dan HP serta tautan RSVP |
 | 5 | Surat Tugas panitia dan fasilitator | Sekretaris Umum | Panitia dan fasilitator | 9 November | **6 November** | Opsional bila diperlukan |
 | 6 | Sertifikat (opsional) | Sekretaris Umum | Peserta dan pemateri | Setelah acara | Diajukan 18–20 November | Diputuskan Ketua |
@@ -239,7 +239,7 @@ Softcopy proposal, surat, SPJ, LPJ, dan data peserta diarsipkan di **Google Driv
 | Peserta (Staf Muda angkatan 2025) | 70 |
 | Panitia | ±12 |
 | Fasilitator, role-player, dan pengamat (Kadep ×4, Waket/BPI ×1–2, Bendum, pengendali waktu, operator Papan Jaring, **pengamat meja ×8**, penilai ×1–2) | ±17–19 |
-| Pemateri (Hazal, Waket I, Waket II, Ketua Badan Keorg, Waket III, Best Kabiro BME, Kadep Syi'ar) | 7 |
+| Pemateri (Hazal, Waket I, Waket II, Waket III, Staf Ahli Badan Personalia, Best Kabiro BME OKR 1 dan 2, Kadep Syi'ar) | 7 |
 | **Total maksimum** | **±108** |
 | **Pembulatan logistik (+5%)** | **115** |
 
@@ -262,7 +262,7 @@ Panitia dan fasilitator dapat saling tumpang tindih. Angka di atas adalah batas 
 | Perangkat | Jumlah | Fungsi |
 |---|---|---|
 | Proyektor dan layar utama | 1 | Slide pemateri M1–M4 |
-| **Proyektor dan layar kedua** | **1** | **Papan Jaring (`PAPAN_JARING`) pada simulasi dan debrief** |
+| **Proyektor dan layar kedua** | **1** | **Papan Jaring (`PAPAN_JARING`) pada simulasi dan presentasi hasil** |
 | Laptop tim simulasi | **8 (1 per tim) + 2 cadangan** | Mengakses tab biro. Tiap tim sebaiknya juga punya 1 HP untuk komunikasi |
 | Laptop operator Papan Jaring | 1 | Menampilkan papan dan memantau Sheets |
 | Laptop pemateri | 1–2 | Slide pemateri |
@@ -281,7 +281,7 @@ Panitia dan fasilitator dapat saling tumpang tindih. Angka di atas adalah batas 
 |---|---|---|---|
 | 09.50 | Snack pagi dan minum | 60 | Sie Konsumsi |
 | 11.10 | Makan siang dan minum (Dzuhur) | 60 | Sie Konsumsi |
-| 14.25 | Snack sore dan minum (blok Ashar 14.25–15.00) | 60 | Sie Konsumsi |
+| 14.11 | Snack sore dan minum (blok Ashar 14.11–14.41) | 60 | Sie Konsumsi |
 | Sepanjang hari | Air mineral cadangan | 1 dus per 2 meja | Sie Konsumsi |
 
 **Catatan:** jumlah porsi ditetapkan **60** sesuai RAB (Rp600.000 untuk makan siang). Bila kehadiran aktual melebihi 60, kebutuhan konsumsi wajib ditambah dan dianggarkan ulang. Seluruh konsumsi halal. Kumpulkan informasi alergi atau pantangan peserta lewat RSVP. Konsumsi disiapkan sebelum azan Dzuhur dan Ashar supaya waktu salat tidak terpotong. Harga dan vendor mengikuti kuotasi (belum tersedia pada dokumen sumber).
@@ -298,8 +298,8 @@ Panitia dan fasilitator dapat saling tumpang tindih. Angka di atas adalah batas 
 | Handout tabel wewenang | 80 | Dari dokumen 02, bagian 3.1 E |
 | Poster QR pre-test dan post-test (A3) | 4 | Registrasi dan ruangan |
 | Poster QR tautan tab biro | 8 | Satu per meja |
-| **Kit fisik KPP: kertas A3 berzona 3 kolom** | **8** (tanpa cadangan, sesuai RAB) | Satu per biro; garis zona dan judul dicetak: **Cahaya Biro (Warisan Baik yang Kita Jaga)**, **Ruang Tumbuh (Peluang yang Ingin Kita Jelajahi)**, **Asa dan Terobosan (Estafet Kita Selanjutnya)**, beserta pertanyaan pemandu. Teks dan nama zona harus final sebelum cetak (sekitar 10 November) |
-| **Kit fisik KPP: sticky notes aneka warna (3 warna)** | **300 lembar** (3 pad @100 lembar, sesuai RAB) | Satu warna per zona (usulan: kuning = Cahaya Biro, hijau = Ruang Tumbuh, biru = Asa dan Terobosan); dikemas per biro menurut jumlah anggota |
+| **Kit fisik KPP: kertas A3 berzona 2 kolom terbuka** | **8** (tanpa cadangan, sesuai RAB) | Satu per biro; garis zona dan judul dicetak: **Cahaya Biro (Warisan Baik yang Kita Jaga)** dan **Asa dan Terobosan (Estafet Kita Selanjutnya)**, beserta pertanyaan pemandu; zona **Ruang Tumbuh** tidak dicetak di A3 (pertanyaan pemandunya di selebaran). Teks dan nama zona harus final sebelum cetak (sekitar 10 November) |
+| **Kit fisik KPP: sticky notes aneka warna (3 warna)** | **400 lembar** (4 pad @100 lembar, sesuai RAB) | Satu warna per zona (usulan: kuning = Cahaya Biro, hijau = Ruang Tumbuh, biru = Asa dan Terobosan); dikemas per biro menurut jumlah anggota |
 | **Kit fisik KPP: spidol tebal hitam** | 40 (+8 cadangan) | 1 per 2 anggota |
 | **Kit fisik KPP: selotip kertas** | 8 | Memperkuat sticky yang mudah lepas |
 | **Kit fisik KPP: map plastik A3** | 8 | Menjaga kertas tidak kusut |
@@ -333,7 +333,7 @@ Panitia dan fasilitator dapat saling tumpang tindih. Angka di atas adalah batas 
 | Form RSVP peserta | Sie Registrasi dan Data | Dibuka 26 Oktober |
 | Form Minat Peran dan Form Umpan Balik | Sie Registrasi dan Data | Disiapkan sebelum 15 November, dibuka 16 November |
 | Dashboard monitoring KPP (Tab Rombongan, Papan Kuota Terbuka, dan Ringkasan Narasumber) | Personalia | Disiapkan sebelum 16 November |
-| **Papan Kuota Terbuka dan Form Pendaftaran Narasumber** | Badan Personalia | Diuji 11 November, dibuka 15 November pukul 16.24 |
+| **Papan Kuota Terbuka dan Form Pendaftaran Narasumber** | Badan Personalia | Diuji 11 November, dibuka 15 November pukul 16.01 |
 | Google Form Bukti Ngopi Khidmah | Sie Registrasi dan Data | Disiapkan sebelum 15 November, dibuka 16 November |
 | Folder bersama dan hak akses | Sekpel | Sebelum 8 November |
 
@@ -362,7 +362,7 @@ Template RAB memuat pos Konsumsi, Cetak, Bahan Habis, Sewa, Honorarium, Pendafta
 | | Name tag, handout, Kartu Rahasia, poster QR | Sesuai 4.5 | 1 paket |
 | | Kertas A3 berzona, selebaran KPP, panduan narasumber | Sesuai 4.5 | 1 paket |
 | Bahan habis | Spidol, kertas flipchart, pulpen, kertas catatan, double tape | Sesuai 4.5 | 1 paket |
-| | **Kit fisik KPP:** kertas A3 (8), sticky notes (300 lembar), spidol (48), selotip kertas (8), map plastik A3 (8) | Sesuai 4.5 | 1 paket |
+| | **Kit fisik KPP:** kertas A3 (8), sticky notes (400 lembar), spidol (48), selotip kertas (8), map plastik A3 (8) | Sesuai 4.5 | 1 paket |
 | Sewa | Sound, proyektor tambahan, mikrofon (bila tidak tersedia dari Takmir) | Menyesuaikan | 1 paket |
 | Honorarium | Pemateri (7 orang) dan bingkisan | 7 | 1 kali |
 | Pendaftaran | — | — | — |
@@ -418,7 +418,7 @@ Sumber dana mengikuti template: pemasukan dari Takmir dan pihak lain yang disetu
 - [ ] Ruangan dibersihkan dan dikembalikan.
 - [ ] Inventaris dihitung dan dikembalikan.
 - [ ] Foto nota dan foto kegiatan dikumpulkan hari itu.
-- [ ] Kit fisik KPP sudah dibagikan ke seluruh 8 biro dan briefing KPP (16.14–16.24) selesai.
+- [ ] Kit fisik KPP sudah dibagikan ke seluruh 8 biro dan briefing penugasan KPP (15.51–16.01) selesai.
 - [ ] Data pre-test dan post-test diekspor ke Sheets analisis.
 - [ ] Evaluasi singkat panitia (30 menit).
 
@@ -454,7 +454,7 @@ R = penanggung jawab pelaksana, A = penanggung jawab akhir, C = dikonsultasikan,
 | 5 | Kasus simulasi tidak sesuai kondisi biro | Sedang | Sedang | Validasi dengan Kabiro 2–6 November | Sie Simulasi |
 | 6 | Jumlah peserta di luar 50–70 | Sedang | Sedang | Konfirmasi RSVP; pengaturan tim fleksibel | Sie Registrasi |
 | 7 | Keraguan peserta tidak terungkap jujur | Sedang | Sedang | Instrumen opsional dan privasi tegas | Personalia |
-| 8 | KPP tidak selesai tepat waktu (jendela hanya 5–6 hari, kehadiran rombongan wajib lengkap) | Sedang | Sedang–Tinggi | Heads-up narasumber 9 November, papan kuota dibuka serentak 15 November pukul 16.24, batas pendaftaran narasumber 17 November pukul 12.00, hari cadangan 20 November, dan pengingat harian | Personalia |
+| 8 | KPP tidak selesai tepat waktu (jendela hanya 5–6 hari, kehadiran rombongan wajib lengkap) | Sedang | Sedang–Tinggi | Heads-up narasumber 9 November, papan kuota dibuka serentak 15 November pukul 16.01, batas pendaftaran narasumber 17 November pukul 12.00, hari cadangan 20 November, dan pengingat harian | Personalia |
 | 9 | LPJ terlambat | Rendah–Sedang | Tinggi | Target operasional 27 November | Sekpel |
 | 10 | Perbedaan tafsir SOP asistensi | Sedang | Sedang | Konfirmasi tertulis ke Sekum | Ketupel |
 
@@ -475,4 +475,4 @@ R = penanggung jawab pelaksana, A = penanggung jawab akhir, C = dikonsultasikan,
 | 9 | Ketersediaan kru Digipro/Medsist untuk dokumentasi hari Minggu | Kadep Medigi | 5 November |
 | 10 | Mekanisme meja gabungan (dua kartu dan dua tab) serta transparansi pengamatan kepemimpinan emergen kepada peserta | Ketua | 26 Oktober |
 | 11 | Jumlah Kepala Biro dan Staf Ahli aktif (dibutuhkan minimal 8 Staf Ahli agar kuota 2 ajakan dan aturan lintas biro terpenuhi), daftar fungsionaris untuk Papan Kuota, dan heads-up kepada mereka | Badan Personalia | 9 November |
-| 12 | Pertemuan tunggal bersama tiga narasumber (aturan lintas biro dan pemilihan narasumber mandiri sudah ditetapkan Ketua) | Ketua | 6 November |
+| 12 | Pertemuan tunggal bersama seluruh narasumber (komposisi 2.3 dan pemilihan narasumber mandiri sudah ditetapkan Ketua pada 1 November) | Ketua | 6 November |

@@ -35,7 +35,7 @@ Blok "Catatan Penyusunan" di bawah ini dihapus sebelum proposal dikirim asistens
 
 # “BE A BETTER MUSLIM II (BBM 2)”
 
-## “Estafet Khidmah: Menyiapkan Penerus Amanah di Manarul Ilmi”
+## “Membentang saujana asa, menyatukan langkah dan karya”
 
 &nbsp;
 
@@ -111,7 +111,7 @@ Regenerasi tidak dapat diserahkan pada keberuntungan. Pilar F Kabinet Ekselensi 
 
 Adapun tujuan dilaksanakannya kegiatan ini adalah:
 
-1. Menyiapkan kesiapan manajerial dan mental Staf Muda angkatan 2025 sebagai calon Kepala Biro dan Staf Ahli pada kepengurusan berikutnya;
+1. Menyiapkan kesiapan manajerial dan mental Staf Muda angkatan 2025 sebagai calon Kepala Biro dan/atau Staf Ahli pada kepengurusan berikutnya;
 2. Meluruskan pemahaman tentang hierarki dan pembagian wewenang menurut konvensi struktur kabinet saat ini, serta membekali prinsip komunikasi, kolaborasi lintas tim, dan etika eskalasi yang tetap relevan meskipun struktur berubah;
 3. Melatih kemampuan negosiasi, pengambilan keputusan bersama, dan komunikasi lintas biro melalui Simulasi Taktis;
 4. Menumbuhkan kesadaran khidmah, rasa memiliki, dan kebanggaan ber-JMMI sebagai landasan keberlanjutan regenerasi; dan
@@ -129,11 +129,6 @@ Adapun tujuan dilaksanakannya kegiatan ini adalah:
 2. Terhimpunnya data kesiapan dan hambatan kader sebagai dasar pembinaan serta pemetaan kebutuhan peran;
 3. Terdokumentasinya praktik baik, peluang tumbuh, dan gagasan terobosan tiap biro, serta masukan peserta, sebagai bahan bagi penyempurnaan tata kelola.
 
-**Bagi kampus Institut Teknologi Sepuluh Nopember**
-1. Terjaganya kesinambungan organisasi dakwah kampus yang menjadi poros pembinaan keislaman dan pelayanan sivitas akademika;
-2. Terbentuknya kader mahasiswa yang berintegritas, mampu berorganisasi secara akuntabel, dan terbiasa bekerja lintas unit;
-3. Tersedianya praktik baik pengaderan organisasi mahasiswa yang dapat dijadikan rujukan.
-
 <div style="page-break-after: always;"></div>
 
 ---
@@ -144,13 +139,13 @@ Adapun tujuan dilaksanakannya kegiatan ini adalah:
 
 Adapun nama kegiatan ini adalah:
 
-**“Be A Better Muslim II (BBM 2)”**
+**“Be a Better Muslim II (BBM 2)”**
 
 ### 2.2 Tema Kegiatan
 
 Adapun tema kegiatan ini adalah:
 
-**“Estafet Khidmah: Menyiapkan Penerus Amanah di Manarul Ilmi”**
+**“Membentang saujana asa, menyatukan langkah dan karya”**
 
 ### 2.3 Deskripsi Kegiatan
 
@@ -161,20 +156,19 @@ Kegiatan ini merupakan rangkaian upgrading kader JMMI ITS berupa pelatihan satu 
 | Tahap | Modul | Pokok bahasan | Pemateri |
 |---|---|---|---|
 | **Paham** | Materi 1: “Arsitektur Amanah” | Hierarki, Fungsionaris dan Eksekutif, transisi organogram, serta peta wewenang Kepala Biro, Staf Ahli, Staf Muda, dan Kepala Departemen menurut konvensi struktur kabinet saat ini | Ketua Umum JMMI ITS, Wakil Ketua I, dan Wakil Ketua II |
-| **Paham** | Materi 2: “Simpul Organisasi” | Prinsip komunikasi dan kolaborasi lintas tim: musyawarah, koordinasi asertif, etika eskalasi, diplomasi internal, serta adaptabilitas ketika struktur berubah | Ketua Badan Keorganisasian dan Wakil Ketua III |
-| **Mampu** | Materi 3: “Seni Eksekusi” | Memimpin tim biro, menyusun proker yang realistis, delegasi, bonding, dan penyelesaian konflik dari sudut pandang praktisi | Best Kepala Biro Manajemen Event periode OKR 2 |
+| **Paham** | Materi 2: “Simpul Organisasi” | Prinsip komunikasi dan kolaborasi lintas tim: musyawarah, koordinasi asertif, etika eskalasi, diplomasi internal, serta adaptabilitas ketika struktur berubah | Wakil Ketua III dan 1 Staf Ahli Badan Personalia |
+| **Mampu** | Materi 3: “Seni Eksekusi” | Memimpin tim biro, menyusun proker yang realistis, delegasi, bonding, dan penyelesaian konflik dari sudut pandang praktisi | Best Kepala Biro Manajemen Event periode OKR 1 dan OKR 2 |
 | **Mau** | Materi 4: “Saujana Manarul Ilmi” | Essential awareness, peran strategis JMMI di ITS, kebanggaan, dan ajakan berkhidmah | Kepala Departemen Syi’ar |
 
-**b. Simulasi Taktis (40 menit)**
+**b. Simulasi Taktis (30 menit)**
 
-Simulasi Taktis adalah satu ronde permainan koordinasi lintas biro berbasis Google Sheets, dibingkai sebagai simulasi berbasis konvensi struktur kabinet saat ini. Delapan biro, yaitu Biro Manajemen Event, Biro Pengabdian Masyarakat, Biro Kajian & Inovasi Dakwah, Biro Usaha Mandiri, Biro Amaliyah Yaumiyah, Biro Digital Production, Biro Media Analysis & Strategi, serta Biro Relasi & Hubungan Eksternal, menjalankan proker masing-masing secara bersamaan. Setiap meja diisi Staf Muda dari biro asalnya, tanpa penunjukan jabatan sehingga kepemimpinan tumbuh secara organik. Ketergantungan antar-biro bersifat searah: tiap biro hanya boleh memulai koordinasi ke dua biro tujuan, sehingga terbentuk 16 relasi kerja. Peserta bernegosiasi dengan kapasitas terbatas, mengeskalasi persoalan kepada Kepala Departemen, dan menghadapi tiga dinamika lapangan (kapasitas media turun, instruksi ganda, dan pengambil kendali berhalangan). Sesi dilanjutkan debrief selama 25 menit yang mengaitkan temuan dengan prinsip koordinasi dan etika eskalasi.
+Simulasi Taktis adalah satu ronde permainan koordinasi lintas biro berbasis Google Sheets, dibingkai sebagai simulasi berbasis konvensi struktur kabinet saat ini. Delapan biro, yaitu Biro Manajemen Event, Biro Pengabdian Masyarakat, Biro Kajian & Inovasi Dakwah, Biro Usaha Mandiri, Biro Amaliyah Yaumiyah, Biro Digital Production, Biro Media Analysis & Strategi, serta Biro Relasi & Hubungan Eksternal, menjalankan proker masing-masing secara bersamaan. Setiap meja diisi Staf Muda dari biro asalnya, tanpa penunjukan jabatan sehingga kepemimpinan tumbuh secara organik. Ketergantungan antar-biro bersifat searah: tiap biro hanya boleh memulai koordinasi ke dua biro tujuan, sehingga terbentuk 16 relasi kerja. Peserta bernegosiasi dengan kapasitas terbatas, mengeskalasi persoalan kepada Kepala Departemen, dan menghadapi tiga dinamika lapangan (kapasitas media turun, instruksi ganda, dan pengambil kendali berhalangan). Simulasi didahului briefing 5 menit oleh Ketua Pelaksana. Sesi dilanjutkan presentasi hasil dan ulasan selama 30 menit yang mengaitkan temuan dengan prinsip koordinasi dan etika eskalasi.
 
 **c. Kegiatan Pasca Pelatihan (KPP) berorientasi suksesi**
 
 KPP berlangsung sejak 16 November 2026 hingga satu hari sebelum Forum AHWA JMMI ITS 2026 (estimasi 20 atau 21 November 2026), terdiri atas:
-1. **Ngopi Khidmah.** Seluruh Staf Muda satu biro hadir lengkap, bersowan secara tatap muka dengan satu Kepala Biro dan dua Staf Ahli dari tiga biro yang berbeda satu sama lain dan berbeda dari biro asal. Narasumber dicari dan dihubungi sendiri oleh Staf Muda, dengan kuota maksimal dua ajakan per narasumber (*first-come, first-served*). Topiknya: alasan memilih lanjut ber-JMMI, suka-duka dan dinamika memimpin, kekuatan biro dan hal yang ingin dikembangkan bersama, serta tips menjaga komitmen. Buktinya berupa foto bersama yang diunggah ke Instagram biro dan dibagikan ke grup komunal anggota JMMI ITS.
-2. **1-Page Canvas Biro Masa Depan.** Satu lembar kertas A3 per biro dengan tiga zona berpendekatan *Appreciative Inquiry* (berbasis kekuatan): **Cahaya Biro** (Warisan Baik yang Kita Jaga), **Ruang Tumbuh** (Peluang yang Ingin Kita Jelajahi), serta **Asa dan Terobosan** (Estafet Kita Selanjutnya). Setiap Staf Muda menempelkan minimal satu sticky note berinisial pada tiap zona. Kit fisik dibagikan panitia pada akhir acara hari-H.
-3. **Form Minat Peran**, instrumen privat untuk memetakan kesiapan dan hambatan calon penerus.
+1. **Ngopi Khidmah.** Seluruh Staf Muda satu biro hadir lengkap, bersowan secara tatap muka dengan dua Kepala Biro (satu dari Kelompok A dan satu dari Kelompok B), satu Staf Ahli Biro, dan satu hingga dua fungsionaris badan. Narasumber dicari dan dihubungi sendiri oleh Staf Muda, dengan kuota maksimal dua ajakan per narasumber (*first-come, first-served*). Topiknya: alasan memilih lanjut ber-JMMI, suka-duka dan dinamika memimpin, kekuatan biro dan hal yang ingin dikembangkan bersama, serta tips menjaga komitmen. Buktinya berupa foto bersama yang diunggah ke Instagram biro dan dibagikan ke grup komunal anggota JMMI ITS.
+2. **1-Page Canvas Biro Masa Depan.** Satu lembar kertas A3 per biro dengan dua zona terbuka berpendekatan *Appreciative Inquiry* (berbasis kekuatan): **Cahaya Biro** (Warisan Baik yang Kita Jaga) dan **Asa dan Terobosan** (Estafet Kita Selanjutnya). Zona **Ruang Tumbuh** (Peluang yang Ingin Kita Jelajahi) ditulis di sticky note dan disimpan dalam amplop tertutup untuk Badan Personalia. Setiap Staf Muda menulis minimal satu sticky note berinisial di tiap zona. Kit fisik dibagikan panitia pada briefing penugasan KPP di akhir hari-H.
 
 **d. Evaluasi**
 
@@ -192,7 +186,7 @@ Kegiatan “Be A Better Muslim II (BBM 2)” ini dilaksanakan pada:
 |---|---|
 | **Hari** | Minggu |
 | **Tanggal** | 15 November 2026 |
-| **Waktu** | 08.00–16.30 WIB |
+| **Waktu** | 08.30–16.06 WIB |
 | **Tempat** | Aula Masjid Manarul Ilmi ITS |
 | **Kegiatan Pasca Pelatihan** | 16 November 2026 hingga satu hari sebelum Forum AHWA JMMI ITS 2026 (estimasi 20 atau 21 November 2026) |
 
@@ -216,8 +210,8 @@ Terlampir pada **Lampiran 2**. Kepanitiaan disusun oleh Badan Personalia (Bidang
 
 | Sumber Dana | Nominal |
 |---|---|
-| KAS JMMI | Rp805.000 |
-| **TOTAL** | **Rp805.000** |
+| KAS JMMI | Rp814.000 |
+| **TOTAL** | **Rp814.000** |
 
 ### 3.2 Pengeluaran
 
@@ -229,10 +223,10 @@ Terlampir pada **Lampiran 2**. Kepanitiaan disusun oleh Badan Personalia (Bidang
 | 3 | Air galon isi ulang | 1 | Refill | KAS JMMI | Rp10.000 | Rp10.000 |
 | | *Subtotal* | | | | | **Rp730.000** |
 | | **BAHAN HABIS** | | | | | |
-| 1 | Sticky notes 3 warna untuk Canvas (3 pad @100 lembar = 300 lembar) | 3 | Pad | KAS JMMI | Rp9.000 | Rp27.000 |
+| 1 | Sticky notes 3 warna untuk Canvas (4 pad @100 lembar = 400 lembar) | 4 | Pad | KAS JMMI | Rp9.000 | Rp36.000 |
 | 2 | Kertas Warna A3 | 8 | Lembar | KAS JMMI | Rp6.000 | Rp48.000 |
-| | *Subtotal* | | | | | **Rp75.000** |
-| | **TOTAL** | | | | | **Rp805.000** |
+| | *Subtotal* | | | | | **Rp84.000** |
+| | **TOTAL** | | | | | **Rp814.000** |
 
 <div style="page-break-after: always;"></div>
 
@@ -303,22 +297,23 @@ Minggu, 15 November 2026 · Aula Masjid Manarul Ilmi ITS
 
 | No | Kegiatan | Durasi | Start | Finish | Penanggung Jawab |
 |---|---|---|---|---|---|
-| 1 | Registrasi peserta dan pre-test | 0:20 | 08.00 | 08.20 | Sie Registrasi dan Data |
-| 2 | Pembukaan: tilawah, sambutan Ketua Pelaksana dan Ketua Umum JMMI ITS | 0:15 | 08.20 | 08.35 | MC, Ketua Pelaksana, Ketua Umum |
-| 3 | **Materi 1: “Arsitektur Amanah”** (tanya jawab 15 menit) | 1:15 | 08.35 | 09.50 | Ketua Umum, Wakil Ketua I, Wakil Ketua II |
-| 4 | Rehat dan snack pagi | 0:15 | 09.50 | 10.05 | Sie Konsumsi |
-| 5 | **Materi 2: “Simpul Organisasi”** | 1:05 | 10.05 | 11.10 | Ketua Badan Keorganisasian, Wakil Ketua III |
-| 6 | Salat Dzuhur dan ishoma | 1:00 | 11.10 | 12.10 | Sie Konsumsi, Sie Acara |
-| 7 | **Materi 3: “Seni Eksekusi”** | 1:00 | 12.10 | 13.10 | Best Kepala Biro Manajemen Event (OKR 2) |
-| 8 | Briefing Simulasi Taktis | 0:10 | 13.10 | 13.20 | Sie Simulasi |
-| 9 | **Simulasi Taktis** (3 dinamika lapangan) | 0:40 | 13.20 | 14.00 | Sie Simulasi (Badan Personalia) |
-| 10 | Debrief Simulasi Taktis | 0:25 | 14.00 | 14.25 | Sie Simulasi, Ketua Badan Keorganisasian, Wakil Ketua III |
-| 11 | Salat Ashar, rehat, dan snack sore | 0:35 | 14.25 | 15.00 | Sie Konsumsi |
-| 12 | **Materi 4: “Saujana Manarul Ilmi”** (sesi penutup) | 1:00 | 15.00 | 16.00 | Kepala Departemen Syi’ar |
-| 13 | Post-test | 0:10 | 16.00 | 16.10 | Sie Registrasi dan Data |
-| 14 | Penutupan | 0:04 | 16.10 | 16.14 | Ketua Pelaksana, Ketua Umum |
-| 15 | Briefing KPP dan pembagian kit fisik (kertas A3 dan sticky notes) per biro | 0:10 | 16.14 | 16.24 | Sie Registrasi dan Data, Badan Personalia |
-| 16 | Doa penutup dan foto bersama | 0:06 | 16.24 | 16.30 | MC |
+| 1 | Registrasi peserta | 0:30 | 08.30 | 09.00 | Sie Acara |
+| 2 | Pembukaan | 0:05 | 09.00 | 09.05 | MC |
+| 3 | Sambutan Ketua Pelaksana | 0:03 | 09.05 | 09.08 | Ketua Pelaksana |
+| 4 | Sambutan Ketua Umum JMMI ITS | 0:03 | 09.08 | 09.11 | Ketua Umum JMMI ITS |
+| 5 | Pre-test | 0:10 | 09.11 | 09.21 | Operator |
+| 6 | **Materi 1: “Arsitektur Amanah”** | 1:00 | 09.21 | 10.21 | Ketua Umum, Wakil Ketua I, Wakil Ketua II |
+| 7 | **Materi 2: “Simpul Organisasi”** | 1:00 | 10.21 | 11.21 | Wakil Ketua III dan 1 Staf Ahli Badan Personalia |
+| 8 | Salat Dzuhur dan ishoma | 0:45 | 11.21 | 12.06 | Seluruh Panitia |
+| 9 | **Materi 3: “Seni Eksekusi”** | 1:00 | 12.06 | 13.06 | Best Kepala Biro Manajemen Event (OKR 1 dan OKR 2) |
+| 10 | Briefing Simulasi Taktis | 0:05 | 13.06 | 13.11 | Ketua Pelaksana |
+| 11 | **Simulasi Taktis** (live game) | 0:30 | 13.11 | 13.41 | Sie Simulasi (Badan Personalia) |
+| 12 | Presentasi singkat hasil simulasi dan ulasan | 0:30 | 13.41 | 14.11 | Panitia, BPH, dan Kabiro yang hadir |
+| 13 | Salat Ashar | 0:30 | 14.11 | 14.41 | Seluruh Panitia |
+| 14 | **Materi 4: “Saujana Manarul Ilmi”** (sesi penutup) | 1:00 | 14.41 | 15.41 | Kepala Departemen Syi’ar |
+| 15 | Post-test | 0:10 | 15.41 | 15.51 | Sie Acara |
+| 16 | Briefing Penugasan KPP dan pembagian kit fisik (kertas A3 dan sticky notes) per biro | 0:10 | 15.51 | 16.01 | Ketua Pelaksana |
+| 17 | Penutup dan foto bersama (doa penutup) | 0:05 | 16.01 | 16.06 | MC |
 
 *Waktu salat bersifat perkiraan dan disesuaikan dengan jadwal resmi pada hari pelaksanaan.*
 
@@ -379,7 +374,7 @@ Hari       : Minggu
 Tanggal    : 15 November 2026  
 Tempat     : Aula Masjid Manarul Ilmi ITS
 
-Acara tersebut menghabiskan dana sebesar Rp805.000 (Delapan Ratus Lima Ribu Rupiah). Demi kelancaran operasional acara tersebut, kami bermaksud meminta permohonan dana sebesar Rp805.000 (Delapan Ratus Lima Ribu Rupiah) demi terlaksananya kegiatan dari JMMI ITS tersebut, adapun perincian dana tersebut terlampir dalam proposal kegiatan.
+Acara tersebut menghabiskan dana sebesar Rp814.000 (Delapan Ratus Empat Belas Ribu Rupiah). Demi kelancaran operasional acara tersebut, kami bermaksud meminta permohonan dana sebesar Rp814.000 (Delapan Ratus Empat Belas Ribu Rupiah) demi terlaksananya kegiatan dari JMMI ITS tersebut, adapun perincian dana tersebut terlampir dalam proposal kegiatan.
 
 Demikian surat ini kami buat, besar harapan kami agar kegiatan ini dapat berjalan dengan lancar. Atas perhatian dan kerjasamanya kami sampaikan terima kasih.
 

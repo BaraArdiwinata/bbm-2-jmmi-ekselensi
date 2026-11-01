@@ -15,15 +15,15 @@
 | Tahap fase | **Paham** (bagian dari fase Paham bersama Materi 1) |
 | Subjudul | Prinsip Komunikasi, Kolaborasi Lintas Tim, dan Etika Eskalasi |
 | Hari dan tanggal | Minggu, 15 November 2026 |
-| Waktu | 10.05–11.10 WIB (65 menit) |
-| Pemateri | Ketua Badan Keorganisasian JMMI ITS 2026 dan Wakil Ketua III |
+| Waktu | 10.21–11.21 WIB (60 menit) |
+| Pemateri | Wakil Ketua III dan 1 Staf Ahli Badan Personalia |
 | Format | Kasus, latihan berpasangan, dan penjaringan masukan peserta |
 
 ---
 
 ## 2. Judul dan Tema Kegiatan
 
-Materi ini merupakan bagian dari kegiatan **"Be A Better Muslim II (BBM 2)"** dengan tema **"Estafet Khidmah: Menyiapkan Penerus Amanah di Manarul Ilmi"**.
+Materi ini merupakan bagian dari kegiatan **"Be A Better Muslim II (BBM 2)"** dengan tema **"Membentang saujana asa, menyatukan langkah dan karya"**.
 
 ---
 
@@ -99,12 +99,12 @@ Kerangka ini selaras dengan konvensi saat ini bahwa koordinasi antarbagian boleh
 
 | Menit | Segmen | Pembicara | Isi |
 |---|---|---|---|
-| 0–10 | Mengapa komunikasi lintas tim adalah "simpul" | Ketua Badan Keorganisasian | Kasus nyata JMMI yang dianonimkan; pengakuan bahwa sebagian kerancuan berasal dari ambiguitas aturan, bukan hanya dari pelaksana |
-| 10–25 | Musyawarah yang hidup dan koordinasi asertif | Ketua Badan Keorganisasian | Prinsip musyawarah; tiga tingkat koordinasi; format fakta, opsi, dan permintaan; cara meminta dan menolak dengan adab |
-| 25–40 | Etika eskalasi dan diplomasi internal | Wakil Ketua III | Kapan, kepada siapa, dan bagaimana mengeskalasi tanpa "mengadu"; negosiasi kepentingan lintas biro; contoh Bidang 3 |
-| 40–50 | Latihan berpasangan | Keduanya | Tiga skenario singkat (lihat di bawah); peserta menyusun respons dengan skrip dalam 5 menit; dua pasangan membacakan |
-| 50–60 | Prinsip tetap, bentuk bisa berubah | Ketua Badan Keorganisasian | Cara beradaptasi bila struktur berganti; penjaringan masukan anonim peserta |
-| 60–65 | Penutup dan jembatan | Wakil Ketua III | Rangkuman tiga prinsip; handout; jembatan ke Materi 3 |
+| 0–10 | Mengapa komunikasi lintas tim adalah "simpul" | Waket III | Kasus nyata JMMI yang dianonimkan; pengakuan bahwa sebagian kerancuan berasal dari ambiguitas aturan, bukan hanya dari pelaksana |
+| 10–22 | Musyawarah yang hidup dan koordinasi asertif | Staf Ahli Badan Personalia | Prinsip musyawarah; tiga tingkat koordinasi (memberi tahu, meminta persetujuan, memutuskan bersama); format fakta, opsi, dan permintaan; cara meminta dan menolak dengan adab |
+| 22–35 | Etika eskalasi dan diplomasi internal | Waket III | Kapan, kepada siapa, dan bagaimana mengeskalasi tanpa "mengadu"; negosiasi kepentingan lintas biro dan lintas bidang |
+| 35–47 | Latihan berpasangan | Keduanya | Tiga skenario singkat (lihat di bawah); peserta menyusun respons dengan skrip dalam 5 menit; dua pasangan membacakan |
+| 47–55 | Prinsip tetap, bentuk bisa berubah | Staf Ahli Badan Personalia | Cara beradaptasi bila struktur berganti; penjaringan masukan anonim peserta |
+| 55–60 | Penutup dan jembatan ke Materi 3 | Waket III | Rangkuman tiga prinsip; handout; jembatan ke memimpin tim |
 
 **Tiga skenario latihan berpasangan:**
 
@@ -114,7 +114,7 @@ Kerangka ini selaras dengan konvensi saat ini bahwa koordinasi antarbagian boleh
 | 2 | Instruksi ganda: arahan lisan dari pimpinan di atas Kepala Biro berbeda dengan arahan Kepala Biro | Jangan mengeksekusi sepihak dan jangan mengabaikan. Sampaikan ke atasan langsung agar dikonfirmasi melalui jalur koordinasi yang berlaku |
 | 3 | Kesepakatan buntu: dua biro berbeda departemen berebut ruang pada hari yang sama | Gali kepentingan masing-masing, tawarkan opsi (bergantian atau membagi waktu), sepakati tertulis dengan koordinator masing-masing. Bila tetap buntu, eskalasi bersama |
 
-**Pengendali waktu** memberi isyarat 10, 5, dan 1 menit sebelum sesi berakhir (menit ke-55, 60, dan 64). Bila latihan berpasangan terlalu panjang, penjaringan masukan dipangkas lebih dulu, bukan latihan.
+**Pengendali waktu** memberi isyarat 10, 5, dan 1 menit sebelum sesi berakhir (menit ke-50, 55, dan 59). Bila latihan berpasangan terlalu panjang, penjaringan masukan dipangkas lebih dulu, bukan latihan.
 
 ---
 
@@ -175,7 +175,7 @@ Simbol: **P** = bahasan utama, **S** = bahasan pendukung (maksimal 2 menit), **�
 | Unsur | Keterangan |
 |---|---|
 | Hari, tanggal | Minggu, 15 November 2026 |
-| Waktu | 10.05–11.10 WIB |
+| Waktu | 10.21–11.21 WIB |
 | Tempat | Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS |
 | Fasilitas | 1 proyektor dan layar, 2 mikrofon nirkabel, laptop pemateri, pointer |
 | Alat latihan | Kertas flipchart untuk catatan skenario berpasangan |
@@ -186,8 +186,8 @@ Simbol: **P** = bahasan utama, **S** = bahasan pendukung (maksimal 2 menit), **�
 
 **Kewajiban:**
 1. Hadir pukul **07.30 WIB** untuk gladi singkat dan uji perangkat.
-2. Membawakan sesi 65 menit sesuai alur di bagian 7.
-3. Hadir pada **debrief Simulasi Taktis (14.00–14.25)**, karena kedua pemateri tercantum sebagai pemimpin debrief.
+2. Membawakan sesi 60 menit sesuai alur di bagian 7.
+3. Hadir pada **presentasi hasil simulasi (13.41–14.11)** bila memungkinkan, untuk menautkan prinsip koordinasi dengan temuan simulasi.
 4. Menyerahkan slide final, handout, dan hasil validasi Lembar Konvensi Sementara paling lambat 10 November 2026.
 5. Memastikan masukan anonim peserta dikumpulkan dan diserahkan kepada Badan Keorganisasian.
 

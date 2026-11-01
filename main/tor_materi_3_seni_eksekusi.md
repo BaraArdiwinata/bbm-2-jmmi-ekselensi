@@ -15,15 +15,15 @@
 | Tahap fase | **Mampu** (bersama Simulasi Taktis) |
 | Subjudul | Memimpin Tim Biro, Bonding, dan People Management |
 | Hari dan tanggal | Minggu, 15 November 2026 |
-| Waktu | 12.10–13.10 WIB (60 menit, termasuk tanya jawab 10 menit) |
-| Pemateri | Best Kabiro periode OKR 2 (Juni–Agustus) dari Biro Manajemen Event (BME) |
+| Waktu | 12.06–13.06 WIB (60 menit, termasuk tanya jawab 10 menit) |
+| Pemateri | Best Kabiro periode OKR 1 dan OKR 2 dari Biro Manajemen Event (BME) |
 | Format | Cerita praktisi, refleksi, dan tanya jawab |
 
 ---
 
 ## 2. Judul dan Tema Kegiatan
 
-Materi ini merupakan bagian dari kegiatan **"Be A Better Muslim II (BBM 2)"** dengan tema **"Estafet Khidmah: Menyiapkan Penerus Amanah di Manarul Ilmi"**.
+Materi ini merupakan bagian dari kegiatan **"Be A Better Muslim II (BBM 2)"** dengan tema **"Membentang saujana asa, menyatukan langkah dan karya"**.
 
 ---
 
@@ -159,7 +159,7 @@ Simbol: **P** = bahasan utama, **S** = bahasan pendukung (maksimal 2 menit), **�
 | Unsur | Keterangan |
 |---|---|
 | Hari, tanggal | Minggu, 15 November 2026 |
-| Waktu | 12.10–13.10 WIB |
+| Waktu | 12.06–13.06 WIB |
 | Tempat | Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS |
 | Fasilitas | 1 proyektor, 1 mikrofon, dan kursi santai (sesuai kebutuhan teknis sesi M3) |
 

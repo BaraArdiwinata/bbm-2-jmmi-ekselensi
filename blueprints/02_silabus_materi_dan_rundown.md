@@ -1,9 +1,9 @@
 # 02 — Silabus Materi dan Rundown Terpadu
 
 **Program:** BBM 2 JMMI ITS Kabinet Ekselensi 2026
-**Pelaksanaan:** Minggu, 15 November 2026, 08.00–16.30 WIB
+**Pelaksanaan:** Minggu, 15 November 2026, 08.30–16.06 WIB
 **Tempat:** Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS
-**Versi:** 1.1, 24 Oktober 2026 (pembaruan pasca-audiensi: Materi 2 dibingkai ulang menjadi prinsip komunikasi dan kolaborasi lintas tim; Materi 1 dan Simulasi Taktis dibingkai sebagai simulasi berbasis konvensi struktur kabinet saat ini; zona Canvas A3 memakai pendekatan *Appreciative Inquiry*)
+**Versi:** 1.2, 1 November 2026 (rundown 08.30–16.06 dan simulasi 30 menit hasil rapat Ketua Pelaksana dan Badan Personalia; komposisi Ngopi Khidmah baru; Canvas dua zona terbuka dengan zona ketiga tertutup; tema resmi). Versi 1.1, 24 Oktober 2026 (pembaruan pasca-audiensi: Materi 2 dibingkai ulang menjadi prinsip komunikasi dan kolaborasi lintas tim; Materi 1 dan Simulasi Taktis dibingkai sebagai simulasi berbasis konvensi struktur kabinet saat ini; zona Canvas A3 memakai pendekatan *Appreciative Inquiry*)
 **Peserta:** Staf Muda angkatan 2025, ±50–70 orang
 
 > **Pembingkaian struktur (keputusan Ketua Pelaksana).** Tata Kelola Kabinet Ekselensi 2026 belum disahkan secara final dan belum pasti dipertahankan pada kepengurusan berikutnya. Karena itu Materi 1 (wewenang) dan Simulasi Taktis disajikan sebagai **"simulasi berbasis konvensi struktur kabinet saat ini"**: peserta berlatih membaca peran dan berkoordinasi dalam struktur yang berlaku sekarang, sambil memahami bahwa **prinsipnya bertahan walau bentuknya berubah**. Materi 2 tidak mengajarkan SOP kaku; ia mengajarkan prinsip komunikasi dan kolaborasi lintas tim.
@@ -16,31 +16,32 @@
 
 | No | Mulai | Selesai | Durasi | Kegiatan | Pemateri / PIC | Keterangan dan output |
 |---|---|---|---|---|---|---|
-| 1 | 08.00 | 08.20 | 20' | Registrasi, pembagian name tag (kode peserta dan warna biro asal), **pre-test** via QR | Sie Registrasi dan Data | Daftar hadir digital terisi. Pre-test 13 butir pilihan ganda + 6 butir sikap + 1 pertanyaan terbuka (±8 menit) |
-| 2 | 08.20 | 08.35 | 15' | Pembukaan: tilawah, sambutan Ketua Pelaksana dan Ketua Umum | MC, Ketupel, Ketum | Peserta memahami tujuan dan alur satu hari |
-| 3 | 08.35 | 09.50 | 75' | **M1 — Arsitektur Amanah** | Hazal (Ketum), Waket I, Waket II | Peta wewenang menurut konvensi struktur saat ini dipahami. Tanya jawab 15' |
-| 4 | 09.50 | 10.05 | 15' | Rehat dan snack pagi | Sie Konsumsi | |
-| 5 | 10.05 | 11.10 | 65' | **M2 — Simpul Organisasi** | Ketua Badan Keorganisasian, Waket III | Peserta membawa pulang handout "Prinsip dan Skrip Koordinasi" (dengan Lembar Konvensi Sementara) |
-| 6 | 11.10 | 12.10 | 60' | **Salat Dzuhur dan ishoma** | Sie Konsumsi, Sie Acara | Jadwal salat resmi dikonfirmasi H-5 |
-| 7 | 12.10 | 13.10 | 60' | **M3 — Seni Eksekusi** | Best Kabiro BME OKR 2 | Cerita praktisi, tanya jawab 10' |
-| 8 | 13.10 | 13.20 | 10' | Briefing simulasi: aturan, pengumuman meja per biro asal (dan penggabungan bila ada), serta pembagian Kartu Rahasia | Fasilitator Simulasi | Meja duduk per biro asal. **Tanpa penunjukan jabatan** |
-| 9 | 13.20 | 14.00 | 40' | **Simulasi Taktis** (simulasi berbasis konvensi struktur kabinet saat ini; P1 5', P2 25', P3 5', P4 5'; 3 inject pada menit 10, 17, 22) | Fasilitator Simulasi (Badan Personalia) | `PAPAN_JARING` final; catatan pengamat |
-| 10 | 14.00 | 14.25 | 25' | **Debrief simulasi** (termasuk pelajaran kepemimpinan organik) | Fasilitator Simulasi, Ketua Badan Keorg, Waket III | Prinsip koordinasi dan etika eskalasi dikaitkan dengan temuan simulasi |
-| 11 | 14.25 | 15.00 | 35' | **Salat Ashar** dan rehat, snack sore | Sie Konsumsi | Jeda longgar untuk wudu dan berjalan ke masjid |
-| 12 | 15.00 | 16.00 | 60' | **M4 — Saujana Manarul Ilmi** (sesi penutup) | Kepala Departemen Syi'ar | Klimaks refleksi |
-| 13 | 16.00 | 16.10 | 10' | **Post-test** | MC, Sie Registrasi dan Data | Post-test via QR (±8 menit). Form Umpan Balik dikirim H+1 |
-| 14 | 16.10 | 16.14 | 4' | Penutupan: ringkasan, sambutan penutup, dan ucapan terima kasih | Ketupel, Ketum | |
-| 15 | 16.14 | 16.24 | 10' | **Briefing KPP dan pembagian kit fisik** (kertas A3 + sticky notes aneka warna) langsung kepada tiap biro | Sie Registrasi dan Data, Badan Personalia | Tiap biro memegang kit dan memahami Ngopi Khidmah, Canvas A3, dan tenggat |
-| 16 | 16.24 | 16.30 | 6' | Doa penutup dan foto bersama | MC | Acara selesai 16.30 |
+| 1 | 08.30 | 09.00 | 30' | Registrasi peserta dan pembagian name tag (kode peserta dan warna biro asal) | Sie Acara | Daftar hadir digital terisi |
+| 2 | 09.00 | 09.05 | 5' | **Pembukaan** | MC | Peserta memahami tujuan dan alur satu hari |
+| 3 | 09.05 | 09.08 | 3' | Sambutan Ketua Pelaksana | Ketua Pelaksana | |
+| 4 | 09.08 | 09.11 | 3' | Sambutan Ketua Umum JMMI ITS | Ketua Umum JMMI ITS | |
+| 5 | 09.11 | 09.21 | 10' | **Pre-test** (13 butir pilihan ganda, 6 butir sikap, 1 pertanyaan terbuka) via QR | Operator | Data pre-test terkumpul |
+| 6 | 09.21 | 10.21 | 60' | **M1 — Arsitektur Amanah** | Hazal (Ketum), Waket I, Waket II | Peta wewenang menurut konvensi struktur saat ini dipahami. Tanya jawab 15' |
+| 7 | 10.21 | 11.21 | 60' | **M2 — Simpul Organisasi** | Waket III dan 1 Staf Ahli Badan Personalia | Peserta membawa pulang handout "Prinsip dan Skrip Koordinasi" (dengan Lembar Konvensi Sementara) |
+| 8 | 11.21 | 12.06 | 45' | **Salat Dzuhur dan ishoma** | Seluruh Panitia | Jadwal salat resmi dikonfirmasi H-5 |
+| 9 | 12.06 | 13.06 | 60' | **M3 — Seni Eksekusi** | Best Kabiro Manajemen Event (OKR 1 dan OKR 2) | Cerita praktisi, tanya jawab 10' |
+| 10 | 13.06 | 13.11 | 5' | **Briefing Simulasi Taktis**: aturan, pengumuman meja per biro asal, dan pembagian Kartu Rahasia | Ketua Pelaksana | Meja duduk per biro asal. **Tanpa penunjukan jabatan** |
+| 11 | 13.11 | 13.41 | 30' | **Simulasi Taktis** (simulasi berbasis konvensi struktur kabinet saat ini; P1 4', P2 17', P3 4', P4 5'; 3 inject pada menit 8, 13, 18) | Badan Personalia | `PAPAN_JARING` final; catatan pengamat |
+| 12 | 13.41 | 14.11 | 30' | **Presentasi singkat hasil simulasi** dan ulasan (pelajaran koordinasi dan kepemimpinan organik) | Panitia, BPH, dan Kabiro yang hadir | Prinsip koordinasi dan etika eskalasi dikaitkan dengan temuan simulasi |
+| 13 | 14.11 | 14.41 | 30' | **Salat Ashar** dan rehat, snack sore | Seluruh Panitia | Lihat catatan waktu ibadah (1.2) |
+| 14 | 14.41 | 15.41 | 60' | **M4 — Saujana Manarul Ilmi** (sesi penutup) | Kepala Departemen Syi'ar | Klimaks refleksi |
+| 15 | 15.41 | 15.51 | 10' | **Post-test** via QR | Sie Acara | Form Umpan Balik dikirim H+1 |
+| 16 | 15.51 | 16.01 | 10' | **Briefing Penugasan KPP** dan pembagian kit fisik (kertas A3 dan sticky notes) langsung kepada tiap biro; Papan Kuota Terbuka dibuka | Ketua Pelaksana | Tiap biro memegang kit dan memahami Ngopi Khidmah, Canvas A3, dan tenggat |
+| 17 | 16.01 | 16.06 | 5' | **Penutup dan foto bersama** (doa penutup) | MC | Acara selesai 16.06 |
 
 Seluruh waktu diselaraskan dengan format Lampiran 1 Template Proposal (kolom *Kegiatan, Durasi, Start, Finish*). SOP 6.1.2 mensyaratkan susunan acara juga memuat penanggung jawab kegiatan, yang tersedia pada kolom *Pemateri / PIC*.
 
 ### 1.2 Catatan Waktu Ibadah
 
 - Perkiraan waktu salat Surabaya pada 15 November 2026 (hasil hitung kasar, **bukan jadwal resmi**): **Dzuhur ±11.15–11.20**, **Ashar ±14.35–14.45**.
-- Rundown menempatkan Dzuhur pada 11.10 dan blok Ashar pada 14.25–15.00 (azan perkiraan 14.35–14.45, sehingga ada jeda sebelum dan sesudah azan). Bila jadwal resmi Takmir bergeser lebih dari 10 menit, Sie Acara menggeser blok rehat tanpa mengubah durasi sesi.
+- Rundown menempatkan Dzuhur pada 11.21–12.06 (azan perkiraan 11.15–11.20, sehingga salat dimulai setelah azan). **Blok Ashar 14.11–14.41 tidak cukup:** azan perkiraan 14.35–14.45 berarti salat berjamaah baru dapat dimulai sekitar 14.45. Perlu keputusan Ketua Pelaksana: menggeser blok Ashar ke 14.30–15.00 dan memangkas presentasi hasil simulasi, atau mempertahankan blok dengan catatan. Bila jadwal resmi Takmir bergeser lebih dari 10 menit, Sie Acara menggeser blok rehat tanpa mengubah durasi sesi.
 - Azan dan iqamah dilaksanakan berjamaah di Masjid Manarul Ilmi. Peserta berpindah dari ruang acara ke masjid dalam waktu 10 menit.
-- Simulasi berakhir 14.00 dan debrief 14.25, sehingga Ashar ditunaikan tanpa memotong sesi dan masih tersisa jeda yang nyaman sebelum Materi 4.
+- Simulasi berakhir 13.41 dan presentasi hasil berakhir 14.11, sehingga Ashar ditunaikan tanpa memotong sesi.
 
 ### 1.3 Rundown Operasional Panitia (Hari-H)
 
@@ -50,7 +51,7 @@ Seluruh waktu diselaraskan dengan format Lampiran 1 Template Proposal (kolom *Ke
 | 06.30–07.15 | Penataan 8 klaster meja, pemasangan proyektor, uji Wi-Fi dan Google Sheets | Sie Perlengkapan dan Sie Simulasi |
 | 07.15–07.45 | Gladi bersih singkat MC dan uji mikrofon, uji QR pre-test | MC, Sie Acara |
 | 07.30–08.00 | Fasilitator Simulasi dan role-player (Kadep, Waket/BPI, Bendum) berkumpul, serah terima Kartu Rahasia dalam amplop tersegel | Sie Simulasi |
-| 08.00 | Pintu registrasi dibuka | Sie Registrasi |
+| 08.30 | Pintu registrasi dibuka | Sie Acara |
 
 ### 1.4 Usulan Susunan Kepanitiaan Minimal
 
@@ -89,7 +90,7 @@ Susunan ini adalah **usulan** untuk disesuaikan dengan jumlah personel Badan Per
 3. **M3 setelah Dzuhur**, dengan cerita praktisi (menjaga fokus saat energi turun).
 4. **Simulasi setelah M3**, supaya peserta langsung mempraktikkan M1 sampai M3.
 5. **M4 paling akhir**, supaya "panggilan hati" datang setelah peserta merasakan beban peran dalam simulasi sehingga lebih jujur dan tidak abstrak.
-6. **Debrief 25 menit dan jeda Ashar 35 menit sebelum M4**, supaya pelajaran teknis dan pengalaman kepemimpinan organik tertutup rapi dan suasana beralih ke refleksi dengan tenang.
+6. **Presentasi hasil simulasi 30 menit dan jeda Ashar 30 menit sebelum M4**, supaya pelajaran teknis dan pengalaman kepemimpinan organik tertutup rapi dan suasana beralih ke refleksi dengan tenang.
 
 ### 2.3 Matriks Anti-Tumpang-Tindih
 
@@ -120,7 +121,7 @@ P = bahasan utama, S = bahasan pendukung (maksimal 2 menit), — = tidak dibahas
 
 **Subjudul:** Hierarki, Fungsionaris–Eksekutif, dan Transisi Organogram
 **Pemateri:** Hazal (Ketua Umum) didampingi Waket I dan Waket II
-**Waktu:** 08.35–09.50 (75 menit)
+**Waktu:** 09.21–10.21 (60 menit)
 
 **Pembingkaian:** Materi 1 dibawakan sebagai pemetaan wewenang menurut **konvensi struktur kabinet saat ini**. Pemateri menegaskan bahwa Tata Kelola belum disahkan final dan struktur dapat berubah pada kepengurusan berikutnya; yang diajarkan adalah cara membaca peran, batas, dan hubungan antarperan, supaya peserta tetap mampu membaca struktur baru.
 
@@ -133,10 +134,10 @@ P = bahasan utama, S = bahasan pendukung (maksimal 2 menit), — = tidak dibahas
 
 | Menit | Segmen | Pembicara | Isi |
 |---|---|---|---|
-| 0–25 | Dasar pemikiran dan transisi organogram | Hazal | Alasan strategis penambahan lapisan Biro; kaitan dengan Misi 2 (tata kelola transparan dan terukur) dan Pilar F; apa yang berubah dari tahun lalu bagi Staf Muda; apa yang **belum mulus** dalam transisi (disampaikan jujur); harapan kepada calon pengisi lapisan Biro |
-| 25–45 | Fungsionaris vs Eksekutif, dan alur Bidang 1 | Waket I | Pembagian golongan menurut 5.3; wewenang Kadep dan Kabiro berdampingan; contoh alur Dept Pelayanan dan Dept Syi'ar → 4 biro; koordinasi langsung Kadep ↔ Biro **tanpa mengambil alih kewenangan operasional biro** |
-| 45–60 | Tabel wewenang dan alur Bidang 2 | Waket II | Tabel *memutuskan / mengusulkan / mengetahui*; peran tiga badan di Bidang 2 (Personalia, Keorganisasian, Kemuslimahan) dan hak koordinasi langsung mereka ke departemen dan biro; hak Staf Muda (5.6.11); penutup berupa peta jalan kepengurusan berikutnya (yang tetap dan yang mungkin berubah) |
-| 60–75 | Tanya jawab | Ketiganya | Pertanyaan anonim dikumpulkan sejak registrasi (kertas atau Google Form) dan dijawab bergantian |
+| 0–20 | Dasar pemikiran dan transisi organogram | Hazal | Alasan strategis penambahan lapisan Biro; kaitan dengan Misi 2 (tata kelola transparan dan terukur) dan Pilar F; apa yang berubah dari tahun lalu bagi Staf Muda; apa yang **belum mulus** dalam transisi (disampaikan jujur); harapan kepada calon pengisi lapisan Biro |
+| 20–35 | Fungsionaris vs Eksekutif, dan alur Bidang 1 | Waket I | Pembagian golongan menurut 5.3; wewenang Kadep dan Kabiro berdampingan; contoh alur Dept Pelayanan dan Dept Syi'ar → 4 biro; koordinasi langsung Kadep ↔ Biro **tanpa mengambil alih kewenangan operasional biro** |
+| 35–45 | Tabel wewenang dan alur Bidang 2 | Waket II | Tabel *memutuskan / mengusulkan / mengetahui*; peran tiga badan di Bidang 2 (Personalia, Keorganisasian, Kemuslimahan) dan hak koordinasi langsung mereka ke departemen dan biro; hak Staf Muda (5.6.11); penutup berupa peta jalan kepengurusan berikutnya (yang tetap dan yang mungkin berubah) |
+| 45–60 | Tanya jawab | Ketiganya | Pertanyaan anonim dikumpulkan sejak registrasi (kertas atau Google Form) dan dijawab bergantian |
 
 **Poin bahasan rinci**
 
@@ -192,8 +193,8 @@ P = bahasan utama, S = bahasan pendukung (maksimal 2 menit), — = tidak dibahas
 ### 3.2 Materi 2 — "Simpul Organisasi"
 
 **Subjudul:** Prinsip Komunikasi, Kolaborasi Lintas Tim, dan Etika Eskalasi
-**Pemateri:** Ketua Badan Keorganisasian dan Waket III
-**Waktu:** 10.05–11.10 (65 menit)
+**Pemateri:** Waket III dan 1 Staf Ahli Badan Personalia
+**Waktu:** 10.21–11.21 (60 menit)
 
 **Pembingkaian (ditetapkan Ketua Pelaksana pasca-audiensi).** Tata Kelola belum disahkan secara final dan belum pasti dipertahankan pada kepengurusan berikutnya. Materi 2 karena itu **tidak mengajarkan SOP yang kaku atau dogmatis**. Isinya adalah **prinsip universal** komunikasi dan kolaborasi lintas tim yang berlaku di struktur apa pun. Jalur yang berlaku saat ini hanya dipakai sebagai **contoh konvensi sementara**. Ketidakfinalan Tata Kelola dijadikan kekuatan: Materi 2 menjadi forum uji-coba, dan masukan peserta menjadi bahan penyempurnaan oleh Badan Keorganisasian.
 
@@ -207,12 +208,12 @@ P = bahasan utama, S = bahasan pendukung (maksimal 2 menit), — = tidak dibahas
 
 | Menit | Segmen | Pembicara | Isi |
 |---|---|---|---|
-| 0–10 | Mengapa komunikasi lintas tim adalah "simpul" | Ketua Badan Keorg | Satu kasus nyata JMMI (anonim) tentang koordinasi yang rancu; bahwa sebagian kerancuan bersumber dari ambiguitas aturan, bukan hanya dari pelaksana |
-| 10–25 | **Musyawarah yang hidup dan koordinasi asertif** | Ketua Badan Keorg | Prinsip musyawarah; tiga tingkat koordinasi (memberi tahu, meminta persetujuan, memutuskan bersama); format fakta–opsi–permintaan; cara meminta dan menolak dengan adab |
-| 25–40 | **Etika eskalasi dan diplomasi internal** | Waket III | Kapan, kepada siapa, dan bagaimana mengeskalasi tanpa "mengadu"; negosiasi kepentingan lintas biro dan lintas bidang; contoh dari Bidang 3 (kerja sama eksternal dan request berbasis permintaan) |
-| 40–50 | Latihan berpasangan | Keduanya | Tiga skenario singkat (permintaan mepet, instruksi ganda, kesepakatan buntu); pasangan menyusun respons dengan skrip koordinasi, kunci dibahas langsung |
-| 50–60 | **Prinsip tetap, bentuk bisa berubah** | Ketua Badan Keorg | Cara beradaptasi bila struktur berganti; **penjaringan masukan peserta** tentang bagian yang rancu |
-| 60–65 | Penutup dan jembatan ke Materi 3 | Waket III | Rangkuman tiga prinsip; handout; jembatan ke memimpin tim |
+| 0–10 | Mengapa komunikasi lintas tim adalah "simpul" | Waket III | Satu kasus nyata JMMI (anonim) tentang koordinasi yang rancu; bahwa sebagian kerancuan bersumber dari ambiguitas aturan, bukan hanya dari pelaksana |
+| 10–22 | **Musyawarah yang hidup dan koordinasi asertif** | Staf Ahli Badan Personalia | Prinsip musyawarah; tiga tingkat koordinasi (memberi tahu, meminta persetujuan, memutuskan bersama); format fakta–opsi–permintaan; cara meminta dan menolak dengan adab |
+| 22–35 | **Etika eskalasi dan diplomasi internal** | Waket III | Kapan, kepada siapa, dan bagaimana mengeskalasi tanpa "mengadu"; negosiasi kepentingan lintas biro dan lintas bidang; contoh dari Bidang 3 (kerja sama eksternal dan request berbasis permintaan) |
+| 35–47 | Latihan berpasangan | Keduanya | Tiga skenario singkat (permintaan mepet, instruksi ganda, kesepakatan buntu); pasangan menyusun respons dengan skrip koordinasi, kunci dibahas langsung |
+| 47–55 | **Prinsip tetap, bentuk bisa berubah** | Staf Ahli Badan Personalia | Cara beradaptasi bila struktur berganti; **penjaringan masukan peserta** tentang bagian yang rancu |
+| 55–60 | Penutup dan jembatan ke Materi 3 | Waket III | Rangkuman tiga prinsip; handout; jembatan ke memimpin tim |
 
 **Poin bahasan rinci**
 
@@ -261,7 +262,7 @@ Tiga tingkat ini adalah **kerangka universal**, bukan pasal. Ia selaras dengan k
 - **Prinsip yang tetap:** kejelasan peran dan batas, komunikasi terbuka, kesepakatan tertulis, serta etika eskalasi.
 - **Bentuk yang bisa berubah:** nama jabatan, urutan jalur, dan tenggat administrasi.
 - **Kiat beradaptasi:** tanyakan "apa tujuan aturan ini?", konfirmasi ke koordinator atau Badan Keorganisasian bila ragu, dan dokumentasikan kesepakatan.
-- **Penjaringan masukan peserta (oleh Ketua Badan Keorganisasian):** peserta menuliskan secara anonim satu bagian jalur, aturan, atau komunikasi yang masih rancu menurut mereka (kertas atau Google Form yang dibuka sejak registrasi, bersama pertanyaan anonim M1). Hasilnya menjadi bahan penyempurnaan Tata Kelola oleh Badan Keorganisasian. Delapan ambiguitas yang telah dipetakan pada dokumen 01 (bagian 2.2) menjadi bahan agenda internal pemateri, bukan untuk diperdebatkan di depan peserta.
+- **Penjaringan masukan peserta (oleh pemateri M2):** peserta menuliskan secara anonim satu bagian jalur, aturan, atau komunikasi yang masih rancu menurut mereka (kertas atau Google Form yang dibuka sejak registrasi, bersama pertanyaan anonim M1). Hasilnya menjadi bahan penyempurnaan Tata Kelola oleh Badan Keorganisasian. Delapan ambiguitas yang telah dipetakan pada dokumen 01 (bagian 2.2) menjadi bahan agenda internal pemateri, bukan untuk diperdebatkan di depan peserta.
 
 **G. Lembar Konvensi Sementara (halaman kedua handout; rujukan, tidak diajarkan dan tidak diujikan).** Lembar ini berlabel "Konvensi sementara per Oktober 2026; dapat berubah sesuai Tata Kelola yang disahkan" dan dibagikan sebagai rujukan praktis.
 
@@ -284,8 +285,8 @@ Tiga tingkat ini adalah **kerangka universal**, bukan pasal. Ia selaras dengan k
 ### 3.3 Materi 3 — "Seni Eksekusi"
 
 **Subjudul:** Memimpin Tim Biro, Bonding, dan People Management
-**Pemateri:** Best Kabiro periode OKR 2 (Juni–Agustus) dari Biro Manajemen Event (BME)
-**Waktu:** 12.10–13.10 (60 menit)
+**Pemateri:** Best Kabiro periode OKR 1 dan OKR 2 dari Biro Manajemen Event (BME)
+**Waktu:** 12.06–13.06 (60 menit)
 
 **Tujuan instruksional:**
 1. Peserta memperoleh gambaran nyata memimpin biro dari praktisi, termasuk kegagalan.
@@ -318,13 +319,13 @@ Tiga tingkat ini adalah **kerangka universal**, bukan pasal. Ia selaras dengan k
 
 ### 3.4 Simulasi Taktis (ringkas)
 
-**Waktu:** 13.10–14.00 (10 menit briefing + **40 menit** permainan), disusul debrief 14.00–14.25
+**Waktu:** 13.06–13.41 (5 menit briefing oleh Ketua Pelaksana + **30 menit** permainan), disusul presentasi dan ulasan 13.41–14.11
 **Fasilitator:** Badan Personalia
 **Detail lengkap:** lihat dokumen 03.
 
-**Pembingkaian:** Simulasi Taktis dibawakan sebagai **simulasi berbasis konvensi struktur kabinet saat ini**. Aturan arah, jalur eskalasi, dan batas kewenangan di dalamnya adalah *aturan permainan*, bukan pasal baku, dan dikaitkan dengan prinsip koordinasi serta etika eskalasi dari Materi 2 saat debrief.
+**Pembingkaian:** Simulasi Taktis dibawakan sebagai **simulasi berbasis konvensi struktur kabinet saat ini**. Aturan arah, jalur eskalasi, dan batas kewenangan di dalamnya adalah *aturan permainan*, bukan pasal baku, dan dikaitkan dengan prinsip koordinasi serta etika eskalasi dari Materi 2 saat presentasi dan ulasan.
 
-Ringkasan: satu ronde terpadu yang memperlakukan 8 biro sebagai jaringan berarah. Tiap biro hanya boleh memulai koordinasi ke 2 biro tujuan, dengan 3 inject (menit 10, 17, 22). Alurnya P1 persiapan 5', P2 koordinasi dan inject 25', P3 finalisasi 5', P4 wrap-up 5'. Output akhir adalah `PAPAN_JARING`, Blok E tiap biro, dan skor di `SKOR_EVALUASI`.
+Ringkasan: satu ronde terpadu yang memperlakukan 8 biro sebagai jaringan berarah. Tiap biro hanya boleh memulai koordinasi ke 2 biro tujuan, dengan 3 inject (menit 8, 13, 18). Alurnya P1 persiapan 4', P2 koordinasi dan inject 17', P3 finalisasi 4', P4 wrap-up 5'. Output akhir adalah `PAPAN_JARING`, Blok E tiap biro, dan skor di `SKOR_EVALUASI`.
 
 Aturan khusus format terbaru:
 - **Satu meja diisi Staf Muda dari biro asalnya.** Bila hadir kurang dari 3 orang, biro itu digabung dengan biro lain dalam **departemen yang sama** (tidak lintas departemen) dan meja memegang dua kartu.
@@ -336,7 +337,7 @@ Aturan khusus format terbaru:
 
 **Subjudul:** Essential Awareness, Kebanggaan, dan Khidmah
 **Pemateri:** Kepala Departemen Syi'ar (sudah dua kali membawakan materi essential awareness)
-**Waktu:** 15.00–16.00 (60 menit)
+**Waktu:** 14.41–15.41 (60 menit)
 
 **Tujuan instruksional:**
 1. Peserta merasakan peran strategis JMMI bagi kampus ITS.
@@ -347,7 +348,7 @@ Aturan khusus format terbaru:
 
 | Menit | Segmen | Isi |
 |---|---|---|
-| 0–10 | Pembuka personal | Cerita pribadi pemateri tentang momen yang membuat JMMI terasa seperti rumah; menautkan dengan pengalaman peserta di simulasi dan debrief |
+| 0–10 | Pembuka personal | Cerita pribadi pemateri tentang momen yang membuat JMMI terasa seperti rumah; menautkan dengan pengalaman peserta di simulasi dan presentasi hasil |
 | 10–25 | **Mengapa JMMI penting** | Peran JMMI di ITS: masjid sebagai pusat, kaderisasi sebagai mesin keberlanjutan, layanan sebagai bukti keberpihakan; sejarah singkat; dampak hari ini |
 | 25–42 | **Rumah bernama JMMI** | Kekeluargaan, rasa nyaman, dan bangga; potongan kisah dan testimoni singkat (opsional: video atau ucapan singkat pengurus aktif, serta satu atau dua peserta yang ingin berbagi secara sukarela) |
 | 42–55 | **Estafet** | Amanah bukan jabatan; pengakuan jujur bahwa beban nyata; ajakan melanjutkan sesuai kemampuan |
@@ -373,7 +374,7 @@ Data kontemporer (jumlah jamaah, program terbaru, capaian kabinet) disiapkan pem
 
 **Metode:** bercerita, dialog retoris, dan testimoni singkat (opsional: video atau ucapan singkat Kabiro dan Staf Ahli aktif). **Media:** layar minimal dan foto dokumentasi JMMI.
 
-### 3.6 Briefing KPP dan Pembagian Kit Fisik (16.14–16.24)
+### 3.6 Briefing Penugasan KPP dan Pembagian Kit Fisik (15.51–16.01)
 
 **PIC:** Sie Registrasi dan Data bersama Badan Personalia. **Peserta duduk menurut biro asal** (warna name tag sama dengan label kit), sehingga panitia dapat menyerahkan kit langsung kepada tiap biro.
 
@@ -382,12 +383,12 @@ Data kontemporer (jumlah jamaah, program terbaru, capaian kabinet) disiapkan pem
 | Menit | Isi | Penyampai |
 |---|---|---|
 | 0–2 | **Pesan kunci:** KPP bukan beban tambahan, melainkan cara menyiapkan estafet bersama biro sendiri. Dua kegiatan: Ngopi Khidmah dan Canvas A3 | Ketupel atau Badan Personalia |
-| 2–5 | **Ngopi Khidmah:** seluruh Staf Muda satu biro hadir lengkap; sowan tatap muka dengan 1 Kepala Biro dan 2 Staf Ahli dari **3 biro berbeda dan berbeda dari biro sendiri**, yang **dicari dan dihubungi sendiri** oleh Staf Muda; tiap narasumber maksimal 2 ajakan dengan sistem **first-come, first-served** lewat Papan Kuota Terbuka (narasumber yang penuh wajib dicarikan alternatif); 4 topik (alasan lanjut ber-JMMI, suka-duka memimpin, kekuatan biro dan hal yang ingin dikembangkan bersama, tips menjaga komitmen); bukti berupa foto bersama yang diunggah ke Instagram biro dan dibagikan ke grup komunal anggota JMMI ITS | Badan Personalia |
-| 5–7 | **Canvas A3** (pendekatan *Appreciative Inquiry*): tiga zona, yaitu **Cahaya Biro** (Warisan Baik yang Kita Jaga), **Ruang Tumbuh** (Peluang yang Ingin Kita Jelajahi), dan **Asa dan Terobosan** (Estafet Kita Selanjutnya); setiap Staf Muda wajib menempel minimal 1 sticky note di tiap zona, **berinisial nama lengkap** sebagai tanda kepemilikan gagasan dan apresiasi (contoh "BA" untuk Bara Ardiwinata); Zona Ruang Tumbuh ditulis dengan pola "Kita bisa lebih … jika …" disertai satu langkah kecil | Badan Personalia |
-| 7–9 | **Pembagian kit** kepada tiap biro beserta selebaran aturan dan panduan narasumber; hitung cepat kelengkapan; **Papan Kuota Terbuka dibuka pukul 16.24** (tautan atau QR) | Sie Registrasi dan Data |
-| 9–10 | **Tenggat:** KPP dikumpulkan paling lambat H-1 Forum AHWA JMMI ITS 2026 (estimasi Jumat 20 atau Sabtu 21 November); jadwal Ngopi dikonfirmasi paling lambat Senin 16 November pukul 21.00; saluran bantuan Badan Personalia | Badan Personalia |
+| 2–4 | **Ngopi Khidmah:** seluruh Staf Muda satu biro hadir lengkap; sowan tatap muka dengan **2 Kepala Biro** (satu dari Kelompok A dan satu dari Kelompok B), **1 Staf Ahli Biro**, dan **1–2 fungsionaris badan**, yang **dicari dan dihubungi sendiri** oleh Staf Muda; tiap narasumber maksimal 2 ajakan dengan sistem **first-come, first-served** lewat Papan Kuota Terbuka (narasumber yang penuh wajib dicarikan alternatif); 4 topik (alasan lanjut ber-JMMI, suka-duka memimpin, kekuatan biro dan hal yang ingin dikembangkan bersama, tips menjaga komitmen); bukti berupa foto bersama yang diunggah ke Instagram biro dan dibagikan ke grup komunal anggota JMMI ITS | Badan Personalia |
+| 4–6 | **Canvas A3** (pendekatan *Appreciative Inquiry*): dua zona terbuka yang ditempel, yaitu **Cahaya Biro** (Warisan Baik yang Kita Jaga) dan **Asa dan Terobosan** (Estafet Kita Selanjutnya). Zona **Ruang Tumbuh** (Peluang yang Ingin Kita Jelajahi) ditulis di sticky note, lalu **digulung dan dimasukkan ke amplop tertutup** khusus Badan Personalia (tidak ditempel). Setiap Staf Muda wajib menulis minimal 1 sticky note di tiap zona, **berinisial nama lengkap** (contoh "BA" untuk Bara Ardiwinata) | Badan Personalia |
+| 6–8 | **Pembagian kit** kepada tiap biro beserta selebaran aturan dan panduan narasumber; hitung cepat kelengkapan; **Papan Kuota Terbuka dibuka pukul 16.01** (tautan atau QR) | Sie Acara |
+| 8–10 | **Tenggat:** KPP dikumpulkan paling lambat H-1 Forum AHWA JMMI ITS 2026 (estimasi Jumat 20 atau Sabtu 21 November); jadwal Ngopi dikonfirmasi paling lambat Senin 16 November pukul 21.00; saluran bantuan Badan Personalia | Badan Personalia |
 
-**Isi kit per biro:** 1 kertas A3 berzona (+1 cadangan), sticky notes 3 warna (3 lembar per warna per anggota), spidol tebal, selotip kertas, map plastik A3, selebaran aturan 1 halaman, dan panduan narasumber (dengan contoh pesan undangan). Jumlah total dan rincian logistik ada di dokumen 05; aturan lengkap di dokumen 04, bagian 2 dan 3.
+**Isi kit per biro:** 1 kertas A3 dua zona (tanpa cadangan, sesuai RAB), sticky notes 3 warna (sesuai RAB, 400 lembar untuk seluruh peserta), amplop tertutup untuk sticky Ruang Tumbuh, spidol tebal, selotip kertas, map plastik A3, selebaran aturan 1 halaman, dan panduan narasumber (dengan contoh pesan undangan). Jumlah total dan rincian logistik ada di dokumen 05; aturan lengkap di dokumen 04, bagian 2 dan 3.
 
 **Catatan etika briefing:** tegaskan bahwa foto Ngopi Khidmah bukan pernyataan seseorang pasti mencalonkan diri, dan bahwa kesiapan peran dicatat secara privat melalui Form Minat Peran.
 
@@ -409,21 +410,21 @@ Data kontemporer (jumlah jamaah, program terbaru, capaian kabinet) disiapkan pem
 | **Kalimat jembatan ke M2** | "Setelah paham siapa memutuskan apa, sekarang kita belajar bagaimana berkomunikasi dan berkolaborasi antartim dengan beretika, apa pun bentuk strukturnya." |
 | **Pengumpulan bahan** | Slide final ke Sie Acara paling lambat 10 November |
 
-### 4.2 Brief M2 — Ketua Badan Keorganisasian dan Waket III
+### 4.2 Brief M2 — Waket III dan 1 Staf Ahli Badan Personalia
 
 | Unsur | Isi |
 |---|---|
 | **Fokus** | Prinsip komunikasi, kolaborasi lintas tim, dan etika eskalasi, termasuk sikap adaptif saat struktur berubah |
 | **Wajib dibahas** | Musyawarah yang hidup; tiga tingkat koordinasi (memberi tahu, meminta persetujuan, memutuskan bersama); koordinasi asertif dan skrip kalimat; etika eskalasi (fakta–opsi–permintaan arahan); diplomasi internal; prinsip tetap, bentuk bisa berubah; penjaringan masukan peserta |
 | **Dilarang** | Mengajarkan atau menguji hafalan pasal dan angka SOP (tenggat proposal, SPJ, LPJ); mengulang tabel wewenang (M1); membahas isi kasus simulasi; membahas manajemen anggota tim (M3); menyajikan data administrasi yang belum divalidasi Sekum dan Bendum |
-| **Pembagian peran** | Ketua Keorg: kasus pembuka, musyawarah, koordinasi asertif, adaptabilitas, dan penjaringan masukan. Waket III: etika eskalasi, diplomasi internal lintas biro dan lintas bidang, serta penutup |
+| **Pembagian peran (usulan, dikonfirmasi pemateri)** | Waket III: kasus pembuka, etika eskalasi, diplomasi internal lintas biro dan lintas bidang, serta penutup. Staf Ahli Badan Personalia: musyawarah, koordinasi asertif, adaptabilitas, dan penjaringan masukan |
 | **Handout** | Dua halaman: "Prinsip dan Skrip Koordinasi" dan Lembar Konvensi Sementara (lihat 3.2 C dan G) |
 | **Batas slide** | Maksimal 12 |
 | **Penekanan** | Kasus nyata dan latihan, bukan membaca pasal. Sampaikan bahwa ketidakfinalan Tata Kelola adalah kesempatan peserta ikut menyempurnakannya |
 | **Kalimat jembatan ke M3** | "Komunikasi antartim sudah kita pahami prinsipnya. Namun yang menjalankannya adalah manusia, jadi sekarang kita belajar memimpin tim." |
 | **Pengumpulan bahan** | Slide final, handout, dan hasil validasi Lembar Konvensi Sementara oleh Sekum dan Bendum paling lambat 10 November |
 
-### 4.3 Brief M3 — Best Kabiro BME OKR 2
+### 4.3 Brief M3 — Best Kabiro BME OKR 1 dan OKR 2
 
 | Unsur | Isi |
 |---|---|
@@ -446,7 +447,7 @@ Data kontemporer (jumlah jamaah, program terbaru, capaian kabinet) disiapkan pem
 | **Wajib ada** | Cerita pribadi; pengakuan jujur atas beban; ajakan menyampaikan keraguan lewat jalur KPP |
 | **Gaya** | Persuasif, hangat, dan tegas; memanfaatkan jeda hening |
 | **Batas slide** | Minimal (foto dan satu kutipan) |
-| **Koordinasi** | Mendengar debrief simulasi lebih dulu (14.00–14.25) agar bisa menautkan pengalaman peserta, termasuk pelajaran kepemimpinan organik |
+| **Koordinasi** | Mengikuti presentasi hasil simulasi (13.41–14.11) agar bisa menautkan pengalaman peserta, termasuk pelajaran kepemimpinan organik |
 | **Penutup** | Doa dan serah ke MC untuk post-test |
 | **Pengumpulan bahan** | Outline ke Sie Acara paling lambat 10 November |
 
@@ -468,7 +469,7 @@ Data kontemporer (jumlah jamaah, program terbaru, capaian kabinet) disiapkan pem
 | M1, M2, M4 | 1 proyektor dan layar, 2 mikrofon nirkabel, laptop pemateri, pointer |
 | M3 | 1 proyektor, 1 mikrofon, kursi santai |
 | Simulasi | 8 meja menurut biro asal (jumlah kursi menyesuaikan kehadiran; meja gabungan lebih besar), ≥ 8 laptop dan 2 cadangan, **1 proyektor khusus Papan Jaring**, Wi-Fi memadai untuk ≥ 110 perangkat, hotspot cadangan, penghitung waktu terlihat dari semua meja, 8 amplop tersegel berisi **2 salinan** Kartu Rahasia per meja, kursi pengamat di dekat tiap meja |
-| Debrief | Proyektor menampilkan `PAPAN_JARING` dan `SKOR_EVALUASI` |
+| Presentasi hasil | Proyektor menampilkan `PAPAN_JARING` dan `SKOR_EVALUASI` |
 | Penutup dan briefing KPP | QR post-test, kamera dokumentasi, **8 kit fisik KPP** (kertas A3, sticky notes, spidol, selotip, map plastik) di meja panitia, selebaran aturan dan panduan narasumber, serta tautan atau QR Papan Kuota Terbuka |
 
 Daftar lengkap logistik dan konsumsi ada pada dokumen 05.
@@ -495,6 +496,6 @@ Butir soal dan kunci jawaban lengkap ada di dokumen 04.
 |---|---|---|
 | M1 atau M2 melebihi waktu | Simulasi atau M4 terpotong | Pengendali waktu memberi isyarat 10, 5, dan 1 menit; tanya jawab M1 dipotong lebih dahulu, bukan simulasi |
 | Jadwal Dzuhur atau Ashar bergeser | Peserta salat terburu-buru | Konfirmasi jadwal H-5 dan geser blok rehat |
-| Post-test tidak terisi lengkap | Data TUK K2–K5 rusak | Panitia berkeliling memastikan tautan terbuka. Waktu pengerjaan dialokasikan 10 menit di rundown (16.00–16.10) |
-| Simulasi molor | Debrief dan Ashar bergeser | Sirine atau pengendali waktu menutup P3 tepat pada menit 35 dan P4 pada menit 40. Debrief 25 menit punya ruang sekitar 10 menit untuk menyerap keterlambatan kecil |
-| Pemateri berhalangan | Sesi kosong | Tiap pemateri menunjuk pengganti yang sudah dibriefing. M1 dan M2 punya pengganti dari anggota BPI atau Badan Keorg |
+| Post-test tidak terisi lengkap | Data TUK K2–K5 rusak | Panitia berkeliling memastikan tautan terbuka. Waktu pengerjaan dialokasikan 10 menit di rundown (15.41–15.51) |
+| Simulasi molor | Presentasi dan Ashar bergeser | Sirine atau pengendali waktu menutup P3 tepat pada menit 25 dan P4 pada menit 30. Ulasan dalam presentasi 30 menit dipangkas lebih dulu, bukan waktu Ashar |
+| Pemateri berhalangan | Sesi kosong | Tiap pemateri menunjuk pengganti yang sudah dibriefing. M1 dan M2 punya pengganti dari anggota BPI atau Badan Keorganisasian dan Personalia |

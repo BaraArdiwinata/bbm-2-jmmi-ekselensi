@@ -5,7 +5,7 @@ Cetak **2 salinan per meja biro** (supaya seluruh anggota bisa membaca bersamaan
 
 ## Kondisi Dunia Simulasi (berlaku untuk semua biro)
 
-- **Posisi waktu:** sekarang **H-21** menuju **Hari Puncak** fiktif. Semua kesepakatan harus tuntas dalam sesi (= pekan perencanaan). Sesi hanya **40 menit**: P1 persiapan 0–5 · P2 koordinasi dan inject 5–30 · P3 finalisasi 30–35 · P4 wrap-up 35–40. Ritmenya sengaja padat.
+- **Posisi waktu:** sekarang **H-21** menuju **Hari Puncak** fiktif. Semua kesepakatan harus tuntas dalam sesi (= pekan perencanaan). Sesi hanya **30 menit**: P1 persiapan 0–4 · P2 koordinasi dan inject 4–21 · P3 finalisasi 21–25 · P4 wrap-up 25–30. Ritmenya sengaja padat.
 - **Waktu masjid (sim):** Ashar 15.00 · Maghrib 17.30 · Q-TIME 17.00–17.30 pada hari kerja.
 - **Penanda angka:** angka bertanda **(sim)** adalah angka simulasi. Angka tanpa tanda bersumber dari paparan Musyker OKR 1.
 - **Aturan arah (ringkas):** kamu hanya boleh **memulai** koordinasi ke **2 biro tujuan** di kartumu. Kamu boleh **menerima** dari siapa saja, tetapi **dilarang memulai balik** ke pengirim. Butuh hal di luar 2 tujuan → **eskalasi ke Kadep**. Aturan lengkap ada di tab `00_PETUNJUK`.
@@ -410,14 +410,14 @@ Bukan jawaban tunggal. Gunakan untuk menilai kualitas kesepakatan (rubrik 2).
 - **Hari pengajar:** relawan Rabu–Kamis menentukan hari kelas Biro Kajian & Inovasi Dakwah.
 - **Aula:** NARASI bertabrakan dengan penguncian Aula oleh Biro Manajemen Event.
 
-## C. Jadwal dan Sasaran Inject (40 Menit)
+## C. Jadwal dan Sasaran Inject (30 Menit)
 | Menit | Inject | Sasaran |
 |---|---|---|
-| 10 | A. Kapasitas Media Turun | Otomatis Biro Digital Production dan Biro Media Analysis & Strategi |
-| 17 | B. Instruksi Ganda | Satu anggota di meja pilihan fasilitator (sebaiknya anggota yang sedang tidak memegang kendali), mis. Biro Usaha Mandiri atau Biro Pengabdian Masyarakat |
-| 22–27 | C. Pengambil Kendali Berhalangan | Anggota yang paling memegang kendali di meja pilihan fasilitator (simpul padat: Biro Relasi & Hubungan Eksternal atau Biro Media Analysis & Strategi) |
+| 8 | A. Kapasitas Media Turun | Otomatis Biro Digital Production dan Biro Media Analysis & Strategi |
+| 12 | B. Instruksi Ganda | Satu anggota di meja pilihan fasilitator (sebaiknya anggota yang sedang tidak memegang kendali), mis. Biro Usaha Mandiri atau Biro Pengabdian Masyarakat |
+| 16–21 | C. Pengambil Kendali Berhalangan | Anggota yang paling memegang kendali di meja pilihan fasilitator (simpul padat: Biro Relasi & Hubungan Eksternal atau Biro Media Analysis & Strategi) |
 
-## D. Pertanyaan Debrief (25 Menit)
+## D. Pertanyaan Ulasan (presentasi 30 menit, 13.41–14.11)
 1. Tiket mana yang paling alot dan mengapa? Apa yang akhirnya membuka kebuntuan?
 2. Kapan kalian memilih eskalasi dan kapan menyelesaikan sendiri? Apa dasarnya di Tata Kelola?
 3. Siapa yang menanggung dampak keputusan kalian di biro lain, dan apakah kalian mengetahuinya?

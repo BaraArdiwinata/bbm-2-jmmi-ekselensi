@@ -15,7 +15,7 @@
 | Tahap fase | **Mau** |
 | Subjudul | Essential Awareness, Kebanggaan, dan Khidmah |
 | Hari dan tanggal | Minggu, 15 November 2026 |
-| Waktu | 15.00–16.00 WIB (60 menit) |
+| Waktu | 14.41–15.41 WIB (60 menit) |
 | Pemateri | Kepala Departemen Syi'ar JMMI ITS 2026 |
 | Format | Bercerita, dialog retoris, testimoni singkat, dan jeda hening |
 
@@ -23,7 +23,7 @@
 
 ## 2. Judul dan Tema Kegiatan
 
-Materi ini merupakan bagian dari kegiatan **"Be A Better Muslim II (BBM 2)"** dengan tema **"Estafet Khidmah: Menyiapkan Penerus Amanah di Manarul Ilmi"**.
+Materi ini merupakan bagian dari kegiatan **"Be A Better Muslim II (BBM 2)"** dengan tema **"Membentang saujana asa, menyatukan langkah dan karya"**.
 
 ---
 
@@ -45,7 +45,7 @@ Materi penutup ini hadir untuk menjawab pertanyaan "mengapa aku tetap mau berkhi
 | Aspek | Keterangan |
 |---|---|
 | Peserta | Staf Muda JMMI ITS angkatan 2025, ±50–70 orang |
-| Kondisi awal | Lelah namun berenergi setelah simulasi dan debrief. Sebagian mungkin masih menyimpan keraguan |
+| Kondisi awal | Lelah namun berenergi setelah simulasi dan presentasi hasil. Sebagian mungkin masih menyimpan keraguan |
 | Kekhawatiran | Beban akademik, tidak mampu, dan tidak cukup baik untuk amanah |
 | Kebutuhan emosional | Merasa diterima, dihargai, dan tidak dipaksa menyatakan siap |
 
@@ -69,7 +69,7 @@ Setelah sesi ini, peserta mampu:
 
 ## 6. Pokok Bahasan
 
-**A. Pembuka personal.** Cerita pribadi pemateri tentang momen yang membuat JMMI terasa seperti rumah. Dihubungkan dengan pengalaman peserta di simulasi dan debrief tanpa menyebut nama.
+**A. Pembuka personal.** Cerita pribadi pemateri tentang momen yang membuat JMMI terasa seperti rumah. Dihubungkan dengan pengalaman peserta di simulasi dan presentasi hasil tanpa menyebut nama.
 
 **B. Mengapa JMMI penting.** Peran JMMI di ITS: masjid sebagai pusat kegiatan, kaderisasi sebagai mesin keberlanjutan dakwah kampus, dan layanan sebagai bukti keberpihakan. Sejarah singkat JMMI dan dampak yang terlihat hari ini.
 
@@ -95,13 +95,13 @@ Setelah sesi ini, peserta mampu:
 
 | Menit | Segmen | Isi |
 |---|---|---|
-| 0–10 | Pembuka personal | Cerita pribadi pemateri; hubungan dengan pengalaman peserta di simulasi dan debrief |
+| 0–10 | Pembuka personal | Cerita pribadi pemateri; hubungan dengan pengalaman peserta di simulasi dan presentasi hasil |
 | 10–25 | Mengapa JMMI penting | Peran JMMI di ITS, kaderisasi, layanan, sejarah singkat, dan dampak hari ini |
 | 25–42 | Rumah bernama JMMI | Kekeluargaan dan kebanggaan; potongan kisah dan testimoni (opsional: video atau ucapan singkat pengurus aktif) |
 | 42–55 | Estafet | Amanah bukan jabatan; pengakuan jujur atas beban; ajakan melanjutkan sesuai kemampuan |
 | 55–60 | Muhasabah dan doa | Jeda hening, refleksi pribadi, dan doa penutup. Serah ke MC untuk post-test |
 
-**Catatan:** sesi dimulai setelah debrief Simulasi Taktis (14.00–14.25) dan jeda Ashar (14.25–15.00). Pemateri wajib mendengar debrief sebelum tampil, agar dapat menautkan pengalaman peserta, termasuk pelajaran kepemimpinan organik.
+**Catatan:** sesi dimulai setelah presentasi hasil simulasi (13.41–14.11) dan jeda Ashar (14.11–14.41). Pemateri wajib mengikuti presentasi hasil sebelum tampil, agar dapat menautkan pengalaman peserta, termasuk pelajaran kepemimpinan organik.
 
 **Pengendali waktu** memberi isyarat 10, 5, dan 1 menit sebelum sesi berakhir (menit ke-50, 55, dan 59). Jeda hening dipertahankan walau sesi lain perlu dipangkas.
 
@@ -166,7 +166,7 @@ Simbol: **P** = bahasan utama, **S** = bahasan pendukung (maksimal 2 menit), **�
 | Unsur | Keterangan |
 |---|---|
 | Hari, tanggal | Minggu, 15 November 2026 |
-| Waktu | 15.00–16.00 WIB |
+| Waktu | 14.41–15.41 WIB |
 | Tempat | Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS |
 | Fasilitas | 1 proyektor dan layar, 2 mikrofon nirkabel, dan laptop pemateri (sesuai kebutuhan teknis M4 di dokumen 02) |
 
@@ -175,7 +175,7 @@ Simbol: **P** = bahasan utama, **S** = bahasan pendukung (maksimal 2 menit), **�
 ## 12. Hak dan Kewajiban Pemateri
 
 **Kewajiban:**
-1. Hadir pukul **14.00 WIB** dan mendengarkan debrief Simulasi Taktis (14.00–14.25) sebelum tampil.
+1. Hadir pukul **13.41 WIB** dan mengikuti presentasi hasil simulasi (13.41–14.11) sebelum tampil.
 2. Membawakan sesi 60 menit sesuai alur di bagian 7, dengan jeda hening yang dipertahankan.
 3. Memastikan semua kutipan dan testimoni sudah disetujui sebelum tampil.
 4. Menyerahkan outline ke Sie Acara paling lambat 10 November 2026.

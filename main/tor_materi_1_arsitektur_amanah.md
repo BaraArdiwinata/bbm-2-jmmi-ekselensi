@@ -15,7 +15,7 @@
 | Tahap fase | **Paham** (bagian dari fase Paham bersama Materi 2) |
 | Subjudul | Hierarki, Fungsionaris–Eksekutif, dan Transisi Organogram |
 | Hari dan tanggal | Minggu, 15 November 2026 |
-| Waktu | 08.35–09.50 WIB (75 menit, termasuk tanya jawab 15 menit) |
+| Waktu | 09.21–10.21 WIB (60 menit, termasuk tanya jawab 15 menit) |
 | Pemateri | Muhammad Hazal Ma'aly Mahmud (Ketua Umum JMMI ITS 2026), didampingi Wakil Ketua I dan Wakil Ketua II |
 | Format | Pemaparan bergantian, tanya jawab terbuka |
 
@@ -23,7 +23,7 @@
 
 ## 2. Judul dan Tema Kegiatan
 
-Materi ini merupakan bagian dari kegiatan **"Be A Better Muslim II (BBM 2)"** dengan tema **"Estafet Khidmah: Menyiapkan Penerus Amanah di Manarul Ilmi"**.
+Materi ini merupakan bagian dari kegiatan **"Be A Better Muslim II (BBM 2)"** dengan tema **"Membentang saujana asa, menyatukan langkah dan karya"**.
 
 ---
 
@@ -88,12 +88,12 @@ Setelah sesi ini, peserta mampu:
 
 | Menit | Segmen | Pembicara | Isi |
 |---|---|---|---|
-| 0–25 | Dasar pemikiran dan transisi organogram | Hazal (Ketua Umum) | Alasan lapisan Biro; kaitan Misi 2 dan Pilar F; yang berubah bagi Staf Muda; bagian transisi yang belum mulus, disampaikan jujur; harapan kepada calon pengisi lapisan Biro |
-| 25–45 | Fungsionaris dan Eksekutif, serta alur Bidang 1 | Wakil Ketua I | Pembagian golongan; wewenang Kepala Departemen dan Kepala Biro yang berdampingan; contoh alur Departemen ke empat biro; koordinasi langsung Departemen dan Biro tanpa mengambil alih operasional |
-| 45–60 | Tabel wewenang, alur Bidang 2, dan peta jalan | Wakil Ketua II | Tabel memutuskan, mengusulkan, dan mengetahui; peran tiga badan di Bidang 2; hak Staf Muda; penutup berupa peta jalan kepengurusan berikutnya |
-| 60–75 | Tanya jawab | Ketiganya | Pertanyaan anonim yang dikumpulkan sejak registrasi (kertas atau Google Form), dijawab bergantian |
+| 0–20 | Dasar pemikiran dan transisi organogram | Hazal (Ketua Umum) | Alasan lapisan Biro; kaitan Misi 2 dan Pilar F; yang berubah bagi Staf Muda; bagian transisi yang belum mulus, disampaikan jujur; harapan kepada calon pengisi lapisan Biro |
+| 20–35 | Fungsionaris dan Eksekutif, serta alur Bidang 1 | Wakil Ketua I | Pembagian golongan; wewenang Kepala Departemen dan Kepala Biro yang berdampingan; contoh alur Departemen ke empat biro; koordinasi langsung Departemen dan Biro tanpa mengambil alih operasional |
+| 35–45 | Tabel wewenang, alur Bidang 2, dan peta jalan | Wakil Ketua II | Tabel memutuskan, mengusulkan, dan mengetahui; peran tiga badan di Bidang 2; hak Staf Muda; penutup berupa peta jalan kepengurusan berikutnya |
+| 45–60 | Tanya jawab | Ketiganya | Pertanyaan anonim yang dikumpulkan sejak registrasi (kertas atau Google Form), dijawab bergantian |
 
-**Pengendali waktu** memberi isyarat 10, 5, dan 1 menit sebelum sesi berakhir (menit ke-65, 70, dan 74). Bila M1 melebihi waktu, tanya jawab dipotong lebih dulu, bukan Simulasi Taktis.
+**Pengendali waktu** memberi isyarat 10, 5, dan 1 menit sebelum sesi berakhir (menit ke-50, 55, dan 59). Bila M1 melebihi waktu, tanya jawab dipotong lebih dulu, bukan Simulasi Taktis.
 
 ---
 
@@ -149,7 +149,7 @@ Simbol: **P** = bahasan utama, **S** = bahasan pendukung (maksimal 2 menit), **�
 | Unsur | Keterangan |
 |---|---|
 | Hari, tanggal | Minggu, 15 November 2026 |
-| Waktu | 08.35–09.50 WIB |
+| Waktu | 09.21–10.21 WIB |
 | Tempat | Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS |
 | Fasilitas | 1 proyektor dan layar, 2 mikrofon nirkabel, laptop pemateri, pointer |
 

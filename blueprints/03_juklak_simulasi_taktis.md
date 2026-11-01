@@ -1,11 +1,11 @@
 # 03 — Petunjuk Pelaksanaan Simulasi Taktis
 
 **Nama sesi:** Simulasi Taktis (Live Cross-Bureau Coordination Game)
-**Waktu:** Minggu, 15 November 2026. Briefing 13.10–13.20, **simulasi 13.20–14.00 (40 menit)**, debrief 14.00–14.25
+**Waktu:** Minggu, 15 November 2026. Briefing 13.06–13.11, **simulasi 13.11–13.41 (30 menit)**, presentasi dan ulasan hasil 13.41–14.11
 **Peserta:** Staf Muda angkatan 2025, ±50–70 orang, duduk per meja menurut **biro asalnya**
 **Fasilitator:** Badan Personalia (Bidang 2)
 **Medium:** Google Sheets (`main/template_simulasi_taktis.xlsx`) dan Kartu Rahasia (`main/kartu_skenario_simulasi.md`)
-**Versi:** 2.1, pembingkaian "simulasi berbasis konvensi struktur kabinet saat ini" (24 Oktober 2026); versi 2.0 adalah revisi atas arahan Ketua
+**Versi:** 2.2, durasi simulasi 30 menit dan presentasi hasil 30 menit (1 November 2026, hasil rapat Ketua Pelaksana dan Badan Personalia). Versi 2.1 menambahkan pembingkaian "simulasi berbasis konvensi struktur kabinet saat ini" (24 Oktober 2026); versi 2.0 adalah revisi atas arahan Ketua
 
 ---
 
@@ -13,12 +13,12 @@
 
 | No | Aspek | Versi 1.0 | Versi 2.0 (arahan Ketua) |
 |---|---|---|---|
-| 1 | Durasi | 80 menit (P1 10, P2 40, P3 20, P4 10) | **40 menit** (P1 5, P2 25, P3 5, P4 5). Inject dimampatkan menjadi menit ke-10, 17, dan 22 |
+| 1 | Durasi | 80 menit (P1 10, P2 40, P3 20, P4 10) | **30 menit** (P1 4, P2 17, P3 4, P4 5), direvisi dari 40 menit pada versi 2.2. Inject dimampatkan menjadi menit ke-8, 12, dan 16 |
 | 2 | Penamaan | Kode dua huruf pada narasi dan tabel | **Nama biro ditulis lengkap.** Kode hanya tinggal di dalam skrip generator. ID Tiket memakai nomor relasi R-01 sampai R-16 |
 | 3 | Peran tim | Kabiro, Staf Ahli, Staf Muda, dan peran lain ditetapkan panitia | **Tidak ada jabatan yang ditunjuk.** Semua setara di awal; kepemimpinan tumbuh organik dan menjadi bahan observasi non-formal Badan Personalia |
 | 4 | Pembentukan tim | Acak lintas biro asal | **Berbasis biro asal.** Satu meja diisi Staf Muda dari biro yang sama. Bila hadir kurang dari 3 orang, digabung dengan biro lain dalam **departemen yang sama** |
 
-Dampak lanjutan: debrief diperpanjang menjadi 25 menit, jumlah pengamat bertambah, dan Kartu Rahasia memakai suara "tim biro" tanpa istilah Kabiro atau Staf Ahli.
+Dampak lanjutan: debrief diperpanjang menjadi 25 menit (versi 2.0, kini diganti presentasi dan ulasan 30 menit pada versi 2.2), jumlah pengamat bertambah, dan Kartu Rahasia memakai suara "tim biro" tanpa istilah Kabiro atau Staf Ahli.
 
 ### 0.1 Pembingkaian: Simulasi Berbasis Konvensi Struktur Kabinet Saat Ini
 
@@ -26,7 +26,7 @@ Tata Kelola Kabinet Ekselensi 2026 belum disahkan secara final dan belum pasti d
 
 1. Semua rujukan "SOP", "Tata Kelola", jalur eskalasi, dan bagian **"Batasan wewenang dan SOP"** pada Kartu Rahasia adalah **aturan permainan**, bukan pasal baku yang dijamin berlaku pada kepengurusan berikutnya.
 2. Yang dilatih adalah **prinsip**: koordinasi asertif (memberi tahu, meminta persetujuan, memutuskan bersama), negosiasi berbasis kepentingan, eskalasi dengan format fakta–opsi–permintaan arahan, dan musyawarah. Prinsip ini sejalan dengan Materi 2.
-3. Fasilitator menyampaikan pembingkaian ini pada briefing (4.1) dan mengaitkannya saat debrief (11.7). Titik ambigu yang muncul dicatat sebagai masukan untuk Badan Keorganisasian (11.8).
+3. Fasilitator menyampaikan pembingkaian ini pada briefing (4.1) dan mengaitkannya saat presentasi dan ulasan (11.7). Titik ambigu yang muncul dicatat sebagai masukan untuk Badan Keorganisasian (11.8).
 4. Tidak ada perubahan pada graf 16 relasi, kasus biro, inject, rubrik, atau template Google Sheets. Perubahan hanya pada pembingkaian dan bahasa pengantar.
 
 ---
@@ -35,7 +35,7 @@ Tata Kelola Kabinet Ekselensi 2026 belum disahkan secara final dan belum pasti d
 
 ### 1.1 Gambaran Umum
 
-Simulasi Taktis adalah **satu ronde terpadu** berdurasi **40 menit**. Delapan biro, yaitu **Biro Manajemen Event, Biro Pengabdian Masyarakat, Biro Kajian & Inovasi Dakwah, Biro Usaha Mandiri, Biro Amaliyah Yaumiyah, Biro Digital Production, Biro Media Analysis & Strategi, dan Biro Relasi & Hubungan Eksternal**, menjalankan proker amanahnya bersamaan menuju sebuah **Hari Puncak** yang fiktif. Kondisi awal adalah **H-21**. Semua kesepakatan lintas biro harus tuntas dalam satu sesi, yang dianggap sebagai pekan perencanaan.
+Simulasi Taktis adalah **satu ronde terpadu** berdurasi **30 menit**. Delapan biro, yaitu **Biro Manajemen Event, Biro Pengabdian Masyarakat, Biro Kajian & Inovasi Dakwah, Biro Usaha Mandiri, Biro Amaliyah Yaumiyah, Biro Digital Production, Biro Media Analysis & Strategi, dan Biro Relasi & Hubungan Eksternal**, menjalankan proker amanahnya bersamaan menuju sebuah **Hari Puncak** yang fiktif. Kondisi awal adalah **H-21**. Semua kesepakatan lintas biro harus tuntas dalam satu sesi, yang dianggap sebagai pekan perencanaan.
 
 Ketergantungan antar-biro bersifat **asimetris dan searah** (directed graph). Setiap biro hanya boleh **memulai** koordinasi ke **dua** biro tujuan dan tidak boleh memulai balik kepada biro yang telah meminta kepadanya. Dengan begitu seluruh delapan biro bergerak serentak membentuk satu jaring kerja.
 
@@ -48,13 +48,13 @@ Ketergantungan antar-biro bersifat **asimetris dan searah** (directed graph). Se
 5. Merasakan beban peran struktural secara aman, sehingga keraguan bisa dibicarakan jujur pada Materi 4 dan KPP.
 6. Menumbuhkan dan mengamati kepemimpinan yang muncul secara alami dalam tim (lihat bagian 10).
 
-### 1.3 Mengapa 40 Menit
+### 1.3 Mengapa 30 Menit
 
 | Pertimbangan | Penjelasan |
 |---|---|
 | Ritme dan tekanan | Waktu yang ketat memaksa tim memprioritaskan, berbagi tugas, dan bergerak tanpa menunggu aba-aba. Itu cermin kondisi nyata ketika banyak biro bersaing untuk sumber daya yang sama |
 | Menghindari kejenuhan | Sesi 80 menit berisiko menurun energinya pada sesi siang. Format padat menjaga fokus |
-| Pembelajaran tetap dalam | Pendalaman berpindah ke debrief 25 menit, sehingga pelajaran tidak hilang karena sesi singkat |
+| Pembelajaran tetap dalam | Pendalaman berpindah ke presentasi dan ulasan 30 menit, sehingga pelajaran tidak hilang karena sesi singkat |
 | Tetap utuh | Seluruh 16 relasi dan 3 inject dipertahankan, hanya dimampatkan |
 
 ### 1.4 Mengapa Tanpa Jabatan yang Ditunjuk
@@ -165,7 +165,7 @@ Peran Kadep dimainkan oleh anggota Badan Personalia atau pengurus yang memahami 
 | 7 | **Tanpa jabatan yang ditunjuk.** Keputusan diambil bersama lewat musyawarah dan dicatat. Komitmen yang melampaui batas wewenang dieskalasi. | 7.1.1 |
 | 8 | Kesepakatan yang menyangkut anggaran di luar RAB, perubahan kebijakan, atau program lintas bidang tidak diputuskan sendiri: Kadep → Waket → BPI. | 5.5.2.7 penutup |
 
-**Pelanggaran arah** (menginisiasi balik atau menghubungi biro di luar daftar) ditandai otomatis pada kolom *Flag Arah* di Blok C dan mengurangi skor jalur meja sebesar 25 poin per pelanggaran. Pelanggaran tidak ditegur di depan umum; dibahas pada debrief.
+**Pelanggaran arah** (menginisiasi balik atau menghubungi biro di luar daftar) ditandai otomatis pada kolom *Flag Arah* di Blok C dan mengurangi skor jalur meja sebesar 25 poin per pelanggaran. Pelanggaran tidak ditegur di depan umum; dibahas pada presentasi dan ulasan.
 
 ### 3.2 Enam Belas Relasi Resmi
 
@@ -224,17 +224,17 @@ Legenda: **[=]** satu departemen · **[D]** lintas departemen dalam satu bidang 
 
 ---
 
-## 4. Alur 40 Menit
+## 4. Alur 30 Menit
 
-### 4.1 Briefing (13.10–13.20, 10 menit)
+### 4.1 Briefing (13.06–13.11, 5 menit)
 
 | Menit | Kegiatan | Penyampai |
 |---|---|---|
-| 0–2 | Tujuan dan gambaran game; kondisi H-21; ritme 40 menit yang sengaja padat; **pembingkaian: "simulasi berbasis konvensi struktur kabinet saat ini"** (aturan dan batas wewenang di kartu adalah aturan permainan, bukan pasal baku; yang dilatih adalah prinsip) | Fasilitator utama |
-| 2–4 | Aturan arah, eskalasi, dan larangan menginisiasi balik | Fasilitator utama |
-| 4–6 | **Tidak ada jabatan.** Semua setara; tim menentukan sendiri cara bekerja. Pengumuman meja dan penggabungan bila ada | Fasilitator utama, Sie Simulasi |
-| 6–8 | Pengenalan tab Google Sheets (Blok A–E, flag arah, ID tiket) | Operator Papan Jaring |
-| 8–10 | Transparansi pengamatan, tanya jawab kilat, lalu pembagian amplop | Fasilitator utama |
+| 0–1 | Tujuan dan gambaran game; kondisi H-21; ritme 30 menit yang sengaja padat; **pembingkaian: "simulasi berbasis konvensi struktur kabinet saat ini"** (aturan dan batas wewenang di kartu adalah aturan permainan, bukan pasal baku; yang dilatih adalah prinsip) | Ketua Pelaksana |
+| 1–2 | Aturan arah, eskalasi, dan larangan menginisiasi balik | Fasilitator utama |
+| 2–3 | **Tidak ada jabatan.** Semua setara; tim menentukan sendiri cara bekerja. Pengumuman meja dan penggabungan bila ada | Fasilitator utama, Sie Simulasi |
+| 3–4 | Pengenalan tab Google Sheets (Blok A–E, flag arah, ID tiket) | Operator Papan Jaring |
+| 4–5 | Transparansi pengamatan, tanya jawab kilat, lalu pembagian amplop | Fasilitator utama |
 
 **Naskah transparansi pengamatan (wajib dibacakan):**
 > "Di setiap meja ada satu pengamat dari Badan Personalia. Pengamat mencatat pola kontribusi kalian, bukan untuk memberi nilai lulus atau gagal, melainkan untuk membantu kami membina dan menyiapkan calon penerus. Tidak ada jawaban benar tentang siapa yang harus memimpin. Mendengarkan, merangkum, mencatat, dan menengahi sama berharganya dengan memimpin diskusi. Catatan hanya dilihat Badan Personalia dan tidak dipakai untuk menghukum siapa pun."
@@ -243,16 +243,16 @@ Legenda: **[=]** satu departemen · **[D]** lintas departemen dalam satu bidang 
 
 | Fase | Menit game | Aktivitas | Output | Yang dilakukan fasilitator |
 |---|---|---|---|---|
-| **P1 Persiapan** | 0–5 | Seluruh anggota membaca Kartu Rahasia bersama (disediakan 2 salinan per meja), menuliskan nama anggota di Blok A, dan menyepakati dua tiket yang dibuka lebih dulu. Boleh langsung bergerak | Blok A terisi; arah kerja | Memastikan tiap meja membuka tab yang benar. **Tidak menunjuk siapa pun** |
-| **P2 Koordinasi dan Inject** | 5–30 | Membuka tiket ke 2 biro tujuan, melayani permintaan masuk, bernegosiasi, dan mengeskalasi ke Kadep bila perlu. Tiga inject berjalan | Blok C dan D terisi; status tiap tiket | Mengumumkan inject pada menit 10, 17, dan 22; memantau Papan Jaring; Kadep menjawab eskalasi |
-| **P3 Finalisasi** | 30–35 | Melapor ke Kadep dan meminta persetujuan; tim mengisi keputusan final di Blok E | Blok E terisi; persetujuan Kadep | Kadep memeriksa konsistensi keputusan dengan hasil tiket |
-| **P4 Wrap-up** | 35–40 | Layar menampilkan `PAPAN_JARING`; tiap biro menyebut satu kesepakatan terbaik dan satu kompromi tersulit (±30 detik) | Papan final | Operator menampilkan papan; pengendali waktu menjaga 30 detik per biro |
+| **P1 Persiapan** | 0–4 | Seluruh anggota membaca Kartu Rahasia bersama (disediakan 2 salinan per meja), menuliskan nama anggota di Blok A, dan menyepakati dua tiket yang dibuka lebih dulu. Boleh langsung bergerak | Blok A terisi; arah kerja | Memastikan tiap meja membuka tab yang benar. **Tidak menunjuk siapa pun** |
+| **P2 Koordinasi dan Inject** | 4–21 | Membuka tiket ke 2 biro tujuan, melayani permintaan masuk, bernegosiasi, dan mengeskalasi ke Kadep bila perlu. Tiga inject berjalan | Blok C dan D terisi; status tiap tiket | Mengumumkan inject pada menit 8, 12, dan 16; memantau Papan Jaring; Kadep menjawab eskalasi |
+| **P3 Finalisasi** | 21–25 | Melapor ke Kadep dan meminta persetujuan; tim mengisi keputusan final di Blok E | Blok E terisi; persetujuan Kadep | Kadep memeriksa konsistensi keputusan dengan hasil tiket |
+| **P4 Wrap-up** | 25–30 | Layar menampilkan `PAPAN_JARING`; tiap biro menyebut satu kesepakatan terbaik dan satu kompromi tersulit (±30 detik) | Papan final | Operator menampilkan papan; pengendali waktu menjaga 30 detik per biro |
 
 **Penyesuaian akibat pemadatan:**
 - Jumlah tiket minimal tetap **2 per biro** (satu per biro tujuan). Tiket boleh ditutup dengan status *Sepakat* walau rincian akhir bersifat bersyarat, asalkan syarat dicatat pada kolom *Syarat*.
 - Waktu respons Kadep **maksimal 3 menit**.
 - Komunikasi antar-meja boleh lisan untuk kecepatan, dan **hasilnya wajib dicatat** pada Blok C (pengirim) dan Blok D (penerima).
-- Penutupan P3 tepat pada menit 35 agar debrief dan Ashar tidak bergeser.
+- Penutupan P3 tepat pada menit 25 agar presentasi dan Ashar tidak bergeser.
 
 ### 4.3 Tiket Koordinasi
 
@@ -515,15 +515,15 @@ Legenda: **[=]** satu departemen · **[D]** lintas departemen dalam satu bidang 
 
 ## 7. Skenario Tiga Inject (Dimampatkan)
 
-Inject dijalankan oleh **Pengendali Waktu / Master Inject** pada menit game yang ditentukan. Pengumuman dilakukan dengan suara jelas dan ditulis pada papan agar bisa dirujuk. Jarak antar-inject sengaja pendek agar tim tidak sempat nyaman.
+Inject dijalankan oleh **Pengendali Waktu / Master Inject** pada menit game yang ditentukan (versi 2.2: menit 8, 12, dan 16). Pengumuman dilakukan dengan suara jelas dan ditulis pada papan agar bisa dirujuk. Jarak antar-inject sengaja pendek agar tim tidak sempat nyaman.
 
 | Inject | Menit | Nama | Efek singkat |
 |---|---|---|---|
-| A | **10** | Kapasitas Media Turun | Biro Digital Production turun dari 4 menjadi 3 order; Biro Media Analysis & Strategi turun dari 4 menjadi 3 slot |
-| B | **17** | Instruksi Ganda | Fasilitator "Waket" memberi arahan lisan yang bertentangan kepada satu anggota |
-| C | **22–27** | Pengambil Kendali Berhalangan | Anggota yang sedang memegang kendali ditarik 5 menit |
+| A | **8** | Kapasitas Media Turun | Biro Digital Production turun dari 4 menjadi 3 order; Biro Media Analysis & Strategi turun dari 4 menjadi 3 slot |
+| B | **12** | Instruksi Ganda | Fasilitator "Waket" memberi arahan lisan yang bertentangan kepada satu anggota |
+| C | **16–21** | Pengambil Kendali Berhalangan | Anggota yang sedang memegang kendali ditarik 5 menit |
 
-### 7.1 Inject A, Menit ke-10: "Kapasitas Media Turun"
+### 7.1 Inject A, Menit ke-8: "Kapasitas Media Turun"
 
 | Unsur | Isi |
 |---|---|
@@ -535,7 +535,7 @@ Inject dijalankan oleh **Pengendali Waktu / Master Inject** pada menit game yang
 | **Perilaku bermasalah** | Menolak tanpa penjelasan, membagi rata tanpa dasar, melobi biro pengirim di luar jalur |
 | **Peran fasilitator** | Kadep Media, Informasi & Digitalisasi menunggu eskalasi. Bila dua biro lintas departemen berebut slot dan buntu, Kadep memutuskan |
 
-### 7.2 Inject B, Menit ke-17: "Instruksi Ganda"
+### 7.2 Inject B, Menit ke-12: "Instruksi Ganda"
 
 | Unsur | Isi |
 |---|---|
@@ -554,7 +554,7 @@ Inject dijalankan oleh **Pengendali Waktu / Master Inject** pada menit game yang
 | Biro Manajemen Event | "Majukan Hari Puncak seminggu." | Perubahan tanggal Hari Puncak butuh Kadep → Waket → BPI |
 | Biro Amaliyah Yaumiyah | "Hentikan Q-TIME pekan ini supaya aula dipakai kegiatan lain." | Mengubah komitmen rutin Biro Amaliyah Yaumiyah, perlu persetujuan Kadep Pelayanan Masjid & Dakwah |
 
-### 7.3 Inject C, Menit ke-22: "Pengambil Kendali Berhalangan"
+### 7.3 Inject C, Menit ke-16: "Pengambil Kendali Berhalangan"
 
 | Unsur | Isi |
 |---|---|
@@ -575,7 +575,7 @@ Inject dijalankan oleh **Pengendali Waktu / Master Inject** pada menit game yang
 
 | Tab | Isi | Pengisi |
 |---|---|---|
-| `00_PETUNJUK` | Gambaran umum, aturan, alur 40 menit, inject, prinsip kerja organik, SOP eskalasi, daftar biro dan penggabungan, cara pakai | Dibaca peserta |
+| `00_PETUNJUK` | Gambaran umum, aturan, alur 30 menit, inject, prinsip kerja organik, SOP eskalasi, daftar biro dan penggabungan, cara pakai | Dibaca peserta |
 | `ALLOWED_EDGES` | 16 relasi resmi dengan nomor R-01 sampai R-16, jenis lintas, esensi, dan Kadep yang diinfokan. Kolom F berisi kunci `Biro Pengusung\|Biro Tujuan` untuk formula | Fasilitator |
 | Delapan tab biro, **berjudul sesuai nama biro** (`Manajemen Event`, `Pengabdian Masyarakat`, `Kajian & Inovasi Dakwah`, `Usaha Mandiri`, `Amaliyah Yaumiyah`, `Digital Production`, `Media Analysis & Strategi`, `Relasi & Hubungan Eksternal`) | Lembar kendali tiap biro (Blok A–E) | Meja biro |
 | `PAPAN_JARING` | Matriks 8×8 status 16 relasi, rekap, dan papan eskalasi serta keputusan | Otomatis |
@@ -633,7 +633,7 @@ Bobot: Ketepatan Jalur **30%**, Kualitas Kesepakatan **30%**, Ketepatan Eskalasi
 
 **Predikat:** ≥ 85 Tangguh · 70–84 Cakap · 55–69 Berkembang · < 55 Perlu pendalaman.
 
-**Catatan penting:** skor menilai **kinerja meja**, bukan individu, dan bukan alat peringkat sosial. Skor dipakai untuk debrief dan bukti TUK (K6, K7, K8). Pola kontribusi individu dicatat terpisah (bagian 10).
+**Catatan penting:** skor menilai **kinerja meja**, bukan individu, dan bukan alat peringkat sosial. Skor dipakai untuk presentasi dan ulasan serta bukti TUK (K6, K7, K8). Pola kontribusi individu dicatat terpisah (bagian 10).
 
 ---
 
@@ -649,7 +649,7 @@ Bobot: Ketepatan Jalur **30%**, Kualitas Kesepakatan **30%**, Ketepatan Eskalasi
 
 1. **Kalibrasi pengamat** pada technical meeting (11 November): membahas enam dimensi dan skala dengan contoh perilaku, serta bias yang perlu dihindari.
 2. Setiap pengamat duduk di dekat satu meja dan **tidak ikut berbicara**. Pengamat mengenali peserta lewat kode pada name tag (bukan nama lengkap) dan menuliskan bukti perilaku singkat.
-3. Pengamat mengisi lembar **segera setelah P4** (maksimal 10 menit), saat debrief dimulai, selagi ingatan segar.
+3. Pengamat mengisi lembar **segera setelah P4** (maksimal 10 menit), saat presentasi dimulai, selagi ingatan segar.
 4. Satu pengamat per meja. Untuk meja gabungan, pengamat ditambah satu bila memungkinkan.
 
 ### 10.3 Dimensi Perilaku yang Diamati
@@ -723,22 +723,22 @@ Tata kelola data (akses, retensi, pelaporan agregat) mengikuti dokumen 04, bagia
 - **BPI:** menerima eskalasi kebijakan atau lintas bidang. Cenderung menanyakan dasar Tata Kelola dan dampak organisasi.
 - **Bendum:** menjawab pertanyaan kanal donasi serta deposit, denda, dan penerimaan uang sewa. Jawaban baku: rekening resmi dikelola Bendum; kanal donasi harus disetujui sebelum disebar; pemasukan sewa, deposit, dan denda dicatat melalui mekanisme administrasi keuangan, bukan dipegang biro secara pribadi.
 
-### 11.4 Skrip Pengendali Waktu dan Master Inject (40 Menit)
+### 11.4 Skrip Pengendali Waktu dan Master Inject (30 Menit)
 
 | Menit | Aksi |
 |---|---|
 | 0 | Umumkan "P1 dimulai: baca kartu dan bergerak" |
-| 5 | "P2 dimulai: buka tiket" |
-| **10** | **Inject A** (Kapasitas Media Turun) |
-| **17** | **Inject B** (Waket mendatangi satu anggota) |
-| **22** | **Inject C** (kartu "kabar mendadak" kepada anggota yang memegang kendali) |
-| 25 | Peringatan "5 menit lagi" |
-| 27 | Anggota Inject C kembali |
-| 28 | Peringatan "2 menit lagi, siapkan laporan ke Kadep" |
-| 30 | "P3 dimulai: lapor Kadep, isi Blok E" |
-| 33 | Peringatan "2 menit lagi" |
-| 35 | "P4 dimulai: Papan Jaring" |
-| 40 | Selesai. Foto Papan Jaring |
+| 4 | "P2 dimulai: buka tiket" |
+| **8** | **Inject A** (Kapasitas Media Turun) |
+| **12** | **Inject B** (Waket mendatangi satu anggota) |
+| **16** | **Inject C** (kartu "kabar mendadak" kepada anggota yang memegang kendali) |
+| 18 | Peringatan "3 menit lagi" |
+| 19 | Anggota Inject C kembali |
+| 20 | Peringatan "1 menit lagi, siapkan laporan ke Kadep" |
+| 21 | "P3 dimulai: lapor Kadep, isi Blok E" |
+| 23 | Peringatan "2 menit lagi" |
+| 25 | "P4 dimulai: Papan Jaring" |
+| 30 | Selesai. Foto Papan Jaring |
 
 ### 11.5 Titik Temu Kesepakatan (ZOPA) per Tiket
 
@@ -772,7 +772,7 @@ Bukan jawaban tunggal. Dipakai untuk menilai kualitas kesepakatan (rubrik 2).
 | Masalah | Penanganan |
 |---|---|
 | Tim tidak bergerak di P2 | Pengamat **tidak** mengarahkan; fasilitator lain boleh bertanya "Siapa tujuan pertama kalian?" tanpa memberi jawaban |
-| Satu orang mendominasi, yang lain diam | Biarkan dinamika berjalan sampai debrief; catat sebagai bahan pembelajaran. Jika tim jelas macet, Kadep dapat bertanya "Apa pendapat anggota lain?" |
+| Satu orang mendominasi, yang lain diam | Biarkan dinamika berjalan sampai presentasi dan ulasan; catat sebagai bahan pembelajaran. Jika tim jelas macet, Kadep dapat bertanya "Apa pendapat anggota lain?" |
 | Dua tim saling memaksa | Kadep memanggil keduanya dan mengingatkan wewenang Kadep dan jalur eskalasi |
 | Tim menghubungi biro di luar daftar | Tegur lembut, arahkan eskalasi ke Kadep. Flag arah otomatis mencatat |
 | Wi-Fi bermasalah | Aktifkan hotspot cadangan. Bila gagal, tulis tiket pada kertas dan operator memasukkan sesudahnya |
@@ -780,17 +780,19 @@ Bukan jawaban tunggal. Dipakai untuk menilai kualitas kesepakatan (rubrik 2).
 | Kartu terlalu panjang dibaca dalam 5 menit | Sediakan 2 salinan per meja dan anjurkan membagi baca; tidak ada perpanjangan P1 |
 | Inject membuat tim panik | Master Inject mengingatkan bahwa kekacauan adalah bagian dari pembelajaran |
 
-### 11.7 Alur Debrief (25 Menit, 14.00–14.25)
+### 11.7 Alur Presentasi dan Ulasan (30 Menit, 13.41–14.11)
+
+Presentasi ini menggantikan debrief 25 menit pada versi 2.0. Kegiatan dilakukan di aula setelah Simulasi Taktis, dengan panitia, BPH, dan Kabiro yang hadir sebagai pembawa.
 
 | Menit | Kegiatan | Pembawa |
 |---|---|---|
-| 0–3 | Tampilkan `PAPAN_JARING` dan rekap (Deal, Reject, Batal, Pending) | Operator |
-| 3–10 | Refleksi tim: tiga pertanyaan debrief (di bawah); 3–4 meja bicara | Fasilitator utama |
-| 10–17 | Kaitkan temuan dengan prinsip koordinasi dan etika eskalasi (Materi 2) serta konvensi struktur saat ini: Ketua Badan Keorganisasian dan Waket III menyoroti dua atau tiga pelanggaran atau praktik baik tanpa menyebut nama | Ketua Keorganisasian, Waket III |
-| 17–22 | **Pelajaran kepemimpinan organik:** bagaimana keputusan lahir di meja, bagaimana yang pendiam dilibatkan, apa yang terjadi saat pengambil kendali ditarik (Inject C). Tidak menyebut nama peserta | Fasilitator utama |
-| 22–25 | Penutup: tiga pelajaran utama dan jembatan ke jeda Ashar dan Materi 4 | Fasilitator utama |
+| 0–5 | Tampilkan `PAPAN_JARING` dan rekap (Deal, Reject, Batal, Pending) | Operator |
+| 5–12 | Presentasi singkat tiap biro (±1 menit per biro): satu kesepakatan terbaik dan satu tiket tersulit | Perwakilan meja |
+| 12–20 | Ulasan: tiga pertanyaan ulasan (di bawah); 3–4 meja bicara | Fasilitator utama bersama BPH dan Kabiro yang hadir |
+| 20–25 | **Pelajaran kepemimpinan organik:** bagaimana keputusan lahir di meja, bagaimana yang pendiam dilibatkan, apa yang terjadi saat pengambil kendali ditarik (Inject C). Tidak menyebut nama peserta | Fasilitator utama |
+| 25–30 | Penutup: tiga pelajaran utama dan jembatan ke jeda Ashar dan Materi 4. Keterkaitan dengan prinsip koordinasi dan etika eskalasi (Materi 2) disebut singkat | Fasilitator utama |
 
-**Tiga pertanyaan debrief:**
+**Tiga pertanyaan ulasan:**
 1. Tiket mana yang paling alot dan mengapa? Apa yang akhirnya membuka kebuntuan?
 2. Kapan kalian memilih eskalasi dan kapan menyelesaikan sendiri? Apa dasarnya, baik prinsip koordinasi maupun konvensi struktur saat ini?
 3. Siapa yang menanggung dampak keputusan kalian di biro lain, dan apakah kalian mengetahuinya?

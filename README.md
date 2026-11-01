@@ -12,10 +12,11 @@ Knowledge base konsep dan rancangan program untuk keperluan *review* oleh BPI da
 | | |
 |---|---|
 | **Program** | Be A Better Muslim II (BBM 2), rangkaian upgrading anggota JMMI ITS |
-| **Pelaksanaan** | **Minggu, 15 November 2026**, 08.00–16.30 WIB, Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS |
+| **Tema** | "Membentang saujana asa, menyatukan langkah dan karya" |
+| **Pelaksanaan** | **Minggu, 15 November 2026**, 08.30–16.06 WIB, Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS |
 | **Peserta** | Staf Muda angkatan 2025, sekitar **50–70 orang** |
 | **Ketua Pelaksana** | Bara Ardiwinata |
-| **Format** | 1 hari tatap muka: 4 materi inti, 1 Simulasi Taktis (**40 menit**), pre-test dan post-test, dan Kegiatan Pasca Pelatihan (KPP) |
+| **Format** | 1 hari tatap muka: 4 materi inti, 1 Simulasi Taktis (**30 menit**), pre-test dan post-test, dan Kegiatan Pasca Pelatihan (KPP) |
 
 ### Mengapa BBM 2 diperlukan
 
@@ -32,8 +33,8 @@ BBM 1 (Mei 2026) membekali manajemen program dasar. **BBM 2 menyiapkan Staf Muda
 | Fase | Sesi | Pemateri |
 |---|---|---|
 | **Paham** | M1 **Arsitektur Amanah** (hierarki, Fungsionaris–Eksekutif, transisi organogram, menurut konvensi struktur kabinet saat ini) | Ketua Umum, Waket I, Waket II |
-| **Paham** | M2 **Simpul Organisasi** (prinsip komunikasi dan kolaborasi lintas tim, musyawarah, koordinasi asertif, etika eskalasi, adaptabilitas saat struktur berubah) | Ketua Badan Keorganisasian, Waket III |
-| **Mampu** | M3 **Seni Eksekusi** (memimpin tim biro, bonding, *people management*) | Best Kabiro BME OKR 2 |
+| **Paham** | M2 **Simpul Organisasi** (prinsip komunikasi dan kolaborasi lintas tim, musyawarah, koordinasi asertif, etika eskalasi, adaptabilitas saat struktur berubah) | Waket III dan 1 Staf Ahli Badan Personalia |
+| **Mampu** | M3 **Seni Eksekusi** (memimpin tim biro, bonding, *people management*) | Best Kabiro BME OKR 1 dan OKR 2 |
 | **Mampu** | **Simulasi Taktis** (1 ronde koordinasi lintas 8 biro, Google Sheets) | Fasilitator Badan Personalia |
 | **Mau** | M4 **Saujana Manarul Ilmi** (essential awareness, kebanggaan, khidmah) | Kepala Departemen Syi'ar |
 
@@ -41,12 +42,12 @@ BBM 1 (Mei 2026) membekali manajemen program dasar. **BBM 2 menyiapkan Staf Muda
 
 ### Simulasi Taktis dalam satu paragraf
 
-Delapan biro (Biro Manajemen Event, Biro Pengabdian Masyarakat, Biro Kajian & Inovasi Dakwah, Biro Usaha Mandiri, Biro Amaliyah Yaumiyah, Biro Digital Production, Biro Media Analysis & Strategi, dan Biro Relasi & Hubungan Eksternal) menjalankan proker bersamaan menuju Hari Puncak fiktif dalam **satu ronde 40 menit** yang sengaja padat. Ketergantungan antar-biro **asimetris dan searah**: tiap biro hanya boleh *memulai* koordinasi ke **2 biro tujuan** dan dilarang memulai balik ke pengirim, sehingga terbentuk 16 relasi resmi dalam satu jaring kerja. **Satu meja diisi Staf Muda dari biro asalnya** (bila hadir kurang dari 3 orang, digabung dengan biro lain dalam departemen yang sama). **Tidak ada jabatan yang ditunjuk**: semua setara di awal dan kepemimpinan tumbuh organik, diamati secara non-formal oleh Badan Personalia untuk pembinaan. Peserta bernegosiasi dengan kapasitas terbatas, mengeskalasi ke Kadep dengan format *fakta → opsi → permintaan arahan*, dan menghadapi tiga *inject* (kapasitas media turun, instruksi ganda, pengambil kendali berhalangan).
+Delapan biro (Biro Manajemen Event, Biro Pengabdian Masyarakat, Biro Kajian & Inovasi Dakwah, Biro Usaha Mandiri, Biro Amaliyah Yaumiyah, Biro Digital Production, Biro Media Analysis & Strategi, dan Biro Relasi & Hubungan Eksternal) menjalankan proker bersamaan menuju Hari Puncak fiktif dalam **satu ronde 30 menit** yang sengaja padat. Ketergantungan antar-biro **asimetris dan searah**: tiap biro hanya boleh *memulai* koordinasi ke **2 biro tujuan** dan dilarang memulai balik ke pengirim, sehingga terbentuk 16 relasi resmi dalam satu jaring kerja. **Satu meja diisi Staf Muda dari biro asalnya** (bila hadir kurang dari 3 orang, digabung dengan biro lain dalam departemen yang sama). **Tidak ada jabatan yang ditunjuk**: semua setara di awal dan kepemimpinan tumbuh organik, diamati secara non-formal oleh Badan Personalia untuk pembinaan. Peserta bernegosiasi dengan kapasitas terbatas, mengeskalasi ke Kadep dengan format *fakta → opsi → permintaan arahan*, dan menghadapi tiga *inject* (kapasitas media turun, instruksi ganda, pengambil kendali berhalangan).
 
 ### KPP (Kegiatan Pasca Pelatihan)
 
-- **Ngopi Khidmah** (komunal per biro): seluruh Staf Muda satu biro hadir lengkap, tatap muka, bersowan dengan **1 Kepala Biro dan 2 Staf Ahli dari tiga biro berbeda** yang **dicari dan dihubungi sendiri** oleh Staf Muda (melatih inisiatif dan keberanian). Tiap narasumber menerima maksimal 2 ajakan dengan sistem *first-come, first-served*; bila penuh, rombongan mencari alternatif. Topik: alasan lanjut ber-JMMI, suka-duka memimpin, kekuatan biro dan hal yang ingin dikembangkan bersama, dan tips menjaga komitmen. Bukti: foto bersama yang diunggah ke Instagram biro dan dibagikan ke grup komunal anggota JMMI ITS.
-- **1-Page Canvas Biro Masa Depan** (fisik): satu kertas A3 per biro dengan tiga zona berpendekatan *Appreciative Inquiry* (berbasis kekuatan): **Cahaya Biro** (Warisan Baik yang Kita Jaga), **Ruang Tumbuh** (Peluang yang Ingin Kita Jelajahi), dan **Asa dan Terobosan** (Estafet Kita Selanjutnya). Setiap Staf Muda menempel minimal satu sticky note berinisial di tiap zona. Kit dibagikan panitia pada briefing KPP di akhir hari-H.
+- **Ngopi Khidmah** (komunal per biro): seluruh Staf Muda satu biro hadir lengkap, tatap muka, bersowan dengan **2 Kepala Biro** (satu dari Kelompok A dan satu dari Kelompok B), **1 Staf Ahli Biro**, dan **1–2 fungsionaris badan**, yang **dicari dan dihubungi sendiri** oleh Staf Muda (melatih inisiatif dan keberanian). Tiap narasumber menerima maksimal 2 ajakan dengan sistem *first-come, first-served*; bila penuh, rombongan mencari alternatif. Topik: alasan lanjut ber-JMMI, suka-duka memimpin, kekuatan biro dan hal yang ingin dikembangkan bersama, dan tips menjaga komitmen. Bukti: foto bersama yang diunggah ke Instagram biro dan dibagikan ke grup komunal anggota JMMI ITS.
+- **1-Page Canvas Biro Masa Depan** (fisik): satu kertas A3 per biro dengan dua zona terbuka berpendekatan *Appreciative Inquiry* (berbasis kekuatan): **Cahaya Biro** (Warisan Baik yang Kita Jaga) dan **Asa dan Terobosan** (Estafet Kita Selanjutnya). Zona **Ruang Tumbuh** (Peluang yang Ingin Kita Jelajahi) ditulis di sticky note lalu disimpan dalam amplop tertutup untuk Badan Personalia. Setiap Staf Muda menulis minimal satu sticky note berinisial di tiap zona. Kit dibagikan panitia pada briefing KPP di akhir hari-H.
 - Form Minat Peran (individu, privat) tetap menjadi instrumen pendamping.
 - Jendela pelaksanaan **16 November sampai H-1 Forum AHWA JMMI ITS 2026** (estimasi tenggat 20 atau 21 November, ±5–6 hari efektif).
 
@@ -69,7 +70,7 @@ Delapan biro (Biro Manajemen Event, Biro Pengabdian Masyarakat, Biro Kajian & In
 | No | Dokumen | Isi |
 |---|---|---|
 | 01 | [Grand Design dan Urgensi](blueprints/01_grand_design_dan_urgensi.md) | Latar belakang restrukturisasi, problem statement, 8 ambiguitas Tata Kelola, risiko resistensi kader, landasan filosofis dan regulasi, profil peserta, TUK kuantitatif dan kualitatif, register keputusan |
-| 02 | [Silabus Materi dan Rundown](blueprints/02_silabus_materi_dan_rundown.md) | Rundown 08.00–16.30 dengan PIC dan waktu ibadah, silabus 4 modul, tabel wewenang, handout "Prinsip dan Skrip Koordinasi" dan Lembar Konvensi Sementara, *speaker's brief* |
+| 02 | [Silabus Materi dan Rundown](blueprints/02_silabus_materi_dan_rundown.md) | Rundown 08.30–16.06 dengan PIC dan waktu ibadah, silabus 4 modul, tabel wewenang, handout "Prinsip dan Skrip Koordinasi" dan Lembar Konvensi Sementara, *speaker's brief* |
 | 03 | [Juklak Simulasi Taktis](blueprints/03_juklak_simulasi_taktis.md) | Konsep game, aturan arah dan *directed graph* 16 relasi, katalog 8 kasus biro, 3 inject, struktur Google Sheets, rubrik, panduan fasilitator dan kunci titik temu |
 | 04 | [Skema KPP dan Instrumen Evaluasi](blueprints/04_skema_kpp_dan_instrumen_evaluasi.md) | Pre-test dan post-test (13 butir berbasis prinsip dan skenario, beserta kunci), butir sikap, N-Gain, Ngopi Khidmah, Form Minat Peran, 1-Page Canvas, timeline dan monitoring, database kader |
 | 05 | [Timeline Eksekusi dan Birokrasi](blueprints/05_timeline_eksekusi_dan_birokrasi.md) | Kalender tenggat, milestone 8 Oktober–6 Desember, kepatuhan SOP proposal/surat/SPJ/LPJ, checklist logistik, RACI, register risiko |
@@ -101,6 +102,7 @@ Delapan biro (Biro Manajemen Event, Biro Pengabdian Masyarakat, Biro Kajian & In
 |---|---|
 | Jadwal, tempat, judul sesi, pemateri, desain Simulasi Taktis, konsep KPP | **Disepakati** (arahan Ketua Pelaksana) |
 | Materi 2 sebagai prinsip komunikasi lintas tim, pembingkaian "konvensi struktur saat ini", tiga zona Canvas (Cahaya Biro, Ruang Tumbuh, Asa dan Terobosan), topik ketiga Ngopi Khidmah, dan butir tes berbasis prinsip | **Disepakati** (keputusan Ketua Pelaksana pasca-audiensi, 24 Oktober 2026) |
+| Tema resmi, rundown 08.30–16.06, simulasi 30 menit, komposisi Ngopi Khidmah baru, Canvas dua zona terbuka dan amplop tertutup Ruang Tumbuh | **Disepakati** (rapat Ketua Pelaksana dan Badan Personalia, 1 November 2026) |
 | Angka TUK, jumlah fasilitator dan pengamat, mekanisme meja gabungan (dua kartu), dan naskah transparansi pengamatan | **Usulan**, menunggu persetujuan Ketua |
 | Kapasitas Aula / Ruang AV untuk sekitar 100 orang | **Belum terverifikasi** (konfirmasi ke Takmir sebelum 15 Oktober) |
 | Angka bertanda **(sim)** pada kasus simulasi | **Fiktif**, perlu divalidasi Kabiro terkait sebelum kartu dicetak |
