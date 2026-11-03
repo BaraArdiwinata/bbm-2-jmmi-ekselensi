@@ -1,9 +1,9 @@
-# TERM OF REFERENCE: MATERI 1 "ARSITEKTUR AMANAH"
+# TOR MATERI 1: "ARSITEKTUR AMANAH"
 
 **Kegiatan:** Be A Better Muslim II (BBM 2), JMMI ITS Kabinet Ekselensi 2026
 **Penyelenggara:** Badan Personalia, Bidang Manajemen Sumber Daya Manusia dan Tata Kelola Organisasi
 **Tempat:** Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS
-**Versi:** 1.0, 31 Oktober 2026
+**Versi:** 2.0, 3 November 2026
 
 ---
 
@@ -12,45 +12,38 @@
 | Unsur | Keterangan |
 |---|---|
 | Nama sesi | Materi 1: "Arsitektur Amanah" |
-| Tahap fase | **Paham** (bagian dari fase Paham bersama Materi 2) |
-| Subjudul | Hierarki, Fungsionaris–Eksekutif, dan Transisi Organogram |
-| Hari dan tanggal | Minggu, 15 November 2026 |
+| Fase | Paham (bersama Materi 2) |
+| Subjudul | Hierarki, peran Fungsionaris dan Eksekutif, dan peta jalan kepengurusan |
+| Hari dan tanggal | Sabtu, 14 November 2026 |
 | Waktu | 09.21–10.21 WIB (60 menit, termasuk tanya jawab 15 menit) |
-| Pemateri | Muhammad Hazal Ma'aly Mahmud (Ketua Umum JMMI ITS 2026), didampingi Wakil Ketua I dan Wakil Ketua II |
-| Format | Pemaparan bergantian, tanya jawab terbuka |
+| Pemateri | Muhammad Hazal Ma'aly Mahmud (Ketua Umum JMMI ITS 2026), dengan Wakil Ketua I dan Wakil Ketua II |
 
 ---
 
 ## 2. Judul dan Tema Kegiatan
 
-Materi ini merupakan bagian dari kegiatan **"Be A Better Muslim II (BBM 2)"** dengan tema **"Membentang saujana asa, menyatukan langkah dan karya"**.
+Sesi ini bagian dari **"Be A Better Muslim II (BBM 2)"** dengan tema **"Membentang saujana asa, menyatukan langkah dan karya"**.
 
 ---
 
-## 3. Latar Belakang dan Urgensi Materi
+## 3. Latar Belakang
 
-Kabinet Ekselensi 2026 menambahkan satu lapisan baru, yaitu **Biro**. Susunan kepengurusan kini berbentuk BPI, Departemen, dan Biro. Lapisan Biro diisi oleh pengurus tahun ke-2 (Kepala Biro dan Staf Ahli) yang pada periode sebelumnya masih berstatus Staf Muda. Evaluasi internal menunjukkan bahwa wewenang Kepala Biro, Kepala Departemen, dan Staf Ahli masih saling berdekatan, sehingga peserta perlu memahami peta peran sebelum mempelajari koordinasi.
+Kabinet Ekselensi 2026 punya satu lapisan baru, yaitu **Biro**. Susunannya sekarang BPI, Departemen, lalu Biro. Lapisan Biro diisi pengurus tahun kedua, yang tahun lalu masih Staf Muda.
 
-Materi ini penting karena:
-1. Peserta adalah calon Kepala Biro dan Staf Ahli, sehingga perlu membaca peran sendiri dan peran pihak lain dengan tepat.
-2. Kesalahan membaca batas wewenang (misalnya Staf Ahli dianggap pemberi perintah) menjadi sumber instruksi ganda dan keputusan di tingkat yang keliru.
-3. Peserta perlu memahami bahwa struktur ini adalah **konvensi kabinet saat ini**. Tata Kelola belum disahkan final dan dapat berubah pada kepengurusan berikutnya.
+Banyak peserta belum jelas siapa memutuskan apa, dan batas wewenang Kepala Biro dan Kepala Departemen masih sering tertukar. Materi ini membantu peserta membaca peran tersebut.
 
-Pembingkaian ini ditetapkan Ketua Pelaksana. Materi dibawakan sebagai pemetaan wewenang menurut **konvensi struktur kabinet saat ini**, bukan sebagai pasal baku yang dijamin berlaku selamanya. Yang diajarkan adalah cara membaca peran, batas, dan hubungan antarperan, sehingga peserta tetap mampu membaca struktur baru.
+Materi ini membahas struktur **yang berlaku saat ini**. Aturan organisasi belum disahkan secara final, dan bentuknya bisa berubah di kepengurusan berikutnya. Yang perlu dipelajari adalah cara membaca peran, batas, dan hubungan antarperan, supaya peserta tetap bisa membaca struktur baru.
 
 ---
 
-## 4. Profil Audiens dan Sasaran Peserta
+## 4. Profil Peserta
 
 | Aspek | Keterangan |
 |---|---|
 | Peserta | Staf Muda JMMI ITS angkatan 2025, ±50–70 orang |
-| Asal | Delapan biro: Manajemen Event, Pengabdian Masyarakat, Kajian & Inovasi Dakwah, Usaha Mandiri, Amaliyah Yaumiyah, Digital Production, Media Analysis & Strategi, Relasi & Hubungan Eksternal |
-| Pengalaman | Sudah mengikuti BBM 1 (Mei 2026) dan sudah menjalankan proker tingkat Staf Muda selama satu periode |
-| Posisi masa depan | Calon Kepala Biro atau Staf Ahli pada kepengurusan berikutnya |
-| Kondisi awal yang perlu diantisipasi | Belum pernah berada di lapisan Biro, ragu terhadap batas wewenang, dan takut salah langkah |
-
-**Sasaran spesifik materi ini:** peserta dapat menyebut batas wewenang tiap peran secara benar tanpa perlu hafal nomor pasal.
+| Pengalaman | Sudah ikut BBM 1 dan sudah menjalankan proker sebagai Staf Muda |
+| Calon peran | Kepala Biro atau Staf Ahli pada kepengurusan berikutnya |
+| Yang perlu diantisipasi | Belum pernah berada di lapisan Biro, ragu dengan batas wewenang, dan takut salah langkah |
 
 ---
 
@@ -58,88 +51,87 @@ Pembingkaian ini ditetapkan Ketua Pelaksana. Materi dibawakan sebagai pemetaan w
 
 Setelah sesi ini, peserta mampu:
 
-1. **Menjelaskan** alasan susunan kepengurusan berubah menjadi BPI, Departemen, dan Biro, serta apa yang berubah bagi Staf Muda tahun ini.
-2. **Membedakan** unsur Fungsionaris (Ketua Badan, Asisten Badan, Sekretaris Badan, Ketua Departemen, Sekretaris Departemen) dan unsur Eksekutif (Kepala Biro, Staf Ahli Biro, Staf Muda Biro, Staf Ahli Badan).
-3. **Menyebutkan** wewenang inti Kepala Biro, Staf Ahli, Staf Muda, dan Kepala Departemen, serta batas satu terhadap yang lain.
-4. **Menjelaskan** tapal batas peran Kepala Biro dan Kepala Departemen, termasuk mengapa Kepala Departemen mengarahkan dan memantau tanpa mengambil alih operasional biro.
-5. **Menyebutkan** garis besar peta jalan kepengurusan berikutnya dan apa yang kemungkinan tetap atau berubah.
+1. **Menjelaskan** alasan susunan kepengurusan berubah dari BPI–Departemen menjadi BPI–Departemen–Biro.
+2. **Membedakan** Fungsionaris (Ketua Badan, Asisten Badan, Sekretaris Badan, Ketua Departemen, Sekretaris Departemen) dan Eksekutif (Kepala Biro, Staf Ahli Biro, Staf Muda Biro, Staf Ahli Badan).
+3. **Menyebutkan** tugas utama Kepala Biro, Staf Ahli, Staf Muda, dan Kepala Departemen, serta batas masing-masing.
+4. **Menjelaskan** mengapa Kepala Departemen mengarahkan dan memantau biro, tanpa mengambil alih urusan operasional biro.
+5. **Menyebutkan** garis besar peta jalan kepengurusan berikutnya: apa yang kemungkinan tetap, dan apa yang mungkin berubah.
 
-**Indikator capaian:** butir post-test 1–5 (lihat dokumen 04, bagian 1.4) dan butir sikap L1 (pemahaman batas wewenang).
+**Indikator:** butir post-test 1–5 (dokumen 04, bagian 1.4) dan butir sikap L1 (paham batas wewenang).
 
 ---
 
 ## 6. Pokok Bahasan
 
-**A. Dasar pemikiran dan transisi organogram.** Alasan penambahan lapisan Biro, kaitannya dengan Misi 2 (tata kelola yang transparan dan terukur) dan Pilar F, perubahan yang dialami Staf Muda, serta bagian transisi yang belum mulus.
+**A. Alasan perubahan.** Mengapa ada lapisan Biro. Kaitannya dengan Misi 2 (tata kelola yang transparan dan terukur) dan Pilar F. Apa yang berubah bagi Staf Muda, dan apa yang belum berjalan mulus.
 
-**B. Fungsionaris dan Eksekutif.** Pembagian golongan. Fungsionaris bertugas mengontrol keberjalanan program, sedangkan Eksekutif bertugas mengonsep dan melaksanakan program kerja. Contoh alur Bidang 1: Departemen Pelayanan Masjid dan Dakwah serta Departemen Syi'ar ke empat biro.
+**B. Fungsionaris dan Eksekutif.** Fungsionaris mengontrol jalannya program. Eksekutif menyusun dan menjalankan program. Contoh: Departemen Pelayanan Masjid dan Dakwah serta Departemen Syi'ar membawahi empat biro.
 
-**C. Tapal batas Kepala Biro dan Kepala Departemen.** Perbandingan peran: Kepala Departemen mengintegrasikan dan mengendalikan biro, sedangkan Kepala Biro memimpin operasional bersama Staf Ahli dan Staf Muda. Pembagian yang diputuskan Kepala Departemen (prioritas antarbiro) dan yang diputuskan Kepala Biro (pembagian tugas internal). Kepala Departemen dapat memberi arahan, rekomendasi, asistensi, monitoring, dan evaluasi, tetapi tidak mengambil alih kewenangan operasional biro.
+**C. Batas Kepala Biro dan Kepala Departemen.** Kepala Departemen mengintegrasikan biro dan menjadi penghubung dengan Waket. Kepala Biro memimpin operasional biro bersama Staf Ahli dan Staf Muda. Kepala Departemen boleh memberi arahan, rekomendasi, dan evaluasi, tetapi tidak mengambil alih urusan biro.
 
-**D. Peran Staf Ahli dan Staf Muda.** Staf Ahli memberi arahan teknis sesuai bidang keahlian dan bukan wakil Kepala Biro. Permintaan data kepada Staf Muda dilakukan sepengetahuan Kepala Biro. Staf Muda memiliki hak yang diatur, termasuk hak memperoleh apresiasi.
+**D. Peran Staf Ahli dan Staf Muda.** Staf Ahli memberi arahan teknis sesuai keahliannya, dan bukan wakil Kepala Biro. Permintaan data kepada Staf Muda dilakukan sepengetahuan Kepala Biro. Staf Muda berhak mendapat apresiasi atas kontribusinya.
 
-**E. Tabel wewenang (Bidang 2).** Tabel yang membedakan tindakan "memutuskan", "mengusulkan", dan "mengetahui" untuk setiap peran. Peran tiga badan di Bidang 2 (Personalia, Keorganisasian, dan Kemuslimahan) dan hak koordinasi langsung mereka ke departemen dan biro.
+**E. Tabel wewenang.** Tabel yang menunjukkan siapa yang memutuskan, mengusulkan, dan hanya perlu mengetahui. Juga peran tiga badan di Bidang 2 (Personalia, Keorganisasian, dan Kemuslimahan).
 
-**F. Peta jalan kepengurusan berikutnya.** Gambaran singkat hal yang kemungkinan tetap (prinsip peran dan batas wewenang) dan hal yang mungkin berubah (nama jabatan, struktur bagan, dan urutan jalur). Tujuannya agar peserta siap membaca struktur baru tanpa kehilangan pegangan.
+**F. Peta jalan kepengurusan berikutnya.** Gambaran singkat: prinsip peran dan batas wewenang kemungkinan tetap, sedangkan nama jabatan, bagan, dan urutan jalur mungkin berubah.
 
 ---
 
-## 7. Alur Sesi Menit-per-Menit
+## 7. Alur Sesi
 
-| Menit | Segmen | Pembicara | Isi |
+| Menit | Bagian | Pembicara | Isi |
 |---|---|---|---|
-| 0–20 | Dasar pemikiran dan transisi organogram | Hazal (Ketua Umum) | Alasan lapisan Biro; kaitan Misi 2 dan Pilar F; yang berubah bagi Staf Muda; bagian transisi yang belum mulus, disampaikan jujur; harapan kepada calon pengisi lapisan Biro |
-| 20–35 | Fungsionaris dan Eksekutif, serta alur Bidang 1 | Wakil Ketua I | Pembagian golongan; wewenang Kepala Departemen dan Kepala Biro yang berdampingan; contoh alur Departemen ke empat biro; koordinasi langsung Departemen dan Biro tanpa mengambil alih operasional |
-| 35–45 | Tabel wewenang, alur Bidang 2, dan peta jalan | Wakil Ketua II | Tabel memutuskan, mengusulkan, dan mengetahui; peran tiga badan di Bidang 2; hak Staf Muda; penutup berupa peta jalan kepengurusan berikutnya |
-| 45–60 | Tanya jawab | Ketiganya | Pertanyaan anonim yang dikumpulkan sejak registrasi (kertas atau Google Form), dijawab bergantian |
+| 0–20 | Alasan perubahan | Hazal (Ketua Umum) | Alasan lapisan Biro, kaitan dengan Misi 2 dan Pilar F, yang berubah bagi Staf Muda, dan bagian yang belum mulus. Harapan kepada calon pengisi lapisan Biro |
+| 20–35 | Fungsionaris dan Eksekutif | Wakil Ketua I | Pembagian golongan. Kepala Departemen dan Kepala Biro. Contoh alur Bidang 1 |
+| 35–45 | Tabel wewenang | Wakil Ketua II | Tabel memutuskan, mengusulkan, dan mengetahui. Peran tiga badan di Bidang 2. Hak Staf Muda. Penutup berupa peta jalan kepengurusan |
+| 45–60 | Tanya jawab | Ketiganya | Pertanyaan anonim yang dikumpulkan sejak registrasi, dijawab bergantian |
 
-**Pengendali waktu** memberi isyarat 10, 5, dan 1 menit sebelum sesi berakhir (menit ke-50, 55, dan 59). Bila M1 melebihi waktu, tanya jawab dipotong lebih dulu, bukan Simulasi Taktis.
+**Pengendali waktu** memberi isyarat pada menit ke-50, 55, dan 59. Jika sesi melewati waktu, tanya jawab dipotong lebih dulu, bukan Simulasi Taktis.
 
 ---
 
-## 8. Batasan Materi dan Matriks Anti-Tumpang-Tindih
+## 8. Batasan Materi
 
-Simbol: **P** = bahasan utama, **S** = bahasan pendukung (maksimal 2 menit), **—** = tidak dibahas.
+Keterangan: **P** = bahasan utama, **S** = bahasan pendukung (maksimal 2 menit), **—** = tidak dibahas.
 
 | Topik | M1 (ini) | M2 | M3 | M4 |
 |---|---|---|---|---|
-| Alasan perubahan organogram | **P** | — | — | — |
-| Fungsionaris vs Eksekutif | **P** | — | — | — |
+| Alasan perubahan struktur | **P** | — | — | — |
+| Fungsionaris dan Eksekutif | **P** | — | — | — |
 | Wewenang Kabiro, Kadep, Staf Ahli, Staf Muda | **P** | S | S | — |
-| Etika eskalasi dan prinsip koordinasi lintas tim | S | **P** | — | — |
+| Komunikasi dan koordinasi lintas tim | S | **P** | — | — |
 | Musyawarah, koordinasi asertif, diplomasi internal | — | **P** | — | — |
-| Lembar Konvensi Sementara (surat, media, asistensi) | — | S | — | — |
-| Delegasi, bonding, konflik dalam tim | — | — | **P** | — |
+| Surat, proposal, SPJ, LPJ | — | S (hanya handout) | — | — |
+| Cara memimpin tim dan konflik internal | — | — | **P** | — |
 | Kebanggaan dan ajakan estafet | — | — | — | **P** |
 
-**Larangan spesifik M1:**
-- Dilarang membahas detail SOP surat, proposal, SPJ, dan LPJ. Itu menjadi bagian Lembar Konvensi Sementara di Materi 2.
-- Dilarang membahas cara memimpin tim dan konflik internal. Itu menjadi bagian Materi 3.
-- Dilarang membahas isi kasus Simulasi Taktis, termasuk nama biro dan angka kasusnya.
-- Dilarang menyajikan tarif, deposit, atau denda sewa, karena SOP tidak mengaturnya.
+**Larangan M1:**
+- Tidak membahas detail SOP surat, proposal, SPJ, dan LPJ. Itu ada di handout Materi 2.
+- Tidak membahas cara memimpin tim dan konflik internal. Itu Materi 3.
+- Tidak membahas isi kasus Simulasi Taktis.
+- Tidak menyebut tarif, deposit, atau denda sewa. SOP tidak mengaturnya.
 
-**Batas kebenaran:** setiap pernyataan tentang pasal disampaikan sebagai konvensi saat ini. Bila ada bagian yang tidak tegas di dokumen Tata Kelola, pemateri menyebutnya sebagai area yang akan dirapikan Badan Keorganisasian dan tidak memutuskannya sendiri.
-
----
-
-## 9. Metode Penyampaian
-
-- Pemaparan bergantian dengan ceramah interaktif singkat, penayangan bagan, dan tanya jawab terbuka.
-- Bahan tambahan berupa salinan tabel wewenang sebagai handout.
-- Peserta diajak membaca satu kasus singkat di tengah sesi: "Siapa yang berwenang memutuskan hal ini?" Jawaban peserta menjadi pembuka untuk tabel wewenang.
-
-**Larangan umum pemateri:** dilarang menyinggung suku, ras, atau politik apa pun. Dilarang menyebut nama individu dalam contoh kesalahan.
+**Aturan bicara:** setiap pasal disebut sebagai aturan yang berlaku sekarang. Jika ada bagian yang belum jelas di dokumen, pemateri bilang akan dibahas oleh Badan Keorganisasian, bukan memutuskan sendiri.
 
 ---
 
-## 10. Ketentuan Media Presentasi
+## 9. Metode dan Larangan Umum
+
+- Pemaparan bergantian, dengan bagan, tanya jawab terbuka, dan handout tabel wewenang.
+- Di tengah sesi, ajukan satu pertanyaan ke peserta: "Siapa yang berwenang memutuskan hal ini?" Jawaban peserta jadi pembuka tabel wewenang.
+- **Dilarang** menyinggung suku, ras, atau politik apa pun.
+- **Dilarang** menyebut nama orang dalam contoh kesalahan.
+
+---
+
+## 10. Media
 
 | Unsur | Ketentuan |
 |---|---|
-| Jumlah slide | Maksimal 12 slide |
-| Layar | Satu layar proyektor |
-| Handout | Salinan tabel wewenang (satu halaman) |
-| Format | Teks minimal dan bagan jelas. Tabel wewenang dibaca dari layar |
+| Slide | Maksimal 12 slide |
+| Layar | 1 proyektor |
+| Handout | Tabel wewenang, 1 halaman |
+| Format | Teks singkat. Tabel dibaca dari layar |
 | Pengumpulan | Slide final ke Sie Acara paling lambat 10 November 2026 |
 
 ---
@@ -148,45 +140,39 @@ Simbol: **P** = bahasan utama, **S** = bahasan pendukung (maksimal 2 menit), **�
 
 | Unsur | Keterangan |
 |---|---|
-| Hari, tanggal | Minggu, 15 November 2026 |
+| Hari, tanggal | Sabtu, 14 November 2026 |
 | Waktu | 09.21–10.21 WIB |
 | Tempat | Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS |
-| Fasilitas | 1 proyektor dan layar, 2 mikrofon nirkabel, laptop pemateri, pointer |
+| Fasilitas | 1 proyektor dan layar, 2 mikrofon nirkabel, dan laptop pemateri |
 
 ---
 
 ## 12. Hak dan Kewajiban Pemateri
 
 **Kewajiban:**
-1. Hadir pukul **07.30 WIB** untuk gladi singkat dan uji perangkat.
-2. Menyampaikan materi 60 menit dan tanya jawab 15 menit.
+1. Hadir pukul 08.30 WIB untuk uji perangkat.
+2. Menyampaikan materi 45 menit dan tanya jawab 15 menit.
 3. Menyerahkan slide final ke Sie Acara paling lambat 10 November 2026.
-4. Memvalidasi slide dengan Badan Keorganisasian bila ada bagian yang menyinggung pasal.
+4. Meminta Badan Keorganisasian memeriksa bagian yang menyebut pasal.
 
 **Hak:**
-1. Mendapatkan tanda terima kasih dari JMMI ITS.
-2. Mendapatkan dukungan teknis dari Sie Acara selama sesi berlangsung.
+1. Mendapat tanda terima kasih dari JMMI ITS.
+2. Mendapat dukungan Sie Acara untuk perangkat.
 
 ---
 
 ## 13. Kalimat Jembatan ke Materi 2
 
-"Setelah paham siapa memutuskan apa, sekarang kita belajar bagaimana berkomunikasi dan berkolaborasi antartim dengan beretika, apa pun bentuk strukturnya."
+"Setelah paham siapa memutuskan apa, sekarang kita belajar cara berkomunikasi dan bekerja sama antartim dengan baik, apa pun bentuk strukturnya."
 
 ---
 
-## 14. Penutup dan Ketentuan Revisi
-
-Term of Reference ini disusun sebagai kerangka acuan pemateri. Setiap perubahan isi atau waktu disampaikan kepada Sie Acara dan Ketua Pelaksana. Penyesuaian bahasa dan contoh diperkenankan selama tujuan pembelajaran, batas materi, dan waktu tetap dipatuhi.
-
----
-
-## 15. Narahubung (PIC)
+## 14. Narahubung
 
 | Peran | Nama | Tugas |
 |---|---|---|
 | Ketua Pelaksana | Bara Ardiwinata | Penanggung jawab umum dan persetujuan perubahan materi |
 | Sie Acara | Sesuai susunan kepanitiaan (Lampiran 2 proposal) | Rundown, MC, pengendali waktu, dan pengumpulan slide |
-| Badan Personalia | Penanggung jawab pemateri | Briefing pemateri dan validasi batas materi |
+| Badan Personalia | Penanggung jawab pemateri | Briefing pemateri dan pemeriksaan batas materi |
 
-Nomor kontak pemateri dan PIC disampaikan terpisah oleh Ketua Pelaksana melalui grup koordinasi pemateri.
+Nomor kontak disampaikan terpisah oleh Ketua Pelaksana melalui grup pemateri.

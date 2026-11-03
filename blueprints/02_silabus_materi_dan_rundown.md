@@ -1,9 +1,9 @@
 # 02 — Silabus Materi dan Rundown Terpadu
 
 **Program:** BBM 2 JMMI ITS Kabinet Ekselensi 2026
-**Pelaksanaan:** Minggu, 15 November 2026, 08.30–16.06 WIB
+**Pelaksanaan:** Sabtu, 14 November 2026, 08.00–16.06 WIB
 **Tempat:** Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS
-**Versi:** 1.2, 1 November 2026 (rundown 08.30–16.06 dan simulasi 30 menit hasil rapat Ketua Pelaksana dan Badan Personalia; komposisi Ngopi Khidmah baru; Canvas dua zona terbuka dengan zona ketiga tertutup; tema resmi). Versi 1.1, 24 Oktober 2026 (pembaruan pasca-audiensi: Materi 2 dibingkai ulang menjadi prinsip komunikasi dan kolaborasi lintas tim; Materi 1 dan Simulasi Taktis dibingkai sebagai simulasi berbasis konvensi struktur kabinet saat ini; zona Canvas A3 memakai pendekatan *Appreciative Inquiry*)
+**Versi:** 1.3, 3 November 2026 (tanggal Sabtu 14 November; rundown 08.00–16.06 dengan Stadium Generale Pembina; Ruang Tumbuh berupa botol aspirasi per departemen). Versi 1.2, 1 November 2026 (rundown 08.30–16.06 dan simulasi 30 menit hasil rapat Ketua Pelaksana dan Badan Personalia; komposisi Ngopi Khidmah baru; Canvas dua zona terbuka dengan zona ketiga tertutup; tema resmi). Versi 1.1, 24 Oktober 2026 (pembaruan pasca-audiensi: Materi 2 dibingkai ulang menjadi prinsip komunikasi dan kolaborasi lintas tim; Materi 1 dan Simulasi Taktis dibingkai sebagai simulasi berbasis konvensi struktur kabinet saat ini; zona Canvas A3 memakai pendekatan *Appreciative Inquiry*)
 **Peserta:** Staf Muda angkatan 2025, ±50–70 orang
 
 > **Pembingkaian struktur (keputusan Ketua Pelaksana).** Tata Kelola Kabinet Ekselensi 2026 belum disahkan secara final dan belum pasti dipertahankan pada kepengurusan berikutnya. Karena itu Materi 1 (wewenang) dan Simulasi Taktis disajikan sebagai **"simulasi berbasis konvensi struktur kabinet saat ini"**: peserta berlatih membaca peran dan berkoordinasi dalam struktur yang berlaku sekarang, sambil memahami bahwa **prinsipnya bertahan walau bentuknya berubah**. Materi 2 tidak mengajarkan SOP kaku; ia mengajarkan prinsip komunikasi dan kolaborasi lintas tim.
@@ -16,29 +16,30 @@
 
 | No | Mulai | Selesai | Durasi | Kegiatan | Pemateri / PIC | Keterangan dan output |
 |---|---|---|---|---|---|---|
-| 1 | 08.30 | 09.00 | 30' | Registrasi peserta dan pembagian name tag (kode peserta dan warna biro asal) | Sie Acara | Daftar hadir digital terisi |
-| 2 | 09.00 | 09.05 | 5' | **Pembukaan** | MC | Peserta memahami tujuan dan alur satu hari |
-| 3 | 09.05 | 09.08 | 3' | Sambutan Ketua Pelaksana | Ketua Pelaksana | |
-| 4 | 09.08 | 09.11 | 3' | Sambutan Ketua Umum JMMI ITS | Ketua Umum JMMI ITS | |
-| 5 | 09.11 | 09.21 | 10' | **Pre-test** (13 butir pilihan ganda, 6 butir sikap, 1 pertanyaan terbuka) via QR | Operator | Data pre-test terkumpul |
-| 6 | 09.21 | 10.21 | 60' | **M1 — Arsitektur Amanah** | Hazal (Ketum), Waket I, Waket II | Peta wewenang menurut konvensi struktur saat ini dipahami. Tanya jawab 15' |
-| 7 | 10.21 | 11.21 | 60' | **M2 — Simpul Organisasi** | Waket III dan 1 Staf Ahli Badan Personalia | Peserta membawa pulang handout "Prinsip dan Skrip Koordinasi" (dengan Lembar Konvensi Sementara) |
-| 8 | 11.21 | 12.06 | 45' | **Salat Dzuhur dan ishoma** | Seluruh Panitia | Jadwal salat resmi dikonfirmasi H-5 |
-| 9 | 12.06 | 13.06 | 60' | **M3 — Seni Eksekusi** | Best Kabiro Manajemen Event (OKR 1 dan OKR 2) | Cerita praktisi, tanya jawab 10' |
-| 10 | 13.06 | 13.11 | 5' | **Briefing Simulasi Taktis**: aturan, pengumuman meja per biro asal, dan pembagian Kartu Rahasia | Ketua Pelaksana | Meja duduk per biro asal. **Tanpa penunjukan jabatan** |
-| 11 | 13.11 | 13.41 | 30' | **Simulasi Taktis** (simulasi berbasis konvensi struktur kabinet saat ini; P1 4', P2 17', P3 4', P4 5'; 3 inject pada menit 8, 13, 18) | Badan Personalia | `PAPAN_JARING` final; catatan pengamat |
-| 12 | 13.41 | 14.11 | 30' | **Presentasi singkat hasil simulasi** dan ulasan (pelajaran koordinasi dan kepemimpinan organik) | Panitia, BPH, dan Kabiro yang hadir | Prinsip koordinasi dan etika eskalasi dikaitkan dengan temuan simulasi |
-| 13 | 14.11 | 14.41 | 30' | **Salat Ashar** dan rehat, snack sore | Seluruh Panitia | Lihat catatan waktu ibadah (1.2) |
-| 14 | 14.41 | 15.41 | 60' | **M4 — Saujana Manarul Ilmi** (sesi penutup) | Kepala Departemen Syi'ar | Klimaks refleksi |
-| 15 | 15.41 | 15.51 | 10' | **Post-test** via QR | Sie Acara | Form Umpan Balik dikirim H+1 |
-| 16 | 15.51 | 16.01 | 10' | **Briefing Penugasan KPP** dan pembagian kit fisik (kertas A3 dan sticky notes) langsung kepada tiap biro; Papan Kuota Terbuka dibuka | Ketua Pelaksana | Tiap biro memegang kit dan memahami Ngopi Khidmah, Canvas A3, dan tenggat |
-| 17 | 16.01 | 16.06 | 5' | **Penutup dan foto bersama** (doa penutup) | MC | Acara selesai 16.06 |
+| 1 | 08.00 | 08.30 | 30' | **Registrasi Peserta** | Sie Acara | Daftar hadir digital terisi |
+| 2 | 08.30 | 08.35 | 5' | Pembukaan oleh MC | MC | Peserta memahami tujuan dan alur satu hari |
+| 3 | 08.35 | 08.38 | 3' | Sambutan Ketua Pelaksana | Bara Ardiwinata |  |
+| 4 | 08.38 | 08.41 | 3' | Sambutan Ketua Umum JMMI ITS | Muhammad Hazal Ma'aly Mahmud |  |
+| 5 | 08.41 | 09.11 | 30' | **Stadium Generale Pembina: "Semangat Bermasjid dan Ruh Khidmah"** | Prof. Dr. Ir. Eko Setijadi, S.T., M.T. | Membuka kegiatan dengan semangat berkhidmah di masjid kampus (lihat TOR 0) |
+| 6 | 09.11 | 09.21 | 10' | **Pre-Test (13 butir pilihan ganda, 6 butir sikap, 1 pertanyaan terbuka) via QR** | Operator | Data pre-test terkumpul |
+| 7 | 09.21 | 10.21 | 60' | **Materi 1: "Arsitektur Amanah"** | Ketum, Waket I, Waket II | Peta wewenang menurut konvensi struktur saat ini dipahami. Tanya jawab 15' |
+| 8 | 10.21 | 11.21 | 60' | **Materi 2: "Simpul Organisasi"** | Waket III & Staf Ahli Badan Personalia | Peserta membawa pulang handout "Prinsip dan Skrip Koordinasi" |
+| 9 | 11.21 | 12.06 | 45' | **Salat Dzuhur dan Ishoma** | Seluruh Panitia & Peserta | Jadwal salat resmi dikonfirmasi H-5 |
+| 10 | 12.06 | 13.06 | 60' | **Materi 3: "Seni Eksekusi"** | Best Kabiro OKR 1 & OKR 2 | Cerita praktisi, tanya jawab 10' |
+| 11 | 13.06 | 13.11 | 5' | Briefing Simulasi Taktis | Ketua Pelaksana | Meja duduk per biro asal. Tanpa penunjukan jabatan |
+| 12 | 13.11 | 13.41 | 30' | **Simulasi Taktis (Live Game): P1 4', P2 17', P3 4', P4 5'; inject pada menit 8, 12, 16** | Badan Personalia | `PAPAN_JARING` final; catatan pengamat |
+| 13 | 13.41 | 14.11 | 30' | Presentasi Singkat Hasil Simulasi dan ulasan | BPH & Kabiro | Ulasan prinsip koordinasi dan kepemimpinan organik |
+| 14 | 14.11 | 14.41 | 30' | **Salat Ashar** | Seluruh Panitia & Peserta | Lihat catatan waktu ibadah (1.2) |
+| 15 | 14.41 | 15.41 | 60' | **Materi 4: "Saujana Manarul Ilmi" (sesi penutup)** | Kepala Departemen Syi'ar | Klimaks refleksi |
+| 16 | 15.41 | 15.51 | 10' | **Post-Test via QR** | Sie Acara | Form Umpan Balik dikirim H+1 |
+| 17 | 15.51 | 16.01 | 10' | **Briefing Penugasan KPP dan pembagian kit fisik per biro** | Ketua Pelaksana | Tiap biro memegang kit; Papan Kuota Terbuka dibuka pukul 16.01 |
+| 18 | 16.01 | 16.06 | 5' | Penutup dan foto bersama (doa penutup) | MC | Acara selesai 16.06 |
 
 Seluruh waktu diselaraskan dengan format Lampiran 1 Template Proposal (kolom *Kegiatan, Durasi, Start, Finish*). SOP 6.1.2 mensyaratkan susunan acara juga memuat penanggung jawab kegiatan, yang tersedia pada kolom *Pemateri / PIC*.
 
 ### 1.2 Catatan Waktu Ibadah
 
-- Perkiraan waktu salat Surabaya pada 15 November 2026 (hasil hitung kasar, **bukan jadwal resmi**): **Dzuhur ±11.15–11.20**, **Ashar ±14.35–14.45**.
+- Perkiraan waktu salat Surabaya pada 14 November 2026 (hasil hitung kasar, **bukan jadwal resmi**): **Dzuhur ±11.15–11.20**, **Ashar ±14.35–14.45**.
 - Rundown menempatkan Dzuhur pada 11.21–12.06 (azan perkiraan 11.15–11.20, sehingga salat dimulai setelah azan). **Blok Ashar 14.11–14.41 tidak cukup:** azan perkiraan 14.35–14.45 berarti salat berjamaah baru dapat dimulai sekitar 14.45. Perlu keputusan Ketua Pelaksana: menggeser blok Ashar ke 14.30–15.00 dan memangkas presentasi hasil simulasi, atau mempertahankan blok dengan catatan. Bila jadwal resmi Takmir bergeser lebih dari 10 menit, Sie Acara menggeser blok rehat tanpa mengubah durasi sesi.
 - Azan dan iqamah dilaksanakan berjamaah di Masjid Manarul Ilmi. Peserta berpindah dari ruang acara ke masjid dalam waktu 10 menit.
 - Simulasi berakhir 13.41 dan presentasi hasil berakhir 14.11, sehingga Ashar ditunaikan tanpa memotong sesi.
@@ -116,6 +117,14 @@ P = bahasan utama, S = bahasan pendukung (maksimal 2 menit), — = tidak dibahas
 ---
 
 ## 3. Silabus Empat Modul Inti
+
+### 3.0 Stadium Generale Pembina: "Semangat Bermasjid dan Ruh Khidmah" (08.41–09.11)
+
+**Pemateri:** Prof. Dr. Ir. Eko Setijadi, S.T., M.T. (Dosen Pembina JMMI ITS)
+**Waktu:** 08.41–09.11 WIB (30 menit)
+**Inti pesan:** membuka kegiatan, membakar semangat berkhidmah di masjid kampus, makna memakmurkan Masjid Manarul Ilmi, dan pentingnya niat lurus dalam berorganisasi. Detail TOR ada di `main/tor_materi_0_open_speech_pembina.md`.
+
+---
 
 ### 3.1 Materi 1 — "Arsitektur Amanah"
 
@@ -384,17 +393,29 @@ Data kontemporer (jumlah jamaah, program terbaru, capaian kabinet) disiapkan pem
 |---|---|---|
 | 0–2 | **Pesan kunci:** KPP bukan beban tambahan, melainkan cara menyiapkan estafet bersama biro sendiri. Dua kegiatan: Ngopi Khidmah dan Canvas A3 | Ketupel atau Badan Personalia |
 | 2–4 | **Ngopi Khidmah:** seluruh Staf Muda satu biro hadir lengkap; sowan tatap muka dengan **2 Kepala Biro** (satu dari Kelompok A dan satu dari Kelompok B), **1 Staf Ahli Biro**, dan **1–2 fungsionaris badan**, yang **dicari dan dihubungi sendiri** oleh Staf Muda; tiap narasumber maksimal 2 ajakan dengan sistem **first-come, first-served** lewat Papan Kuota Terbuka (narasumber yang penuh wajib dicarikan alternatif); 4 topik (alasan lanjut ber-JMMI, suka-duka memimpin, kekuatan biro dan hal yang ingin dikembangkan bersama, tips menjaga komitmen); bukti berupa foto bersama yang diunggah ke Instagram biro dan dibagikan ke grup komunal anggota JMMI ITS | Badan Personalia |
-| 4–6 | **Canvas A3** (pendekatan *Appreciative Inquiry*): dua zona terbuka yang ditempel, yaitu **Cahaya Biro** (Warisan Baik yang Kita Jaga) dan **Asa dan Terobosan** (Estafet Kita Selanjutnya). Zona **Ruang Tumbuh** (Peluang yang Ingin Kita Jelajahi) ditulis di sticky note, lalu **digulung dan dimasukkan ke amplop tertutup** khusus Badan Personalia (tidak ditempel). Setiap Staf Muda wajib menulis minimal 1 sticky note di tiap zona, **berinisial nama lengkap** (contoh "BA" untuk Bara Ardiwinata) | Badan Personalia |
+| 4–6 | **Canvas A3** (pendekatan *Appreciative Inquiry*): dua zona terbuka yang ditempel, yaitu **Cahaya Biro** (Warisan Baik yang Kita Jaga) dan **Asa dan Terobosan** (Estafet Kita Selanjutnya). Zona **Ruang Tumbuh** (Peluang yang Ingin Kita Jelajahi) ditulis di sticky note, lalu **digulung ke dalam sedotan dan dimasukkan ke botol kaca departemen** khusus Badan Personalia (tidak ditempel). Setiap Staf Muda wajib menulis minimal 1 sticky note di tiap zona, **berinisial nama lengkap** (contoh "BA" untuk Bara Ardiwinata) | Badan Personalia |
 | 6–8 | **Pembagian kit** kepada tiap biro beserta selebaran aturan dan panduan narasumber; hitung cepat kelengkapan; **Papan Kuota Terbuka dibuka pukul 16.01** (tautan atau QR) | Sie Acara |
 | 8–10 | **Tenggat:** KPP dikumpulkan paling lambat H-1 Forum AHWA JMMI ITS 2026 (estimasi Jumat 20 atau Sabtu 21 November); jadwal Ngopi dikonfirmasi paling lambat Senin 16 November pukul 21.00; saluran bantuan Badan Personalia | Badan Personalia |
 
-**Isi kit per biro:** 1 kertas A3 dua zona (tanpa cadangan, sesuai RAB), sticky notes 3 warna (sesuai RAB, 400 lembar untuk seluruh peserta), amplop tertutup untuk sticky Ruang Tumbuh, spidol tebal, selotip kertas, map plastik A3, selebaran aturan 1 halaman, dan panduan narasumber (dengan contoh pesan undangan). Jumlah total dan rincian logistik ada di dokumen 05; aturan lengkap di dokumen 04, bagian 2 dan 3.
+**Isi kit per biro:** 1 kertas A3 dua zona (tanpa cadangan, sesuai RAB), sticky notes 3 warna (sesuai RAB, 400 lembar untuk seluruh peserta), botol kaca per departemen untuk aspirasi Ruang Tumbuh, spidol tebal, selotip kertas, map plastik A3, selebaran aturan 1 halaman, dan panduan narasumber (dengan contoh pesan undangan). Jumlah total dan rincian logistik ada di dokumen 05; aturan lengkap di dokumen 04, bagian 2 dan 3.
 
 **Catatan etika briefing:** tegaskan bahwa foto Ngopi Khidmah bukan pernyataan seseorang pasti mencalonkan diri, dan bahwa kesiapan peran dicatat secara privat melalui Form Minat Peran.
 
 ---
 
 ## 4. Speaker's Brief
+
+### 4.0 Brief Stadium Generale Pembina
+
+| Unsur | Isi |
+|---|---|
+| **Fokus** | Membuka kegiatan dengan semangat bermasjid dan niat berkhidmah |
+| **Wajib dibahas** | Makna memakmurkan Masjid Manarul Ilmi; niat lurus dalam berorganisasi; ajakan untuk mengikuti rangkaian BBM 2 dengan hati terbuka |
+| **Dilarang** | Membahas struktur, SOP, atau tata kelola (itu Materi 1 dan 2); menyebut data yang belum terverifikasi; menekan peserta untuk menyatakan komitmen |
+| **Gaya** | Hangat, tenang, dan singkat. Tanpa tanya jawab |
+| **Batas slide** | Maksimal 5 slide, atau tanpa slide |
+| **Koordinasi** | Hadir sebelum 08.30 untuk uji mikrofon dan proyektor |
+| **Pengumpulan bahan** | Outline atau slide ke Sie Acara paling lambat 10 November |
 
 ### 4.1 Brief M1 — Hazal, Waket I, Waket II
 

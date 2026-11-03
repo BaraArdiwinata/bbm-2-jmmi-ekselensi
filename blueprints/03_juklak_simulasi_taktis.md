@@ -1,7 +1,7 @@
 # 03 — Petunjuk Pelaksanaan Simulasi Taktis
 
 **Nama sesi:** Simulasi Taktis (Live Cross-Bureau Coordination Game)
-**Waktu:** Minggu, 15 November 2026. Briefing 13.06–13.11, **simulasi 13.11–13.41 (30 menit)**, presentasi dan ulasan hasil 13.41–14.11
+**Waktu:** Sabtu, 14 November 2026. Briefing 13.06–13.11, **simulasi 13.11–13.41 (30 menit)**, presentasi dan ulasan hasil 13.41–14.11
 **Peserta:** Staf Muda angkatan 2025, ±50–70 orang, duduk per meja menurut **biro asalnya**
 **Fasilitator:** Badan Personalia (Bidang 2)
 **Medium:** Google Sheets (`main/template_simulasi_taktis.xlsx`) dan Kartu Rahasia (`main/kartu_skenario_simulasi.md`)

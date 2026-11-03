@@ -13,7 +13,7 @@ Knowledge base konsep dan rancangan program untuk keperluan *review* oleh BPI da
 |---|---|
 | **Program** | Be A Better Muslim II (BBM 2), rangkaian upgrading anggota JMMI ITS |
 | **Tema** | "Membentang saujana asa, menyatukan langkah dan karya" |
-| **Pelaksanaan** | **Minggu, 15 November 2026**, 08.30–16.06 WIB, Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS |
+| **Pelaksanaan** | **Sabtu, 14 November 2026**, 08.00–16.06 WIB, Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS |
 | **Peserta** | Staf Muda angkatan 2025, sekitar **50–70 orang** |
 | **Ketua Pelaksana** | Bara Ardiwinata |
 | **Format** | 1 hari tatap muka: 4 materi inti, 1 Simulasi Taktis (**30 menit**), pre-test dan post-test, dan Kegiatan Pasca Pelatihan (KPP) |
@@ -47,7 +47,7 @@ Delapan biro (Biro Manajemen Event, Biro Pengabdian Masyarakat, Biro Kajian & In
 ### KPP (Kegiatan Pasca Pelatihan)
 
 - **Ngopi Khidmah** (komunal per biro): seluruh Staf Muda satu biro hadir lengkap, tatap muka, bersowan dengan **2 Kepala Biro** (satu dari Kelompok A dan satu dari Kelompok B), **1 Staf Ahli Biro**, dan **1–2 fungsionaris badan**, yang **dicari dan dihubungi sendiri** oleh Staf Muda (melatih inisiatif dan keberanian). Tiap narasumber menerima maksimal 2 ajakan dengan sistem *first-come, first-served*; bila penuh, rombongan mencari alternatif. Topik: alasan lanjut ber-JMMI, suka-duka memimpin, kekuatan biro dan hal yang ingin dikembangkan bersama, dan tips menjaga komitmen. Bukti: foto bersama yang diunggah ke Instagram biro dan dibagikan ke grup komunal anggota JMMI ITS.
-- **1-Page Canvas Biro Masa Depan** (fisik): satu kertas A3 per biro dengan dua zona terbuka berpendekatan *Appreciative Inquiry* (berbasis kekuatan): **Cahaya Biro** (Warisan Baik yang Kita Jaga) dan **Asa dan Terobosan** (Estafet Kita Selanjutnya). Zona **Ruang Tumbuh** (Peluang yang Ingin Kita Jelajahi) ditulis di sticky note lalu disimpan dalam amplop tertutup untuk Badan Personalia. Setiap Staf Muda menulis minimal satu sticky note berinisial di tiap zona. Kit dibagikan panitia pada briefing KPP di akhir hari-H.
+- **1-Page Canvas Biro Masa Depan** (fisik): satu kertas A3 per biro dengan dua zona terbuka berpendekatan *Appreciative Inquiry* (berbasis kekuatan): **Cahaya Biro** (Warisan Baik yang Kita Jaga) dan **Asa dan Terobosan** (Estafet Kita Selanjutnya). Zona **Ruang Tumbuh** (Peluang yang Ingin Kita Jelajahi) diisi sebagai aspirasi tertutup, digulung ke dalam sedotan, dan dimasukkan ke **botol kaca per departemen** (empat botol) untuk Badan Personalia. Setiap Staf Muda menulis minimal satu sticky note berinisial di tiap zona terbuka dan mengisi satu lembar aspirasi.
 - Form Minat Peran (individu, privat) tetap menjadi instrumen pendamping.
 - Jendela pelaksanaan **16 November sampai H-1 Forum AHWA JMMI ITS 2026** (estimasi tenggat 20 atau 21 November, ±5–6 hari efektif).
 
@@ -70,7 +70,7 @@ Delapan biro (Biro Manajemen Event, Biro Pengabdian Masyarakat, Biro Kajian & In
 | No | Dokumen | Isi |
 |---|---|---|
 | 01 | [Grand Design dan Urgensi](blueprints/01_grand_design_dan_urgensi.md) | Latar belakang restrukturisasi, problem statement, 8 ambiguitas Tata Kelola, risiko resistensi kader, landasan filosofis dan regulasi, profil peserta, TUK kuantitatif dan kualitatif, register keputusan |
-| 02 | [Silabus Materi dan Rundown](blueprints/02_silabus_materi_dan_rundown.md) | Rundown 08.30–16.06 dengan PIC dan waktu ibadah, silabus 4 modul, tabel wewenang, handout "Prinsip dan Skrip Koordinasi" dan Lembar Konvensi Sementara, *speaker's brief* |
+| 02 | [Silabus Materi dan Rundown](blueprints/02_silabus_materi_dan_rundown.md) | Rundown 08.00–16.06 dengan PIC dan waktu ibadah, silabus 4 modul, tabel wewenang, handout "Prinsip dan Skrip Koordinasi" dan Lembar Konvensi Sementara, *speaker's brief* |
 | 03 | [Juklak Simulasi Taktis](blueprints/03_juklak_simulasi_taktis.md) | Konsep game, aturan arah dan *directed graph* 16 relasi, katalog 8 kasus biro, 3 inject, struktur Google Sheets, rubrik, panduan fasilitator dan kunci titik temu |
 | 04 | [Skema KPP dan Instrumen Evaluasi](blueprints/04_skema_kpp_dan_instrumen_evaluasi.md) | Pre-test dan post-test (13 butir berbasis prinsip dan skenario, beserta kunci), butir sikap, N-Gain, Ngopi Khidmah, Form Minat Peran, 1-Page Canvas, timeline dan monitoring, database kader |
 | 05 | [Timeline Eksekusi dan Birokrasi](blueprints/05_timeline_eksekusi_dan_birokrasi.md) | Kalender tenggat, milestone 8 Oktober–6 Desember, kepatuhan SOP proposal/surat/SPJ/LPJ, checklist logistik, RACI, register risiko |

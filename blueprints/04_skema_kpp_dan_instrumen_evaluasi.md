@@ -2,10 +2,10 @@
 
 **Program:** BBM 2 JMMI ITS Kabinet Ekselensi 2026
 **Pengelola:** Badan Personalia (Sie Registrasi dan Data, Sie Simulasi, dan tim Evaluasi)
-**Versi:** 2.3, 1 November 2026 (hasil rapat Ketua Pelaksana dan Badan Personalia): Ngopi Khidmah dengan komposisi baru (2 Kepala Biro dari Kelompok A dan B, 1 Staf Ahli Biro, 1–2 fungsionaris badan); Canvas dua zona terbuka dan satu zona tertutup (Ruang Tumbuh); jam pelaksanaan mengikuti rundown 08.30–16.06. Versi 2.2 menyelaraskan topik Ngopi dan butir tes Materi 2. Versi 2.1 memakai tenggat H-1 Forum AHWA JMMI ITS 2026.
+**Versi:** 2.4, 3 November 2026 (hasil asistensi Ketua Pelaksana dan BPI): tanggal acara Sabtu, 14 November 2026; rundown 08.00–16.06 dengan Stadium Generale Pembina; zona Ruang Tumbuh berbentuk aspirasi tertutup dalam botol kaca per departemen (4 botol). Versi 2.3 memuat Ngopi Khidmah dengan komposisi baru, Canvas dua zona terbuka, dan jam pelaksanaan 08.30–16.06.
 **Status KPP:** **Final.** Desain disetujui penuh Ketua Pelaksana dengan format yang lebih aplikatif, taktil, dan berdampak syi'ar internal. Nama zona Canvas dan topik ketiga Ngopi Khidmah ditetapkan Ketua Pelaksana pasca-audiensi.
 
-> **Isi dokumen.** Bagian 1 memuat instrumen evaluasi hari-H (pre-test, post-test, form umpan balik). Bagian 2 memuat KPP Output 1 **Ngopi Khidmah** (rombongan biro, komposisi narasumber baru, bukti publikasi) dan Form Minat Peran. Bagian 3 memuat KPP Output 2 **1-Page Canvas Biro Masa Depan** (kertas A3 dua zona terbuka, sticky notes, dan amplop tertutup untuk Ruang Tumbuh). Bagian 4 memuat timeline dan monitoring. Bagian 5 memuat tindak lanjut database kader. Bagian 6 memuat rangkuman TUK. Bagian 7 memuat risiko dan bagian 8 asumsi yang perlu dikonfirmasi.
+> **Isi dokumen.** Bagian 1 memuat instrumen evaluasi hari-H (pre-test, post-test, form umpan balik). Bagian 2 memuat KPP Output 1 **Ngopi Khidmah** (rombongan biro, komposisi narasumber baru, bukti publikasi) dan Form Minat Peran. Bagian 3 memuat KPP Output 2 **1-Page Canvas Biro Masa Depan** (kertas A3 dua zona terbuka, sticky notes, dan botol kaca per departemen untuk aspirasi Ruang Tumbuh). Bagian 4 memuat timeline dan monitoring. Bagian 5 memuat tindak lanjut database kader. Bagian 6 memuat rangkuman TUK. Bagian 7 memuat risiko dan bagian 8 asumsi yang perlu dikonfirmasi.
 
 ---
 
@@ -446,93 +446,110 @@ Kategori dipakai untuk **perencanaan dan pembinaan**, bukan untuk menekan atau m
 3. Menghimpun **asa dan gagasan terobosan** untuk estafet kepengurusan berikutnya, termasuk penyederhanaan proker dan proyeksi peran.
 4. Menjadikan tiap anggota **pemilik gagasan** (inisial pada tiap sticky note), bukan sekadar pengisi formulir.
 
-**Pendekatan: *Appreciative Inquiry* (berbasis kekuatan).** Canvas mengikuti siklus 4D *Appreciative Inquiry*. Keputusan Ketua Pelaksana pada 1 November 2026 mengubah tampilan fisik: kertas A3 hanya memuat **dua zona terbuka**, sedangkan zona ketiga, Ruang Tumbuh, ditulis di sticky note lalu **disimpan tertutup** untuk Badan Personalia. Nama ketiga zona tetap sama.
+**Pendekatan: *Appreciative Inquiry* (berbasis kekuatan).** Canvas mengikuti siklus 4D *Appreciative Inquiry*. Keputusan Ketua Pelaksana pada 3 November 2026 mengubah bentuk zona ketiga: kertas A3 hanya memuat **dua zona terbuka**. Zona ketiga, Ruang Tumbuh, tidak lagi ditulis di sticky note, melainkan dalam **aspirasi tertutup** yang dimasukkan ke **botol kaca per departemen**. Nama ketiga zona tetap sama.
 
 | Tahap 4D | Zona | Tampilan | Fokus |
 |---|---|---|---|
 | **Discovery** (menemukan yang terbaik) | 1. Cahaya Biro | Terbuka, ditempel di A3 | Apresiasi kekuatan dan praktik baik yang sudah hidup |
-| **Discovery menuju Design** (menemukan peluang) | 3. Ruang Tumbuh | Tertutup, disimpan di amplop | Hal yang bisa tumbuh, dibingkai sebagai peluang dan langkah kecil |
+| **Discovery menuju Design** (menemukan peluang) | 3. Ruang Tumbuh | Tertutup, di botol kaca departemen | Hal yang bisa tumbuh dan minat eksplorasi, dibaca Badan Personalia saja |
 | **Dream dan Design** (membayangkan dan merancang) | 2. Asa dan Terobosan | Terbuka, ditempel di A3 | Gambaran biro terbaik setahun lagi dan terobosan untuk mencapainya |
 
 Tahap *Destiny* (menjalankan) berlangsung setelah KPP, lewat ringkasan tema untuk Badan Keorganisasian, Kadep, dan perencanaan Badan Personalia (3.7).
 
-> **Pertimbangan (trade-off).** Dengan Ruang Tumbuh tertutup, aspirasi personal lebih terlindungi, tetapi rombongan tidak dapat saling melihat zona itu di A3. Ringkasan tema tetap diproduksi oleh Badan Personalia dari amplop tanpa inisial. Hambatan personal tetap ditampung **Form Minat Peran** (privat, bagian 2.7), dan kendala sistemik yang tajam dikumpulkan lewat jalur evaluasi OKR atau forum evaluasi Badan Keorganisasian.
+> **Pertimbangan (trade-off).** Dengan Ruang Tumbuh tertutup, aspirasi personal lebih terlindungi, tetapi rombongan tidak dapat saling melihat isinya. Ringkasan tema tetap diproduksi oleh Badan Personalia dari botol tanpa nama. Hambatan personal tetap ditampung **Form Minat Peran** (privat, bagian 2.7).
 
 ### 3.2 Media dan Kit Fisik
 
-Canvas berupa **satu lembar kertas A3 per biro** dengan **dua zona terbuka**, ditambah **sticky notes aneka warna** untuk ketiga zona. Panitia membagikan **kit fisik** kepada tiap biro pada sesi **briefing penugasan KPP** (15.51–16.01).
+Canvas berupa **satu lembar kertas A3 per biro** dengan **dua zona terbuka** untuk sticky notes, ditambah **aspirasi tertutup** untuk Ruang Tumbuh. Panitia membagikan **kit fisik** kepada tiap biro pada sesi **briefing penugasan KPP** (15.51–16.01). Botol kaca dibagikan **per departemen**, karena satu botol dipakai bersama dua biro di bawahnya.
 
-| Isi kit per biro | Jumlah | Keterangan |
+| Isi kit | Jumlah | Keterangan |
 |---|---|---|
-| Kertas A3 dua zona terbuka | 1 | Dicetak garis dua kolom dan judul. Total 8 lembar sesuai RAB, tanpa cadangan |
-| Sticky notes **3 warna** | Total 400 lembar untuk seluruh peserta (4 pad @100 lembar, sesuai RAB), dibagi per biro menurut jumlah anggota | Kuning = Cahaya Biro dan biru = Asa dan Terobosan (ditempel). Hijau = Ruang Tumbuh (digulung ke amplop) |
-| Amplop tertutup | 1 | Untuk sticky Ruang Tumbuh yang digulung. **Belum masuk RAB**, lihat catatan di bawah |
+| Kertas A3 dua zona terbuka | 1 per biro (8 lembar) | Dicetak garis dua kolom dan judul. Tanpa cadangan, sesuai RAB |
+| Sticky notes (2 zona terbuka) | 400 lembar untuk seluruh peserta (4 pad @100 lembar, sesuai RAB) | Kuning = Cahaya Biro, biru = Asa dan Terobosan (ditempel). Dibagi per biro menurut jumlah anggota |
+| Botol kaca | 4 buah (1 per departemen, sesuai RAB) | Satu botol untuk dua biro di bawah satu departemen. Lihat pemetaan di bawah |
+| Lembar aspirasi (kertas kecil) | 1 per anggota, ditambah cadangan | Template di 3.3. **Belum masuk RAB** |
+| Sedotan | 1 per anggota, ditambah cadangan | Tempat lembar aspirasi digulung. **Belum masuk RAB** |
 | Spidol tebal hitam | 1 per 2 anggota | Agar tulisan terbaca di A3 |
 | Selotip kertas | 1 | Memperkuat sticky yang mudah lepas |
 | Map plastik A3 | 1 | Menjaga kertas tidak kusut saat dibawa |
-| Selebaran aturan pengisian (1 halaman) | 1 | Berisi dua zona terbuka, zona Ruang Tumbuh yang tertutup beserta pertanyaan pemandunya, aturan inisial, dan tenggat |
+| Selebaran aturan pengisian (1 halaman) | 1 | Berisi dua zona terbuka, aturan aspirasi, dan tenggat |
 
-**Perkiraan total sesuai RAB (BAB III proposal):** 8 kertas A3, **400 lembar** sticky notes (4 pad @100 lembar, sekitar 133 per warna), 40 spidol (+8 cadangan), 8 selotip kertas, 8 map plastik, dan 8 selebaran. **Amplop tertutup (8 buah) belum dianggarkan di RAB**; perlu diambil dari stok sekretariat atau ditambahkan ke RAB.
+**Pemetaan botol per departemen** (mengikuti pembagian dua biro per departemen di dokumen 03):
 
-> **Catatan kecukupan sticky.** Jatah 400 lembar menutup aturan minimum 3.4 (satu lembar per zona per anggota, sekitar 210 lembar untuk 70 peserta). Jatah "3 lembar per warna per anggota" (sekitar 630 lembar) **tidak** tercukupi; kekurangannya sekitar 230 lembar. Bila jatah itu tetap dipakai, diperlukan tambahan pad, yaitu keputusan Ketua Pelaksana.
+| Botol | Departemen | Biro yang berbagi botol |
+|---|---|---|
+| Botol 1 | Syi'ar | Manajemen Event dan Pengabdian Masyarakat |
+| Botol 2 | Pelayanan Masjid dan Dakwah | Kajian & Inovasi Dakwah dan Amaliyah Yaumiyah |
+| Botol 3 | Media, Informasi & Digitalisasi (Medigi) | Digital Production dan Media Analysis & Strategi |
+| Botol 4 | Relasi Publik & Advokasi (RnA) | Relasi & Hubungan Eksternal dan Usaha Mandiri |
 
-### 3.3 Dua Zona Terbuka dan Satu Zona Tertutup
+**Perkiraan total sesuai RAB (BAB III proposal):** 8 kertas A3, **400 lembar** sticky notes (4 pad @100 lembar), 4 botol kaca, 40 spidol (+8 cadangan), 8 selotip kertas, 8 map plastik, dan 8 selebaran. **Lembar aspirasi dan sedotan belum masuk RAB**; perlu dianggarkan ulang atau diambil dari stok sekretariat.
 
-Kertas A3 diletakkan landscape dan dibagi menjadi **dua kolom tegak** dengan lebar sama. Kolom kiri untuk **Cahaya Biro**, kolom kanan untuk **Asa dan Terobosan**. Pada bagian atas ditulis nama biro dan daftar narasumber Ngopi Khidmah (usulan, agar Canvas terhubung dengan obrolan). Zona **Ruang Tumbuh** tidak tercetak pada A3.
+> **Catatan kecukupan sticky.** Aturan minimum 3.4 kini hanya dua zona terbuka, yaitu dua sticky per anggota (sekitar 140 lembar untuk 70 peserta). Jatah 400 lembar cukup untuk aturan minimum beserta cadangan. Jatah lama "3 lembar per warna per anggota" tidak lagi berlaku karena zona ketiga tidak memakai sticky.
 
-| Zona | Tampilan | Isi | Pertanyaan pemandu | Warna sticky (usulan) |
+### 3.3 Dua Zona Terbuka dan Aspirasi Tertutup
+
+Kertas A3 diletakkan landscape dan dibagi menjadi **dua kolom tegak** dengan lebar sama. Kolom kiri untuk **Cahaya Biro**, kolom kanan untuk **Asa dan Terobosan**. Pada bagian atas ditulis nama biro dan daftar narasumber Ngopi Khidmah. Zona **Ruang Tumbuh** tidak tercetak pada A3.
+
+| Zona | Tampilan | Isi | Pertanyaan pemandu | Warna sticky |
 |---|---|---|---|---|
 | **1. Cahaya Biro** *(Warisan Baik yang Kita Jaga)* | Terbuka, ditempel | Praktik baik, kebiasaan, momen terbaik, dan sosok atau hal yang membuat Staf Muda bertahan | Kapan biro kita paling hidup dan membanggakan? Praktik atau kebiasaan apa yang layak diwariskan? Siapa atau apa yang membuatmu bertahan? | Kuning |
 | **2. Asa dan Terobosan** *(Estafet Kita Selanjutnya)* | Terbuka, ditempel | Gambaran biro terbaik setahun lagi, ide terobosan, penyederhanaan proker, dan proyeksi peran untuk kepengurusan selanjutnya | Bayangkan biro ini setahun lagi dalam keadaan terbaiknya: apa yang terjadi? Terobosan, penyederhanaan proker, dan peran apa yang kamu bayangkan? | Biru |
-| **3. Ruang Tumbuh** *(Peluang yang Ingin Kita Jelajahi)* | **Tertutup**, digulung ke amplop | Hal yang dapat dikuatkan atau dipelajari, dibingkai sebagai peluang bagi diri dan tim | Jika satu hal kecil dikuatkan, apa dampak terbesarnya? Ilmu, dukungan, atau kebiasaan apa yang ingin kamu tumbuhkan untuk dirimu dan tim? | Hijau |
+| **3. Ruang Tumbuh** *(Peluang yang Ingin Kita Jelajahi)* | **Tertutup**, lembar aspirasi di botol | Aspirasi tertutup (template di bawah) | Lihat template aspirasi | Tidak memakai sticky |
 
-Judul zona pada kertas A3 dicetak dengan nama utama dan anak judul dalam kurung, misalnya "Cahaya Biro (Warisan Baik yang Kita Jaga)". Pertanyaan pemandu Ruang Tumbuh dicetak pada selebaran, bukan pada A3.
+**Template lembar aspirasi (Ruang Tumbuh).** Setiap Staf Muda mengisi dua bagian:
+1. **Tingkat kepuasan:** skala kepuasan di biro saat ini (1–5), beserta alasan atau cerita singkat.
+2. **Minat eksplorasi:** jika diberi kesempatan berkembang ke depan, ingin menjelajah ke mana? Pilihan: biro lain, program kerja, kepanitiaan, atau peran dan posisi fungsionaris yang diminati.
+
+Lembar yang sudah diisi **digulung**, dimasukkan ke dalam **sedotan**, lalu dimasukkan ke **botol kaca departemennya**. Pertanyaan pemandu Ruang Tumbuh dicetak pada selebaran, bukan pada A3.
 
 **Contoh sticky note (ilustratif):**
 - *Cahaya Biro:* "Evaluasi mingguan yang hangat membuat kami saling mendukung. Kebiasaan ini layak diwariskan. — AS"
 - *Asa dan Terobosan:* "Setahun lagi, alur serah-terima proker biro kita rapi sehingga Staf Muda baru cepat paham. — RF"
-- *Ruang Tumbuh (di dalam amplop):* "Kita bisa lebih terencana jika ada kalender permintaan lintas biro bulanan. Langkah kecil: buat templatenya bersama. — NK"
+- *Ruang Tumbuh (di dalam botol, contoh isi lembar):* "Kepuasan 3 — beban rapat lintas biro sering mendadak. Minat eksplorasi: kepanitiaan Pengabdian Masyarakat. — NK"
 
 ### 3.4 Aturan Pengisian
 
-1. **Setiap Staf Muda WAJIB menulis minimal 1 sticky note di masing-masing dari tiga zona** (minimum 3 sticky per orang), termasuk Ruang Tumbuh. Boleh lebih.
-2. **Setiap sticky note wajib dibubuhi inisial nama lengkap penulisnya** (huruf awal tiap kata nama; contoh "BA" untuk Bara Ardiwinata). Inisial dibingkai sebagai **tanda kepemilikan gagasan dan apresiasi**, bukan alat pengawasan.
-3. Bila dua anggota memiliki inisial yang sama, tambahkan angka atau huruf ketiga (misal "BA1" dan "BA2"). Biro menuliskan **legenda inisial** (inisial dan nama lengkap) kecil di pojok bawah kertas A3 dan di bagian luar amplop.
-4. Satu gagasan per sticky note, tulisan jelas dengan spidol tebal, maksimal sekitar 25 kata.
-5. **Bahasa positif dan konstruktif.** Di zona Ruang Tumbuh, tulis dengan pola "Kita bisa lebih … jika …" atau "Aku ingin belajar …", **disertai satu langkah kecil**. Peluang diarahkan pada proses dan sistem, tidak menyebut nama atau jabatan seseorang dalam konteks negatif.
+1. **Setiap Staf Muda WAJIB menulis minimal 1 sticky note di masing-masing dari dua zona terbuka** (minimum 2 sticky per orang), dan **WAJIB mengisi 1 lembar aspirasi** untuk Ruang Tumbuh. Boleh lebih untuk sticky.
+2. **Setiap sticky note dan lembar aspirasi wajib dibubuhi inisial nama lengkap penulisnya** (huruf awal tiap kata nama; contoh "BA" untuk Bara Ardiwinata). Inisial dibingkai sebagai **tanda kepemilikan gagasan dan apresiasi**, bukan alat pengawasan. Pada lembar aspirasi, inisial hanya dibaca Badan Personalia untuk memastikan satu aspirasi per orang.
+3. Bila dua anggota memiliki inisial yang sama, tambahkan angka atau huruf ketiga (misal "BA1" dan "BA2"). Biro menuliskan **legenda inisial** (inisial dan nama lengkap) kecil di pojok bawah kertas A3.
+4. Satu gagasan per sticky note, tulisan jelas dengan spidol tebal, maksimal sekitar 25 kata. Lembar aspirasi maksimal satu halaman kecil.
+5. **Bahasa positif dan konstruktif.** Di Ruang Tumbuh, tulis alasan atau minat dengan jujur, tanpa menyebut nama atau jabatan seseorang dalam konteks negatif.
 6. Tidak ada zona yang dikosongkan. Tidak boleh menulis atas nama orang lain.
 7. **Opsional:** sticky apresiasi untuk rekan sebiro pada zona Cahaya Biro (menyebut kontribusi nyata, bukan perbandingan antarorang). Ini tambahan dan **tidak menggantikan** minimum 1 sticky per zona.
-8. **Penempatan dan pengerjaan:** dalam satu sesi biro 60–90 menit **setelah** Ngopi Khidmah. Sticky Cahaya Biro dan Asa dan Terobosan ditempel di A3 setelah dibaca bersama. Sticky Ruang Tumbuh **tidak dibacakan** di depan rombongan; cukup digulung dan dimasukkan ke amplop.
-9. **Sticky Ruang Tumbuh tidak dipajang dan tidak difoto.** Amplop hanya dibuka oleh Badan Personalia.
-10. Penulis yang menilai catatannya sensitif, di zona mana pun, boleh meminta Badan Personalia membatasi aksesnya.
+8. **Penempatan dan pengerjaan:** dalam satu sesi biro 60–90 menit **setelah** Ngopi Khidmah. Sticky Cahaya Biro dan Asa dan Terobosan ditempel di A3 setelah dibaca bersama. Lembar aspirasi diisi sendiri-sendiri, digulung, lalu dimasukkan ke botol departemen **tanpa dibacakan** di depan rombongan.
+9. **Aspirasi Ruang Tumbuh tidak dipajang, tidak difoto, dan tidak dibaca ulang.** Botol hanya dibuka oleh Badan Personalia.
+10. Penulis yang menilai catatannya sensitif boleh meminta Badan Personalia membatasi aksesnya.
 
 ### 3.5 Pengumpulan
 
-- **Kertas A3 fisik** dan **amplop tertutup** diserahkan kepada Badan Personalia (titik kumpul di sekretariat) paling lambat tenggat KPP pukul 17.00. Amplop disegel dan diberi nama biro serta tanda tangan koordinator.
-- **Foto resolusi tinggi** A3 (lurus dari depan, tulisan terbaca, tanpa amplop) diunggah ke folder bersama paling lambat pukul 23.59 pada hari yang sama. Nama berkas `Canvas_Biro_[Nama Biro]_BBM2.jpg`, mengikuti pola penamaan arsip SOP 6.2.
+- **Kertas A3 fisik** diserahkan kepada Badan Personalia (titik kumpul di sekretariat) paling lambat tenggat KPP pukul 17.00.
+- **Botol kaca** yang sudah berisi aspirasi disegel dan diberi nama departemen serta tanda tangan koordinator biro di botol tersebut, lalu diserahkan kepada Badan Personalia pada tenggat yang sama.
+- **Foto resolusi tinggi** A3 (lurus dari depan, tulisan terbaca) diunggah ke folder bersama paling lambat pukul 23.59 pada hari yang sama. Nama berkas `Canvas_Biro_[Nama Biro]_BBM2.jpg`, mengikuti pola penamaan arsip SOP 6.2. Botol tidak difoto.
 - Sticky yang lepas dilekatkan kembali dengan selotip kertas sebelum diserahkan.
-- Fisik A3 dan amplop disimpan Badan Personalia sampai tabulasi selesai, lalu diarsipkan di sekretariat.
+- Fisik A3 dan botol disimpan Badan Personalia sampai tabulasi selesai, lalu diarsipkan di sekretariat.
 
 ### 3.6 Rubrik Canvas (100 poin)
 
 | Kriteria | Bobot | Skor tinggi | Skor sedang | Skor rendah |
 |---|---|---|---|---|
-| **1. Kelengkapan partisipasi** | 30 | **100%** anggota menulis ≥ 1 sticky di **ketiga** zona (termasuk amplop), dan semua berinisial jelas | Sebagian kecil anggota belum lengkap atau inisial tidak jelas | Banyak anggota tidak berpartisipasi |
+| **1. Kelengkapan partisipasi** | 30 | **100%** anggota menulis ≥ 1 sticky di dua zona terbuka dan mengisi lembar aspirasi; semua berinisial jelas | Sebagian kecil anggota belum lengkap atau inisial tidak jelas | Banyak anggota tidak berpartisipasi |
 | **2. Kekonkretan praktik baik** (Cahaya Biro) | 20 | Praktik baik spesifik, berasal dari pengalaman nyata, dan jelas mengapa layak diwariskan | Praktik jelas tetapi umum | Pujian normatif atau seragam seperti disalin |
-| **3. Kualitas peluang tumbuh** (Ruang Tumbuh) | 25 | Peluang spesifik, konstruktif, tidak menyalahkan, dan disertai langkah kecil | Peluang jelas tetapi belum ada langkah | Keluhan atau kalimat menyalahkan tanpa arah |
-| **4. Kekonkretan asa dan terobosan** (Asa dan Terobosan) | 25 | Gagasan konkret, layak, ada penyederhanaan proker dan proyeksi peran | Sebagian gagasan umum | Harapan tanpa langkah |
+| **3. Kekonkretan asa dan terobosan** (Asa dan Terobosan) | 25 | Gagasan konkret, layak, ada penyederhanaan proker dan proyeksi peran | Sebagian gagasan umum | Harapan tanpa langkah |
+| **4. Kualitas aspirasi Ruang Tumbuh** (botol) | 25 | Aspirasi jujur dan spesifik; minat eksplorasi jelas; alasan konstruktif | Jelas tetapi umum | Isian dangkal atau seragam |
 
-**Predikat:** ≥ 85 Sangat baik · 70–84 Baik · 55–69 Cukup · < 55 Perlu revisi. Skor menilai **kelompok**, bukan individu, dan dipakai untuk umpan balik. Kriteria 3 dinilai Badan Personalia dari amplop dan hanya ditampilkan sebagai agregat. Penyerahan lengkap tepat waktu sudah memenuhi TUK K13.
+**Predikat:** ≥ 85 Sangat baik · 70–84 Baik · 55–69 Cukup · < 55 Perlu revisi. Skor menilai **kelompok**, bukan individu, dan dipakai untuk umpan balik. Kriteria 4 dinilai Badan Personalia dari botol dan hanya ditampilkan sebagai agregat. Penyerahan lengkap tepat waktu sudah memenuhi TUK K13.
 
 ### 3.7 Pemanfaatan dan Privasi
 
-1. Badan Personalia **mengodekan tema** sticky pada tiap zona (misalnya koordinasi, beban waktu, bonding, kepemimpinan, penyederhanaan proker) dan membuat ringkasan agregat.
+1. Badan Personalia **mengodekan tema** sticky pada dua zona terbuka dan aspirasi di botol, lalu membuat ringkasan agregat.
 2. Ringkasan **tanpa inisial** diteruskan kepada Badan Keorganisasian dan Kadep, **dibingkai sebagai kekuatan yang dijaga dan peluang yang ingin dikembangkan** (bukan daftar kekurangan), termasuk peluang berulang lintas biro dan masukan penyempurnaan tata kelola.
-3. **Amplop Ruang Tumbuh** tidak pernah dipajang, difoto, atau dibacakan. Aksesnya terbatas pada Badan Personalia, Waket II, dan Ketua Umum. Inisial berfungsi sebagai kepemilikan dan apresiasi gagasan, **bukan** untuk menghukum atau menilai pribadi.
+3. **Botol aspirasi Ruang Tumbuh** tidak pernah dipajang, difoto, atau dibacakan. Aksesnya terbatas pada Badan Personalia, Waket II, dan Ketua Umum. Inisial berfungsi sebagai kepemilikan dan apresiasi gagasan, **bukan** untuk menghukum atau menilai pribadi.
 4. Foto Canvas tidak diunggah ke media publik tanpa persetujuan biro. Foto Canvas hanya memuat dua zona terbuka.
 5. Hasil terpilih dapat dibawa ke forum berikutnya (termasuk Forum AHWA JMMI ITS 2026 atau Musyker) bila Ketua menghendaki. Hal itu memerlukan keputusan terpisah.
 
 ---
+
 ## 4. Timeline dan Monitoring KPP
 
 ### 4.1 Kalender
@@ -542,7 +559,7 @@ Judul zona pada kertas A3 dicetak dengan nama utama dan anak judul dalam kurung,
 | 9 Nov (Senin) | H-6 | **Pemberitahuan awal (heads-up)** kepada seluruh narasumber yang terdaftar: dapat diajak pada 16–21 November, kuota maksimal 2 ajakan, bebas menerima atau menolak. Daftar Kepala Biro Kelompok A dan B, Staf Ahli Biro, dan fungsionaris badan, beserta daftar cadangan, sudah disusun sebelum tanggal ini | Badan Personalia |
 | 11 Nov (Rabu) | H-4 | **Papan Kuota Terbuka** dan Form Pendaftaran Narasumber siap dan diuji; panduan narasumber dan contoh pesan undangan dicetak | Badan Personalia |
 | 12–13 Nov | H-3, H-2 | Pembelian dan pengemasan **kit fisik** per biro | Sie Perlengkapan |
-| **Minggu, 15 Nov** | H+0 | **15.51–16.01: briefing penugasan KPP dan pembagian kit fisik per biro**; **Papan Kuota Terbuka dibuka serentak pukul 16.01** | Ketua Pelaksana, Sie Acara, dan Badan Personalia |
+| **Sabtu, 14 Nov** | H+0 | **15.51–16.01: briefing penugasan KPP dan pembagian kit fisik per biro**; **Papan Kuota Terbuka dibuka serentak pukul 16.01** | Ketua Pelaksana, Sie Acara, dan Badan Personalia |
 | Senin, 16 Nov | H+1 | Form Minat Peran dan Form Umpan Balik dibuka. **Rombongan mencari dan menghubungi sendiri** komposisi narasumber sesuai 2.3; pendaftaran yang sudah bersedia dicatat di papan (urutan pendaftaran menentukan kuota) | Koordinator rombongan |
 | Selasa, 17 Nov | H+2 | **Pukul 12.00:** batas pendaftaran komposisi lengkap; Personalia memfasilitasi rombongan yang belum lengkap. **Pukul 21.00:** seluruh jadwal terkonfirmasi di dashboard | Koordinator rombongan, Badan Personalia |
 | **Selasa, 17 s.d. Kamis, 19 Nov** | H+2 s.d. H+4 | **Jendela pelaksanaan Ngopi Khidmah** (Selasa untuk rombongan yang sudah lengkap lebih awal; Rabu dan Kamis sebagai hari utama). Bukti diunggah paling lambat 24 jam setelah sesi. Canvas dikerjakan setelah Ngopi | Tiap biro |
@@ -566,7 +583,7 @@ Tenggat KPP ditetapkan **maksimal H-1 sebelum pelaksanaan Forum AHWA JMMI ITS 20
 | Minggu, 22 November | **Sabtu, 21 November** | 6 hari |
 | Sebelum 21 November | Dirancang ulang oleh Ketupel dan Personalia | Kurang dari 5 hari |
 
-Tanggal Forum AHWA dikonfirmasi paling lambat **6 November** supaya narasumber, kit, dan briefing 15 November menyesuaikan. Selama belum pasti, seluruh materi memakai tenggat operasional Jumat, 20 November.
+Tanggal Forum AHWA dikonfirmasi paling lambat **6 November** supaya narasumber, kit, dan briefing 14 November menyesuaikan. Selama belum pasti, seluruh materi memakai tenggat operasional Jumat, 20 November.
 
 ### 4.3 Keselarasan dengan LPJ
 
@@ -629,7 +646,7 @@ KPP kini selesai pada 20 atau 21 November, **jauh sebelum** batas asistensi LPJ 
 | Hambatan dan dukungan | Form Minat Peran | Hambatan, kebutuhan dukungan, hal yang membuat bertahan dan ragu |
 | Hasil belajar | Pre-test dan post-test | Skor pre, post, N-Gain, sikap L1–L6 |
 | Hasil Ngopi Khidmah | Dashboard (Tab 1 dan 2) | Narasumber, tanggal, kehadiran, bukti publikasi |
-| Hasil Canvas | Foto A3 dan rekap tema | Tema per zona terbuka; zona Ruang Tumbuh hanya direkap Badan Personalia dari amplop, tanpa inisial |
+| Hasil Canvas | Foto A3 dan rekap tema | Tema per zona terbuka; aspirasi Ruang Tumbuh dari botol hanya direkap Badan Personalia tanpa nama |
 | Observasi kontribusi (Simulasi Taktis) | Lembar Observasi Kepemimpinan Emergen (formulir terpisah, dokumen 03 bagian 10) | Skor 1–4 pada 6 dimensi perilaku dengan bukti singkat per kode peserta; momen kunci saat Inject B dan C. **Bukan peringkat dan bukan dasar tunggal seleksi** |
 | Pendampingan | Catatan Personalia | Tanggal, bentuk, ringkasan, tindak lanjut |
 
@@ -669,19 +686,19 @@ KPP kini selesai pada 20 atau 21 November, **jauh sebelum** batas asistensi LPJ 
 
 | Kode | Indikator | Target usulan | Instrumen | Waktu |
 |---|---|---|---|---|
-| K1 | Kehadiran | ≥ 90% | Daftar hadir digital | 15 Nov |
-| K2 | Rerata skor post-test | ≥ 75 | Post-test | 15 Nov |
-| K3 | N-Gain rerata | ≥ 0,40 | Pre dan post-test | 15 Nov |
-| K4 | Peserta dengan skor post ≥ 70 | ≥ 80% | Post-test | 15 Nov |
-| K5 | Ketepatan butir jalur dan wewenang (butir 3, 4, 5, 6, 7, 13) | ≥ 80% benar | Post-test | 15 Nov |
-| K6 | Relasi Deal pada Papan Jaring | ≥ 12 dari 16 | `PAPAN_JARING` | 15 Nov |
-| K7 | Pelanggaran arah per biro | Rata-rata ≤ 1 | `SKOR_EVALUASI` | 15 Nov |
-| K8 | Biro dengan Blok E dan persetujuan Kadep | 8 dari 8 | `PAPAN_JARING` | 15 Nov |
+| K1 | Kehadiran | ≥ 90% | Daftar hadir digital | 14 Nov |
+| K2 | Rerata skor post-test | ≥ 75 | Post-test | 14 Nov |
+| K3 | N-Gain rerata | ≥ 0,40 | Pre dan post-test | 14 Nov |
+| K4 | Peserta dengan skor post ≥ 70 | ≥ 80% | Post-test | 14 Nov |
+| K5 | Ketepatan butir jalur dan wewenang (butir 3, 4, 5, 6, 7, 13) | ≥ 80% benar | Post-test | 14 Nov |
+| K6 | Relasi Deal pada Papan Jaring | ≥ 12 dari 16 | `PAPAN_JARING` | 14 Nov |
+| K7 | Pelanggaran arah per biro | Rata-rata ≤ 1 | `SKOR_EVALUASI` | 14 Nov |
+| K8 | Biro dengan Blok E dan persetujuan Kadep | 8 dari 8 | `PAPAN_JARING` | 14 Nov |
 | K9 | Kepuasan per materi | ≥ 4,2 | Form Umpan Balik | 16 Nov |
-| K10 | Kenaikan rerata L6 | ≥ +0,5 | Pre dan post-test | 15 Nov |
+| K10 | Kenaikan rerata L6 | ≥ +0,5 | Pre dan post-test | 14 Nov |
 | K11 | Pengisian Form Minat Peran | ≥ 85% | Form Minat Peran | Tenggat KPP (20/21 Nov) |
 | K12 | Biro menyelesaikan Ngopi Khidmah dengan **kehadiran lengkap**, komposisi narasumber lengkap (dua Kepala Biro dari Kelompok A dan B, satu Staf Ahli Biro, dan 1–2 fungsionaris badan), dan **bukti publikasi** (Instagram + grup komunal) | 8 dari 8 | Dashboard Tab 1 | Tenggat KPP |
-| K13 | Canvas A3 terkumpul dari seluruh biro, dengan **100% anggota** menulis ≥ 1 sticky berinisial di **tiap 3 zona** (termasuk amplop Ruang Tumbuh) | 8 dari 8 biro; 100% anggota | Dashboard dan foto Canvas, serta penerimaan amplop | Tenggat KPP |
+| K13 | Canvas A3 terkumpul dari seluruh biro, dengan **100% anggota** menulis ≥ 1 sticky di dua zona terbuka dan mengisi lembar aspirasi (botol departemen diterima) | 8 dari 8 biro; 100% anggota | Dashboard, foto Canvas, dan penerimaan botol | Tenggat KPP |
 | K14 | Narasumber yang menerima lebih dari 2 ajakan | 0 | Dashboard Tab 2 | Tenggat KPP |
 
 **Penyajian dalam LPJ (BAB II 2.4):** tiap TUK ditampilkan dengan kolom *Target*, *Realisasi*, *Persentase capaian*, dan *Keterangan* (alasan bila belum tercapai). Evaluasi (BAB III) memuat kendala, solusi, serta keberhasilan dan hal yang perlu ditingkatkan.
@@ -694,7 +711,7 @@ KPP kini selesai pada 20 atau 21 November, **jauh sebelum** batas asistensi LPJ 
 
 | Risiko | Dampak | Mitigasi |
 |---|---|---|
-| **Jendela hanya 5–6 hari** dan kehadiran rombongan wajib lengkap | Jadwal sulit disepakati | Heads-up ke narasumber sejak 9 November, papan dibuka serentak 15 November pukul 16.01, batas pendaftaran 17 November pukul 12.00, hari cadangan 20 November, aturan udzur (2.3) |
+| **Jendela hanya 5–6 hari** dan kehadiran rombongan wajib lengkap | Jadwal sulit disepakati | Heads-up ke narasumber sejak 9 November, papan dibuka serentak 14 November pukul 16.01, batas pendaftaran 17 November pukul 12.00, hari cadangan 20 November, aturan udzur (2.3) |
 | Komposisi lima narasumber (dua Kepala Biro, satu Staf Ahli Biro, dan 1–2 fungsionaris badan) sulit hadir bersamaan | Pertemuan tertunda | Rombongan menyepakati tanggal sebelum mendaftar; Personalia memfasilitasi bila terlambat; bila terpaksa, pertemuan dua sesi dengan foto pada tiap sesi (usulan) |
 | Narasumber kelelahan | Mutu obrolan turun | Kuota maksimal 2 ajakan per individu, ditegakkan otomatis oleh papan |
 | Kepala Biro Kelompok A atau B cepat penuh (8 slot tanpa cadangan), rombongan yang mendaftar belakangan kehabisan pilihan | Ketimpangan antarbiro | Papan terbuka agar kuota terlihat; Personalia menyiapkan cadangan sejak 9 November dan memfasilitasi setelah 17 November pukul 12.00; jumlah Staf Ahli Biro aktif dicek (2.4) |
@@ -704,7 +721,7 @@ KPP kini selesai pada 20 atau 21 November, **jauh sebelum** batas asistensi LPJ 
 | Publikasi dipahami sebagai tekanan untuk mencalonkan diri | Peserta tidak jujur atau merasa dipaksa | Etika publikasi (2.6): keterangan bernada silaturahmi dan belajar, kesiapan peran dicatat privat lewat Form Minat Peran |
 | Inisial pada sticky membuat peserta menahan keterbukaan, terutama pada catatan personal di Zona Ruang Tumbuh | Isian dangkal atau seragam | Pola bahasa positif ("Kita bisa lebih … jika …"), penulis boleh meminta pembatasan akses, dan hambatan personal tetap ditampung Form Minat Peran yang privat |
 | Pembingkaian positif membuat kendala nyata tidak tertangkap | Masukan perbaikan tata kelola kurang tajam | Zona Ruang Tumbuh mewajibkan peluang spesifik dengan langkah kecil; kendala sistemik yang tajam ditampung jalur evaluasi OKR dan Badan Keorganisasian |
-| Sticky notes lepas, kertas rusak, atau amplop Ruang Tumbuh hilang | Data hilang | Selotip kertas, map plastik A3, foto Canvas saat selesai, amplop disegel dan diberi tanda tangan koordinator |
+| Sticky notes lepas, kertas rusak, atau botol aspirasi pecah atau hilang | Data hilang | Selotip kertas, map plastik A3, foto Canvas saat selesai, botol disegel dan diberi tanda tangan koordinator |
 | Biro tidak memiliki akun Instagram aktif | Bukti tidak bisa diverifikasi | Kanal pengganti diputuskan Personalia (2.6) |
 | Data sensitif bocor | Kepercayaan hilang | Akses terbatas dan retensi jelas |
 | Jadwal KPP berbenturan dengan ujian atau tugas akademik | Pengumpulan rendah | Pantau kalender akademik; udzur dilaporkan lebih awal |
@@ -724,8 +741,8 @@ KPP kini selesai pada 20 atau 21 November, **jauh sebelum** batas asistensi LPJ 
 | 6 | Kehadiran "lengkap" | Udzur sah diatur lewat penjadwalan ulang atau sesi susulan |
 | 7 | Akun Instagram biro | Diasumsikan ada; kanal pengganti disiapkan bila tidak ada |
 | 8 | Jumlah Staf Ahli Biro aktif | Belum diketahui. Kebutuhan 8 ajakan dengan kuota 2 berarti minimal 4 Staf Ahli Biro aktif; idealnya 8 atau lebih (2.4) |
-| 10 | Jam pembukaan papan (15 November 16.01) dan batas pendaftaran (17 November 12.00) | Usulan penyusun agar semua biro mulai serentak dan jendela 5–6 hari tidak habis untuk mencari narasumber |
+| 10 | Jam pembukaan papan (14 November 16.01) dan batas pendaftaran (17 November 12.00) | Usulan penyusun agar semua biro mulai serentak dan jendela 5–6 hari tidak habis untuk mencari narasumber |
 | 11 | Peran Badan Personalia | Memfasilitasi dan menjadi administrator papan; tidak menugaskan narasumber |
 | 12 | Pembagian Kelompok A dan B | Ditetapkan Badan Personalia dari daftar Kepala Biro aktif (empat orang per kelompok). Daftar disusulkan sebelum 9 November; perlu konfirmasi Ketua Pelaksana |
-| 13 | Amplop tertutup Ruang Tumbuh | Belum masuk RAB proposal. Diambil dari stok sekretariat atau ditambahkan ke RAB |
+| 13 | Botol kaca dan aspirasi | Empat botol kaca masuk RAB (Rp12.000). Lembar aspirasi dan sedotan belum masuk RAB; perlu dianggarkan ulang atau diambil dari stok sekretariat |
 | 9 | Inisial kembar | Diselesaikan dengan angka atau huruf tambahan serta legenda inisial |
