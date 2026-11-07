@@ -155,12 +155,12 @@ Kegiatan ini merupakan rangkaian upgrading kader JMMI ITS berupa pelatihan satu 
 
 | Tahap | Modul | Pokok bahasan | Pemateri |
 |---|---|---|---|
-| **Paham** | Materi 1: “Arsitektur Amanah” | Hierarki, Fungsionaris dan Eksekutif, transisi organogram, serta peta wewenang Kepala Biro, Staf Ahli, Staf Muda, dan Kepala Departemen menurut konvensi struktur kabinet saat ini | Ketua Umum JMMI ITS, Wakil Ketua I, dan Wakil Ketua II |
-| **Paham** | Materi 2: “Simpul Organisasi” | Prinsip komunikasi dan kolaborasi lintas tim: musyawarah, koordinasi asertif, etika eskalasi, diplomasi internal, serta adaptabilitas ketika struktur berubah | Wakil Ketua III dan 1 Staf Ahli Badan Personalia |
-| **Mampu** | Materi 3: “Seni Eksekusi” | Memimpin tim biro, menyusun proker yang realistis, delegasi, bonding, dan penyelesaian konflik dari sudut pandang praktisi | Best Kepala Biro Manajemen Event periode OKR 1 dan OKR 2 |
-| **Mau** | Materi 4: “Saujana Manarul Ilmi” | Essential awareness, peran strategis JMMI di ITS, kebanggaan, dan ajakan berkhidmah | Kepala Departemen Syi’ar |
+| **Paham** | Materi 1: “Arsitektur Amanah” | Hierarki, peran fungsionaris, transisi organogram, serta peta wewenang Kepala Biro, Staf Ahli, Staf Muda, dan Kepala Departemen menurut konvensi struktur kabinet saat ini | Ketua Umum JMMI ITS, Wakil Ketua I, dan Wakil Ketua II |
+| **Mampu** | Materi 2: “Seni Eksekusi” | Memimpin tim lapangan, menyusun proker yang realistis, mitigasi kendala eksternal, dan koordinasi staf, dengan studi kasus Jaulah LDK | Ketua Biro Relasi dan Hubungan Eksternal (Kabiro Best Biro OKR 1) |
+| **Paham** | Materi 3: “Simpul Organisasi” | Prinsip komunikasi dan kolaborasi lintas tim: musyawarah, koordinasi asertif, etika eskalasi, diplomasi internal, serta adaptabilitas ketika struktur berubah | Wakil Ketua III dan 1 Staf Ahli Badan Personalia |
+| **Mau** | Materi 4: “Saujana Manarul Ilmi” | Essential Awareness, Sense of Belonging, harmonisasi profesionalitas dan kekeluargaan, serta ajakan berkhidmah | Kepala Departemen Syi’ar (M. Fakhri Imamul Huda) |
 
-Sebelum materi, Pembina JMMI ITS membuka kegiatan dengan Stadium Generale "Semangat Bermasjid dan Ruh Khidmah" (08.41–09.11), sebagai pengantar niat dan semangat berkhidmah.
+Sebelum materi, Dr. Candra Irawan, S.T., M.T. selaku Pembina JMMI ITS membuka kegiatan dengan Stadium Generale "Semangat Bermasjid dan Ruh Khidmah" (08.41–09.11), sebagai pengantar niat dan semangat berkhidmah.
 
 **b. Simulasi Taktis (30 menit)**
 
@@ -304,17 +304,17 @@ Sabtu, 14 November 2026 · Ruang Rapat Barat Utara Masjid Manarul Ilmi ITS
 | 2 | Pembukaan oleh MC | 0:05 | 08.30 | 08.35 | MC |
 | 3 | Sambutan Ketua Pelaksana | 0:03 | 08.35 | 08.38 | Bara Ardiwinata |
 | 4 | Sambutan Ketua Umum JMMI ITS | 0:03 | 08.38 | 08.41 | Muhammad Hazal Ma'aly Mahmud |
-| 5 | Stadium Generale Pembina: "Semangat Bermasjid dan Ruh Khidmah" | 0:30 | 08.41 | 09.11 | Prof. Dr. Ir. Eko Setijadi, S.T., M.T., Ph.D. |
+| 5 | Stadium Generale Pembina: "Semangat Bermasjid dan Ruh Khidmah" | 0:30 | 08.41 | 09.11 | Dr. Candra Irawan, S.T., M.T. (Pembina JMMI ITS) |
 | 6 | Pre-Test (13 butir pilihan ganda, 6 butir sikap, 1 pertanyaan terbuka) via QR | 0:10 | 09.11 | 09.21 | Operator |
-| 7 | Materi 1: "Arsitektur Amanah" | 1:00 | 09.21 | 10.21 | Ketum, Waket I, Waket II |
-| 8 | Materi 2: "Simpul Organisasi" | 1:00 | 10.21 | 11.21 | Waket III & Staf Ahli Badan Personalia |
+| 7 | Materi 1: "Arsitektur Amanah" (50 menit materi + 10 menit Q&A) | 1:00 | 09.21 | 10.21 | Ketum, Waket I, Waket II |
+| 8 | Materi 2: "Seni Eksekusi" (50 menit materi + 10 menit Q&A) | 1:00 | 10.21 | 11.21 | Ketua Biro Relasi dan Hubungan Eksternal (Kabiro Best Biro OKR 1) |
 | 9 | Salat Dzuhur dan Ishoma | 0:45 | 11.21 | 12.06 | Seluruh Panitia & Peserta |
-| 10 | Materi 3: "Seni Eksekusi" | 1:00 | 12.06 | 13.06 | Best Kabiro OKR 1 & OKR 2 |
+| 10 | Materi 3: "Simpul Organisasi" (50 menit materi + 10 menit Q&A) | 1:00 | 12.06 | 13.06 | Waket III & Staf Ahli Badan Personalia |
 | 11 | Briefing Simulasi Taktis | 0:05 | 13.06 | 13.11 | Ketua Pelaksana |
 | 12 | Simulasi Taktis (Live Game): P1 4', P2 17', P3 4', P4 5'; inject pada menit 8, 12, 16 | 0:30 | 13.11 | 13.41 | Badan Personalia |
 | 13 | Presentasi Singkat Hasil Simulasi dan ulasan | 0:30 | 13.41 | 14.11 | BPH & Kabiro |
 | 14 | Salat Ashar | 0:30 | 14.11 | 14.41 | Seluruh Panitia & Peserta |
-| 15 | Materi 4: "Saujana Manarul Ilmi" (sesi penutup) | 1:00 | 14.41 | 15.41 | Kepala Departemen Syi'ar |
+| 15 | Materi 4: "Saujana Manarul Ilmi" (50 menit materi + 10 menit Q&A) | 1:00 | 14.41 | 15.41 | Kepala Departemen Syi'ar (M. Fakhri Imamul Huda) |
 | 16 | Post-Test via QR | 0:10 | 15.41 | 15.51 | Sie Acara |
 | 17 | Briefing Penugasan KPP dan pembagian kit fisik per biro | 0:10 | 15.51 | 16.01 | Ketua Pelaksana |
 | 18 | Penutup dan foto bersama (doa penutup) | 0:05 | 16.01 | 16.06 | MC |

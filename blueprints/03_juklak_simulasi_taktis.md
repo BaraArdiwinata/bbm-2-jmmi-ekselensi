@@ -25,7 +25,7 @@ Dampak lanjutan: debrief diperpanjang menjadi 25 menit (versi 2.0, kini diganti 
 Tata Kelola Kabinet Ekselensi 2026 belum disahkan secara final dan belum pasti dipertahankan pada kepengurusan berikutnya. Keputusan Ketua Pelaksana (pasca-audiensi): Simulasi Taktis resmi dibingkai sebagai **simulasi berbasis konvensi struktur kabinet saat ini**. Konsekuensinya:
 
 1. Semua rujukan "SOP", "Tata Kelola", jalur eskalasi, dan bagian **"Batasan wewenang dan SOP"** pada Kartu Rahasia adalah **aturan permainan**, bukan pasal baku yang dijamin berlaku pada kepengurusan berikutnya.
-2. Yang dilatih adalah **prinsip**: koordinasi asertif (memberi tahu, meminta persetujuan, memutuskan bersama), negosiasi berbasis kepentingan, eskalasi dengan format fakta–opsi–permintaan arahan, dan musyawarah. Prinsip ini sejalan dengan Materi 2.
+2. Yang dilatih adalah **prinsip**: koordinasi asertif (memberi tahu, meminta persetujuan, memutuskan bersama), negosiasi berbasis kepentingan, eskalasi dengan format fakta–opsi–permintaan arahan, dan musyawarah. Prinsip ini sejalan dengan Materi 3.
 3. Fasilitator menyampaikan pembingkaian ini pada briefing (4.1) dan mengaitkannya saat presentasi dan ulasan (11.7). Titik ambigu yang muncul dicatat sebagai masukan untuk Badan Keorganisasian (11.8).
 4. Tidak ada perubahan pada graf 16 relasi, kasus biro, inject, rubrik, atau template Google Sheets. Perubahan hanya pada pembingkaian dan bahasa pengantar.
 
@@ -790,7 +790,7 @@ Presentasi ini menggantikan debrief 25 menit pada versi 2.0. Kegiatan dilakukan 
 | 5–12 | Presentasi singkat tiap biro (±1 menit per biro): satu kesepakatan terbaik dan satu tiket tersulit | Perwakilan meja |
 | 12–20 | Ulasan: tiga pertanyaan ulasan (di bawah); 3–4 meja bicara | Fasilitator utama bersama BPH dan Kabiro yang hadir |
 | 20–25 | **Pelajaran kepemimpinan organik:** bagaimana keputusan lahir di meja, bagaimana yang pendiam dilibatkan, apa yang terjadi saat pengambil kendali ditarik (Inject C). Tidak menyebut nama peserta | Fasilitator utama |
-| 25–30 | Penutup: tiga pelajaran utama dan jembatan ke jeda Ashar dan Materi 4. Keterkaitan dengan prinsip koordinasi dan etika eskalasi (Materi 2) disebut singkat | Fasilitator utama |
+| 25–30 | Penutup: tiga pelajaran utama dan jembatan ke jeda Ashar dan Materi 4. Keterkaitan dengan prinsip koordinasi dan etika eskalasi (Materi 3) disebut singkat | Fasilitator utama |
 
 **Tiga pertanyaan ulasan:**
 1. Tiket mana yang paling alot dan mengapa? Apa yang akhirnya membuka kebuntuan?
@@ -806,7 +806,7 @@ Presentasi ini menggantikan debrief 25 menit pada versi 2.0. Kegiatan dilakukan 
 
 ### 11.8 Temuan untuk Badan Keorganisasian
 
-Penilai mencatat **titik ambigu Tata Kelola** yang muncul saat simulasi (misalnya kapan "diketahui" cukup, atau batas tarif dan denda GoRent). Catatan ini diserahkan ke Badan Keorganisasian sebagai masukan revisi Tata Kelola, digabung dengan masukan anonim peserta yang dijaring pada Materi 2. Dengan begitu simulasi menghasilkan dua manfaat: pelatihan peserta dan evaluasi dokumen.
+Penilai mencatat **titik ambigu Tata Kelola** yang muncul saat simulasi (misalnya kapan "diketahui" cukup, atau batas tarif dan denda GoRent). Catatan ini diserahkan ke Badan Keorganisasian sebagai masukan revisi Tata Kelola, digabung dengan masukan anonim peserta yang dijaring pada Materi 3. Dengan begitu simulasi menghasilkan dua manfaat: pelatihan peserta dan evaluasi dokumen.
 
 ---
 

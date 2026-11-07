@@ -15,9 +15,9 @@ Judul kegiatan yang akan dilaksanakan adalah **“Be a Better Muslim II (BBM 2)�
 
 BBM 2 adalah rangkaian pelatihan satu hari secara tatap muka untuk Staf Muda JMMI ITS angkatan 2025, yang disusul Kegiatan Pasca Pelatihan (KPP).
 
-Sesi penutup ini menumbuhkan rasa memiliki terhadap Masjid Manarul Ilmi dan JMMI, merawat niat berkhidmah, dan mengajak peserta melanjutkan estafet regenerasi. Sepanjang hari peserta sudah belajar peran, koordinasi, dan kepemimpinan, serta menjalani Simulasi Taktis. Wajar kalau sebagian dari mereka mulai ragu. Sesi ini hadir untuk menjawab satu pertanyaan: mengapa aku tetap mau berkhidmah?
+Sesi penutup ini menumbuhkan **Essential Awareness** (kesadaran mendasar tentang diri, lingkungan, dan dampak tindakan pribadi terhadap dakwah kampus) serta **Sense of Belonging** terhadap biro, departemen, dan JMMI. Sepanjang hari peserta sudah belajar peran, koordinasi, dan kepemimpinan, serta menjalani Simulasi Taktis. Wajar kalau sebagian dari mereka mulai ragu. Sesi ini hadir untuk menjawab satu pertanyaan: mengapa aku tetap mau berkhidmah, dan bagaimana angkatan ini bisa menyatukan langkah?
 
-Ajakan disampaikan dengan jujur, hangat, dan tanpa tekanan. Tidak ada rasa bersalah dan tidak ada janji formal.
+Kerangka materi diadaptasi dari paparan "Essential Awareness" oleh M. Fakhri Imamul Huda dan disesuaikan dengan konteks JMMI ITS. Ajakan disampaikan dengan jujur, hangat, dan tanpa tekanan. Tidak ada rasa bersalah dan tidak ada janji formal.
 
 ## C. TUJUAN KEGIATAN
 
@@ -31,50 +31,51 @@ Adapun tujuan dilaksanakannya kegiatan ini adalah :
 ## D. TUJUAN MATERI
 
 Adapun tujuan yang ingin dicapai pada sesi ini adalah sebagai berikut:
-1. Peserta merasakan peran JMMI bagi kampus ITS: masjid sebagai pusat, kaderisasi sebagai penopang keberlanjutan, dan layanan sebagai bukti kepedulian.
-2. Peserta merasakan kehangatan keluarga JMMI dan kebanggaan menjadi bagian darinya.
-3. Peserta mengakui bahwa beban peran itu nyata, dan bahwa ragu itu wajar.
-4. Peserta menyadari bahwa estafet kepengurusan bisa dilanjutkan sesuai kemampuan masing-masing.
-5. Peserta menentukan satu langkah pribadi, termasuk menyampaikan keraguan lewat jalur yang disediakan.
+1. Peserta memahami Essential Awareness: kesadaran tentang diri (pikiran, perasaan, motivasi) dan lingkungan (organisasi, situasi sosial), serta dampak tindakan pribadi terhadap dakwah kampus.
+2. Peserta menumbuhkan Sense of Belonging terhadap biro, departemen, dan JMMI, terutama pada posisi Staf Muda (Bottom) yang fokusnya tumbuh bersama dalam organisasi berasaskan kekeluargaan.
+3. Peserta menyeimbangkan Prinsip Profesionalitas (instruksi dan pelaporan vertikal) dengan Prinsip Kekeluargaan (ukhuwah horizontal).
+4. Peserta mengenali lima tantangan internal angkatan dan memilih satu langkah awal yang dapat dilakukan, termasuk menyampaikan keraguan lewat jalur yang disediakan.
 
 **Indikator:** butir sikap L5 (bangga menjadi bagian JMMI ITS) dan L6 (siap berkhidmah), jawaban terbuka post-test, dan suasana sesi.
 
 ## E. MATERI
 
-**Pembicara:** Kepala Departemen Syi'ar JMMI ITS 2026.
+**Pembicara:** Kepala Departemen Syi'ar JMMI ITS 2026 (M. Fakhri Imamul Huda).
 
-**Pokok bahasan:**
-- **Pembuka pribadi:** cerita pemateri tentang momen ketika JMMI terasa seperti rumah, dihubungkan dengan pengalaman peserta di simulasi, tanpa menyebut nama.
-- **Mengapa JMMI penting:** masjid sebagai pusat kegiatan, kaderisasi sebagai penopang keberlanjutan dakwah kampus, dan layanan sebagai bukti kepedulian. Sejarah singkat dan dampaknya hari ini.
-- **Rumah bernama JMMI:** kekeluargaan, rasa nyaman, dan kebanggaan. Cerita dan testimoni singkat dari pengurus aktif atau peserta yang bersedia berbagi.
-- **Estafet:** amanah bukan jabatan. Akui dengan jujur bahwa beban itu nyata. Ajak melanjutkan sesuai kemampuan, termasuk peran ringan dan peran pendukung.
-- **Muhasabah dan doa:** jeda hening untuk merenung, lalu doa penutup.
+**Pokok bahasan (kerangka Essential Awareness):**
+1. **Konsep Essential Awareness.** *Essential* berarti sangat penting dan mendasar. *Awareness* berarti keadaan sadar dan paham. Essential Awareness adalah kemampuan menyadari apa yang terjadi di dalam diri (pikiran, perasaan, motivasi) dan di luar diri (lingkungan, organisasi, situasi sosial), serta memahami dampak tindakan pribadi terhadap dakwah kampus. Manfaatnya: menghindari konflik tidak perlu, keputusan lebih bijak, lebih mudah beradaptasi, serta lebih empatik dan bertanggung jawab.
+2. **Sense of Belonging dan piramida organisasi.** Sense of Belonging adalah perasaan diterima, dihargai, dan menjadi bagian dari komunitas. Organisasi terbagi Top, Middle, dan Bottom. Pemimpin fokus mengembangkan, anggota fokus berkembang, dan Sense of Belonging menjembatani ketiganya. Pada posisi Bottom (Staf Muda), Sense of Belonging ditekankan karena fokusnya tumbuh bersama dalam organisasi yang berasaskan kekeluargaan.
+3. **Harmonisasi dua prinsip.** Prinsip Profesionalitas (jalur vertikal): sadar menempatkan diri sebagai apa, sebagai siapa, dan dengan siapa berinteraksi, terutama dalam instruksi dan pelaporan. Prinsip Kekeluargaan (jalur horizontal): ukhuwah sesama staf. Keduanya berjalan bersama, dan keseimbangannya membuat organisasi solid.
+4. **Lima tantangan internal angkatan:** (1) sikap individualis, (2) minim motivasi, (3) minim kolaborasi, (4) krisis percaya diri, dan (5) sekat departemen-sentris serta *circle-an*. Jumlah solusi harus sama dengan jumlah tantangan, supaya semuanya terjawab. Peserta diajak bertanya, "Apakah angkatan kita sudah punya Sense of Belonging dan Essential Awareness?"
+5. **Langkah solutif: merangkai puzzle.** Mulai dari menyadarkan diri sendiri. Lalu, jika mampu: (a) pererat hubungan di dalam biro dan departemen, (b) bangun kolaborasi lintas departemen, misalnya dengan mengerjakan tugas bersama atau bertukar cerita, dan (c) beri apresiasi kolektif kepada kader pemersatu yang memiliki rasa memiliki tinggi. Semangat estafet ditutup dengan kutipan: *"Mungkin kami pernah belum sempurna menata puzzle kami, tapi kami tidak akan membiarkan kalian mengulanginya."*
 
-**Fakta rujukan dari Tata Kelola:**
+**Fakta rujukan dari Tata Kelola (opsional, bila menguatkan cerita):**
 - Forum Ta'limul Islam dibentuk tahun 1983. JMMI berdiri resmi September 1989 (Safar 1410 H).
 - RDK berjalan sejak 1986, sebelum JMMI berdiri, dan disebut "laboratorium manajemen dakwah".
-- Mentoring disebut "mesin keberlanjutan dakwah kampus" dan menjadi pendamping Mata Kuliah Agama Islam.
-- JMMI disebut "poros koordinasi" dakwah kampus sejak awal.
+- Mentoring disebut "mesin keberlanjutan dakwah kampus".
 - Pelajaran strategis: "regenerasi tidak bergantung pada figur, melainkan pada budaya kerja yang hidup."
 - Tagline JMMI: *Harmoni Dakwah dalam Sinergi Peradaban*. Tagline Kabinet: *Excellent Through Collaboration*.
 
 Data terbaru (jumlah jamaah, program, capaian kabinet) disiapkan dari Sekretariat dan Ketua Umum. Angka yang belum terverifikasi tidak disampaikan.
 
-**Alur menit per menit:**
+**Alur menit per menit (50 menit materi + 10 menit tanya jawab):**
 
 | Menit | Bagian | Isi |
 |---|---|---|
-| 0–10 | Pembuka pribadi | Cerita pemateri, dihubungkan dengan pengalaman peserta di simulasi |
-| 10–25 | Mengapa JMMI penting | Peran JMMI di ITS, kaderisasi, layanan, sejarah singkat, dan dampak hari ini |
-| 25–42 | Rumah bernama JMMI | Kekeluargaan dan kebanggaan. Cerita dan testimoni singkat (opsional) |
-| 42–55 | Estafet | Amanah bukan jabatan. Beban diakui dengan jujur. Ajakan sesuai kemampuan |
-| 55–60 | Muhasabah dan doa | Jeda hening, refleksi pribadi, dan doa penutup |
+| 0–8 | Pembuka dan konsep Essential Awareness | Pengantar ringan, arti *essential* dan *awareness*, definisi kerja |
+| 8–18 | Mengapa perlu Essential Awareness | Menghindari konflik tidak perlu, keputusan lebih bijak, adaptif, empatik, dan bertanggung jawab |
+| 18–28 | Sense of Belonging dan piramida organisasi | Arti Sense of Belonging, struktur Top–Middle–Bottom, penekanan pada Staf Muda |
+| 28–36 | Harmonisasi dua prinsip | Profesionalitas (vertikal) dan kekeluargaan (horizontal) |
+| 36–44 | Lima tantangan internal angkatan | Individualis, minim motivasi, minim kolaborasi, krisis percaya diri, departemen-sentris dan circle-an |
+| 44–50 | Langkah solutif: merangkai puzzle | Mulai dari diri sendiri, erat di biro dan departemen, kolaborasi lintas departemen, apresiasi kolektif, kutipan penutup |
+| 50–60 | Tanya jawab | Pertanyaan dari peserta |
 
-**Kalimat penutup yang disarankan:** "Tadi kalian merasakan betapa beratnya memikul amanah di tengah keterbatasan, dan betapa pentingnya orang-orang yang mau melangkah maju. Sebelum kita tutup, mari diam sejenak dan bertanya kepada diri sendiri: mengapa aku tetap mau berkhidmah?"
+**Kalimat penutup yang disarankan:** "Mungkin kami pernah belum sempurna menata puzzle kami, tapi kami tidak akan membiarkan kalian mengulanginya. Tugas kita sekarang sederhana: mulai dari menyadari diri sendiri, lalu saling menguatkan."
 
 **Batasan materi:**
 - Tidak mengulang materi teknis Materi 1 sampai 3. Penjelasan wewenang, koordinasi, dan cara memimpin cukup dirujuk sebentar.
 - Tidak membahas kasus Simulasi Taktis atau menyebut nama peserta.
+- Tidak menyebut nama angkatan, kelompok, atau individu tertentu sebagai contoh sikap individualis atau circle-an.
 - Tidak mengatakan bahwa berkhidmah adalah satu-satunya bentuk pengabdian. Khidmah disampaikan sebagai salah satu pilihan sesuai kemampuan.
 
 **Matriks anti-tumpang-tindih:**
@@ -82,16 +83,16 @@ Data terbaru (jumlah jamaah, program, capaian kabinet) disiapkan dari Sekretaria
 | Topik | M1 | M2 | M3 | M4 (ini) |
 |---|---|---|---|---|
 | Wewenang Kabiro, Kadep, Staf Ahli, Staf Muda | **P** | S | S | — |
-| Komunikasi dan koordinasi lintas tim | S | **P** | — | — |
-| Menyusun proker yang realistis | — | — | **P** | — |
-| Delegasi, kebersamaan, konflik dalam tim | — | — | **P** | — |
-| Beban peran dan keseimbangan akademik | — | — | S | **P** |
-| Sejarah dan peran JMMI di ITS | S | — | — | **P** |
-| Kebanggaan dan ajakan estafet | — | — | — | **P** |
+| Memimpin tim lapangan dan kendala eksternal | — | **P** | — | — |
+| Komunikasi dan koordinasi lintas tim | S | S | **P** | — |
+| Essential Awareness dan Sense of Belonging | — | — | — | **P** |
+| Profesionalitas vertikal dan kekeluargaan horizontal | S | — | S | **P** |
+| Tantangan angkatan dan langkah solutif | — | — | — | **P** |
+| Sejarah dan peran JMMI di ITS | S | — | — | S |
 
 Keterangan: **P** = bahasan utama, **S** = bahasan pendukung (maksimal 2 menit), **—** = tidak dibahas.
 
-Pengendali waktu memberi isyarat pada menit ke-50, 55, dan 59. Jeda hening dipertahankan walau sesi lain perlu dipangkas.
+Pengendali waktu memberi isyarat pada menit ke-40, 47, 50, dan 59. Jika sesi melewati waktu, tanya jawab yang dipangkas, bukan bagian langkah solutif.
 
 ## F. KEPESERTAAN
 
@@ -100,14 +101,13 @@ Peserta adalah Staf Muda JMMI ITS angkatan 2025 dari delapan biro, sekitar 50–
 ## G. WAKTU DAN TEMPAT
 
 - **Hari, tanggal:** Sabtu, 14 November 2026
-- **Waktu:** 14.41–15.41 WIB (60 menit)
+- **Waktu:** 14.41–15.41 WIB (60 menit: 50 menit materi + 10 menit tanya jawab)
 - **Tempat:** Ruang Rapat Barat Utara Masjid Manarul Ilmi ITS
-- **Pemateri:** Kepala Departemen Syi'ar JMMI ITS 2026
-- **Fasilitas:** 1 proyektor dan layar, 2 mikrofon nirkabel, dan laptop pemateri
+- **Pemateri:** Kepala Departemen Syi'ar JMMI ITS 2026 (M. Fakhri Imamul Huda)
 
 ## H. METODE DAN LARANGAN
 
-Metode yang digunakan adalah bercerita, dialog retoris, testimoni singkat, dan jeda hening. Jeda hening adalah bagian dari sesi, bukan jeda teknis. Testimoni dari peserta hanya jika yang bersangkutan bersedia, dan tidak ada peserta yang ditunjuk. Gaya bicara persuasif, hangat, dan tegas.
+Metode yang digunakan adalah bercerita, presentasi interaktif, dialog retoris, dan testimoni singkat. Testimoni dari peserta hanya jika yang bersangkutan bersedia, dan tidak ada peserta yang ditunjuk. Gaya bicara persuasif, hangat, dan tegas.
 
 Larangan dalam penyampaian:
 - Dilarang memakai rasa bersalah, tekanan sosial, atau sindiran kepada peserta yang ragu.
@@ -121,11 +121,13 @@ Larangan dalam penyampaian:
 | Waktu (WIB) | Durasi | Kegiatan | PIC |
 |---|---|---|---|
 | 14.41–15.41 | 60' | **Materi 4: "Saujana Manarul Ilmi"** | Kepala Departemen Syi'ar |
-| 14.41–14.51 | 10' | Pembuka pribadi | Pemateri |
-| 14.51–15.06 | 15' | Mengapa JMMI penting | Pemateri |
-| 15.06–15.23 | 17' | Rumah bernama JMMI | Pemateri |
-| 15.23–15.36 | 13' | Estafet | Pemateri |
-| 15.36–15.41 | 5' | Muhasabah dan doa | Pemateri |
+| 14.41–14.49 | 8' | Pembuka dan konsep Essential Awareness | Pemateri |
+| 14.49–14.59 | 10' | Mengapa perlu Essential Awareness | Pemateri |
+| 14.59–15.09 | 10' | Sense of Belonging dan piramida organisasi | Pemateri |
+| 15.09–15.17 | 8' | Harmonisasi dua prinsip | Pemateri |
+| 15.17–15.25 | 8' | Lima tantangan internal angkatan | Pemateri |
+| 15.25–15.31 | 6' | Langkah solutif: merangkai puzzle | Pemateri |
+| 15.31–15.41 | 10' | Tanya jawab | Pemateri dan peserta |
 
 **Catatan:** pemateri hadir pukul 13.41 untuk mengikuti presentasi hasil simulasi (13.41–14.11), sehingga bisa menautkan pengalaman peserta dengan materi. Jeda Ashar 14.11–14.41 terjadi sebelum sesi dimulai.
 
@@ -140,15 +142,15 @@ Larangan dalam penyampaian:
 
 Adapun hak dan kewajiban pemateri dalam kegiatan ini sebagai berikut :
 1. Mengonfirmasi kehadiran kepada Ketua Pelaksana paling lambat **H-3 (11 November 2026)**.
-2. Mengirim garis besar sesi ke Sie Acara paling lambat **Jumat, 13 November 2026 pukul 23.59 WIB** (H-1).
+2. Mengirim garis besar sesi dan slide ke Sie Acara paling lambat **Jumat, 13 November 2026 pukul 23.59 WIB** (H-1).
 3. Hadir pukul **13.41 WIB** dan mengikuti presentasi hasil simulasi (13.41–14.11) sebelum tampil.
-4. Membawakan sesi 60 menit sesuai alur di bagian E, termasuk jeda hening.
+4. Membawakan materi 50 menit dan tanya jawab 10 menit sesuai alur di bagian E.
 5. Memastikan semua kutipan dan testimoni sudah disetujui sebelum tampil.
 6. Berhak mendapatkan tanda terima kasih dari JMMI ITS dan dukungan Sie Acara untuk perangkat audio-visual.
 
 ## L. PENUTUP
 
-Term of Reference ini disusun sebagai kerangka acuan pemateri. Setelah jeda hening, sesi ditutup dengan doa, dan MC mengarahkan peserta ke post-test. Setiap perubahan isi atau waktu disampaikan kepada Sie Acara dan Ketua Pelaksana.
+Term of Reference ini disusun sebagai kerangka acuan pemateri. Setelah tanya jawab, MC mengarahkan peserta ke post-test. Setiap perubahan isi atau waktu disampaikan kepada Sie Acara dan Ketua Pelaksana.
 
 ## M. NARAHUBUNG
 

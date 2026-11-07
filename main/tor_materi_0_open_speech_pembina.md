@@ -15,7 +15,7 @@ Judul kegiatan yang akan dilaksanakan adalah **“Be a Better Muslim II (BBM 2)�
 
 BBM 2 adalah rangkaian pelatihan satu hari secara tatap muka untuk Staf Muda JMMI ITS angkatan 2025, yang disusul Kegiatan Pasca Pelatihan (KPP). Tujuannya menyiapkan calon Kepala Biro dan Staf Ahli pada kepengurusan berikutnya.
 
-Sesi pembuka ini diisi oleh Dosen Pembina JMMI ITS. Sebelum peserta masuk ke materi, Pembina membuka kegiatan dengan menguatkan niat berkhidmah dan mengingatkan makna memakmurkan Masjid Manarul Ilmi. Sesi ini bukan materi teknis. Fungsinya menenangkan hati dan menyambungkan seluruh rangkaian dengan tujuan JMMI sejak awal.
+Sesi pembuka ini diisi oleh Pembina JMMI ITS. Sebelum peserta masuk ke materi, Pembina membuka kegiatan dengan menguatkan niat berkhidmah dan mengingatkan makna memakmurkan Masjid Manarul Ilmi. Sesi ini bukan materi teknis. Fungsinya menenangkan hati dan menyambungkan seluruh rangkaian dengan tujuan JMMI sejak awal.
 
 ## C. TUJUAN KEGIATAN
 
@@ -37,13 +37,13 @@ Adapun tujuan yang ingin dicapai pada sesi ini adalah sebagai berikut:
 
 ## E. MATERI
 
-**Pembicara dan judul:** Prof. Dr. Ir. Eko Setijadi, S.T., M.T., Ph.D. (Dosen Pembina JMMI ITS), "Semangat Bermasjid dan Ruh Khidmah".
+**Pembicara dan judul:** Dr. Candra Irawan, S.T., M.T. (Pembina JMMI ITS), "Semangat Bermasjid dan Ruh Khidmah".
 
 **Pokok bahasan:**
 - **Pembuka:** sapaan dan tujuan BBM 2 dalam satu kalimat.
 - **Memakmurkan masjid kampus:** masjid sebagai pusat pembinaan. Apa artinya memakmurkan masjid bagi mahasiswa.
 - **Niat lurus berorganisasi:** amanah, keikhlasan, dan adab. Cara menjaga niat ketika lelah atau merasa belum cukup.
-- **Penutup:** ajakan untuk melangkah bersama, doa singkat, lalu serah ke MC untuk pre-test dan Materi 1.
+- **Penutup:** ajakan untuk melangkah bersama dan doa singkat.
 
 **Alur menit per menit:**
 
@@ -52,14 +52,7 @@ Adapun tujuan yang ingin dicapai pada sesi ini adalah sebagai berikut:
 | 0–5 | Pembuka | Sapaan dan tujuan BBM 2 |
 | 5–15 | Memakmurkan masjid kampus | Masjid sebagai pusat pembinaan |
 | 15–25 | Niat lurus berorganisasi | Amanah, keikhlasan, dan adab |
-| 25–30 | Penutup | Ajakan, doa singkat, dan serah ke MC |
-
-**Batasan materi:**
-- Tidak membahas struktur kabinet, SOP, atau tata kelola. Itu Materi 1 dan Materi 2.
-- Tidak membahas Simulasi Taktis atau KPP. Keduanya hanya disebut sebagai rangkaian kegiatan.
-- Tidak menyebut data atau angka baru yang belum terverifikasi.
-
-**Matriks anti-tumpang-tindih:** sesi ini hanya membuka kegiatan dan tidak bersinggungan dengan Materi 1 sampai 4. Pengendali waktu memberi isyarat pada menit ke-25 dan ke-29.
+| 25–30 | Penutup | Ajakan melangkah bersama dan doa singkat |
 
 ## F. KEPESERTAAN
 
@@ -70,17 +63,11 @@ Peserta adalah Staf Muda JMMI ITS angkatan 2025 dari delapan biro, sekitar 50–
 - **Hari, tanggal:** Sabtu, 14 November 2026
 - **Waktu:** 08.41–09.11 WIB (30 menit)
 - **Tempat:** Ruang Rapat Barat Utara Masjid Manarul Ilmi ITS
-- **Pemateri:** Prof. Dr. Ir. Eko Setijadi, S.T., M.T., Ph.D., Dosen Pembina JMMI ITS
-- **Fasilitas:** 1 proyektor dan layar, 2 mikrofon nirkabel (1 cadangan), dan laptop
+- **Pemateri:** Dr. Candra Irawan, S.T., M.T. (Pembina JMMI ITS)
 
-## H. METODE DAN LARANGAN
+## H. METODE PENYAMPAIAN
 
-Metode yang digunakan adalah ceramah singkat yang diselingi cerita pengalaman dan doa. Sesi ini tidak memakai tanya jawab, karena waktunya terbatas dan posisinya sebagai pembuka.
-
-Larangan dalam penyampaian:
-- Dilarang berceramah satu arah yang panjang dan monoton. Pakai cerita pendek agar peserta tetap fokus.
-- Dilarang menyinggung suku, ras, atau politik apa pun.
-- Dilarang menekan peserta untuk menyatakan komitmen di hadapan forum.
+Metode yang digunakan adalah ceramah singkat yang diselingi cerita pengalaman dan doa. Sesi ini tidak memakai tanya jawab, karena waktunya terbatas dan posisinya sebagai pembuka. Media yang dipakai maksimal 5 slide, atau tanpa slide, dan boleh menampilkan satu foto Masjid Manarul Ilmi. Pengendali waktu memberi isyarat pada menit ke-25 dan ke-29.
 
 ## I. RUNDOWN ACARA
 
@@ -88,7 +75,7 @@ Larangan dalam penyampaian:
 |---|---|---|---|
 | 08.35–08.38 | 3' | Sambutan Ketua Pelaksana | Bara Ardiwinata |
 | 08.38–08.41 | 3' | Sambutan Ketua Umum JMMI ITS | Muhammad Hazal Ma'aly Mahmud |
-| 08.41–09.11 | 30' | **Stadium Generale Pembina** | Prof. Dr. Ir. Eko Setijadi, S.T., M.T., Ph.D. |
+| 08.41–09.11 | 30' | **Stadium Generale Pembina** | Dr. Candra Irawan, S.T., M.T. |
 | 09.11–09.21 | 10' | Pre-Test | Operator |
 
 ## J. KEUNTUNGAN PEMATERI

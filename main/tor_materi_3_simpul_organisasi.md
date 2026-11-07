@@ -3,7 +3,7 @@
 **NAMA KEGIATAN:** Be A Better Muslim II (BBM 2)
 **JAMAAH MASJID MANARUL ILMI**
 **INSTITUT TEKNOLOGI SEPULUH NOPEMBER SURABAYA**
-**Sesi:** Materi 2: "Simpul Organisasi"
+**Sesi:** Materi 3: "Simpul Organisasi"
 
 ---
 
@@ -20,7 +20,7 @@ Sesi ini membahas bagaimana peran-peran di kabinet bekerja bersama. Di sinilah b
 2. **Lompat jalur:** masalah langsung dibawa ke atasan, tanpa lewat koordinator.
 3. **Kerja sama antarbiro yang macet:** tidak ada kesepakatan tertulis, dan tidak jelas kapan harus minta izin atau cukup memberi tahu.
 
-Sesi ini fokus pada **prinsip** yang berlaku di struktur apa pun, bukan hafalan pasal. Aturan kabinet belum final, sehingga bentuk jalur bisa berubah. Yang tetap adalah cara bicara yang jelas, adil, dan beretika. Peserta juga diajak memberi masukan tentang bagian yang membingungkan, dan masukan itu dipakai Badan Keorganisasian untuk menyempurnakan aturan.
+Sesi ini fokus pada **prinsip** yang berlaku di struktur apa pun, bukan hafalan pasal. Aturan kabinet belum final, sehingga bentuk jalur bisa berubah. Yang tetap adalah cara bicara yang jelas, adil, dan beretika. Sesi disampaikan lewat presentasi interaktif dan studi kasus verbal, sehingga peserta langsung mencoba menjawab, bukan hanya mendengar.
 
 ## C. TUJUAN KEGIATAN
 
@@ -55,20 +55,19 @@ Adapun tujuan yang ingin dicapai pada sesi ini adalah sebagai berikut:
 - **Diplomasi internal:** cari kepentingan di balik sikap pihak lain. Tawarkan penyesuaian tenggat atau cakupan. Cari titik temu yang membuat kedua pihak tetap bisa bekerja.
 - **Contoh dari Bidang 3:** kerja sama luar lewat Biro Relasi dan Hubungan Eksternal agar satu pintu. Tim media boleh menolak request yang briefnya belum jelas atau mepet tenggat.
 - **Bentuk boleh berubah, prinsip tidak:** yang tetap adalah kejelasan peran, komunikasi terbuka, kesepakatan tertulis, dan etika eskalasi. Peserta belajar bertanya, "Apa tujuan aturan ini?"
-- **Masukan peserta:** peserta menulis anonim satu bagian yang masih membingungkan, untuk dibawa ke Badan Keorganisasian.
 
-**Handout:** halaman pertama berisi "Prinsip dan Skrip Koordinasi". Halaman kedua berisi Lembar Konvensi Sementara (rujukan surat, media, dan administrasi). Lembar ini tidak diajarkan dan tidak diuji, dan sudah divalidasi Sekretaris Umum dan Bendahara Umum.
+**Media:** presentasi interaktif. Prinsip dan skrip koordinasi ditampilkan di slide, dan studi kasus disampaikan secara verbal.
 
-**Alur menit per menit:**
+**Alur menit per menit (50 menit materi + 10 menit tanya jawab):**
 
 | Menit | Bagian | Pembicara | Isi |
 |---|---|---|---|
 | 0–10 | Kasus pembuka | Wakil Ketua III | Satu kasus nyata JMMI yang dianonimkan |
-| 10–22 | Musyawarah dan koordinasi asertif | Staf Ahli Badan Personalia | Musyawarah, tiga tingkat koordinasi, format fakta-opsi-permintaan, cara menolak dengan sopan |
-| 22–35 | Eskalasi dan diplomasi internal | Wakil Ketua III | Kapan dan kepada siapa mengeskalasi. Negosiasi kepentingan lintas biro dan lintas bidang |
-| 35–47 | Latihan berpasangan | Keduanya | Tiga skenario; respons dengan skrip dalam 5 menit; dua pasangan membacakan |
-| 47–55 | Bentuk boleh berubah | Staf Ahli Badan Personalia | Cara beradaptasi jika struktur berubah. Penjaringan masukan anonim |
-| 55–60 | Penutup | Wakil Ketua III | Ringkasan tiga prinsip, pembagian handout, jembatan ke Materi 3 |
+| 10–20 | Musyawarah dan koordinasi asertif | Staf Ahli Badan Personalia | Musyawarah, tiga tingkat koordinasi, format fakta-opsi-permintaan, cara menolak dengan sopan |
+| 20–32 | Eskalasi dan diplomasi internal | Wakil Ketua III | Kapan dan kepada siapa mengeskalasi. Negosiasi kepentingan lintas biro dan lintas bidang |
+| 32–42 | Latihan berpasangan | Keduanya | Tiga skenario verbal; respons dengan skrip dalam 5 menit; dua pasangan membacakan |
+| 42–50 | Prinsip tetap, bentuk boleh berubah | Staf Ahli Badan Personalia | Cara beradaptasi jika struktur berubah. Ringkasan tiga prinsip dan jembatan ke Simulasi Taktis |
+| 50–60 | Tanya jawab | Keduanya | Pertanyaan dari peserta |
 
 **Tiga skenario latihan:**
 1. **Permintaan mepet:** biro lain minta poster dalam sehari. Jelaskan batas kapasitas dengan sopan, tawarkan alternatif, beri tahu koordinator. Kalau buntu, naikkan dengan format fakta, pilihan, dan permintaan.
@@ -78,41 +77,38 @@ Adapun tujuan yang ingin dicapai pada sesi ini adalah sebagai berikut:
 **Batasan materi:**
 - Tidak mengajarkan atau menguji hafalan pasal, tenggat, atau angka SOP.
 - Tidak mengulang tabel wewenang dari Materi 1.
-- Tidak membahas isi kasus Simulasi Taktis, dan tidak membahas cara mengelola anggota tim (itu Materi 3).
-- Tidak menyajikan data administrasi yang belum divalidasi Sekretaris Umum dan Bendahara Umum.
+- Tidak membahas isi kasus Simulasi Taktis, dan tidak membahas cara memimpin tim lapangan (itu Materi 2).
 - Tidak menyebut Staf Ahli sebagai pemberi perintah. Staf Ahli memberi pertimbangan dan arahan teknis.
 
 **Matriks anti-tumpang-tindih:**
 
-| Topik | M1 | M2 (ini) | M3 | M4 |
+| Topik | M1 | M2 | M3 (ini) | M4 |
 |---|---|---|---|---|
 | Wewenang Kabiro, Kadep, Staf Ahli, Staf Muda | **P** | S | S | — |
-| Komunikasi dan koordinasi lintas tim | S | **P** | — | — |
-| Musyawarah, koordinasi asertif, diplomasi internal | — | **P** | — | — |
-| Bentuk berubah dan prinsip tetap | S | **P** | — | S |
-| Surat, proposal, SPJ, LPJ (hanya di handout) | — | S | — | — |
-| Cara memimpin tim dan konflik internal | — | — | **P** | — |
-| Beban peran dan keseimbangan akademik | — | — | S | **P** |
+| Memimpin tim lapangan dan kendala eksternal | — | **P** | — | — |
+| Komunikasi dan koordinasi lintas tim | S | S | **P** | — |
+| Musyawarah, koordinasi asertif, diplomasi internal | — | — | **P** | — |
+| Bentuk berubah dan prinsip tetap | S | — | **P** | S |
+| Kesadaran diri dan rasa memiliki | — | — | — | **P** |
 
 Keterangan: **P** = bahasan utama, **S** = bahasan pendukung (maksimal 2 menit), **—** = tidak dibahas.
 
-Pengendali waktu memberi isyarat pada menit ke-50, 55, dan 59. Jika latihan terlalu panjang, penjaringan masukan yang dipangkas lebih dulu.
+Pengendali waktu memberi isyarat pada menit ke-40, 47, 50, dan 59. Jika latihan terlalu panjang, bagian ringkasan yang dipangkas lebih dulu, bukan tanya jawab.
 
 ## F. KEPESERTAAN
 
-Peserta adalah Staf Muda JMMI ITS angkatan 2025 dari delapan biro, sekitar 50–70 orang. Mereka sudah mengikuti Materi 1 dan melihat peta peran, tetapi belum pernah berkoordinasi lintas biro sebagai calon pemimpin. Kekhawatiran yang sering muncul: takut salah langkah, takut dianggap mengadu, dan bingung kapan harus minta izin atau cukup memberi tahu.
+Peserta adalah Staf Muda JMMI ITS angkatan 2025 dari delapan biro, sekitar 50–70 orang. Mereka sudah mengikuti Materi 1 dan 2, melihat peta peran serta cerita memimpin tim lapangan, tetapi belum pernah berkoordinasi lintas biro sebagai calon pemimpin. Kekhawatiran yang sering muncul: takut salah langkah, takut dianggap mengadu, dan bingung kapan harus minta izin atau cukup memberi tahu. Sesi dimulai tepat setelah Dzuhur dan makan siang, sehingga energi peserta perlu dijaga dengan pertanyaan dan interaksi.
 
 ## G. WAKTU DAN TEMPAT
 
 - **Hari, tanggal:** Sabtu, 14 November 2026
-- **Waktu:** 10.21–11.21 WIB (60 menit)
+- **Waktu:** 12.06–13.06 WIB (60 menit: 50 menit materi + 10 menit tanya jawab)
 - **Tempat:** Ruang Rapat Barat Utara Masjid Manarul Ilmi ITS
 - **Pemateri:** Wakil Ketua III, dan 1 Staf Ahli Badan Personalia
-- **Fasilitas:** 1 proyektor dan layar, 2 mikrofon nirkabel, laptop pemateri, pointer, dan kertas flipchart untuk catatan latihan
 
 ## H. METODE DAN LARANGAN
 
-Metode yang digunakan adalah pemaparan interaktif, kasus singkat, latihan berpasangan, dan tanya jawab. Setiap pertanyaan dijawab dengan prinsip dulu, baru contoh aturan.
+Metode yang digunakan adalah presentasi interaktif, studi kasus verbal, latihan berpasangan, dan tanya jawab. Setiap pertanyaan dijawab dengan prinsip dulu, baru contoh aturan.
 
 Larangan dalam penyampaian:
 - Dilarang mengajarkan atau menguji hafalan pasal dan angka SOP.
@@ -124,15 +120,13 @@ Larangan dalam penyampaian:
 
 | Waktu (WIB) | Durasi | Kegiatan | PIC |
 |---|---|---|---|
-| 10.21–11.21 | 60' | **Materi 2: "Simpul Organisasi"** | Waket III, Staf Ahli Badan Personalia |
-| 10.21–10.31 | 10' | Kasus pembuka | Wakil Ketua III |
-| 10.31–10.43 | 12' | Musyawarah dan koordinasi asertif | Staf Ahli Badan Personalia |
-| 10.43–10.56 | 13' | Eskalasi dan diplomasi internal | Wakil Ketua III |
-| 10.56–11.08 | 12' | Latihan berpasangan | Keduanya |
-| 11.08–11.16 | 8' | Bentuk boleh berubah dan penjaringan masukan | Staf Ahli Badan Personalia |
-| 11.16–11.21 | 5' | Penutup dan handout | Wakil Ketua III |
-
-*Catatan: waktu per bagian di atas dihitung dari menit 0–60 pada alur bagian E (0–10, 10–22, 22–35, 35–47, 47–55, 55–60).*
+| 12.06–13.06 | 60' | **Materi 3: "Simpul Organisasi"** | Waket III, Staf Ahli Badan Personalia |
+| 12.06–12.16 | 10' | Kasus pembuka | Wakil Ketua III |
+| 12.16–12.26 | 10' | Musyawarah dan koordinasi asertif | Staf Ahli Badan Personalia |
+| 12.26–12.38 | 12' | Eskalasi dan diplomasi internal | Wakil Ketua III |
+| 12.38–12.48 | 10' | Latihan berpasangan | Keduanya |
+| 12.48–12.56 | 8' | Prinsip tetap, bentuk boleh berubah | Staf Ahli Badan Personalia |
+| 12.56–13.06 | 10' | Tanya jawab | Keduanya |
 
 ## J. KEUNTUNGAN PEMATERI
 
@@ -145,15 +139,14 @@ Larangan dalam penyampaian:
 
 Adapun hak dan kewajiban pemateri dalam kegiatan ini sebagai berikut :
 1. Mengonfirmasi kehadiran kepada Ketua Pelaksana paling lambat **H-3 (11 November 2026)**.
-2. Mengirim slide, handout, dan hasil validasi Lembar Konvensi Sementara paling lambat **Jumat, 13 November 2026 pukul 23.59 WIB** (H-1).
-3. Hadir pukul 08.30 WIB untuk uji perangkat.
-4. Membawakan sesi 60 menit sesuai alur di bagian E.
-5. Mengumpulkan masukan anonim peserta dan menyerahkannya ke Badan Keorganisasian.
-6. Berhak mendapatkan tanda terima kasih dari JMMI ITS, serta validasi Sekretaris Umum dan Bendahara Umum untuk isi administrasi.
+2. Mengirim slide paling lambat **Jumat, 13 November 2026 pukul 23.59 WIB** (H-1).
+3. Hadir pukul 11.45 WIB untuk uji perangkat.
+4. Membawakan materi 50 menit dan tanya jawab 10 menit sesuai alur di bagian E.
+5. Berhak mendapatkan tanda terima kasih dari JMMI ITS dan dukungan Sie Acara untuk perangkat.
 
 ## L. PENUTUP
 
-Term of Reference ini disusun sebagai kerangka acuan pemateri. Setiap perubahan isi atau waktu disampaikan kepada Sie Acara dan Ketua Pelaksana. Kalimat jembatan ke Materi 3: "Komunikasi antartim sudah kita pahami prinsipnya. Yang menjalankannya tetap manusia, jadi sekarang kita belajar memimpin tim."
+Term of Reference ini disusun sebagai kerangka acuan pemateri. Setiap perubahan isi atau waktu disampaikan kepada Sie Acara dan Ketua Pelaksana. Kalimat jembatan ke Simulasi Taktis: "Sebentar lagi kalian akan bekerja bersama teman-teman biro di bawah tekanan, tanpa ada yang ditunjuk memimpin. Siapa pun boleh melangkah maju. Ingat: lebih baik bertanya dan naik ke atasan dengan tepat, daripada memutuskan sendiri di luar wewenang."
 
 ## M. NARAHUBUNG
 

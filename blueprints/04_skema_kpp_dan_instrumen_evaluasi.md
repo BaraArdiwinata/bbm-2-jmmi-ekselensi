@@ -45,7 +45,7 @@
 
 Rujukan pasal mengacu pada dokumen `tata_kelola_organisasi_jmmi_kabinet_ekselensi_2026.pdf`.
 
-> **Pembingkaian butir.** Tata Kelola belum disahkan secara final dan belum pasti dipertahankan pada kepengurusan berikutnya. Butir 1–5 (Materi 1) karena itu menguji pemahaman atas **konvensi struktur kabinet saat ini**, bukan pasal yang dianggap baku. Butir 6–12 (Materi 2) menguji **prinsip komunikasi, kolaborasi lintas tim, dan etika eskalasi** lewat skenario; tidak ada butir yang meminta hafalan angka tenggat atau nomor pasal SOP. Rujukan pasal pada kunci hanya untuk memudahkan validasi, bukan materi yang diujikan.
+> **Pembingkaian butir.** Tata Kelola belum disahkan secara final dan belum pasti dipertahankan pada kepengurusan berikutnya. Butir 1–5 (Materi 1) karena itu menguji pemahaman atas **konvensi struktur kabinet saat ini**, bukan pasal yang dianggap baku. Butir 6–12 (Materi 3) menguji **prinsip komunikasi, kolaborasi lintas tim, dan etika eskalasi** lewat skenario; tidak ada butir yang meminta hafalan angka tenggat atau nomor pasal SOP. Rujukan pasal pada kunci hanya untuk memudahkan validasi, bukan materi yang diujikan.
 
 **Butir 1.** Menurut Tata Kelola, kelompok yang termasuk **Fungsionaris** adalah...
 - A. Kepala Biro, Staf Ahli Biro, dan Staf Muda Biro
@@ -93,7 +93,7 @@ Rujukan pasal mengacu pada dokumen `tata_kelola_organisasi_jmmi_kabinet_ekselens
 - C. membahasnya di grup angkatan untuk mencari dukungan
 - D. menunggu sampai masalahnya reda dengan sendirinya
 
-**Kunci: B** (prinsip pelaporan berjenjang dan format fakta–opsi–permintaan; konvensi struktur saat ini: 5.5.1). *Modul: M2. Kelompok K5.*
+**Kunci: B** (prinsip pelaporan berjenjang dan format fakta–opsi–permintaan; konvensi struktur saat ini: 5.5.1). *Modul: M3. Kelompok K5.*
 
 **Butir 7.** Biro lain meminta bantuan mendadak yang mustahil dipenuhi tepat waktu. Respons yang paling asertif adalah...
 - A. menyanggupi semuanya agar tidak mengecewakan
@@ -101,7 +101,7 @@ Rujukan pasal mengacu pada dokumen `tata_kelola_organisasi_jmmi_kabinet_ekselens
 - C. menolak singkat tanpa penjelasan
 - D. menyampaikan batas kapasitas dengan sopan, menawarkan alternatif waktu atau bentuk bantuan, dan memberi tahu koordinator
 
-**Kunci: D** (koordinasi asertif; koordinasi antarbagian tetap diketahui koordinator, 5.5.1). *Modul: M2. Kelompok K5.*
+**Kunci: D** (koordinasi asertif; koordinasi antarbagian tetap diketahui koordinator, 5.5.1). *Modul: M3. Kelompok K5.*
 
 **Butir 8.** Biro Anda hendak mengubah jam serah materi, dan perubahan itu menggeser pekerjaan biro lain. Tingkat koordinasi yang paling tepat adalah...
 - A. meminta kesepakatan biro yang terdampak sebelum perubahan ditetapkan
@@ -109,7 +109,7 @@ Rujukan pasal mengacu pada dokumen `tata_kelola_organisasi_jmmi_kabinet_ekselens
 - C. memutuskan sepihak karena jadwal adalah wewenang biro sendiri
 - D. menunggu sampai biro lain mengajukan keberatan
 
-**Kunci: A** (tiga tingkat koordinasi: memberi tahu, meminta persetujuan, memutuskan bersama). *Modul: M2.*
+**Kunci: A** (tiga tingkat koordinasi: memberi tahu, meminta persetujuan, memutuskan bersama). *Modul: M3.*
 
 **Butir 9.** Ketika anggota tim berbeda pendapat dalam musyawarah, sikap yang paling sesuai prinsip musyawarah adalah...
 - A. langsung memakai suara terbanyak tanpa mendengar pihak yang kalah
@@ -117,7 +117,7 @@ Rujukan pasal mengacu pada dokumen `tata_kelola_organisasi_jmmi_kabinet_ekselens
 - C. mendengar lebih dahulu, memisahkan pendapat dari pribadi, lalu menyepakati langkah bersama
 - D. menunda keputusan sampai semua orang setuju mutlak
 
-**Kunci: C** (budaya Diskusi dan Musyawarah, 7.1.1). *Modul: M2.*
+**Kunci: C** (budaya Diskusi dan Musyawarah, 7.1.1). *Modul: M3.*
 
 **Butir 10.** Tim biro lain menolak permintaan Anda karena kapasitas mereka penuh. Langkah yang paling selaras dengan diplomasi internal adalah...
 - A. menekan mereka lewat grup umum agar merasa tidak enak
@@ -125,7 +125,7 @@ Rujukan pasal mengacu pada dokumen `tata_kelola_organisasi_jmmi_kabinet_ekselens
 - C. meminta Kabiro Anda menegur Kabiro mereka
 - D. menghubungi kenalan pribadi di biro itu agar permintaan tetap diproses
 
-**Kunci: B** (diplomasi internal dan etika eskalasi). *Modul: M2.*
+**Kunci: B** (diplomasi internal dan etika eskalasi). *Modul: M3.*
 
 **Butir 11.** Eskalasi masalah kepada atasan paling tepat dilakukan ketika...
 - A. ada perbedaan pendapat sekecil apa pun
@@ -133,7 +133,7 @@ Rujukan pasal mengacu pada dokumen `tata_kelola_organisasi_jmmi_kabinet_ekselens
 - C. belum sempat berbicara langsung dengan pihak terkait
 - D. upaya langsung sudah ditempuh tetapi buntu, atau keputusan berdampak melampaui kewenangan biro
 
-**Kunci: D** (etika eskalasi; keputusan lintas bidang atau tata kelola memerlukan BPI, 5.5.2.7). *Modul: M2.*
+**Kunci: D** (etika eskalasi; keputusan lintas bidang atau tata kelola memerlukan BPI, 5.5.2.7). *Modul: M3.*
 
 **Butir 12.** Struktur atau tata kelola berubah pada kepengurusan berikutnya. Sikap yang paling tepat adalah...
 - A. mempertahankan prinsip komunikasi, kejelasan peran, dan etika koordinasi, sambil menyesuaikan bentuk jalur dengan ketentuan terbaru
@@ -141,7 +141,7 @@ Rujukan pasal mengacu pada dokumen `tata_kelola_organisasi_jmmi_kabinet_ekselens
 - C. menganggap seluruh pelajaran hari ini gugur
 - D. tetap memakai alur lama tanpa konfirmasi
 
-**Kunci: A** (adaptabilitas: prinsip tetap, bentuk dapat berubah). *Modul: M2.*
+**Kunci: A** (adaptabilitas: prinsip tetap, bentuk dapat berubah). *Modul: M3.*
 
 **Butir 13 (kasus).** Seorang Waket memberi instruksi lisan langsung kepada Anda sebagai Staf Muda, dan instruksi itu bertentangan dengan arahan Kabiro Anda. Langkah paling tepat adalah...
 - A. mengeksekusi karena Waket lebih tinggi
@@ -149,15 +149,15 @@ Rujukan pasal mengacu pada dokumen `tata_kelola_organisasi_jmmi_kabinet_ekselens
 - C. menyampaikan ke Kabiro agar dikonfirmasi ke Kadep melalui jalur koordinasi
 - D. membahasnya di grup angkatan
 
-**Kunci: C** (pelaporan melalui atasan langsung menurut konvensi struktur saat ini, 5.5.1 dan 5.5.2.3; prinsip koordinasi dan etika eskalasi). *Modul: M1, M2, Simulasi (inject B). Kelompok K5.*
+**Kunci: C** (pelaporan melalui atasan langsung menurut konvensi struktur saat ini, 5.5.1 dan 5.5.2.3; prinsip koordinasi dan etika eskalasi). *Modul: M1, M3, Simulasi (inject B). Kelompok K5.*
 
 **Ringkasan kunci:** 1B · 2C · 3D · 4A · 5C · 6B · 7D · 8A · 9C · 10B · 11D · 12A · 13C.
 
-**Pemetaan butir ke modul:** M1: butir 1–5. M2: butir 6–12. Simulasi dan M1/M2: butir 13.
+**Pemetaan butir ke modul:** M1: butir 1–5. M3: butir 6–12. Simulasi dan M1/M3: butir 13.
 
 **Kelompok butir jalur dan wewenang (K5):** butir 3, 4, 5, 6, 7, 13.
 
-> **Catatan validasi:** butir 1–5 dan 13 disusun dari teks Tata Kelola yang telah dibaca dan diperlakukan sebagai konvensi struktur saat ini. Sebelum formulir dikunci (uji coba H-6, 9 November), Badan Keorganisasian meninjau butir 1–5 dan 13 agar sejalan dengan interpretasi terbaru, sedangkan Ketua Badan Keorganisasian dan Waket III meninjau butir 6–12 agar sejalan dengan isi Materi 2. Isi tenggat administrasi (proposal, SPJ, LPJ) dan SOP media tidak lagi diujikan.
+> **Catatan validasi:** butir 1–5 dan 13 disusun dari teks Tata Kelola yang telah dibaca dan diperlakukan sebagai konvensi struktur saat ini. Sebelum formulir dikunci (uji coba H-6, 9 November), Badan Keorganisasian meninjau butir 1–5 dan 13 agar sejalan dengan interpretasi terbaru, sedangkan Ketua Badan Keorganisasian dan Waket III meninjau butir 6–12 agar sejalan dengan isi Materi 3. Isi tenggat administrasi (proposal, SPJ, LPJ) dan SOP media tidak lagi diujikan.
 
 ### 1.5 Butir Sikap dan Kesiapan (Skala 1–5)
 
@@ -221,7 +221,7 @@ Dikirim **16 November (H+1)** lewat tautan agar waktu penutupan hari-H tidak ter
 
 | Bagian | Butir |
 |---|---|
-| Penilaian per sesi (skala 1–5) | Untuk M1, M2, M3, Simulasi, dan M4: (a) relevansi, (b) kejelasan penyampaian, (c) kebermanfaatan bagi persiapan peran |
+| Penilaian per sesi (skala 1–5) | Untuk M1, M3, M2, Simulasi, dan M4: (a) relevansi, (b) kejelasan penyampaian, (c) kebermanfaatan bagi persiapan peran |
 | Simulasi | Tingkat kesulitan (terlalu mudah, pas, terlalu sulit); kejelasan aturan; keadilan |
 | Panitia | Registrasi, konsumsi, venue, dan audio-visual (skala 1–5) |
 | Terbuka | Hal terbaik; hal yang perlu diperbaiki; saran untuk BBM berikutnya |
