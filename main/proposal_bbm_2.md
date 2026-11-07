@@ -19,7 +19,7 @@ Blok "Catatan Penyusunan" di bawah ini dihapus sebelum proposal dikirim asistens
 > | 3 | **Harga satuan RAB** | Seluruhnya **estimasi** penyusun (harga pasar umum); wajib divalidasi dengan kuotasi vendor sebelum asistensi. Komponen opsional ditandai | Bendahara Pelaksana |
 > | 4 | Kebijakan honorarium pemateri dan seragam panitia | Menentukan Total RAB. Total minimum bila keduanya ditiadakan: Rp9.186.000 | Ketua Pelaksana dan Bendahara Umum |
 > | 5 | Tema kegiatan | Usulan penyusun, menunggu persetujuan Ketua | Ketua Umum |
-> | 6 | Kapasitas Aula MMI untuk ±110 orang dalam format 8 meja | Belum terverifikasi; konfirmasi ke Takmir | Ketua Pelaksana |
+> | 6 | Kapasitas Ruang Rapat Barat Utara MMI untuk ±110 orang dalam format 8 meja | Belum terverifikasi; konfirmasi ke Takmir | Ketua Pelaksana |
 > | 7 | Tanggal Forum AHWA JMMI ITS 2026 | Menentukan tenggat KPP (estimasi 20 atau 21 November) | Ketua Umum |
 > | 8 | Angka Tolok Ukur Keberhasilan (TUK) pada 2.3 | Usulan, menunggu persetujuan Ketua | Ketua Umum |
 > | 9 | Nomor surat permohonan dana | Diterbitkan Sekretaris Umum setelah pengajuan (SOP 6.1.1) | Sekretaris Umum |
@@ -59,7 +59,7 @@ Proposal ini kami susun untuk menyelenggarakan kegiatan yang membawa manfaat bag
 Kami mengucapkan terima kasih yang sebesar-besarnya kepada:
 
 1. Prof. Dr. Muhammad Mashuri, M.T. selaku Ketua Takmir Masjid Manarul Ilmi yang telah mendukung terselenggaranya kegiatan ini;
-2. Prof. Eko Setijadi, S.T., M.T., Ph.D. selaku Pembina JMMI ITS 2026 yang memberikan dukungan penuh dalam terlaksananya kegiatan;
+2. Prof. Dr. Ir. Eko Setijadi, S.T., M.T., Ph.D. selaku Pembina JMMI ITS 2026 yang memberikan dukungan penuh dalam terlaksananya kegiatan;
 3. Saudara Muhammad Hazal Ma’aly Mahmud selaku Ketua Umum JMMI ITS 2026 yang telah membantu berjalannya kegiatan ini;
 4. Seluruh elemen panitia yang telah bersedia menyediakan waktu, tenaga, pikiran, dan materi sehingga kegiatan ini dapat berjalan dengan lancar;
 5. Semua pihak yang telah membantu kami yang tidak dapat kami sebut satu persatu.
@@ -189,7 +189,7 @@ Kegiatan “Be A Better Muslim II (BBM 2)” ini dilaksanakan pada:
 | **Hari** | Sabtu |
 | **Tanggal** | 14 November 2026 |
 | **Waktu** | 08.00–16.06 WIB |
-| **Tempat** | Aula Masjid Manarul Ilmi ITS |
+| **Tempat** | Ruang Rapat Barat Utara Masjid Manarul Ilmi ITS |
 | **Kegiatan Pasca Pelatihan** | 16 November 2026 hingga satu hari sebelum Forum AHWA JMMI ITS 2026 (estimasi 20 atau 21 November 2026) |
 
 ### 2.6 Susunan Acara
@@ -282,7 +282,7 @@ Surabaya, 14 Oktober 2026
 
 &nbsp;
 
-**Prof. Eko Setijadi, S.T., M.T., Ph.D.**  
+**Prof. Dr. Ir. Eko Setijadi, S.T., M.T., Ph.D.**  
 NIP. 197210012003121002
 
 </div>
@@ -296,7 +296,7 @@ NIP. 197210012003121002
 ## LAMPIRAN 1 — SUSUNAN ACARA
 
 **BE A BETTER MUSLIM II (BBM 2)**  
-Sabtu, 14 November 2026 · Aula Masjid Manarul Ilmi ITS
+Sabtu, 14 November 2026 · Ruang Rapat Barat Utara Masjid Manarul Ilmi ITS
 
 | No | Kegiatan | Durasi | Start | Finish | Penanggung Jawab |
 |---|---|---|---|---|---|
@@ -304,7 +304,7 @@ Sabtu, 14 November 2026 · Aula Masjid Manarul Ilmi ITS
 | 2 | Pembukaan oleh MC | 0:05 | 08.30 | 08.35 | MC |
 | 3 | Sambutan Ketua Pelaksana | 0:03 | 08.35 | 08.38 | Bara Ardiwinata |
 | 4 | Sambutan Ketua Umum JMMI ITS | 0:03 | 08.38 | 08.41 | Muhammad Hazal Ma'aly Mahmud |
-| 5 | Stadium Generale Pembina: "Semangat Bermasjid dan Ruh Khidmah" | 0:30 | 08.41 | 09.11 | Prof. Dr. Ir. Eko Setijadi, S.T., M.T. |
+| 5 | Stadium Generale Pembina: "Semangat Bermasjid dan Ruh Khidmah" | 0:30 | 08.41 | 09.11 | Prof. Dr. Ir. Eko Setijadi, S.T., M.T., Ph.D. |
 | 6 | Pre-Test (13 butir pilihan ganda, 6 butir sikap, 1 pertanyaan terbuka) via QR | 0:10 | 09.11 | 09.21 | Operator |
 | 7 | Materi 1: "Arsitektur Amanah" | 1:00 | 09.21 | 10.21 | Ketum, Waket I, Waket II |
 | 8 | Materi 2: "Simpul Organisasi" | 1:00 | 10.21 | 11.21 | Waket III & Staf Ahli Badan Personalia |
@@ -337,7 +337,7 @@ Panitia kegiatan “Be A Better Muslim II (BBM 2)” ini adalah pengurus JMMI IT
 | Jabatan | Nama | NRP / NIP |
 |---|---|---|
 | **Pelindung**: Ketua Takmir Masjid Manarul Ilmi ITS | Prof. Dr. Muhammad Mashuri, M.T. | 19620408 1987011001 |
-| **Pembina JMMI** | Prof. Eko Setijadi, S.T., M.T., Ph.D. | 197210012003121002 |
+| **Pembina JMMI** | Prof. Dr. Ir. Eko Setijadi, S.T., M.T., Ph.D. | 197210012003121002 |
 | **Penanggung Jawab** | Muhammad Hazal Ma’aly Mahmud | 5012231209 |
 | **Pengarah**: Wakil Ketua II (Bidang Manajemen SDM dan Tata Kelola Organisasi) | Wakil Ketua II JMMI ITS 2026 | (dilengkapi) |
 | **Ketua Pelaksana** | Bara Ardiwinata | (dilengkapi) |
@@ -376,7 +376,7 @@ Dalam rangka diadakannya kegiatan “Be A Better Muslim II (BBM 2)” yang akan 
 
 Hari       : Sabtu  
 Tanggal    : 14 November 2026  
-Tempat     : Aula Masjid Manarul Ilmi ITS
+Tempat     : Ruang Rapat Barat Utara Masjid Manarul Ilmi ITS
 
 Acara tersebut menghabiskan dana sebesar Rp826.000 (Delapan Ratus Dua Puluh Enam Ribu Rupiah). Demi kelancaran operasional acara tersebut, kami bermaksud meminta permohonan dana sebesar Rp826.000 (Delapan Ratus Dua Puluh Enam Ribu Rupiah) demi terlaksananya kegiatan dari JMMI ITS tersebut, adapun perincian dana tersebut terlampir dalam proposal kegiatan.
 
@@ -398,5 +398,5 @@ Demikian surat ini kami buat, besar harapan kami agar kegiatan ini dapat berjala
 
 &nbsp;
 
-**Prof. Eko Setijadi, S.T., M.T., Ph.D.**  
+**Prof. Dr. Ir. Eko Setijadi, S.T., M.T., Ph.D.**  
 NIP. 197210012003121002

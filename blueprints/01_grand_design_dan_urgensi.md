@@ -4,7 +4,7 @@
 **Penyelenggara:** Badan Personalia (B-3), Bidang 2, JMMI ITS Kabinet Ekselensi 2026
 **Ketua Pelaksana:** Bara Ardiwinata
 **Tema:** "Membentang saujana asa, menyatukan langkah dan karya"
-**Pelaksanaan:** Sabtu, 14 November 2026, 08.00–16.06 WIB, Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS
+**Pelaksanaan:** Sabtu, 14 November 2026, 08.00–16.06 WIB, Ruang Rapat Barat Utara Masjid Manarul Ilmi ITS
 **Versi dokumen:** 1.3, 3 November 2026 (tanggal Sabtu 14 November; rundown 08.00–16.06; Stadium Generale Pembina; botol aspirasi Ruang Tumbuh; RAB Rp826.000). Versi 1.2: disusun 8 Oktober 2026 (H-38), diperbarui 24 Oktober 2026 pasca-audiensi dan 1 November 2026 (tema resmi, rundown 08.30–16.06, simulasi 30 menit, komposisi Ngopi Khidmah baru, Canvas dua zona terbuka dan botol aspirasi per departemen) (pembingkaian Tata Kelola yang belum final, Materi 2 sebagai prinsip komunikasi lintas tim, zona Canvas *Appreciative Inquiry*)
 **Status:** Knowledge base internal. Dokumen ini bukan proposal resmi. Proposal tetap ditahan sampai ada arahan.
 
@@ -224,7 +224,7 @@ Seluruh narasi "amanah" dan "khidmah" di Materi 4 diturunkan dari nilai-nilai di
 |---|---|
 | Format | 1 hari penuh, tatap muka |
 | Jam | 08.00–16.06 WIB |
-| Tempat | Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS (kapasitas **belum terverifikasi**, lihat 4.3) |
+| Tempat | Ruang Rapat Barat Utara Masjid Manarul Ilmi ITS (kapasitas **belum terverifikasi**, lihat 4.3) |
 | Komponen | 4 materi inti, 1 Simulasi Taktis (**30 menit**, disusul presentasi dan ulasan 30 menit), pre-test dan post-test |
 | Pemateri | Ketum dan Waket I, II; Waket III dan 1 Staf Ahli Badan Personalia (M2); Best Kabiro BME OKR 1 dan OKR 2 (M3); Kadep Syi'ar (M4) |
 | KPP | Ngopi Khidmah (rombongan per biro bersama 2 Kepala Biro dari Kelompok A dan B, 1 Staf Ahli Biro, dan 1–2 fungsionaris badan, dengan bukti publikasi) dan 1-Page Canvas Biro Masa Depan (kertas A3 dua zona terbuka, sticky notes, dan botol kaca per departemen untuk aspirasi Ruang Tumbuh); tenggat H-1 Forum AHWA JMMI ITS 2026 (estimasi 20 atau 21 November). Lihat dokumen 04 |
@@ -235,7 +235,7 @@ Seluruh narasi "amanah" dan "khidmah" di Materi 4 diturunkan dari nilai-nilai di
 
 | No | Hal | Alasan penting | Penanggung jawab konfirmasi | Batas waktu konfirmasi |
 |---|---|---|---|---|
-| 1 | **Kapasitas riil** Aula dan Ruang Audiovisual dalam format 8 meja untuk ±110 orang (70 peserta + fasilitator dan pengamat + pemateri + panitia) | Bila kurang, simulasi 8 klaster tidak muat | Ketupel dengan Takmir/Sekretariat | 15 Oktober (bersamaan asistensi proposal, karena venue tercantum di proposal) |
+| 1 | **Kapasitas riil** Ruang Rapat Barat Utara dalam format 8 meja untuk ±110 orang (70 peserta + fasilitator dan pengamat + pemateri + panitia) | Bila kurang, simulasi 8 klaster tidak muat | Ketupel dengan Takmir/Sekretariat | 15 Oktober (bersamaan asistensi proposal, karena venue tercantum di proposal) |
 | 2 | Jumlah dan komposisi riil Staf Muda angkatan 2025 per biro | Menentukan ukuran meja simulasi dan jumlah anggota tiap rombongan Ngopi Khidmah | Badan Personalia | 23 Oktober |
 | 3 | Identitas **Best Kabiro BME OKR 1 dan OKR 2** dan **Kadep Syi'ar** serta kesediaan jadwal | Pemateri M3 dan M4 | Ketupel | 12 Oktober |
 | 4 | Kesediaan Hazal, Waket I, II, III, dan Staf Ahli Badan Personalia pada 14 November | Pemateri M1 dan M2 | Ketupel | 12 Oktober |
@@ -297,7 +297,7 @@ Indikator berikut tidak masuk TUK acara, tetapi berguna untuk menilai BBM 2 pada
 | Hal | Status | Keterangan |
 |---|---|---|
 | Jadwal: Sabtu, 14 November 2026, 08.00–16.06 WIB | **Final** (rundown baru, 1 November 2026) | Konfirmasi Ketua Pelaksana dan Badan Personalia |
-| Tempat: Aula / Ruang Audiovisual MMI | **Final**, kapasitas menunggu verifikasi | Lihat 4.3 butir 1 |
+| Tempat: Ruang Rapat Barat Utara Masjid Manarul Ilmi ITS | **Final**, kapasitas menunggu verifikasi | Lihat 4.3 butir 1 |
 | Judul sesi: Arsitektur Amanah, Simpul Organisasi, Seni Eksekusi, Simulasi Taktis, Saujana Manarul Ilmi | **Final** | Konfirmasi Ketupel |
 | Pemateri: M1 Hazal + Waket I, II; M2 Waket III + 1 Staf Ahli Badan Personalia; M3 Best Kabiro BME OKR 1 dan OKR 2; M4 Kadep Syi'ar | **Final** | Konfirmasi Ketupel |
 | Materi 2 dibingkai ulang: **Prinsip Komunikasi, Kolaborasi Lintas Tim, dan Etika Eskalasi**, dengan segmen adaptabilitas (Opsi A) | **Final** (keputusan Ketua Pelaksana, pasca-audiensi 24 Oktober 2026) | Alasan: Tata Kelola belum final. Detail di dokumen 02 bagian 3.2 |

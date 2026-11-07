@@ -98,7 +98,7 @@ Peserta adalah Staf Muda JMMI ITS angkatan 2025 dari delapan biro, sekitar 50–
 
 - **Hari, tanggal:** Sabtu, 14 November 2026
 - **Waktu:** 12.06–13.06 WIB (60 menit, termasuk tanya jawab 10 menit)
-- **Tempat:** Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS
+- **Tempat:** Ruang Rapat Barat Utara Masjid Manarul Ilmi ITS
 - **Pemateri:** Best Kabiro OKR 1 dan OKR 2, Biro Manajemen Event
 - **Fasilitas:** 1 proyektor, 1 mikrofon, dan kursi santai
 
@@ -124,17 +124,16 @@ Larangan dalam penyampaian:
 
 ## J. KEUNTUNGAN PEMATERI
 
-- E-sertifikat sebagai pemateri BBM 2.
-- Plakat atau cinderamata dari JMMI ITS.
-- Amal jariyah dari pengalaman yang dibagikan.
-- Ukhuwah dengan seluruh pengurus JMMI ITS.
-- Konsumsi selama kegiatan.
+- E-sertifikat penghargaan.
+- Konsumsi kegiatan.
+- Jalinan ukhuwah dengan seluruh pengurus JMMI ITS.
+- Amal jariyah dari ilmu dan pengalaman yang disampaikan.
 
 ## K. HAK DAN KEWAJIBAN PEMATERI
 
 Adapun hak dan kewajiban pemateri dalam kegiatan ini sebagai berikut :
 1. Mengonfirmasi kehadiran kepada Ketua Pelaksana paling lambat **H-3 (11 November 2026)**.
-2. Mengirim garis besar cerita dan slide paling lambat **H-2 (12 November 2026)**.
+2. Mengirim garis besar cerita dan slide paling lambat **Jumat, 13 November 2026 pukul 23.59 WIB** (H-1).
 3. Hadir pukul 11.45 WIB untuk uji mikrofon dan proyektor.
 4. Membawakan materi 50 menit dan tanya jawab 10 menit.
 5. Menjaga anonimitas pihak yang disebut dalam cerita.

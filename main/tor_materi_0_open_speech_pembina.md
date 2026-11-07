@@ -69,7 +69,7 @@ Peserta adalah Staf Muda JMMI ITS angkatan 2025 dari delapan biro, sekitar 50–
 
 - **Hari, tanggal:** Sabtu, 14 November 2026
 - **Waktu:** 08.41–09.11 WIB (30 menit)
-- **Tempat:** Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS
+- **Tempat:** Ruang Rapat Barat Utara Masjid Manarul Ilmi ITS
 - **Pemateri:** Prof. Dr. Ir. Eko Setijadi, S.T., M.T., Ph.D., Dosen Pembina JMMI ITS
 - **Fasilitas:** 1 proyektor dan layar, 2 mikrofon nirkabel (1 cadangan), dan laptop
 
@@ -93,17 +93,16 @@ Larangan dalam penyampaian:
 
 ## J. KEUNTUNGAN PEMATERI
 
-- E-sertifikat sebagai pembina sesi pembuka.
-- Plakat atau cinderamata dari JMMI ITS.
-- Amal jariyah dan kebaikan yang lahir dari ilmu yang disampaikan.
-- Ukhuwah dengan seluruh pengurus JMMI ITS.
-- Konsumsi selama kegiatan.
+- E-sertifikat penghargaan.
+- Konsumsi kegiatan.
+- Jalinan ukhuwah dengan seluruh pengurus JMMI ITS.
+- Amal jariyah dari ilmu dan pengalaman yang disampaikan.
 
 ## K. HAK DAN KEWAJIBAN PEMATERI
 
 Adapun hak dan kewajiban pemateri dalam kegiatan ini sebagai berikut :
 1. Mengonfirmasi kehadiran kepada Ketua Pelaksana paling lambat **H-3 (11 November 2026)**.
-2. Mengirim outline atau slide final kepada Sie Acara paling lambat **H-2 (12 November 2026)**.
+2. Mengirim outline atau slide final kepada Sie Acara paling lambat **Jumat, 13 November 2026 pukul 23.59 WIB** (H-1).
 3. Hadir pukul 08.30 WIB untuk uji mikrofon dan proyektor.
 4. Menyelesaikan sesi tepat waktu, paling lambat pukul 09.11 WIB.
 5. Berhak mendapatkan tanda terima kasih dari JMMI ITS dan dukungan Sie Acara untuk perangkat.

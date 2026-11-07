@@ -1,6 +1,6 @@
 # KARTU SKENARIO RAHASIA — Simulasi Taktis BBM 2
 
-**JMMI ITS Kabinet Ekselensi 2026 · Sabtu, 14 November 2026 · Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS**
+**JMMI ITS Kabinet Ekselensi 2026 · Sabtu, 14 November 2026 · Ruang Rapat Barat Utara Masjid Manarul Ilmi ITS**
 Cetak **2 salinan per meja biro** (supaya seluruh anggota bisa membaca bersamaan dalam 5 menit). **Rahasia: dilarang diperlihatkan atau dibacakan ke biro lain.** Pasangkan dengan `template_simulasi_taktis.xlsx` (tab bernama sesuai biro).
 
 ## Kondisi Dunia Simulasi (berlaku untuk semua biro)

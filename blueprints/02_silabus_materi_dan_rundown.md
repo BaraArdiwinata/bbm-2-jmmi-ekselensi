@@ -2,7 +2,7 @@
 
 **Program:** BBM 2 JMMI ITS Kabinet Ekselensi 2026
 **Pelaksanaan:** Sabtu, 14 November 2026, 08.00–16.06 WIB
-**Tempat:** Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS
+**Tempat:** Ruang Rapat Barat Utara Masjid Manarul Ilmi ITS
 **Versi:** 1.3, 3 November 2026 (tanggal Sabtu 14 November; rundown 08.00–16.06 dengan Stadium Generale Pembina; Ruang Tumbuh berupa botol aspirasi per departemen). Versi 1.2, 1 November 2026 (rundown 08.30–16.06 dan simulasi 30 menit hasil rapat Ketua Pelaksana dan Badan Personalia; komposisi Ngopi Khidmah baru; Canvas dua zona terbuka dengan zona ketiga tertutup; tema resmi). Versi 1.1, 24 Oktober 2026 (pembaruan pasca-audiensi: Materi 2 dibingkai ulang menjadi prinsip komunikasi dan kolaborasi lintas tim; Materi 1 dan Simulasi Taktis dibingkai sebagai simulasi berbasis konvensi struktur kabinet saat ini; zona Canvas A3 memakai pendekatan *Appreciative Inquiry*)
 **Peserta:** Staf Muda angkatan 2025, ±50–70 orang
 
@@ -20,7 +20,7 @@
 | 2 | 08.30 | 08.35 | 5' | Pembukaan oleh MC | MC | Peserta memahami tujuan dan alur satu hari |
 | 3 | 08.35 | 08.38 | 3' | Sambutan Ketua Pelaksana | Bara Ardiwinata |  |
 | 4 | 08.38 | 08.41 | 3' | Sambutan Ketua Umum JMMI ITS | Muhammad Hazal Ma'aly Mahmud |  |
-| 5 | 08.41 | 09.11 | 30' | **Stadium Generale Pembina: "Semangat Bermasjid dan Ruh Khidmah"** | Prof. Dr. Ir. Eko Setijadi, S.T., M.T. | Membuka kegiatan dengan semangat berkhidmah di masjid kampus (lihat TOR 0) |
+| 5 | 08.41 | 09.11 | 30' | **Stadium Generale Pembina: "Semangat Bermasjid dan Ruh Khidmah"** | Prof. Dr. Ir. Eko Setijadi, S.T., M.T., Ph.D. | Membuka kegiatan dengan semangat berkhidmah di masjid kampus (lihat TOR 0) |
 | 6 | 09.11 | 09.21 | 10' | **Pre-Test (13 butir pilihan ganda, 6 butir sikap, 1 pertanyaan terbuka) via QR** | Operator | Data pre-test terkumpul |
 | 7 | 09.21 | 10.21 | 60' | **Materi 1: "Arsitektur Amanah"** | Ketum, Waket I, Waket II | Peta wewenang menurut konvensi struktur saat ini dipahami. Tanya jawab 15' |
 | 8 | 10.21 | 11.21 | 60' | **Materi 2: "Simpul Organisasi"** | Waket III & Staf Ahli Badan Personalia | Peserta membawa pulang handout "Prinsip dan Skrip Koordinasi" |
@@ -120,7 +120,7 @@ P = bahasan utama, S = bahasan pendukung (maksimal 2 menit), — = tidak dibahas
 
 ### 3.0 Stadium Generale Pembina: "Semangat Bermasjid dan Ruh Khidmah" (08.41–09.11)
 
-**Pemateri:** Prof. Dr. Ir. Eko Setijadi, S.T., M.T. (Dosen Pembina JMMI ITS)
+**Pemateri:** Prof. Dr. Ir. Eko Setijadi, S.T., M.T., Ph.D. (Dosen Pembina JMMI ITS)
 **Waktu:** 08.41–09.11 WIB (30 menit)
 **Inti pesan:** membuka kegiatan, membakar semangat berkhidmah di masjid kampus, makna memakmurkan Masjid Manarul Ilmi, dan pentingnya niat lurus dalam berorganisasi. Detail TOR ada di `main/tor_materi_0_open_speech_pembina.md`.
 
@@ -415,7 +415,7 @@ Data kontemporer (jumlah jamaah, program terbaru, capaian kabinet) disiapkan pem
 | **Gaya** | Hangat, tenang, dan singkat. Tanpa tanya jawab |
 | **Batas slide** | Maksimal 5 slide, atau tanpa slide |
 | **Koordinasi** | Hadir sebelum 08.30 untuk uji mikrofon dan proyektor |
-| **Pengumpulan bahan** | Outline atau slide ke Sie Acara paling lambat 10 November |
+| **Pengumpulan bahan** | Outline atau slide ke Sie Acara paling lambat **Jumat, 13 November 2026 pukul 23.59 WIB** |
 
 ### 4.1 Brief M1 — Hazal, Waket I, Waket II
 
@@ -429,7 +429,7 @@ Data kontemporer (jumlah jamaah, program terbaru, capaian kabinet) disiapkan pem
 | **Pembagian peran** | Hazal: latar dan harapan. Waket I: Fungsionaris vs Eksekutif dan contoh Bidang 1. Waket II: tabel wewenang dan Bidang 2 |
 | **Batas slide** | Maksimal 12 |
 | **Kalimat jembatan ke M2** | "Setelah paham siapa memutuskan apa, sekarang kita belajar bagaimana berkomunikasi dan berkolaborasi antartim dengan beretika, apa pun bentuk strukturnya." |
-| **Pengumpulan bahan** | Slide final ke Sie Acara paling lambat 10 November |
+| **Pengumpulan bahan** | Slide final ke Sie Acara paling lambat **Jumat, 13 November 2026 pukul 23.59 WIB** |
 
 ### 4.2 Brief M2 — Waket III dan 1 Staf Ahli Badan Personalia
 
@@ -443,7 +443,7 @@ Data kontemporer (jumlah jamaah, program terbaru, capaian kabinet) disiapkan pem
 | **Batas slide** | Maksimal 12 |
 | **Penekanan** | Kasus nyata dan latihan, bukan membaca pasal. Sampaikan bahwa ketidakfinalan Tata Kelola adalah kesempatan peserta ikut menyempurnakannya |
 | **Kalimat jembatan ke M3** | "Komunikasi antartim sudah kita pahami prinsipnya. Namun yang menjalankannya adalah manusia, jadi sekarang kita belajar memimpin tim." |
-| **Pengumpulan bahan** | Slide final, handout, dan hasil validasi Lembar Konvensi Sementara oleh Sekum dan Bendum paling lambat 10 November |
+| **Pengumpulan bahan** | Slide final, handout, dan hasil validasi Lembar Konvensi Sementara oleh Sekum dan Bendum paling lambat **Jumat, 13 November 2026 pukul 23.59 WIB** |
 
 ### 4.3 Brief M3 — Best Kabiro BME OKR 1 dan OKR 2
 
@@ -456,7 +456,7 @@ Data kontemporer (jumlah jamaah, program terbaru, capaian kabinet) disiapkan pem
 | **Gaya** | Hangat, jujur, dan ringan. Boleh humor |
 | **Batas slide** | Maksimal 8 |
 | **Kalimat jembatan ke Simulasi** | "Sebentar lagi kalian akan merasakan sendiri bekerja bersama teman-teman biro di bawah tekanan, tanpa ada yang ditunjuk memimpin. Siapa pun boleh melangkah maju. Ingat satu hal: lebih baik bertanya dan mengeskalasi tepat daripada memutuskan sendiri di luar wewenang." |
-| **Pengumpulan bahan** | Garis besar cerita ke Sie Acara paling lambat 10 November |
+| **Pengumpulan bahan** | Garis besar cerita ke Sie Acara paling lambat **Jumat, 13 November 2026 pukul 23.59 WIB** |
 
 ### 4.4 Brief M4 — Kadep Syi'ar
 
@@ -470,7 +470,7 @@ Data kontemporer (jumlah jamaah, program terbaru, capaian kabinet) disiapkan pem
 | **Batas slide** | Minimal (foto dan satu kutipan) |
 | **Koordinasi** | Mengikuti presentasi hasil simulasi (13.41–14.11) agar bisa menautkan pengalaman peserta, termasuk pelajaran kepemimpinan organik |
 | **Penutup** | Doa dan serah ke MC untuk post-test |
-| **Pengumpulan bahan** | Outline ke Sie Acara paling lambat 10 November |
+| **Pengumpulan bahan** | Outline ke Sie Acara paling lambat **Jumat, 13 November 2026 pukul 23.59 WIB** |
 
 ### 4.5 Rapat Koordinasi Pemateri (usulan)
 

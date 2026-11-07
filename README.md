@@ -13,7 +13,7 @@ Knowledge base konsep dan rancangan program untuk keperluan *review* oleh BPI da
 |---|---|
 | **Program** | Be A Better Muslim II (BBM 2), rangkaian upgrading anggota JMMI ITS |
 | **Tema** | "Membentang saujana asa, menyatukan langkah dan karya" |
-| **Pelaksanaan** | **Sabtu, 14 November 2026**, 08.00–16.06 WIB, Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS |
+| **Pelaksanaan** | **Sabtu, 14 November 2026**, 08.00–16.06 WIB, Ruang Rapat Barat Utara Masjid Manarul Ilmi ITS |
 | **Peserta** | Staf Muda angkatan 2025, sekitar **50–70 orang** |
 | **Ketua Pelaksana** | Bara Ardiwinata |
 | **Format** | 1 hari tatap muka: 4 materi inti, 1 Simulasi Taktis (**30 menit**), pre-test dan post-test, dan Kegiatan Pasca Pelatihan (KPP) |
@@ -104,7 +104,7 @@ Delapan biro (Biro Manajemen Event, Biro Pengabdian Masyarakat, Biro Kajian & In
 | Materi 2 sebagai prinsip komunikasi lintas tim, pembingkaian "konvensi struktur saat ini", tiga zona Canvas (Cahaya Biro, Ruang Tumbuh, Asa dan Terobosan), topik ketiga Ngopi Khidmah, dan butir tes berbasis prinsip | **Disepakati** (keputusan Ketua Pelaksana pasca-audiensi, 24 Oktober 2026) |
 | Tema resmi, rundown 08.30–16.06, simulasi 30 menit, komposisi Ngopi Khidmah baru, Canvas dua zona terbuka dan amplop tertutup Ruang Tumbuh | **Disepakati** (rapat Ketua Pelaksana dan Badan Personalia, 1 November 2026) |
 | Angka TUK, jumlah fasilitator dan pengamat, mekanisme meja gabungan (dua kartu), dan naskah transparansi pengamatan | **Usulan**, menunggu persetujuan Ketua |
-| Kapasitas Aula / Ruang AV untuk sekitar 100 orang | **Belum terverifikasi** (konfirmasi ke Takmir sebelum 15 Oktober) |
+| Kapasitas Ruang Rapat Barat Utara untuk sekitar 100 orang | **Belum terverifikasi** (konfirmasi ke Takmir sebelum 15 Oktober) |
 | Angka bertanda **(sim)** pada kasus simulasi | **Fiktif**, perlu divalidasi Kabiro terkait sebelum kartu dicetak |
 | Proposal kegiatan | **Draf Markdown tersedia** (`main/proposal_bbm_2.md`); harga satuan RAB masih estimasi dan nama panitia belum dilengkapi; berkas `.docx` belum dibuat |
 
