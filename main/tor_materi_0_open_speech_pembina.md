@@ -1,130 +1,118 @@
-# TOR MATERI 0: STADIUM GENERALE "SEMANGAT BERMASJID DAN RUH KHIDMAH"
+# TERM OF REFERENCE
 
-**Kegiatan:** Be A Better Muslim II (BBM 2), JMMI ITS Kabinet Ekselensi 2026
-**Penyelenggara:** Badan Personalia, Bidang Manajemen Sumber Daya Manusia dan Tata Kelola Organisasi
-**Tempat:** Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS
-**Versi:** 1.0, 3 November 2026
-
----
-
-## 1. Identitas Sesi
-
-| Unsur | Keterangan |
-|---|---|
-| Nama sesi | Stadium Generale: "Semangat Bermasjid dan Ruh Khidmah" |
-| Jenis sesi | Sambutan dan pembuka dari Pembina (bukan materi inti) |
-| Hari dan tanggal | Sabtu, 14 November 2026 |
-| Waktu | 08.41–09.11 WIB (30 menit) |
-| Pemateri | Prof. Dr. Ir. Eko Setijadi, S.T., M.T., Dosen Pembina JMMI ITS |
-| Format | Ceramah singkat, cerita, dan doa. Tanpa tanya jawab |
+**NAMA KEGIATAN:** Be A Better Muslim II (BBM 2)
+**JAMAAH MASJID MANARUL ILMI**
+**INSTITUT TEKNOLOGI SEPULUH NOPEMBER SURABAYA**
+**Sesi:** Stadium Generale: "Semangat Bermasjid dan Ruh Khidmah"
 
 ---
 
-## 2. Judul dan Tema Kegiatan
+## A. JUDUL DAN TEMA KEGIATAN
 
-Sesi ini bagian dari kegiatan **"Be A Better Muslim II (BBM 2)"** dengan tema **"Membentang saujana asa, menyatukan langkah dan karya"**.
+Judul kegiatan yang akan dilaksanakan adalah **“Be a Better Muslim II (BBM 2)”** dengan tema **“Membentang saujana asa, menyatukan langkah dan karya”**.
 
----
+## B. DESKRIPSI KEGIATAN
 
-## 3. Latar Belakang
+BBM 2 adalah rangkaian pelatihan satu hari secara tatap muka untuk Staf Muda JMMI ITS angkatan 2025, yang disusul Kegiatan Pasca Pelatihan (KPP). Tujuannya menyiapkan calon Kepala Biro dan Staf Ahli pada kepengurusan berikutnya.
 
-Sebelum materi dimulai, peserta perlu diingatkan mengapa mereka berada di masjid ini dan untuk apa mereka berorganisasi. Sesi ini bukan materi teknis. Fungsinya membuka kegiatan dengan hati yang tenang, mengaitkan BBM 2 dengan tujuan JMMI sejak awal, dan menumbuhkan niat yang lurus.
+Sesi pembuka ini diisi oleh Dosen Pembina JMMI ITS. Sebelum peserta masuk ke materi, Pembina membuka kegiatan dengan menguatkan niat berkhidmah dan mengingatkan makna memakmurkan Masjid Manarul Ilmi. Sesi ini bukan materi teknis. Fungsinya menenangkan hati dan menyambungkan seluruh rangkaian dengan tujuan JMMI sejak awal.
 
-Sesi ini juga menjadi pintu masuk bagi empat materi berikutnya. Setelah ini, peserta akan membahas peran, komunikasi, kepemimpinan, dan estafet.
+## C. TUJUAN KEGIATAN
 
----
+Adapun tujuan dilaksanakannya kegiatan ini adalah :
+1. Menyiapkan kesiapan manajerial dan mental Staf Muda angkatan 2025 sebagai calon Kepala Biro dan Staf Ahli.
+2. Membekali pemahaman struktur kabinet saat ini serta prinsip komunikasi lintas tim.
+3. Melatih kepemimpinan dan kerja sama lintas biro melalui Simulasi Taktis.
+4. Menumbuhkan kebanggaan dan kesadaran khidmah ber-JMMI.
+5. Menghimpun data kesiapan dan minat peran calon penerus.
 
-## 4. Profil Audiens
+## D. TUJUAN MATERI
 
-| Aspek | Keterangan |
-|---|---|
-| Peserta | Staf Muda JMMI ITS angkatan 2025, ±50–70 orang |
-| Kondisi | Baru hadir pagi, masih menyesuaikan diri, dan sebagian belum pernah mengikuti acara serupa |
-| Kebutuhan | Merasa diterima, diingatkan tujuan, dan mendapat semangat yang tidak menekan |
+Adapun tujuan yang ingin dicapai pada sesi ini adalah sebagai berikut:
+1. Peserta merasa diterima dan terhubung dengan Masjid Manarul Ilmi sebagai pusat kegiatan dakwah kampus.
+2. Peserta memahami arti memakmurkan masjid, yaitu lebih dari tempat salat: tempat belajar, membina, dan melayani.
+3. Peserta memiliki niat yang lurus dalam berorganisasi dan siap mengikuti rangkaian BBM 2.
 
----
+**Indikator:** kesan awal peserta yang tercermin dari suasana sesi dan jawaban terbuka pada post-test.
 
-## 5. Tujuan Sesi
+## E. MATERI
 
-Setelah sesi ini, peserta:
+**Pembicara dan judul:** Prof. Dr. Ir. Eko Setijadi, S.T., M.T., Ph.D. (Dosen Pembina JMMI ITS), "Semangat Bermasjid dan Ruh Khidmah".
 
-1. **Merasa diterima** dan terhubung dengan Masjid Manarul Ilmi sebagai pusat kegiatan dakwah kampus.
-2. **Memahami** arti memakmurkan masjid, yaitu lebih dari tempat salat: masjid sebagai tempat belajar, membina, dan melayani.
-3. **Memiliki niat yang lurus** dalam berorganisasi, serta siap mengikuti rangkaian BBM 2 dengan hati yang terbuka.
+**Pokok bahasan:**
+- **Pembuka:** sapaan dan tujuan BBM 2 dalam satu kalimat.
+- **Memakmurkan masjid kampus:** masjid sebagai pusat pembinaan. Apa artinya memakmurkan masjid bagi mahasiswa.
+- **Niat lurus berorganisasi:** amanah, keikhlasan, dan adab. Cara menjaga niat ketika lelah atau merasa belum cukup.
+- **Penutup:** ajakan untuk melangkah bersama, doa singkat, lalu serah ke MC untuk pre-test dan Materi 1.
 
----
-
-## 6. Pokok Bahasan dan Alur
+**Alur menit per menit:**
 
 | Menit | Bagian | Isi |
 |---|---|---|
-| 0–5 | Pembuka | Sapaan dan tujuan BBM 2 dalam satu kalimat |
-| 5–15 | Memakmurkan masjid kampus | Masjid sebagai pusat pembinaan. Arti memakmurkan masjid bagi mahasiswa |
-| 15–25 | Niat lurus berorganisasi | Amanah, keikhlasan, dan adab. Cara menjaga niat ketika lelah atau merasa tidak cukup |
-| 25–30 | Penutup | Ajakan untuk melangkah bersama, doa singkat, dan serah ke MC untuk pre-test dan Materi 1 |
+| 0–5 | Pembuka | Sapaan dan tujuan BBM 2 |
+| 5–15 | Memakmurkan masjid kampus | Masjid sebagai pusat pembinaan |
+| 15–25 | Niat lurus berorganisasi | Amanah, keikhlasan, dan adab |
+| 25–30 | Penutup | Ajakan, doa singkat, dan serah ke MC |
 
-**Pengendali waktu** memberi isyarat pada menit ke-25 dan ke-29.
+**Batasan materi:**
+- Tidak membahas struktur kabinet, SOP, atau tata kelola. Itu Materi 1 dan Materi 2.
+- Tidak membahas Simulasi Taktis atau KPP. Keduanya hanya disebut sebagai rangkaian kegiatan.
+- Tidak menyebut data atau angka baru yang belum terverifikasi.
 
----
+**Matriks anti-tumpang-tindih:** sesi ini hanya membuka kegiatan dan tidak bersinggungan dengan Materi 1 sampai 4. Pengendali waktu memberi isyarat pada menit ke-25 dan ke-29.
 
-## 7. Batasan Sesi
+## F. KEPESERTAAN
 
-- **Tidak membahas** struktur kabinet, SOP, atau tata kelola. Itu bagian Materi 1 dan Materi 2.
-- **Tidak membahas** Simulasi Taktis atau KPP. Sebutkan keduanya hanya sebagai rangkaian kegiatan.
-- **Tidak menyebut** data atau angka baru yang belum terverifikasi.
-- **Tidak menyinggung** suku, ras, atau politik apa pun.
+Peserta adalah Staf Muda JMMI ITS angkatan 2025 dari delapan biro, sekitar 50–70 orang. Mereka sudah mengikuti BBM 1 dan sedang disiapkan sebagai calon Kepala Biro atau Staf Ahli pada kepengurusan berikutnya. Sebagian baru hadir pagi dan belum terbiasa dengan suasana acara serupa.
 
----
+## G. WAKTU DAN TEMPAT
 
-## 8. Metode dan Media
+- **Hari, tanggal:** Sabtu, 14 November 2026
+- **Waktu:** 08.41–09.11 WIB (30 menit)
+- **Tempat:** Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS
+- **Pemateri:** Prof. Dr. Ir. Eko Setijadi, S.T., M.T., Ph.D., Dosen Pembina JMMI ITS
+- **Fasilitas:** 1 proyektor dan layar, 2 mikrofon nirkabel (1 cadangan), dan laptop
 
-- Ceramah singkat dengan cerita pendek dari pengalaman pembina.
-- Tanpa tanya jawab, karena waktu terbatas dan sesi ini sebagai pembuka.
-- Media: maksimal 5 slide, atau tanpa slide. Boleh menampilkan satu foto Masjid Manarul Ilmi.
+## H. METODE DAN LARANGAN
 
----
+Metode yang digunakan adalah ceramah singkat yang diselingi cerita pengalaman dan doa. Sesi ini tidak memakai tanya jawab, karena waktunya terbatas dan posisinya sebagai pembuka.
 
-## 9. Waktu dan Fasilitas
+Larangan dalam penyampaian:
+- Dilarang berceramah satu arah yang panjang dan monoton. Pakai cerita pendek agar peserta tetap fokus.
+- Dilarang menyinggung suku, ras, atau politik apa pun.
+- Dilarang menekan peserta untuk menyatakan komitmen di hadapan forum.
 
-| Unsur | Keterangan |
-|---|---|
-| Hari, tanggal | Sabtu, 14 November 2026 |
-| Waktu | 08.41–09.11 WIB |
-| Tempat | Aula / Ruang Audiovisual Masjid Manarul Ilmi ITS |
-| Fasilitas | 1 proyektor dan layar, 2 mikrofon nirkabel (1 untuk pembina, 1 cadangan), dan laptop |
+## I. RUNDOWN ACARA
 
----
+| Waktu (WIB) | Durasi | Kegiatan | PIC |
+|---|---|---|---|
+| 08.35–08.38 | 3' | Sambutan Ketua Pelaksana | Bara Ardiwinata |
+| 08.38–08.41 | 3' | Sambutan Ketua Umum JMMI ITS | Muhammad Hazal Ma'aly Mahmud |
+| 08.41–09.11 | 30' | **Stadium Generale Pembina** | Prof. Dr. Ir. Eko Setijadi, S.T., M.T., Ph.D. |
+| 09.11–09.21 | 10' | Pre-Test | Operator |
 
-## 10. Hak dan Kewajiban Pemateri
+## J. KEUNTUNGAN PEMATERI
 
-**Kewajiban:**
-1. Hadir sebelum 08.30 WIB untuk uji mikrofon dan proyektor.
-2. Selesai tepat waktu, paling lambat 09.11 WIB.
-3. Mengirim outline atau slide ke Sie Acara paling lambat 10 November 2026.
+- E-sertifikat sebagai pembina sesi pembuka.
+- Plakat atau cinderamata dari JMMI ITS.
+- Amal jariyah dan kebaikan yang lahir dari ilmu yang disampaikan.
+- Ukhuwah dengan seluruh pengurus JMMI ITS.
+- Konsumsi selama kegiatan.
 
-**Hak:**
-1. Mendapatkan tanda terima kasih dari JMMI ITS.
-2. Mendapatkan dukungan Sie Acara untuk perangkat dan pengaturan sesi.
+## K. HAK DAN KEWAJIBAN PEMATERI
 
----
+Adapun hak dan kewajiban pemateri dalam kegiatan ini sebagai berikut :
+1. Mengonfirmasi kehadiran kepada Ketua Pelaksana paling lambat **H-3 (11 November 2026)**.
+2. Mengirim outline atau slide final kepada Sie Acara paling lambat **H-2 (12 November 2026)**.
+3. Hadir pukul 08.30 WIB untuk uji mikrofon dan proyektor.
+4. Menyelesaikan sesi tepat waktu, paling lambat pukul 09.11 WIB.
+5. Berhak mendapatkan tanda terima kasih dari JMMI ITS dan dukungan Sie Acara untuk perangkat.
 
-## 11. Kalimat Penutup Sesi
+## L. PENUTUP
 
-Kalimat penutup yang disarankan: "Sebelum kita lanjut, mari kita luruskan niat. Semoga apa yang kita bangun di masjid ini menjadi amal yang terus mengalir."
+Term of Reference ini disusun sebagai kerangka acuan pemateri. Setiap perubahan isi atau waktu disampaikan kepada Sie Acara dan Ketua Pelaksana.
 
----
+## M. NARAHUBUNG
 
-## 12. Catatan Verifikasi
-
-- Nama dan gelar pemateri mengikuti permintaan Ketua Pelaksana pada rundown ("Prof. Dr. Ir. Eko Setijadi, S.T., M.T."). Lembar pengesahan proposal masih mencantumkan "Prof. Eko Setijadi, S.T., M.T., Ph.D." dan NIP. Keduanya perlu disamakan sebelum dicetak.
-
----
-
-## 13. Narahubung
-
-| Peran | Nama | Tugas |
-|---|---|---|
-| Ketua Pelaksana | Bara Ardiwinata | Penanggung jawab umum dan koordinasi pembina |
-| Sie Acara | Sesuai susunan kepanitiaan (Lampiran 2 proposal) | Rundown, MC, dan pengendali waktu |
-
-Nomor kontak disampaikan terpisah oleh Ketua Pelaksana.
+Apabila ada pertanyaan dapat menghubungi kontak berikut ini:
+- **Bara Ardiwinata**, Ketua Pelaksana BBM 2. Nomor kontak disampaikan terpisah melalui grup koordinasi pemateri.
