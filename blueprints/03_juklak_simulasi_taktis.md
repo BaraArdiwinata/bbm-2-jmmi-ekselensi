@@ -179,12 +179,12 @@ Arah panah: **biro pengusung → biro tujuan** (pengusung adalah pihak yang bole
 | R-04 | Biro Pengabdian Masyarakat | Biro Relasi & Hubungan Eksternal | [B] | Pilihan mitra penyaluran (dari kandidat) beserta syarat verifikasi, PIC, dan prosedur kerja sama lewat jalur khusus |
 | R-05 | Biro Kajian & Inovasi Dakwah | Biro Pengabdian Masyarakat | [D] | Pengadaan pengajar Academy: berbagi pool volunteer atau rekrutmen dan pelatihan pengajar tanpa rebutan; hari tersedia dan syarat |
 | R-06 | Biro Kajian & Inovasi Dakwah | Biro Amaliyah Yaumiyah | [=] | Slot hari dan jam kelas Academy yang tidak bentrok dengan GDM, Q-TIME, dan RAPI; jumlah kelas paralel; aturan kebisingan |
-| R-07 | Biro Usaha Mandiri | Biro Kajian & Inovasi Dakwah | [B] | Segmentasi Minion Class vs Academy (mata kuliah, level, jadwal), aturan promosi saling tidak merugikan, pembagian pengajar bila beririsan |
-| R-08 | Biro Usaha Mandiri | Biro Digital Production | [D] | Antrean dan tenggat desain (poster Minion Class dan poster atau katalog paket GoRent), kelengkapan brief sesuai SOP 6.4 (pengajuan H-7), batas revisi |
+| R-07 | Biro Usaha Mandiri | Biro Kajian & Inovasi Dakwah | [B] | Pre-order jaket kepanitiaan JMMI Store: jumlah pesanan (target ≥ 70% panitia), desain final, skema termin, tenggat ukuran, desain fix, dan DP (H-17) |
+| R-08 | Biro Usaha Mandiri | Biro Digital Production | [D] | Antrean dan tenggat desain (mockup jaket JMMI Store, poster pre-order, katalog paket GoRent), kelengkapan brief sesuai SOP 6.4 (pengajuan H-7), batas revisi |
 | R-09 | Biro Amaliyah Yaumiyah | Biro Usaha Mandiri | [B] | Pasokan takjil KSSI: volume rata-rata, jadwal, harga per porsi, standar kualitas, skema komitmen |
 | R-10 | Biro Amaliyah Yaumiyah | Biro Media Analysis & Strategi | [B] | Slot dan kalender konten bulanan KSSI (feed, reels, pengumuman jadwal), format, tenggat brief, jadwal tayang |
 | R-11 | Biro Digital Production | Biro Media Analysis & Strategi | [=] | Hand-off produksi → publikasi: format dan tenggat file final, bundling aset, kalender tayang, siapa yang mengunggah |
-| R-12 | Biro Digital Production | Biro Amaliyah Yaumiyah | [B] | Izin dan jadwal siaran langsung Q-TIME, posisi kamera dan tripod yang tidak mengganggu jamaah dan GDM, jumlah hari siaran |
+| R-12 | Biro Digital Production | Biro Amaliyah Yaumiyah | [B] | Kesepakatan teknis STREAMMI untuk khatmil Qur'an OWOJ: posisi kamera dan tripod, jam persiapan dan uji coba, izin pembaca, PIC lokasi, dan tenggat aftermovie |
 | R-13 | Biro Media Analysis & Strategi | Biro Relasi & Hubungan Eksternal | [D] | Narasumber dan media partner eksternal untuk NARASI lewat jalur Relasi: siapa menghubungi, kapan, sumber alternatif (jaringan alumni) |
 | R-14 | Biro Media Analysis & Strategi | Biro Manajemen Event | [B] | Dukungan manajemen acara NARASI (ruang, tanggal, tenaga, rundown) tanpa mengambil alih konten; kompromi dengan jadwal acara besar |
 | R-15 | Biro Relasi & Hubungan Eksternal | Biro Digital Production | [D] | Dokumentasi dan publikasi Jaulah LDK: cakupan (foto, video), tenaga akhir pekan, tenggat brief, batas revisi |
@@ -219,6 +219,7 @@ Legenda: **[=]** satu departemen · **[D]** lintas departemen dalam satu bidang 
 1. **GoRent:** Biro Manajemen Event bersaing dengan klien eksternal Biro Usaha Mandiri untuk unit HT dan proyektor pada H-1 sampai Hari Puncak. Tarif dan klausul memengaruhi anggaran sewa Biro Manajemen Event sekaligus target keuntungan Biro Usaha Mandiri. SOP 6.3 tidak mengatur tarif atau denda, sehingga kesepakatan harus dicatat dan diinfokan ke Kadep Relasi Publik & Advokasi.
 2. **Slot eksternal Biro Relasi & Hubungan Eksternal:** Biro Manajemen Event, Biro Pengabdian Masyarakat, dan Biro Media Analysis & Strategi bersaing untuk sisa 4 slot.
 3. **Antrean Biro Digital Production dan Biro Media Analysis & Strategi:** Inject A menurunkan kapasitas keduanya.
+   - **Jaket JMMI Store:** mockup Biro Digital Production (R-08, ≤ H-18) menentukan apakah Biro Kajian & Inovasi Dakwah bisa fix desain dan DP di H-17 (R-07).
 4. **Hari pengajar:** relawan dari Biro Pengabdian Masyarakat hanya tersedia Rabu dan Kamis, sehingga menentukan hari kelas yang bisa diambil Biro Kajian & Inovasi Dakwah dari Biro Amaliyah Yaumiyah.
 5. **Aula:** NARASI milik Biro Media Analysis & Strategi berbenturan dengan penguncian Aula oleh Biro Manajemen Event.
 
@@ -332,13 +333,14 @@ Legenda: **[=]** satu departemen · **[D]** lintas departemen dalam satu bidang 
 | Tiket yang dimulai | **R-05** ke Biro Pengabdian Masyarakat · **R-06** ke Biro Amaliyah Yaumiyah |
 | Sumber deck | JMMI Academy: minimal 4 kelas, minimal 20 peserta per kelas, minimal 1 pengajar per kelas, menjelang ETS dan EAS; konsep, rekrutmen pengajar, poster, pelaksanaan |
 
-**Latar belakang / trigger (sim).** H-21. Kelas dijadwalkan Senin–Kamis pada H-12 sampai H-9. Pengajar baru 2, pendaftar baru 38 dari target 80, dan terdengar ada kegiatan bimbel lain untuk mahasiswa yang sama.
+**Latar belakang / trigger (sim).** H-21. Kelas dijadwalkan Senin–Kamis pada H-12 sampai H-9. Pengajar baru 2, pendaftar baru 38 dari target 80. Tim juga sedang membentuk panitia 20 orang (sim) untuk kegiatan besar menuju Hari Puncak.
 
 **Limitasi dan kapasitas.**
 - 4 kelas (sim): Kalkulus, Fisika Dasar, Kimia Dasar, Pengantar Pemrograman. Durasi ideal 105 menit, minimal 75 menit; mulai ideal 15.30.
 - Pengajar internal 2 (Kalkulus dan Fisika Dasar), **kurang 2** (Kimia Dasar dan Pemrograman).
 - Pendaftar 38 (sim) dari target 80.
 - Maksimal 2 ruang paralel (sim).
+- Jaket kepanitiaan: pembelian **tidak wajib**, target minimal 70% panitia (14 dari 20); desain harus mengikuti atribut JMMI; kas biro tidak boleh menalangi.
 - Materi yang mewakili JMMI ke pihak luar harus disetujui **Kadep Pelayanan Masjid & Dakwah**.
 
 **Misi koordinasi wajib.**
@@ -346,24 +348,24 @@ Legenda: **[=]** satu departemen · **[D]** lintas departemen dalam satu bidang 
 - **R-06 ke Biro Amaliyah Yaumiyah:** wajib menyepakati 4 kelas dalam 4 hari kerja, selesai ≤ 17.00, bebas bentrok kegiatan masjid. Diinginkan: durasi ≥ 90 menit, 2 kelas paralel dalam satu hari. Tim belum tahu hari dan jam tersedia dan harus menggalinya.
 
 **Permintaan yang mungkin masuk.**
-- Sinkronisasi bimbel lain (segmen, jadwal, promosi): boleh bernegosiasi. Syarat: Academy fokus konsep dasar bagi mahasiswa baru, nama dan logo Academy tidak dipakai program lain, promosi tidak saling menjatuhkan. Tidak berwenang meminta program biro lain dibatalkan.
+- Jaket kepanitiaan JMMI Store (desain, jumlah, pembayaran, tenggat): boleh bernegosiasi. Syarat: desain mengikuti atribut JMMI, pembelian sukarela per panitia, bayar bertahap, desain tidak berubah setelah DP. Tidak berwenang memaksa panitia membeli atau menalangi dengan kas biro.
 - Permintaan materi atau moderator untuk tamu eksternal: bisa memberi 1 moderator (anggota yang bebas hanya hari Sabtu) dan 1 materi 15 menit (butuh persiapan 3 hari dan template dari pemohon).
 
-**Batasan wewenang dan SOP.** Materi untuk pihak eksternal → persetujuan Kadep Pelayanan Masjid & Dakwah. Penambahan atau pengurangan kelas di luar rencana atau anggaran → Kadep Pelayanan Masjid & Dakwah. Kerja sama pihak luar hanya via Biro Relasi & Hubungan Eksternal. Konflik segmen yang tidak selesai → Kadep kedua belah pihak.
+**Batasan wewenang dan SOP.** Materi untuk pihak eksternal → persetujuan Kadep Pelayanan Masjid & Dakwah. Penambahan atau pengurangan kelas di luar rencana atau anggaran → Kadep Pelayanan Masjid & Dakwah. Kerja sama pihak luar hanya via Biro Relasi & Hubungan Eksternal. Kebutuhan yang tidak selesai di meja → Kadep kedua belah pihak. Pemakaian kas biro untuk jaket panitia → Kadep Pelayanan Masjid & Dakwah dan Bendum.
 
 ### 5.4 Kasus 4 — Biro Usaha Mandiri
 
 | | |
 |---|---|
 | Departemen / Bidang | Relasi Publik & Advokasi, Bidang 3 (Kadep Relasi Publik & Advokasi → Waket III) |
-| Proker Amanah | **Minion Class** (layanan: GoRent, JMMI Commerce) |
+| Proker Amanah | **JMMI Store** (layanan: GoRent, JMMI Commerce) |
 | Tiket yang dimulai | **R-07** ke Biro Kajian & Inovasi Dakwah · **R-08** ke Biro Digital Production |
-| Sumber deck | Minion Class: bimbingan belajar mingguan offline, KR 4 kali pelaksanaan, pendataan partisipan dan net income; GoRent: penyewaan perlengkapan kerja (proyektor, layar, HT, kamera, tripod) dalam paket, KR 20 penyewa dan keuntungan minimal Rp 250.000, reinventaris, perbaikan, dan pengadaan unit bila perlu, poster penyewaan bersama Digipro; JMMI Commerce: keuntungan ≥ Rp 150.000, papan transparansi harga |
+| Sumber deck | JMMI Store: desain atribut dan merchandise JMMI, pengadaan jaket kepanitiaan dengan target pembelian minimal 70% panitia, pembayaran termin, distribusi sebelum agenda besar, kolaborasi desain bersama Digipro; GoRent: penyewaan perlengkapan kerja (proyektor, layar, HT, kamera, tripod) dalam paket, KR 20 penyewa dan keuntungan minimal Rp 250.000, reinventaris, perbaikan, dan pengadaan unit bila perlu, poster penyewaan bersama Digipro; JMMI Commerce: keuntungan ≥ Rp 150.000, papan transparansi harga |
 
-**Latar belakang / trigger (sim).** Tim ingin menjalankan 2 sesi Minion Class pada H-12 sampai H-9, tetapi mata kuliah, peserta, dan pengajarnya mirip dengan program kelas milik biro lain, dan promosi belum ada. Pada saat yang sama tim menerima banyak permintaan sewa alat GoRent (termasuk dari klien eksternal untuk Hari Puncak) dan takjil.
+**Latar belakang / trigger (sim).** Tim mengejar target omzet JMMI Store lewat pre-order jaket kepanitiaan, tetapi desain belum fix dan tenggat produksi vendor mepet menuju Hari Puncak. Tim butuh kesepakatan desain final, jumlah pesanan, dan tenggat dengan biro mitra. Pada saat yang sama tim menerima banyak permintaan sewa alat GoRent (termasuk dari klien eksternal untuk Hari Puncak) dan takjil.
 
 **Limitasi dan kapasitas.**
-- Minion Class (sim): 2 sesi, target 20 peserta per sesi, biaya Rp 15.000 per peserta, honor tutor Rp 150.000 per sesi, 3 tutor internal.
+- **JMMI Store, jaket kepanitiaan (sim):** harga Rp 140.000 per jaket, modal vendor Rp 105.000. Minimal order vendor **15 jaket**, produksi **14 hari** sejak desain final dan DP, sehingga desain fix dan DP paling lambat **H-17** agar jaket jadi H-3. Termin: DP 50%, pelunasan sebelum jaket dibagikan. Diskon maksimal **5%** (Rp 133.000) untuk pesanan ≥ 20 jaket. Target untung minimal Rp 500.000.
 - **Inventaris GoRent (sim):** HT 12 unit; sound portable 2 set; frame backdrop atau standing banner 4 set; kabel roll 6; proyektor 2 unit. Pada **H-1 sampai Hari Puncak**, **4 HT dan 1 proyektor** sudah dibooking klien eksternal, sehingga yang tersedia pada hari puncak hanya **8 HT dan 1 proyektor**.
 - **Tarif umum per hari (sim):** HT Rp 10.000 per unit; sound portable Rp 100.000 per set; frame backdrop Rp 30.000 per set; kabel roll Rp 5.000 per unit; proyektor Rp 100.000 per unit.
 - **Harga internal ormawa JMMI (sim):** diskon **30%** dari tarif umum. Untuk sewa **3 hari atau lebih**, hari ke-3 dan seterusnya dihitung **50% dari tarif internal**. Nilai satu peminjaman besar tidak boleh di bawah **Rp 800.000** (biaya perawatan dan target keuntungan).
@@ -373,14 +375,14 @@ Legenda: **[=]** satu departemen · **[D]** lintas departemen dalam satu bidang 
 - Target keuntungan (deck): GoRent minimal Rp 250.000 dan JMMI Commerce minimal Rp 150.000.
 
 **Misi koordinasi wajib.**
-- **R-07 ke Biro Kajian & Inovasi Dakwah:** wajib menyepakati pembagian segmen (mata kuliah, level, jadwal) agar Minion Class dan kelas Academy tidak bentrok dan tidak saling mematikan; 2 sesi Minion Class punya jadwal pasti. Diinginkan: promosi silang atau pembagian pengajar. Tawaran: Minion Class fokus latihan soal intensif. Dilarang meminta Academy dibatalkan atau dikurangi.
-- **R-08 ke Biro Digital Production:** wajib menyepakati poster Minion Class siap ≤ H-16 (batas terima ≤ H-14) dan poster atau katalog paket GoRent ≤ H-12. Harus memuat tenggat, kelengkapan brief, batas revisi. Ingat SOP media: desain diajukan minimal H-7 sebelum hasil dibutuhkan, dan pengajuan lebih mepet tidak menjamin selesai.
+- **R-07 ke Biro Kajian & Inovasi Dakwah:** wajib menyepakati pesanan jaket panitia dengan desain final yang disetujui, jumlah pesanan (target minimal 70% panitia), skema termin, dan tenggat ukuran, desain fix, serta DP paling lambat H-17. Diinginkan: pesanan ≥ 20 jaket. Tawaran: pilihan warna dan penempatan nama, diskon sampai 5% untuk ≥ 20 jaket, pelunasan saat jaket siap dibagikan. Dilarang menjanjikan perubahan desain setelah DP atau meminta KID menalangi pembayaran panitia.
+- **R-08 ke Biro Digital Production:** wajib menyepakati mockup jaket JMMI Store (dari grand desain atribut JMMI) siap ≤ H-18 agar KID bisa memutuskan desain, poster pre-order ≤ H-14, dan katalog paket GoRent ≤ H-12. Harus memuat tenggat, kelengkapan brief, batas revisi. Ingat SOP media: desain diajukan minimal H-7 sebelum hasil dibutuhkan, dan pengajuan lebih mepet tidak menjamin selesai.
 
-**Permintaan yang mungkin masuk.** Penyewaan alat GoRent dan pemesanan takjil. Layani sesuai batas. Tidak boleh menjanjikan unit yang sudah dibooking atau melewati kapasitas dapur. Diskon sewa > 30%, sewa gratis, atau pembebasan deposit atau denda di luar kewenangan. Diskon takjil > 5% atau harga di bawah HPP juga di luar kewenangan.
+**Permintaan yang mungkin masuk.** Penyewaan alat GoRent dan pemesanan takjil. Layani sesuai batas. Tidak boleh menjanjikan unit yang sudah dibooking atau melewati kapasitas dapur. Diskon sewa > 30%, sewa gratis, atau pembebasan deposit atau denda di luar kewenangan. Diskon takjil > 5%, harga di bawah HPP, atau diskon jaket > 5% juga di luar kewenangan.
 
-**Batasan wewenang dan SOP.** Diskon sewa > 30%, sewa gratis, pembebasan deposit atau denda, atau ganti rugi di bawah 100% harga pengadaan → Kadep Relasi Publik & Advokasi. Diskon takjil > 5% atau harga di bawah HPP → Kadep Relasi Publik & Advokasi. Pengadaan unit baru atau perbaikan besar → Kadep Relasi Publik & Advokasi dan Bendum. Tenant eksternal baru → lewat Biro Relasi & Hubungan Eksternal. Penerimaan uang (sewa, deposit, denda) → Bendum.
+**Batasan wewenang dan SOP.** Diskon sewa > 30%, sewa gratis, pembebasan deposit atau denda, atau ganti rugi di bawah 100% harga pengadaan → Kadep Relasi Publik & Advokasi. Diskon takjil > 5%, harga di bawah HPP, atau diskon jaket > 5% → Kadep Relasi Publik & Advokasi. Pengadaan unit baru atau perbaikan besar → Kadep Relasi Publik & Advokasi dan Bendum. Tenant eksternal baru → lewat Biro Relasi & Hubungan Eksternal. Penerimaan uang (sewa, deposit, denda) → Bendum.
 
-> **Catatan analisis.** Tumpang tindih Minion Class dan JMMI Academy adalah **temuan penyusun** dari dua deck, yaitu sama-sama membidik mata kuliah dasar menjelang ETS dan EAS. Kasus ini dipakai sebagai bahan latihan negosiasi dan bukan tuduhan terhadap salah satu biro.
+> **Catatan analisis.** Kasus jaket JMMI Store memakai proker nyata dari OKR Usaha Mandiri (atribut dan merchandise JMMI, pembelian panitia minimal 70%, pembayaran termin, kolaborasi desain dengan Digipro). Angka harga, modal, minimal order, dan tenggat produksi adalah simulasi.
 
 ### 5.5 Kasus 5 — Biro Amaliyah Yaumiyah
 
@@ -398,14 +400,14 @@ Legenda: **[=]** satu departemen · **[D]** lintas departemen dalam satu bidang 
 - Plafon konsumsi KSSI (sim): **Rp 4.250.000** untuk 8 sesi, rata-rata **Rp 10.625** per porsi.
 - Komitmen rutin yang membatasi pihak lain: GDM (azan Dzuhur dan Ashar), Q-TIME (17.00–17.30), RAPI (setiap **Selasa** area serambi).
 - **Slot ruang untuk pihak lain (sim):** Senin, Rabu, Kamis pukul 15.30–16.55; Selasa tidak; maksimal 1 kelas paralel per hari, kecuali Rabu boleh 2 area. Aktivitas berhenti 16.55 dan bersuara pelan.
-- **Siaran langsung Q-TIME (sim):** hanya Rabu dan Kamis, 1 kamera, tripod di **belakang saf terakhir**, wajib izin pelantun, GDM mengamankan jalur.
+- **Acara yang akan disiarkan STREAMMI (sim):** khatmil Qur'an OWOJ, Kamis H-9, ba'da Maghrib (±18.00–19.15). Maksimal 2 kamera, tripod hanya di **belakang saf terakhir** atau sisi samping, wajib izin pembaca dan pengisi, GDM mengamankan jalur. Persiapan kamera selesai sebelum **17.00** (Q-TIME); uji coba boleh 1 kali di H-1 setelah Ashar.
 - Tim 5 orang (sim).
 
 **Misi koordinasi wajib.**
 - **R-09 ke Biro Usaha Mandiri:** wajib menyepakati pasokan takjil rata-rata ≥ 50 porsi per sesi untuk 8 sesi (40–60 per sesi boleh selama rata-rata ≥ 50), harga rata-rata ≤ Rp 10.625 per porsi, jadwal pengiriman, standar kualitas. Tawaran: komitmen 8 sesi (400 porsi), pembayaran mingguan, promosi Biro Usaha Mandiri di konten KSSI.
 - **R-10 ke Biro Media Analysis & Strategi:** wajib menyepakati 1 feed dan 1 reels dokumentasi bulanan (boleh dibundel) dengan tanggal tayang pasti, plus pengumuman jadwal puasa sunnah. Tawaran: materi mentah lengkap dan tepat waktu, draf caption, brief jelas.
 
-**Permintaan yang mungkin masuk.** Slot ruang atau izin siaran langsung Q-TIME. Jawab hanya dalam batas di atas. Izin resmi ruang masjid mengikuti surat peminjaman tempat dan fasilitas oleh Sekretaris Pelaksana.
+**Permintaan yang mungkin masuk.** Slot ruang atau izin siaran langsung dan pengambilan gambar di masjid. Jawab hanya dalam batas di atas. Izin resmi ruang masjid mengikuti surat peminjaman tempat dan fasilitas oleh Sekretaris Pelaksana.
 
 **Batasan wewenang dan SOP.** Aturan dan area masjid ada di tangan Takmir; di luar serambi dan jam di atas → Kadep Pelayanan Masjid & Dakwah. Anggaran konsumsi di atas plafon → Kadep Pelayanan Masjid & Dakwah. Tidak boleh mengurangi GDM atau Q-TIME demi kegiatan biro lain. Permintaan media mengikuti SOP media.
 
@@ -418,18 +420,18 @@ Legenda: **[=]** satu departemen · **[D]** lintas departemen dalam satu bidang 
 | Tiket yang dimulai | **R-11** ke Biro Media Analysis & Strategi · **R-12** ke Biro Amaliyah Yaumiyah |
 | Sumber deck | STREAMMI: live streaming dan tayangan sinergi di videotron sesuai request; Requesta: merangkum semua permintaan luar departemen dan membaginya sesuai jobdesk dan kemampuan staf |
 
-**Latar belakang / trigger (sim).** Permintaan masuk bersamaan, tim ingin memperluas siaran Q-TIME, dan hasil produksi menumpuk karena jalur publikasi lambat.
+**Latar belakang / trigger (sim).** Permintaan masuk bersamaan, tim ingin STREAMMI menyiarkan langsung kajian dan membuat aftermovie acara biro lain (kesepakatan teknis dengan biro pemilik acara), dan hasil produksi menumpuk karena jalur publikasi lambat.
 
 **Limitasi dan kapasitas.**
 - Kru (sim): 4 multimedia dan 4 kreatif; **akhir pekan hanya 1 orang** siaga (hanya foto, tanpa video panjang).
 - **Requesta (SOP 6.4):** maksimal **4 order desain atau dokumentasi per minggu** (sim). Satu form hanya untuk satu konten. Batas pengajuan dihitung dari tanggal hasil dibutuhkan: desain kreatif dan motion graphic **H-7**, video atau konten kurang dari 3 menit **H-7**, video atau konten lebih dari 3 menit **H-10**. Estimasi desain 4–5 hari kerja ditambah 1–2 hari revisi minor; revisi maksimal 2 kali. Pengajuan yang lebih mepet tidak menjamin selesai tepat waktu.
 - Output final per minggu: 6 aset (sim); satu carousel atau reels memuat hingga 4 aset.
-- Target siaran: Q-TIME 5 hari per minggu dengan 2 kamera.
+- Target STREAMMI: siaran langsung dengan 2 kamera (minimal 1) dan aftermovie 2 menit. Kru hari kerja tersedia, jadi acara hari Kamis aman. Aftermovie diajukan minimal **10 hari** sebelum dibutuhkan.
 - Berhak menolak atau menunda bila brief tidak jelas, terlalu mepet, atau kapasitas penuh (6.4.12).
 
 **Misi koordinasi wajib.**
 - **R-11 ke Biro Media Analysis & Strategi:** wajib menyepakati hand-off produksi ke publikasi: format file, tenggat file final (tim mengincar **Jumat 20.00**), siapa yang mengunggah, kalender tayang, dan minimal 2 slot tayang per minggu (boleh dibundel). Tawaran: aset siap tayang, draf caption, standar penamaan file.
-- **R-12 ke Biro Amaliyah Yaumiyah:** wajib menyepakati izin siaran langsung Q-TIME minimal 2 hari per minggu dengan minimal 1 kamera, tanpa mengganggu jamaah. Diinginkan: 2 kamera dan 5 hari. Murottal menuntut kekhusyukan; tawaran harus menghormatinya.
+- **R-12 ke Biro Amaliyah Yaumiyah:** wajib menyepakati teknis STREAMMI untuk khatmil Qur'an OWOJ: minimal 1 kamera (posisi tripod, jam persiapan, uji coba), PIC lokasi, izin pembaca, dan aftermovie 2 menit dengan tenggat tayang. Diinginkan: 2 kamera. Tawaran: kamera diam di belakang saf, tidak ada yang berlalu-lalang, permintaan rundown dan daftar momen dari Amaliyah.
 
 **Permintaan yang mungkin masuk.** Order desain atau dokumentasi dari biro lain. Layani dalam batas 4 order per minggu. Order yang terkait tenggat acara atau kegiatan yang sudah terjadwal lebih kritis dari promosi rutin. Akhir pekan hanya foto. Penolakan disampaikan sopan lewat PIC dengan alasan SOP.
 
@@ -500,12 +502,12 @@ Legenda: **[=]** satu departemen · **[D]** lintas departemen dalam satu bidang 
 | | | | **Tujuan 2:** Biro Relasi & Hubungan Eksternal [B] (R-04) | Pilihan mitra penyaluran, syarat verifikasi, dan prosedur kerja sama |
 | **Biro Kajian & Inovasi Dakwah** | JMMI Academy | Pengajar terbatas. Kelas di area masjid beririsan dengan waktu salat | **Tujuan 1:** Biro Pengabdian Masyarakat [D] (R-05) | Berbagi pool volunteer pengajar dan pelatihan tanpa rebutan |
 | | | | **Tujuan 2:** Biro Amaliyah Yaumiyah [=] (R-06) | Slot kelas tidak bentrok dengan GDM, Q-TIME, dan RAPI |
-| **Biro Usaha Mandiri** | Minion Class | Segmen, periode, dan pengajar tumpang tindih dengan Academy. Perlu materi promosi | **Tujuan 1:** Biro Kajian & Inovasi Dakwah [B] (R-07) | Pembagian segmen, mata kuliah, jadwal, dan aturan promosi agar tidak saling mematikan |
-| | | | **Tujuan 2:** Biro Digital Production [D] (R-08) | Antrean desain poster, kelengkapan brief, lead time |
+| **Biro Usaha Mandiri** | JMMI Store | Pre-order jaket kepanitiaan: desain belum fix dan produksi vendor 14 hari. Perlu mockup dan poster | **Tujuan 1:** Biro Kajian & Inovasi Dakwah [B] (R-07) | Jumlah pesanan, desain final, termin, dan tenggat DP H-17 |
+| | | | **Tujuan 2:** Biro Digital Production [D] (R-08) | Antrean desain mockup jaket, poster pre-order, katalog GoRent; kelengkapan brief; lead time |
 | **Biro Amaliyah Yaumiyah** | KSSI | Berbuka rutin Senin dan Kamis ≥ 50 porsi dan konten dokumentasi bulanan | **Tujuan 1:** Biro Usaha Mandiri [B] (R-09) | Pasokan takjil: harga, jumlah, jadwal, standar kualitas |
 | | | | **Tujuan 2:** Biro Media Analysis & Strategi [B] (R-10) | Kalender konten bulanan, format, jadwal posting |
-| **Biro Digital Production** | STREAMMI | Live streaming Q-TIME dan kajian, hasil produksi harus naik tepat waktu | **Tujuan 1:** Biro Media Analysis & Strategi [=] (R-11) | Hand-off ke publikasi: format file, tenggat, siapa yang mengunggah |
-| | | | **Tujuan 2:** Biro Amaliyah Yaumiyah [B] (R-12) | Izin siaran dan jadwal Q-TIME, posisi kamera tidak mengganggu jamaah |
+| **Biro Digital Production** | STREAMMI | Live streaming kajian dan aftermovie acara; hasil produksi harus naik tepat waktu | **Tujuan 1:** Biro Media Analysis & Strategi [=] (R-11) | Hand-off ke publikasi: format file, tenggat, siapa yang mengunggah |
+| | | | **Tujuan 2:** Biro Amaliyah Yaumiyah [B] (R-12) | Teknis siaran khatmil OWOJ: posisi kamera, jam persiapan, izin pembaca, aftermovie |
 | **Biro Media Analysis & Strategi** | NARASI | Butuh narasumber dan media partner luar, plus dukungan teknis acara | **Tujuan 1:** Biro Relasi & Hubungan Eksternal [D] (R-13) | Narasumber dan Medpar eksternal lewat jalur Relasi |
 | | | | **Tujuan 2:** Biro Manajemen Event [B] (R-14) | Dukungan manajemen acara tanpa mengambil alih konten |
 | **Biro Relasi & Hubungan Eksternal** | Benchmarking / Jaulah LDK | Tamu 2–3 LDK hari-H: butuh dokumentasi dan materi atau pemandu FGD | **Tujuan 1:** Biro Digital Production [D] (R-15) | Tim dokumentasi, batas request, publikasi hasil |
@@ -752,12 +754,12 @@ Bukan jawaban tunggal. Dipakai untuk menilai kualitas kesepakatan (rubrik 2).
 | R-04 Biro Pengabdian Masyarakat → Biro Relasi & Hubungan Eksternal | **Mitra C** (sudah ada, tanpa slot, verifikasi 1 hari) sebagai penyalur pertama; B opsional; A ditunda | Mitra A (4 hari) terlalu lambat. Kadep dan Waket III diinfokan |
 | R-05 Biro Kajian & Inovasi Dakwah → Biro Pengabdian Masyarakat | **2 relawan cadangan hanya Rabu–Kamis**, setelah 2 sesi pelatihan (H-17, H-14) | Biro Pengabdian Masyarakat butuh cadangan itu untuk packing Senin–Selasa |
 | R-06 Biro Kajian & Inovasi Dakwah → Biro Amaliyah Yaumiyah | **Senin 1 kelas, Rabu 2 kelas, Kamis 1 kelas**, 15.30–16.55 (85 menit) | Selasa tidak tersedia. Hari ini harus cocok dengan hari relawan (Rabu–Kamis) |
-| R-07 Biro Usaha Mandiri → Biro Kajian & Inovasi Dakwah | Segmentasi: Academy konsep dasar (mahasiswa baru); Minion Class latihan soal intensif **di luar** Senin–Kamis 15.30–17.00; promosi tidak saling menjatuhkan | Academy tidak boleh diminta membatalkan kelas |
-| R-08 Biro Usaha Mandiri → Biro Digital Production | Prioritas 1 **poster Minion Class ≤ H-14** (batas yang dijamin SOP 6.4.3 bila diajukan H-21); prioritas 2 **poster atau katalog paket GoRent ≤ H-12** | Permintaan ≤ H-16 tidak dijamin SOP. Bila Inject A: Biro Digital Production mengorbankan katalog GoRent atau dokumentasi Biro Relasi |
+| R-07 Biro Usaha Mandiri → Biro Kajian & Inovasi Dakwah | **15–20 jaket** (minimal vendor 15, target KID ≥ 70% = 14 dari 20, jadi praktisnya 15–20); Rp 140.000 per jaket (Rp 133.000 bila ≥ 20); DP 50% saat desain fix, pelunasan saat jaket dibagikan; **ukuran, desain fix, dan DP ≤ H-17** (produksi 14 hari, jaket jadi H-3); desain tidak berubah setelah DP | Pembelian tidak wajib dan kas biro tidak boleh menalangi. Diskon di atas 5% butuh Kadep Relasi Publik & Advokasi. Desain fix bergantung pada mockup Biro Digital Production (R-08) |
+| R-08 Biro Usaha Mandiri → Biro Digital Production | Prioritas 1 **mockup jaket dari template grand desain ≤ H-18** (kurang dari 7 hari SOP, jadi perlu persetujuan Kadep Media, Informasi & Digitalisasi atau dipotong lingkupnya), prioritas 2 **poster pre-order ≤ H-14**, prioritas 3 **katalog GoRent ≤ H-12** | Mockup H-18 tidak dijamin SOP 6.4.3 bila diajukan H-21. Bila Inject A: Biro Digital Production mengorbankan katalog GoRent atau dokumentasi Biro Relasi. Telat mockup berarti R-07 gagal H-17 |
 | R-09 Biro Amaliyah Yaumiyah → Biro Usaha Mandiri | **8 sesi 400 porsi**: 40 per hari @ **Rp 10.450** + 10 per hari tenant @ **Rp 11.000** (komit ≥ 80) → rata-rata **Rp 10.560 ≤ plafon Rp 10.625** | Dapur maksimal 40 per hari; tanpa porsi tenant rata-rata < 50 |
 | R-10 Biro Amaliyah Yaumiyah → Biro Media Analysis & Strategi | **1 slot bundling** (carousel atau reels) bulanan; jadwal puasa lewat kanal WA atau Calendar (tidak memakai slot) | Slot sangat terbatas, bundling adalah kunci |
 | R-11 Biro Digital Production → Biro Media Analysis & Strategi | File final **Kamis 16.00**; bundling 4 aset per carousel; ≥ 2 slot per minggu; draf caption disediakan | Tanpa piket akhir pekan; Biro Digital Production mengincar Jumat 20.00 |
-| R-12 Biro Digital Production → Biro Amaliyah Yaumiyah | Live Q-TIME **Rabu dan Kamis, 1 kamera**, tripod di belakang saf; izin pelantun; GDM amankan jalur | Tripod di depan saf dilarang |
+| R-12 Biro Digital Production → Biro Amaliyah Yaumiyah | STREAMMI khatmil Qur'an OWOJ (Kamis H-9): **1 kamera** di belakang saf terakhir (kamera ke-2 sisi samping sebagai bonus); persiapan selesai **< 17.00**, uji coba H-1 setelah Ashar; izin pembaca; GDM amankan jalur; aftermovie 2 menit dari rundown dan daftar momen Amaliyah | Tripod di depan saf dilarang. Persiapan tidak boleh menabrak Q-TIME 17.00–17.30. Aftermovie butuh pengajuan 10 hari |
 | R-13 Biro Media Analysis & Strategi → Biro Relasi & Hubungan Eksternal | 1 narasumber akademisi via **alumni** (tanpa slot) dan 1 praktisi via slot eksternal; Medpar bila slot tersisa | Berebut slot dengan Biro Manajemen Event dan Biro Pengabdian Masyarakat |
 | R-14 Biro Media Analysis & Strategi → Biro Manajemen Event | NARASI di **Ruang Audiovisual H-2 (60 orang)** atau **Aula H-4 (80 orang)**; 4 panitia cadangan, 1 hari | Aula terkunci mulai H-3 pukul 12.00, sehingga rencana awal H-2 di Aula mustahil |
 | R-15 Biro Relasi & Hubungan Eksternal → Biro Digital Production | Foto (1 orang, Sabtu) dan klip 60 detik dari bahan sendiri; desain undangan sebagai order; video recap dikerjakan Senin | Akhir pekan hanya 1 orang, tanpa video panjang |
