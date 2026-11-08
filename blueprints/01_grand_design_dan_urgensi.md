@@ -5,7 +5,7 @@
 **Ketua Pelaksana:** Bara Ardiwinata
 **Tema:** "Membentang saujana asa, menyatukan langkah dan karya"
 **Pelaksanaan:** Sabtu, 14 November 2026, 08.00–16.06 WIB, Ruang Rapat Barat Utara Masjid Manarul Ilmi ITS
-**Versi dokumen:** 1.3, 3 November 2026 (tanggal Sabtu 14 November; rundown 08.00–16.06; Stadium Generale Pembina; botol aspirasi Ruang Tumbuh; RAB Rp826.000). Versi 1.2: disusun 8 Oktober 2026 (H-38), diperbarui 24 Oktober 2026 pasca-audiensi dan 1 November 2026 (tema resmi, rundown 08.30–16.06, simulasi 30 menit, komposisi Ngopi Khidmah baru, Canvas dua zona terbuka dan botol aspirasi per departemen) (pembingkaian Tata Kelola yang belum final, Materi 3 sebagai prinsip komunikasi lintas tim, zona Canvas *Appreciative Inquiry*)
+**Versi dokumen:** 1.3, 3 November 2026 (tanggal Sabtu 14 November; rundown 08.00–16.06; Stadium Generale Pembina; botol aspirasi Ruang Tumbuh; RAB Rp816.000). Versi 1.2: disusun 8 Oktober 2026 (H-37), diperbarui 24 Oktober 2026 pasca-audiensi dan 1 November 2026 (tema resmi, rundown 08.30–16.06, simulasi 30 menit, komposisi Ngopi Khidmah baru, Canvas dua zona terbuka dan botol aspirasi per departemen) (pembingkaian Tata Kelola yang belum final, Materi 3 sebagai prinsip komunikasi lintas tim, zona Canvas *Appreciative Inquiry*)
 **Status:** Knowledge base internal. Dokumen ini bukan proposal resmi. Proposal tetap ditahan sampai ada arahan.
 
 > **Cara membaca seluruh set blueprint.** Dokumen 01 menjelaskan *mengapa* dan *untuk apa*. Dokumen 02 memuat silabus dan rundown. Dokumen 03 memuat juklak Simulasi Taktis. Dokumen 04 memuat evaluasi dan KPP. Dokumen 05 memuat timeline, birokrasi, dan logistik. Artefak operasional ada di folder `main/`: `template_simulasi_taktis.xlsx`, `kartu_skenario_simulasi.md`, dan `generate_template_simulasi.py`.
@@ -53,7 +53,7 @@ Konsekuensi desain: BBM 2 **tidak mengulang** teori TUK, penjadwalan, dan kepani
 |---|---|---|---|
 | BPI | Ketua Umum; Waket I, II, III (sekaligus Ketua Bidang); Sekretaris Umum dan Wakil; Bendahara Umum dan Wakil | Pimpinan tertinggi | Tahun ke-3 |
 | Fungsionaris | Ketua Badan, Asisten Badan, Sekretaris Badan; **Kadep dan Sekdep** | Mengontrol keberjalanan program kerja | Tahun ke-3 |
-| Eksekutif | **Kepala Biro, Staf Ahli Biro**, Staf Muda Biro, Staf Ahli Badan | Mengonsep dan melaksanakan proker | Kabiro dan Staf Ahli: tahun ke-2 (eks Staf Muda). Staf Muda: angkatan 2025 |
+| Pelaksana operasional biro | **Kepala Biro, Staf Ahli Biro**, Staf Muda Biro, Staf Ahli Badan | Mengonsep dan melaksanakan proker | Kabiro dan Staf Ahli: tahun ke-2 (eks Staf Muda). Staf Muda: angkatan 2025 |
 | Unit | Badan Semi Otonom | — | — |
 
 **Peta bidang, departemen, badan, dan biro (Tata Kelola 5.5.2.5–5.5.2.7 dan kode surat 6.1.1):**
@@ -77,7 +77,7 @@ Dari Tata Kelola 5.5.1 dan 5.5.2:
 | Koordinasi antarbagian | Antarbagian | Dapat dilakukan **langsung**, tetap **diketahui koordinator masing-masing** |
 | Kolaborasi antarbagian | Antarbagian | Pembagian peran, tanggung jawab, dan sumber daya disepakati bersama, tetap dalam koordinasi koordinator masing-masing |
 
-Alur kerja eksekutif (5.5.2.3): Ketua Departemen mengarahkan dan mengoordinasikan Ketua Biro. Ketua Biro memimpin biro dengan dukungan Sekretaris Pelaksana. Staf Ahli memberi dukungan keahlian. Staf Muda menjadi pelaksana teknis.
+Alur kerja pelaksana operasional (5.5.2.3): Ketua Departemen mengarahkan dan mengoordinasikan Ketua Biro. Ketua Biro memimpin biro dengan dukungan Sekretaris Pelaksana. Staf Ahli memberi dukungan keahlian. Staf Muda menjadi pelaksana teknis.
 
 ### 1.4 Temuan Evaluasi
 
@@ -109,12 +109,12 @@ Temuan berikut berasal dari pembacaan teks dokumen `tata_kelola_organisasi_jmmi_
 | No | Temuan | Lokasi | Dampak | Rekomendasi tindak lanjut |
 |---|---|---|---|---|
 | 1 | "Satu jalur komando" bersanding dengan "koordinasi langsung" tanpa batas operasional: kapan cukup **diketahui**, kapan harus **izin**? | 5.5.1; 5.5.2.5 (Bidang 1), 5.5.2.6 (Bidang 2), 5.5.2.7 (Bidang 3) | Biro tidak yakin kapan boleh menghubungi biro lain langsung | Buat definisi tertulis tiga tingkat: *mengetahui*, *meminta persetujuan*, *memerintah*. Dalam BBM 2 dijembatani lewat "tabel wewenang" (Materi 1), **tiga tingkat koordinasi sebagai prinsip universal** (memberi tahu, meminta persetujuan, memutuskan bersama; Materi 3), dan aturan arah (Simulasi) |
-| 2 | **Sekretaris Pelaksana** muncul di alur eksekutif (5.5.2.3) dan alur kesekretariatan (5.5.2.4), tetapi **tidak ada** di bagan biro (5.2: Ketua Biro, Staf Ahli, Staf Muda) | 5.2, 5.5.2.3, 5.5.2.4 | Tidak jelas siapa Sekretaris Pelaksana di tingkat biro dan kepada siapa ia bertanggung jawab | Tegaskan bahwa Sekretaris Pelaksana adalah **peran kepanitiaan per proker** (praktik di deck Musyker: dijabat Staf Ahli atau Staf Muda), bukan jabatan biro |
+| 2 | **Sekretaris Pelaksana** muncul di alur pelaksana operasional (5.5.2.3) dan alur kesekretariatan (5.5.2.4), tetapi **tidak ada** di bagan biro (5.2: Ketua Biro, Staf Ahli, Staf Muda) | 5.2, 5.5.2.3, 5.5.2.4 | Tidak jelas siapa Sekretaris Pelaksana di tingkat biro dan kepada siapa ia bertanggung jawab | Tegaskan bahwa Sekretaris Pelaksana adalah **peran kepanitiaan per proker** (praktik di deck Musyker: dijabat Staf Ahli atau Staf Muda), bukan jabatan biro |
 | 3 | **Asisten Departemen** disebut di 5.5.2.2, tetapi bagan departemen di 5.2 hanya memuat Ketua dan Sekretaris Bendahara | 5.2, 5.5.2.2 | Kebingungan jumlah unsur di departemen | Selaraskan bagan atau hapus rujukan Asisten Departemen |
 | 4 | Pasal **Ketua Departemen** (5.6.6) memuat teks yang tampak disalin dari Ketua Badan (mis. "Asisten Badan", "tugas internal badan") pada bagian Tugas | 5.6.6 | Wewenang Kadep tidak setegas yang dibutuhkan untuk membedakan dari Kabiro | Revisi pasal 5.6.6 agar memuat tugas khas departemen saja |
 | 5 | Istilah tidak seragam: Ketua Biro / Kepala Biro / Kabiro; **Staf Ahli Badan** dan **Staf Ahli Biro** | 5.2, 5.3, 5.5 | Salah paham siapa yang dimaksud | Tetapkan satu istilah baku |
 | 6 | SOP proposal 6.1.2 menyebut asistensi ke "sekretaris biro/bidang", sedangkan 6.1(b) menyebut asistensi ke Sekretaris Umum dan Bendahara Umum | 6.1(b), 6.1.2 | Biro tidak tahu asistensi pertama ke siapa | Tegaskan urutan asistensi (usulan: sekretaris bidang, lalu Sekum dan Bendum) |
-| 7 | Alur kerja eksekutif menyebut "Sekretaris Pelaksana" dan "Staf Ahli/Pelaksana Proker", sementara 5.6.10 mendefinisikan Staf Ahli sebagai konsultatif dan pendamping | 5.5.2.3, 5.6.10 | Staf Ahli sering ikut berperan sebagai pelaksana, sehingga batas "memutuskan vs mempertimbangkan" kabur | Dalam BBM 2 ditegaskan Staf Ahli **tidak memutuskan atas nama biro** |
+| 7 | Alur kerja pelaksana operasional menyebut "Sekretaris Pelaksana" dan "Staf Ahli/Pelaksana Proker", sementara 5.6.10 mendefinisikan Staf Ahli sebagai konsultatif dan pendamping | 5.5.2.3, 5.6.10 | Staf Ahli sering ikut berperan sebagai pelaksana, sehingga batas "memutuskan vs mempertimbangkan" kabur | Dalam BBM 2 ditegaskan Staf Ahli **tidak memutuskan atas nama biro** |
 | 8 | **SOP Peminjaman Inventaris (6.3)** hanya mengatur peminjaman inventaris sekretariat lewat Sekretaris Umum (tujuan baik, menjaga kondisi barang sesuai saat pengambilan). Tidak ada ketentuan tarif sewa, deposit, atau denda. Padahal Biro Usaha Mandiri menjalankan GoRent (penyewaan perlengkapan) | 6.3, deck Musyker Usaha Mandiri | Peminjaman antar-biro atas alat GoRent berjalan tanpa aturan tertulis tentang harga internal dan ganti rugi | Tegaskan hubungan antara peminjaman inventaris sekretariat (6.3) dan layanan GoRent. Tetapkan tarif internal, deposit, dan klausul ganti rugi secara tertulis (Kadep RnA bersama Sekum dan Bendum). Dalam Simulasi Taktis hal ini menjadi bahan negosiasi antara Biro Manajemen Event dan Biro Usaha Mandiri |
 
 **Catatan penting:** SOP 6.2 (Arsip), 6.3 (Peminjaman Inventaris), dan 6.4 (Permintaan Media) telah dikaji pada 8 Oktober 2026 dan dirangkum pada dokumen 02 dan 05. Gambar alur peminjaman inventaris (6.3 a) dan flowchart lain tidak ikut terbaca. Pemateri Materi 3 tetap memverifikasi versi terbaru sebelum slide final.
@@ -224,10 +224,10 @@ Seluruh narasi "amanah" dan "khidmah" di Materi 4 diturunkan dari nilai-nilai di
 |---|---|
 | Format | 1 hari penuh, tatap muka |
 | Jam | 08.00–16.06 WIB |
-| Tempat | Ruang Rapat Barat Utara Masjid Manarul Ilmi ITS (kapasitas **belum terverifikasi**, lihat 4.3) |
+| Tempat | Ruang Rapat Barat Utara Masjid Manarul Ilmi ITS (fasilitas kursi dan ruangan **terverifikasi aman** untuk 50–70 peserta dan panitia) |
 | Komponen | 4 materi inti, 1 Simulasi Taktis (**30 menit**, disusul presentasi dan ulasan 30 menit), pre-test dan post-test |
-| Pemateri | Ketum dan Waket I, II; Dr. Candra Irawan, S.T., M.T. (Pembina, Stadium Generale); Ketua Biro Relasi dan Hubungan Eksternal (Kabiro Best Biro OKR 1) (M2); Waket III dan 1 Staf Ahli Badan Personalia (M3); Kadep Syi'ar M. Fakhri Imamul Huda (M4) |
-| KPP | Ngopi Khidmah (rombongan per biro bersama 2 Kepala Biro dari Kelompok A dan B, 1 Staf Ahli Biro, dan 1–2 fungsionaris badan, dengan bukti publikasi) dan 1-Page Canvas Biro Masa Depan (kertas A3 dua zona terbuka, sticky notes, dan botol kaca per departemen untuk aspirasi Ruang Tumbuh); tenggat H-1 Forum AHWA JMMI ITS 2026 (estimasi 20 atau 21 November). Lihat dokumen 04 |
+| Pemateri | Ketum dan Waket I, II; Dr. Candra Irawan, S.T., M.T. (Pembina, Stadium Generale); Farhandito Apbrilliant Sulthon (Ketua Biro Relasi dan Hubungan Eksternal, Kabiro Best Biro OKR 1) (M2); Waket III dan 1 Staf Ahli Badan Personalia (M3); Kadep Syi'ar M. Fakhri Imamul Huda (M4) |
+| KPP | Ngopi Khidmah (rombongan per biro bersama 2 Kepala Biro dari Kelompok A dan B, 1 Staf Ahli Biro, dan 1–2 fungsionaris badan, dengan bukti publikasi) dan 1-Page Canvas Biro Masa Depan (kertas A3 dua zona terbuka, sticky notes, dan botol kaca per departemen untuk aspirasi Ruang Tumbuh); tenggat Sabtu, 21 November 2026 (H-1 Forum AHWA JMMI ITS 2026). Lihat dokumen 04 |
 | Pembentukan meja simulasi | 8 meja menurut **biro asal peserta**. Bila hadir kurang dari 3 orang, digabung dengan biro lain dalam departemen yang sama. **Tanpa jabatan yang ditunjuk**: kepemimpinan tumbuh organik dan diamati non-formal oleh Badan Personalia (lihat dokumen 03) |
 | Kebutuhan fasilitator | ±17–19 orang (peran Kadep, Waket/BPI, Bendum, pengendali waktu, operator, **8 pengamat meja**, penilai) |
 
@@ -235,7 +235,7 @@ Seluruh narasi "amanah" dan "khidmah" di Materi 4 diturunkan dari nilai-nilai di
 
 | No | Hal | Alasan penting | Penanggung jawab konfirmasi | Batas waktu konfirmasi |
 |---|---|---|---|---|
-| 1 | **Kapasitas riil** Ruang Rapat Barat Utara dalam format 8 meja untuk ±110 orang (70 peserta + fasilitator dan pengamat + pemateri + panitia) | Bila kurang, simulasi 8 klaster tidak muat | Ketupel dengan Takmir/Sekretariat | 15 Oktober (bersamaan asistensi proposal, karena venue tercantum di proposal) |
+| 1 | **Kapasitas riil** Ruang Rapat Barat Utara (**terverifikasi aman** untuk 50–70 peserta dan panitia) dalam format 8 meja untuk ±110 orang (70 peserta + fasilitator dan pengamat + pemateri + panitia) | Bila kurang, simulasi 8 klaster tidak muat | Ketupel dengan Takmir/Sekretariat | 15 Oktober (bersamaan asistensi proposal, karena venue tercantum di proposal) |
 | 2 | Jumlah dan komposisi riil Staf Muda angkatan 2025 per biro | Menentukan ukuran meja simulasi dan jumlah anggota tiap rombongan Ngopi Khidmah | Badan Personalia | 23 Oktober |
 | 3 | Kesediaan **Ketua Biro Relasi dan Hubungan Eksternal (Best Kabiro OKR 1)**, **Kadep Syi'ar (M. Fakhri Imamul Huda)**, dan **Dr. Candra Irawan (Pembina)** serta jadwalnya | Pemateri M2 dan M4 | Ketupel | 12 Oktober |
 | 4 | Kesediaan Hazal, Waket I, II, III, dan Staf Ahli Badan Personalia pada 14 November | Pemateri M1 dan M3 | Ketupel | 12 Oktober |
@@ -260,9 +260,9 @@ Seluruh narasi "amanah" dan "khidmah" di Materi 4 diturunkan dari nilai-nilai di
 | K6 | Relasi koordinasi berstatus *Deal* pada Papan Jaring | ≥ 12 dari 16 relasi (75%) | `PAPAN_JARING` | 14 Nov, 14.00 |
 | K7 | Pelanggaran arah per biro pada simulasi | Rata-rata ≤ 1 | `SKOR_EVALUASI` | 14 Nov |
 | K8 | Biro yang mengisi Blok E (keputusan final) dan memperoleh persetujuan Kadep | 8 dari 8 | `PAPAN_JARING` (papan keputusan) | 14 Nov |
-| K9 | Rerata kepuasan tiap materi | ≥ 4,2 dari 5 | Form Umpan Balik | H+1 (16 Nov) |
+| K9 | Rerata kepuasan tiap materi | ≥ 4,2 dari 5 | Form Umpan Balik | H+2 (16 Nov) |
 | K10 | Kenaikan rerata butir "siap berkhidmah di peran struktural" (pre → post) | ≥ +0,5 poin (skala 1–5) | Butir L6 pre-test dan post-test | 14 Nov |
-| K11 | Peserta yang mengisi Form Minat Peran | ≥ 85% | Form Minat Peran (KPP) | Tenggat KPP (20 atau 21 Nov) |
+| K11 | Peserta yang mengisi Form Minat Peran | ≥ 85% | Form Minat Peran (KPP) | Tenggat KPP (21 Nov) |
 | K12 | Biro yang menyelesaikan Ngopi Khidmah dengan kehadiran lengkap, komposisi narasumber lengkap (2 Kepala Biro kelompok A dan B, 1 Staf Ahli Biro, 1–2 fungsionaris badan), dan bukti publikasi (Instagram biro + grup komunal) | 8 dari 8 | Dashboard KPP | Tenggat KPP |
 | K13 | Canvas A3 terkumpul dari seluruh biro, dengan seluruh anggota menempel minimal 1 sticky note berinisial pada tiap 3 zona | 8 dari 8 biro; 100% anggota | Dashboard dan foto Canvas | Tenggat KPP |
 | K14 | Narasumber yang menerima lebih dari 2 ajakan Ngopi Khidmah | 0 | Dashboard KPP (Tab Kuota) | Tenggat KPP |
@@ -281,7 +281,7 @@ Seluruh narasi "amanah" dan "khidmah" di Materi 4 diturunkan dari nilai-nilai di
 
 #### Keterhubungan dengan LPJ
 
-Tata Kelola 6.1.5 mewajibkan LPJ memuat **Realisasi Tolok Ukur Keberhasilan (TUK)** (BAB II 2.4) dan **Evaluasi Kegiatan** (BAB III). Seluruh TUK di atas dirancang agar angka realisasinya bisa langsung dipindahkan ke LPJ. Angka K1–K10 tersedia pada hari kegiatan hingga H+1. Angka K11–K14 final pada tenggat KPP (H-1 Forum AHWA JMMI ITS 2026, estimasi 20 atau 21 November), sehingga tersedia sebelum batas asistensi LPJ pada 29 November dan tidak memerlukan penyiasatan jadwal.
+Tata Kelola 6.1.5 mewajibkan LPJ memuat **Realisasi Tolok Ukur Keberhasilan (TUK)** (BAB II 2.4) dan **Evaluasi Kegiatan** (BAB III). Seluruh TUK di atas dirancang agar angka realisasinya bisa langsung dipindahkan ke LPJ. Angka K1–K10 tersedia pada hari kegiatan hingga H+1. Angka K11–K14 final pada tenggat KPP (Sabtu, 21 November, H-1 Forum AHWA JMMI ITS 2026), sehingga tersedia sebelum batas asistensi LPJ pada 28 November dan tidak memerlukan penyiasatan jadwal.
 
 ### 4.5 Indikator Dampak Jangka Menengah (Opsional untuk Badan Personalia)
 
@@ -297,9 +297,9 @@ Indikator berikut tidak masuk TUK acara, tetapi berguna untuk menilai BBM 2 pada
 | Hal | Status | Keterangan |
 |---|---|---|
 | Jadwal: Sabtu, 14 November 2026, 08.00–16.06 WIB | **Final** (rundown baru, 1 November 2026) | Konfirmasi Ketua Pelaksana dan Badan Personalia |
-| Tempat: Ruang Rapat Barat Utara Masjid Manarul Ilmi ITS | **Final**, kapasitas menunggu verifikasi | Lihat 4.3 butir 1 |
+| Tempat: Ruang Rapat Barat Utara Masjid Manarul Ilmi ITS | **Final**, kapasitas terverifikasi aman | Lihat 4.3 butir 1 |
 | Judul sesi: Arsitektur Amanah, Seni Eksekusi, Simpul Organisasi, Simulasi Taktis, Saujana Manarul Ilmi | **Final** | Konfirmasi Ketupel |
-| Pemateri: Stadium Generale Dr. Candra Irawan; M1 Hazal + Waket I, II; M2 Ketua Biro Relasi dan Hubungan Eksternal (Kabiro Best Biro OKR 1); M3 Waket III + 1 Staf Ahli Badan Personalia; M4 Kadep Syi'ar (M. Fakhri Imamul Huda) | **Final** | Konfirmasi Ketupel |
+| Pemateri: Stadium Generale Dr. Candra Irawan; M1 Hazal + Waket I, II; M2 Farhandito Apbrilliant Sulthon (Ketua Biro Relasi dan Hubungan Eksternal, Kabiro Best Biro OKR 1); M3 Waket III + 1 Staf Ahli Badan Personalia; M4 Kadep Syi'ar (M. Fakhri Imamul Huda) | **Final** | Konfirmasi Ketupel |
 | Materi 3 dibingkai ulang: **Prinsip Komunikasi, Kolaborasi Lintas Tim, dan Etika Eskalasi**, dengan segmen adaptabilitas (Opsi A) | **Final** (keputusan Ketua Pelaksana, pasca-audiensi 24 Oktober 2026) | Alasan: Tata Kelola belum final. Detail di dokumen 02 bagian 3.2 |
 | Materi 1 dan Simulasi Taktis dibingkai sebagai "simulasi berbasis konvensi struktur kabinet saat ini" | **Final** (keputusan Ketua Pelaksana) | Dokumen 02 dan 03 |
 | Butir pre-test dan post-test Materi 3 (butir 6–12) menguji prinsip koordinasi dan skenario etika eskalasi, bukan hafalan angka atau pasal | **Final** (keputusan Ketua Pelaksana) | Dokumen 04 bagian 1.4 |
@@ -308,7 +308,7 @@ Indikator berikut tidak masuk TUK acara, tetapi berguna untuk menilai BBM 2 pada
 | Peran tim organik: tidak ada penunjukan jabatan; kepemimpinan emergen diamati non-formal | **Final** (arahan Ketua) | Instrumen dan pengamannya di dokumen 03 bagian 2.5 dan 10 |
 | Pembentukan meja berbasis biro asal; hadir < 3 orang digabung dalam departemen yang sama | **Final** (arahan Ketua) | Mekanisme meja gabungan dua kartu adalah interpretasi penyusun, perlu konfirmasi |
 | KPP: Ngopi Khidmah (rombongan biro, komposisi narasumber 2 Kepala Biro kelompok A dan B, 1 Staf Ahli Biro, dan 1–2 fungsionaris badan yang dicari sendiri, kuota 2 ajakan first-come first-served, bukti Instagram dan grup komunal) dan 1-Page Canvas Biro Masa Depan (kertas A3 + sticky notes berinisial; dua zona terbuka *Appreciative Inquiry*: **Cahaya Biro** (Warisan Baik yang Kita Jaga) dan **Asa dan Terobosan** (Estafet Kita Selanjutnya); zona **Ruang Tumbuh** (Peluang yang Ingin Kita Jelajahi) tertutup dalam botol aspirasi per departemen untuk Badan Personalia) | **Final** (disetujui penuh Ketua Pelaksana; nama zona dan topik ketiga Ngopi Khidmah ("Kekuatan biro dan hal yang ingin dikembangkan bersama") ditetapkan pasca-audiensi) | Detail di dokumen 04. Interpretasi yang perlu konfirmasi ada di dokumen 04 bagian 8 |
-| Tenggat KPP: maksimal H-1 Forum AHWA JMMI ITS 2026 (estimasi 20 atau 21 November, durasi efektif 5–6 hari) | **Final** (arahan Ketua); tanggal Forum AHWA **belum dikonfirmasi** | Konfirmasi paling lambat 6 November |
+| Tenggat KPP: Sabtu, 21 November 2026 (H-1 Forum AHWA JMMI ITS 2026, Minggu 22 November; jendela 16–21 November) | **Final** (dikonfirmasi Ketua Pelaksana) | Selesai |
 | Pre-test dan post-test | **Final secara konsep** (arahan Ketua Pelaksana, 8 Oktober 2026) | Butir soal ada di dokumen 04 |
 | Angka TUK (4.4) | **Usulan**, belum disetujui | Perlu persetujuan Ketua |
 | Transparansi kepada peserta tentang pengamatan pola kontribusi (naskah di dokumen 03, bagian 4.1) | **Usulan penyusun** | Pengaman etika; perlu persetujuan Ketua |
@@ -336,7 +336,7 @@ Indikator berikut tidak masuk TUK acara, tetapi berguna untuk menilai BBM 2 pada
 |---|---|
 | BPI | Badan Pengurus Inti |
 | Fungsionaris | Pengurus di bawah BPI yang mengontrol keberjalanan program bagan di bawahnya |
-| Eksekutif | Pengurus di bawah Fungsionaris yang mengonsep dan melaksanakan proker |
+| Pelaksana operasional biro | Pengurus di bawah Fungsionaris yang mengonsep dan melaksanakan proker |
 | Kadep / Sekdep | Ketua Departemen / Sekretaris (Bendahara) Departemen |
 | Kabiro | Kepala (Ketua) Biro |
 | Staf Ahli | Unsur konsultatif dan pendamping pada biro atau badan |

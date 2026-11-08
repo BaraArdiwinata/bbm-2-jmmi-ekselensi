@@ -53,12 +53,12 @@ Rujukan pasal mengacu pada dokumen `tata_kelola_organisasi_jmmi_kabinet_ekselens
 - C. Ketua Umum, Wakil Ketua, Sekretaris Umum, dan Bendahara Umum
 - D. Staf Ahli Badan, Kepala Biro, dan Sekretaris Pelaksana
 
-**Kunci: B** (5.3.1.2). *Modul: M1. Indikator: membedakan Fungsionaris dan Eksekutif.*
+**Kunci: B** (5.3.1.2). *Modul: M1. Indikator: membedakan Fungsionaris dan pelaksana operasional biro.*
 
 **Butir 2.** Kepala Biro termasuk unsur...
 - A. Badan Pengurus Inti
 - B. Fungsionaris
-- C. Eksekutif
+- C. Pelaksana operasional biro
 - D. Unit (Badan Semi Otonom)
 
 **Kunci: C** (5.3.2). *Modul: M1.*
@@ -215,9 +215,9 @@ Kategori: **g ≥ 0,70** tinggi · **0,30 ≤ g < 0,70** sedang · **g < 0,30** 
 | L6 turun atau tetap rendah | Keraguan berkhidmah belum terjawab | Prioritaskan peserta tersebut untuk percakapan pendampingan oleh Badan Personalia, dengan persetujuan mereka |
 | Jawaban terbuka memuat hambatan akademik berulang | Beban akademik adalah faktor utama | Bahas di rapat Personalia: mekanisme kelonggaran peran atau peran ringan |
 
-### 1.9 Form Umpan Balik (H+1)
+### 1.9 Form Umpan Balik (16 November)
 
-Dikirim **16 November (H+1)** lewat tautan agar waktu penutupan hari-H tidak terpotong. Tidak diskor.
+Dikirim **16 November (H+2)** lewat tautan agar waktu penutupan hari-H tidak terpotong. Tidak diskor.
 
 | Bagian | Butir |
 |---|---|
@@ -261,7 +261,7 @@ Format ini menggantikan rancangan sebelumnya (wawancara 1-on-1 per individu deng
 | **Topik wajib** | (1) alasan memilih lanjut ber-JMMI; (2) suka-duka dan dinamika memimpin; (3) kekuatan biro dan hal yang ingin dikembangkan bersama; (4) tips menjaga komitmen |
 | **Durasi** | Satu pertemuan bersama 60–90 menit |
 | **Bukti** | Foto bersama (Staf Muda lengkap + seluruh narasumber), diunggah ke Instagram feeds atau story biro, dan dibagikan ke grup komunal anggota JMMI ITS |
-| **Jendela** | 16 November 2026 sampai **H-1 Forum AHWA JMMI ITS 2026** (estimasi 20 atau 21 November; lihat 4.2) |
+| **Jendela** | 16 sampai **21 November 2026** (tenggat Sabtu, 21 November, H-1 Forum AHWA JMMI ITS 2026 pada Minggu, 22 November; lihat 4.2) |
 
 **Kehadiran lengkap dan udzur (usulan):** bila ada anggota berhalangan karena udzur yang sah (sakit, ujian, praktikum) dan melaporkannya ke Badan Personalia **sebelum** jadwal, rombongan menjadwalkan ulang dalam jendela. Bila tidak memungkinkan, anggota tersebut menjalani sesi susulan singkat dengan salah satu narasumber dan hal ini dicatat di dashboard. Foto bersama tetap memuat seluruh anggota yang hadir pada sesi utama.
 
@@ -556,38 +556,30 @@ Lembar yang sudah diisi **digulung**, dimasukkan ke dalam **sedotan**, lalu dima
 
 | Tanggal | H | Kegiatan | PIC |
 |---|---|---|---|
-| 9 Nov (Senin) | H-6 | **Pemberitahuan awal (heads-up)** kepada seluruh narasumber yang terdaftar: dapat diajak pada 16–21 November, kuota maksimal 2 ajakan, bebas menerima atau menolak. Daftar Kepala Biro Kelompok A dan B, Staf Ahli Biro, dan fungsionaris badan, beserta daftar cadangan, sudah disusun sebelum tanggal ini | Badan Personalia |
-| 11 Nov (Rabu) | H-4 | **Papan Kuota Terbuka** dan Form Pendaftaran Narasumber siap dan diuji; panduan narasumber dan contoh pesan undangan dicetak | Badan Personalia |
+| 9 Nov (Senin) | H-5 | **Pemberitahuan awal (heads-up)** kepada seluruh narasumber yang terdaftar: dapat diajak pada 16–21 November, kuota maksimal 2 ajakan, bebas menerima atau menolak. Daftar Kepala Biro Kelompok A dan B, Staf Ahli Biro, dan fungsionaris badan, beserta daftar cadangan, sudah disusun sebelum tanggal ini | Badan Personalia |
+| 11 Nov (Rabu) | H-3 | **Papan Kuota Terbuka** dan Form Pendaftaran Narasumber siap dan diuji; panduan narasumber dan contoh pesan undangan dicetak | Badan Personalia |
 | 12–13 Nov | H-3, H-2 | Pembelian dan pengemasan **kit fisik** per biro | Sie Perlengkapan |
-| **Sabtu, 14 Nov** | H+0 | **15.51–16.01: briefing penugasan KPP dan pembagian kit fisik per biro**; **Papan Kuota Terbuka dibuka serentak pukul 16.01** | Ketua Pelaksana, Sie Acara, dan Badan Personalia |
-| Senin, 16 Nov | H+1 | Form Minat Peran dan Form Umpan Balik dibuka. **Rombongan mencari dan menghubungi sendiri** komposisi narasumber sesuai 2.3; pendaftaran yang sudah bersedia dicatat di papan (urutan pendaftaran menentukan kuota) | Koordinator rombongan |
-| Selasa, 17 Nov | H+2 | **Pukul 12.00:** batas pendaftaran komposisi lengkap; Personalia memfasilitasi rombongan yang belum lengkap. **Pukul 21.00:** seluruh jadwal terkonfirmasi di dashboard | Koordinator rombongan, Badan Personalia |
-| **Selasa, 17 s.d. Kamis, 19 Nov** | H+2 s.d. H+4 | **Jendela pelaksanaan Ngopi Khidmah** (Selasa untuk rombongan yang sudah lengkap lebih awal; Rabu dan Kamis sebagai hari utama). Bukti diunggah paling lambat 24 jam setelah sesi. Canvas dikerjakan setelah Ngopi | Tiap biro |
-| Rabu, 18 Nov | H+3 | Batas asistensi SPJ BBM 2 (urusan panitia) | Sekretaris Pelaksana, Bendahara Pelaksana |
-| Kamis, 19 Nov | H+4 | Pengingat D-1: status Ngopi dan Canvas tiap biro | Badan Personalia |
-| **Jumat, 20 Nov** | H+5 | **Tenggat operasional KPP** (bila Forum AHWA jatuh pada 21 November): Canvas fisik diserahkan pukul 17.00; foto Canvas, Form Bukti Ngopi, dan Form Minat Peran paling lambat 23.59. Hari cadangan untuk sesi Ngopi yang tertunda | Semua |
-| **Sabtu, 21 Nov** | H+6 | **Batas keras** bila Forum AHWA dikonfirmasi pada 22 November. Hanya untuk keterlambatan yang sudah dilaporkan | Semua |
-| 22–25 Nov | H+7 s.d. H+10 | Tabulasi: pengodean tema Canvas, rekap Form Minat Peran, dan rekap bukti publikasi | Badan Personalia |
-| 26 Nov–3 Des | H+11 s.d. H+18 | Percakapan 1-on-1 untuk peserta kategori Ragu yang bersedia dihubungi | Badan Personalia |
-| 27 Nov (Jumat) | H+12 | Target operasional asistensi LPJ. Data KPP final sudah tersedia | Sekretaris Pelaksana |
-| 29 Nov (Minggu) | H+14 | Batas asistensi LPJ | Sekretaris Pelaksana |
-| 4 Des (Jumat) | H+19 | Laporan KPP kepada Waket II dan Ketua Umum | Badan Personalia |
+| **Sabtu, 14 Nov** | H | **15.51–16.01: briefing penugasan KPP dan pembagian kit fisik per biro**; **Papan Kuota Terbuka dibuka serentak pukul 16.01** | Ketua Pelaksana, Sie Acara, dan Badan Personalia |
+| Senin, 16 Nov | H+2 | Form Minat Peran dan Form Umpan Balik dibuka. **Rombongan mencari dan menghubungi sendiri** komposisi narasumber sesuai 2.3; pendaftaran yang sudah bersedia dicatat di papan (urutan pendaftaran menentukan kuota) | Koordinator rombongan |
+| Selasa, 17 Nov | H+3 | **Pukul 12.00:** batas pendaftaran komposisi lengkap; Personalia memfasilitasi rombongan yang belum lengkap. **Pukul 21.00:** seluruh jadwal terkonfirmasi di dashboard | Koordinator rombongan, Badan Personalia |
+| **Selasa, 17 s.d. Kamis, 19 Nov** | H+3 s.d. H+5 | **Jendela pelaksanaan Ngopi Khidmah** (Selasa untuk rombongan yang sudah lengkap lebih awal; Rabu dan Kamis sebagai hari utama). Bukti diunggah paling lambat 24 jam setelah sesi. Canvas dikerjakan setelah Ngopi | Tiap biro |
+| Selasa, 17 Nov | H+3 | Batas asistensi SPJ BBM 2 (urusan panitia) | Sekretaris Pelaksana, Bendahara Pelaksana |
+| Kamis, 19 Nov | H+5 | Pengingat D-1: status Ngopi dan Canvas tiap biro | Badan Personalia |
+| Jumat, 20 Nov | H+6 | Pengingat D-1 tenggat KPP. Hari cadangan untuk sesi Ngopi yang tertunda | Badan Personalia |
+| **Sabtu, 21 Nov** | H+7 | **Tenggat KPP** (H-1 Forum AHWA JMMI ITS 2026, Minggu 22 November): Canvas fisik diserahkan pukul 17.00; foto Canvas, Form Bukti Ngopi, dan Form Minat Peran paling lambat 23.59 | Semua |
+| 22–25 Nov | H+8 s.d. H+11 | Tabulasi: pengodean tema Canvas, rekap Form Minat Peran, dan rekap bukti publikasi | Badan Personalia |
+| 26 Nov–3 Des | H+12 s.d. H+19 | Percakapan 1-on-1 untuk peserta kategori Ragu yang bersedia dihubungi | Badan Personalia |
+| 27 Nov (Jumat) | H+13 | Target operasional asistensi LPJ. Data KPP final sudah tersedia | Sekretaris Pelaksana |
+| 28 Nov (Sabtu) | H+14 | Batas asistensi LPJ | Sekretaris Pelaksana |
+| 4 Des (Jumat) | H+20 | Laporan KPP kepada Waket II dan Ketua Umum | Badan Personalia |
 
 ### 4.2 Penetapan Tenggat Berdasarkan Forum AHWA
 
-Tenggat KPP ditetapkan **maksimal H-1 sebelum pelaksanaan Forum AHWA JMMI ITS 2026**. **Tanggal Forum AHWA belum tercantum di dokumen sumber** dan ditaksir 21 atau 22 November. Skenario:
-
-| Tanggal Forum AHWA | Tenggat KPP | Hari efektif (sejak 16 Nov) |
-|---|---|---|
-| Sabtu, 21 November | **Jumat, 20 November** | 5 hari |
-| Minggu, 22 November | **Sabtu, 21 November** | 6 hari |
-| Sebelum 21 November | Dirancang ulang oleh Ketupel dan Personalia | Kurang dari 5 hari |
-
-Tanggal Forum AHWA dikonfirmasi paling lambat **6 November** supaya narasumber, kit, dan briefing 14 November menyesuaikan. Selama belum pasti, seluruh materi memakai tenggat operasional Jumat, 20 November.
+Penugasan KPP (Ngopi Khidmah dan Canvas) berlangsung **16–21 November 2026**. Tenggat dikunci pada **Sabtu, 21 November 2026**, menyesuaikan agenda suksesi (Forum AHWA JMMI ITS 2026) yang dilaksanakan **Minggu, 22 November 2026**. Hari efektif sejak 16 November adalah 6 hari. Bila tanggal Forum AHWA berubah, Ketupel dan Badan Personalia merancang ulang jendela dan tenggat.
 
 ### 4.3 Keselarasan dengan LPJ
 
-KPP kini selesai pada 20 atau 21 November, **jauh sebelum** batas asistensi LPJ (29 November). Data TUK K11–K14 sudah final untuk disusun ke LPJ (BAB II, 2.4). **Opsi A dan B pada rancangan sebelumnya tidak diperlukan lagi.**
+KPP selesai pada 21 November, **sebelum** batas asistensi LPJ (28 November). Data TUK K11–K14 sudah final untuk disusun ke LPJ (BAB II, 2.4). **Opsi A dan B pada rancangan sebelumnya tidak diperlukan lagi.**
 
 ### 4.4 Dashboard Monitoring (Google Sheets)
 
@@ -696,7 +688,7 @@ KPP kini selesai pada 20 atau 21 November, **jauh sebelum** batas asistensi LPJ 
 | K8 | Biro dengan Blok E dan persetujuan Kadep | 8 dari 8 | `PAPAN_JARING` | 14 Nov |
 | K9 | Kepuasan per materi | ≥ 4,2 | Form Umpan Balik | 16 Nov |
 | K10 | Kenaikan rerata L6 | ≥ +0,5 | Pre dan post-test | 14 Nov |
-| K11 | Pengisian Form Minat Peran | ≥ 85% | Form Minat Peran | Tenggat KPP (20/21 Nov) |
+| K11 | Pengisian Form Minat Peran | ≥ 85% | Form Minat Peran | Tenggat KPP (21 Nov) |
 | K12 | Biro menyelesaikan Ngopi Khidmah dengan **kehadiran lengkap**, komposisi narasumber lengkap (dua Kepala Biro dari Kelompok A dan B, satu Staf Ahli Biro, dan 1–2 fungsionaris badan), dan **bukti publikasi** (Instagram + grup komunal) | 8 dari 8 | Dashboard Tab 1 | Tenggat KPP |
 | K13 | Canvas A3 terkumpul dari seluruh biro, dengan **100% anggota** menulis ≥ 1 sticky di dua zona terbuka dan mengisi lembar aspirasi (botol departemen diterima) | 8 dari 8 biro; 100% anggota | Dashboard, foto Canvas, dan penerimaan botol | Tenggat KPP |
 | K14 | Narasumber yang menerima lebih dari 2 ajakan | 0 | Dashboard Tab 2 | Tenggat KPP |
@@ -717,7 +709,7 @@ KPP kini selesai pada 20 atau 21 November, **jauh sebelum** batas asistensi LPJ 
 | Kepala Biro Kelompok A atau B cepat penuh (8 slot tanpa cadangan), rombongan yang mendaftar belakangan kehabisan pilihan | Ketimpangan antarbiro | Papan terbuka agar kuota terlihat; Personalia menyiapkan cadangan sejak 9 November dan memfasilitasi setelah 17 November pukul 12.00; jumlah Staf Ahli Biro aktif dicek (2.4) |
 | Rombongan menahan slot tanpa persetujuan narasumber | Kuota terkunci sia-sia | Pendaftaran wajib melampirkan bukti persetujuan; pendaftaran tanpa bukti dibatalkan dan kuota dilepas |
 | Rombongan ragu menghubungi fungsionaris | Pendaftaran terlambat | Contoh pesan undangan, dukungan antaranggota, dan fasilitasi Personalia sebagai jaring pengaman |
-| Tanggal Forum AHWA berubah | Jendela memendek | Konfirmasi paling lambat 6 November; skenario di 4.2 |
+| Tanggal Forum AHWA berubah | Jendela memendek | Tenggat dikunci 21 November; bila berubah, Ketupel dan Personalia merancang ulang (4.2) |
 | Publikasi dipahami sebagai tekanan untuk mencalonkan diri | Peserta tidak jujur atau merasa dipaksa | Etika publikasi (2.6): keterangan bernada silaturahmi dan belajar, kesiapan peran dicatat privat lewat Form Minat Peran |
 | Inisial pada sticky membuat peserta menahan keterbukaan, terutama pada catatan personal di Zona Ruang Tumbuh | Isian dangkal atau seragam | Pola bahasa positif ("Kita bisa lebih … jika …"), penulis boleh meminta pembatasan akses, dan hambatan personal tetap ditampung Form Minat Peran yang privat |
 | Pembingkaian positif membuat kendala nyata tidak tertangkap | Masukan perbaikan tata kelola kurang tajam | Zona Ruang Tumbuh mewajibkan peluang spesifik dengan langkah kecil; kendala sistemik yang tajam ditampung jalur evaluasi OKR dan Badan Keorganisasian |
@@ -737,7 +729,7 @@ KPP kini selesai pada 20 atau 21 November, **jauh sebelum** batas asistensi LPJ 
 | 2 | Pertemuan | Satu pertemuan bersama seluruh narasumber, agar foto bersama memuat semuanya. Dua sesi hanya sebagai cadangan |
 | 3 | Lembar Refleksi individu | Dihapus karena zona Cahaya Biro dan Ruang Tumbuh pada Canvas menampung refleksi |
 | 4 | Form Minat Peran | **Dipertahankan** sebagai instrumen individu dan privat, dengan tenggat sama dengan KPP |
-| 5 | Tanggal Forum AHWA JMMI ITS 2026 | Belum tercantum di dokumen sumber; ditaksir 21 atau 22 November |
+| 5 | Tanggal Forum AHWA JMMI ITS 2026 | Dikonfirmasi Ketua Pelaksana: Minggu, 22 November 2026 |
 | 6 | Kehadiran "lengkap" | Udzur sah diatur lewat penjadwalan ulang atau sesi susulan |
 | 7 | Akun Instagram biro | Diasumsikan ada; kanal pengganti disiapkan bila tidak ada |
 | 8 | Jumlah Staf Ahli Biro aktif | Belum diketahui. Kebutuhan 8 ajakan dengan kuota 2 berarti minimal 4 Staf Ahli Biro aktif; idealnya 8 atau lebih (2.4) |

@@ -46,12 +46,12 @@ Adapun tujuan yang ingin dicapai pada sesi ini adalah sebagai berikut:
 
 ## E. MATERI
 
-**Pembicara:** Ketua Biro Relasi dan Hubungan Eksternal (Kabiro Best Biro OKR 1).
+**Pembicara:** Farhandito Apbrilliant Sulthon (Ketua Biro Relasi dan Hubungan Eksternal, Kabiro Best Biro OKR 1).
 
 **Pokok bahasan:**
 - **Cerita pembuka:** perjalanan menjadi Kepala Biro, mulai dari kaget, ragu, hingga kesalahan terbesar. Satu cerita nyata yang ada pelajarannya.
-- **Studi kasus Jaulah LDK:** proker Biro RHE pada OKR 1 untuk menjalin kolaborasi dengan 2–3 LDK demi memperkuat sinergi dakwah kampus. Persiapan berjalan 18 April–11 Mei 2026 (timeline, pembagian tugas panitia, surat undangan, proposal, perizinan, finalisasi konsep dan teknis). Pelaksanaan Sabtu, 16 Mei 2026, berisi berbagi praktik terbaik dari LDK mitra, forum diskusi antarpengurus, dan FGD dengan perwakilan tiap biro. Setelah acara ada laporan, evaluasi, rekomendasi program baru, dan komunikasi lanjutan dengan LDK mitra. Pertanyaan pemandu: apa yang dipangkas, bagaimana memutuskannya, dan siapa yang dilibatkan.
-- **Cerita pelengkap (opsional):** Rihlah Anjangsana, bila pemateri ingin memberi pembanding. Detailnya disiapkan pemateri sendiri.
+- **Studi kasus Jaulah LDK (JMMI sebagai tuan rumah):** Jaulah adalah kunjungan atau studi banding LDK kampus lain ke JMMI. Contoh riil: Jaulah LDK 2 menerima kunjungan UKKI JAM UNY. Dalam rencana Musyker OKR 1, Biro RHE menyasar kolaborasi dengan 2–3 LDK demi memperkuat sinergi dakwah kampus. Rencana persiapan berjalan 18 April–11 Mei 2026 (timeline, pembagian tugas panitia, surat undangan, proposal, perizinan, finalisasi konsep dan teknis). Pada hari-H tamu dari LDK mitra berbagi praktik terbaik, lalu ada forum diskusi antarpengurus dan FGD dengan perwakilan tiap biro. Setelah acara ada laporan, evaluasi, rekomendasi program baru, dan komunikasi lanjutan dengan LDK mitra. Fokus kepemimpinan lapangan: menyiapkan tuan rumah, membagi tugas panitia, dan menjaga tamu tetap nyaman. Pertanyaan pemandu: apa yang dipangkas, bagaimana memutuskannya, dan siapa yang dilibatkan.
+- **Studi kasus pembanding: Rihlah Anjangsana (JMMI sebagai delegasi):** delegasi JMMI berangkat keluar untuk benchmarking dan silaturahim ke LDK atau instansi luar. Pembedanya dengan Jaulah: pada Jaulah tim mengelola tamu di rumah sendiri, sedangkan pada Rihlah tim mengelola delegasi di tempat orang lain, termasuk koordinasi dengan pihak tuan rumah. Detail pelaksanaannya disiapkan pemateri sendiri.
 - **Manajemen tim lapangan:** pola kepanitiaan proker Biro RHE. Penanggung Jawab dijabat Ketua Departemen dan Ketua Biro, Ketua Pelaksana dijabat Staf Ahli, serta Sekretaris dan anggota dijabat Staf Muda. Pemateri menjelaskan alasan pembagian itu dan cara menjaga tiap orang tahu tugasnya.
 - **Mitigasi kendala eksternal:** hal yang bergantung pada pihak luar, seperti kepastian mitra, perizinan, dan perubahan rencana. Cara menyiapkan rencana cadangan, komunikasi tertulis dengan mitra, dan kapan membawa kendala ke Kepala Departemen.
 - **Koordinasi staf dan semangat tim:** pembagian peran Kabiro, Staf Ahli, dan Staf Muda, titik pantau (check-in), apresiasi atas kontribusi, dan kegiatan kecil yang mempererat tim. Tanda-tanda anggota mulai menurun dan cara mengobrol berdua. Persoalan dibawa ke Kepala Departemen sebagai bahan pembinaan, bukan diputuskan sendiri.
@@ -62,7 +62,7 @@ Adapun tujuan yang ingin dicapai pada sesi ini adalah sebagai berikut:
 | Menit | Bagian | Isi |
 |---|---|---|
 | 0–10 | Cerita pembuka | Perjalanan menjadi Kepala Biro, kaget, ragu, dan kesalahan terbesar |
-| 10–25 | Studi kasus Jaulah LDK | Dari tujuan hingga hari-H: persiapan, pembagian tugas, dan pelaksanaan |
+| 10–25 | Studi kasus Jaulah LDK (tuan rumah) dan Rihlah Anjangsana (delegasi) | Dari tujuan hingga hari-H: persiapan, pembagian tugas, dan pelaksanaan. Pembeda tuan rumah dan delegasi |
 | 25–40 | Mitigasi kendala eksternal | Perizinan, kepastian mitra, dan perubahan rencana. Rencana cadangan |
 | 40–50 | Koordinasi staf dan semangat tim | Peran Kabiro, Staf Ahli, dan Staf Muda. Check-in, apresiasi, dan kebersamaan |
 | 50–60 | Tanya jawab | Pertanyaan dari peserta |
@@ -99,7 +99,7 @@ Peserta adalah Staf Muda JMMI ITS angkatan 2025 dari delapan biro, sekitar 50–
 - **Hari, tanggal:** Sabtu, 14 November 2026
 - **Waktu:** 10.21–11.21 WIB (60 menit: 50 menit materi + 10 menit tanya jawab)
 - **Tempat:** Ruang Rapat Barat Utara Masjid Manarul Ilmi ITS
-- **Pemateri:** Ketua Biro Relasi dan Hubungan Eksternal (Kabiro Best Biro OKR 1)
+- **Pemateri:** Farhandito Apbrilliant Sulthon (Ketua Biro Relasi dan Hubungan Eksternal, Kabiro Best Biro OKR 1)
 
 ## H. METODE DAN LARANGAN
 
@@ -114,9 +114,9 @@ Larangan dalam penyampaian:
 
 | Waktu (WIB) | Durasi | Kegiatan | PIC |
 |---|---|---|---|
-| 10.21–11.21 | 60' | **Materi 2: "Seni Eksekusi"** | Ketua Biro RHE |
+| 10.21–11.21 | 60' | **Materi 2: "Seni Eksekusi"** | Farhandito Apbrilliant Sulthon |
 | 10.21–10.31 | 10' | Cerita pembuka | Pemateri |
-| 10.31–10.46 | 15' | Studi kasus Jaulah LDK | Pemateri |
+| 10.31–10.46 | 15' | Studi kasus Jaulah LDK dan Rihlah Anjangsana | Pemateri |
 | 10.46–11.01 | 15' | Mitigasi kendala eksternal | Pemateri |
 | 11.01–11.11 | 10' | Koordinasi staf dan semangat tim | Pemateri |
 | 11.11–11.21 | 10' | Tanya jawab | Pemateri dan peserta |

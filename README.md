@@ -33,11 +33,13 @@ BBM 1 (Mei 2026) membekali manajemen program dasar. **BBM 2 menyiapkan Staf Muda
 | Fase | Sesi | Pemateri |
 |---|---|---|
 | **Pembuka** | **Stadium Generale Pembina** (semangat bermasjid dan ruh khidmah) | Dr. Candra Irawan, S.T., M.T. (Pembina JMMI ITS) |
-| **Paham** | M1 **Arsitektur Amanah** (hierarki, peran fungsionaris, transisi organogram, menurut konvensi struktur kabinet saat ini) | Ketua Umum, Waket I, Waket II |
-| **Mampu** | M2 **Seni Eksekusi** (memimpin tim lapangan, studi kasus Jaulah LDK Biro RHE, mitigasi kendala eksternal) | Ketua Biro Relasi dan Hubungan Eksternal (Kabiro Best Biro OKR 1) |
-| **Paham** | M3 **Simpul Organisasi** (prinsip komunikasi dan kolaborasi lintas tim, musyawarah, koordinasi asertif, etika eskalasi, adaptabilitas saat struktur berubah) | Waket III dan 1 Staf Ahli Badan Personalia |
-| **Mampu** | **Simulasi Taktis** (1 ronde koordinasi lintas 8 biro, Google Sheets) | Fasilitator Badan Personalia |
-| **Mau** | M4 **Saujana Manarul Ilmi** (Essential Awareness, Sense of Belonging, kebanggaan, khidmah) | Kepala Departemen Syi'ar (M. Fakhri Imamul Huda) |
+| **Paham** (pagi) | M1 **Arsitektur Amanah** (hierarki, peran fungsionaris, transisi organogram, menurut konvensi struktur kabinet saat ini) | Ketua Umum, Waket I, Waket II |
+| **Mampu** (pagi) | M2 **Seni Eksekusi** (memimpin tim lapangan, studi kasus Jaulah LDK Biro RHE, mitigasi kendala eksternal) | Farhandito Apbrilliant Sulthon (Ketua Biro Relasi dan Hubungan Eksternal, Kabiro Best Biro OKR 1) |
+| **Paham** (siang) | M3 **Simpul Organisasi** (prinsip komunikasi dan kolaborasi lintas tim, musyawarah, koordinasi asertif, etika eskalasi, adaptabilitas saat struktur berubah) | Waket III dan 1 Staf Ahli Badan Personalia |
+| **Mampu** (siang) | **Simulasi Taktis** (1 ronde koordinasi lintas 8 biro, Google Sheets) | Fasilitator Badan Personalia |
+| **Mau** (sore) | M4 **Saujana Manarul Ilmi** (Essential Awareness, Sense of Belonging, kebanggaan, khidmah) | Kepala Departemen Syi'ar (M. Fakhri Imamul Huda) |
+
+Alur belajarnya integratif. **Sesi pagi (fokus biro):** Paham Arsitektur (M1), lalu Mampu Eksekusi Biro (M2). **Sesi siang (fokus lintas tim):** Paham Koordinasi (M3), lalu Mampu Praktik Krisis (Simulasi Taktis). **Sesi sore (fokus ruhiyah):** Mau Berkhidmah dan menumbuhkan Sense of Belonging (M4).
 
 > **Pembingkaian struktur.** Tata Kelola Kabinet Ekselensi 2026 belum disahkan final dan belum pasti dipertahankan pada kepengurusan berikutnya. Karena itu Materi 1 dan Simulasi Taktis disajikan sebagai **simulasi berbasis konvensi struktur kabinet saat ini**, dan Materi 3 tidak mengajarkan SOP kaku melainkan prinsip yang tetap berlaku walau bentuk struktur berubah. Detail administrasi hanya disebut lisan sebagai contoh konvensi sementara (tidak diujikan dan tanpa handout).
 
@@ -50,7 +52,7 @@ Delapan biro (Biro Manajemen Event, Biro Pengabdian Masyarakat, Biro Kajian & In
 - **Ngopi Khidmah** (komunal per biro): seluruh Staf Muda satu biro hadir lengkap, tatap muka, bersowan dengan **2 Kepala Biro** (satu dari Kelompok A dan satu dari Kelompok B), **1 Staf Ahli Biro**, dan **1–2 fungsionaris badan**, yang **dicari dan dihubungi sendiri** oleh Staf Muda (melatih inisiatif dan keberanian). Tiap narasumber menerima maksimal 2 ajakan dengan sistem *first-come, first-served*; bila penuh, rombongan mencari alternatif. Topik: alasan lanjut ber-JMMI, suka-duka memimpin, kekuatan biro dan hal yang ingin dikembangkan bersama, dan tips menjaga komitmen. Bukti: foto bersama yang diunggah ke Instagram biro dan dibagikan ke grup komunal anggota JMMI ITS.
 - **1-Page Canvas Biro Masa Depan** (fisik): satu kertas A3 per biro dengan dua zona terbuka berpendekatan *Appreciative Inquiry* (berbasis kekuatan): **Cahaya Biro** (Warisan Baik yang Kita Jaga) dan **Asa dan Terobosan** (Estafet Kita Selanjutnya). Zona **Ruang Tumbuh** (Peluang yang Ingin Kita Jelajahi) diisi sebagai aspirasi tertutup, digulung ke dalam sedotan, dan dimasukkan ke **botol kaca per departemen** (empat botol) untuk Badan Personalia. Setiap Staf Muda menulis minimal satu sticky note berinisial di tiap zona terbuka dan mengisi satu lembar aspirasi.
 - Form Minat Peran (individu, privat) tetap menjadi instrumen pendamping.
-- Jendela pelaksanaan **16 November sampai H-1 Forum AHWA JMMI ITS 2026** (estimasi tenggat 20 atau 21 November, ±5–6 hari efektif).
+- Jendela pelaksanaan **16–21 November 2026**. Tenggat dikunci **Sabtu, 21 November** (H-1 Forum AHWA JMMI ITS 2026, Minggu 22 November).
 
 ### Tenggat kritis birokrasi
 
@@ -58,9 +60,9 @@ Delapan biro (Biro Manajemen Event, Biro Pengabdian Masyarakat, Biro Kajian & In
 |---|---|
 | **Kamis, 15 Oktober 2026** | Batas asistensi proposal (1 bulan sebelum acara) |
 | **Minggu, 1 November 2026** | Batas penyerahan proposal ke Sekretaris Umum (target operasional Jumat, 30 Oktober) |
-| **Rabu, 18 November 2026** | Batas asistensi SPJ (H+3) |
-| **Jumat 20 / Sabtu 21 November 2026** | Tenggat KPP (H-1 Forum AHWA JMMI ITS 2026; tanggal Forum AHWA perlu dikonfirmasi) |
-| **Minggu, 29 November 2026** | Batas asistensi LPJ (H+14; target operasional Jumat, 27 November) |
+| **Selasa, 17 November 2026** | Batas asistensi SPJ (H+3) |
+| **Sabtu, 21 November 2026** | Tenggat KPP (H-1 Forum AHWA JMMI ITS 2026, Minggu 22 November) |
+| **Sabtu, 28 November 2026** | Batas asistensi LPJ (H+14; target operasional Jumat, 27 November) |
 
 ---
 
@@ -81,7 +83,7 @@ Delapan biro (Biro Manajemen Event, Biro Pengabdian Masyarakat, Biro Kajian & In
 | Dokumen | Isi |
 |---|---|
 | [Kartu Skenario Simulasi](main/kartu_skenario_simulasi.md) | 8 Kartu Rahasia siap cetak (satu per biro) dan lampiran fasilitator berisi titik temu kesepakatan |
-| [Draf Proposal BBM 2](main/proposal_bbm_2.md) | Draf proposal lengkap menurut template JMMI: cover, kata pengantar, BAB I–IV, RAB (estimasi Rp11.196.000), lembar pengesahan, dan 3 lampiran (susunan acara, kepanitiaan, surat permohonan dana). Belum dikonversi ke `.docx` |
+| [Draf Proposal BBM 2](main/proposal_bbm_2.md) | Draf proposal lengkap menurut template JMMI: cover, kata pengantar, BAB I–IV, RAB (Rp816.000, tanpa air galon karena sudah disediakan masjid), lembar pengesahan, dan 3 lampiran (susunan acara, kepanitiaan, surat permohonan dana). Versi `.docx` dibangun dari berkas ini |
 
 > **Peringatan:** berkas kartu memuat lampiran fasilitator dan kunci kesepakatan. **Jangan dibagikan kepada peserta sebelum atau selama simulasi.**
 
@@ -105,9 +107,11 @@ Delapan biro (Biro Manajemen Event, Biro Pengabdian Masyarakat, Biro Kajian & In
 | Materi 3 sebagai prinsip komunikasi lintas tim, pembingkaian "konvensi struktur saat ini", tiga zona Canvas (Cahaya Biro, Ruang Tumbuh, Asa dan Terobosan), topik ketiga Ngopi Khidmah, dan butir tes berbasis prinsip | **Disepakati** (keputusan Ketua Pelaksana pasca-audiensi, 24 Oktober 2026) |
 | Tema resmi, rundown 08.30–16.06, simulasi 30 menit, komposisi Ngopi Khidmah baru, Canvas dua zona terbuka dan amplop tertutup Ruang Tumbuh | **Disepakati** (rapat Ketua Pelaksana dan Badan Personalia, 1 November 2026) |
 | Angka TUK, jumlah fasilitator dan pengamat, mekanisme meja gabungan (dua kartu), dan naskah transparansi pengamatan | **Usulan**, menunggu persetujuan Ketua |
-| Kapasitas Ruang Rapat Barat Utara untuk sekitar 100 orang | **Belum terverifikasi** (konfirmasi ke Takmir sebelum 15 Oktober) |
+| Dua Pembina | **Dikonfirmasi** (Ketua Pelaksana): Dr. Candra Irawan, S.T., M.T. adalah Pembina pengisi sesi (Stadium Generale). Prof. Dr. Ir. Eko Setijadi, S.T., M.T., Ph.D. adalah Pembina utama organisasi (penandatangan Lembar Pengesahan proposal dan Lampiran 2) |
+| Tenggat KPP | **Dikunci**: jendela 16–21 November 2026, tenggat Sabtu 21 November (Forum AHWA JMMI ITS 2026 pada Minggu 22 November) |
+| Kapasitas Ruang Rapat Barat Utara | **Terverifikasi aman** untuk 50–70 peserta dan panitia (fasilitas kursi dan ruangan) |
 | Angka bertanda **(sim)** pada kasus simulasi | **Fiktif**, perlu divalidasi Kabiro terkait sebelum kartu dicetak |
-| Proposal kegiatan | **Draf Markdown tersedia** (`main/proposal_bbm_2.md`); harga satuan RAB masih estimasi dan nama panitia belum dilengkapi; berkas `.docx` belum dibuat |
+| Proposal kegiatan | **Draf Markdown tersedia** (`main/proposal_bbm_2.md`); harga satuan RAB masih estimasi dan nama panitia belum dilengkapi; berkas `.docx` dibangun ulang dari Markdown |
 
 Seluruh rujukan pasal mengacu pada dokumen *Tata Kelola Organisasi JMMI Kabinet Ekselensi 2026*. Gambar organogram dan *flowchart* pada dokumen tersebut tidak ikut terbaca saat penyusunan.
 

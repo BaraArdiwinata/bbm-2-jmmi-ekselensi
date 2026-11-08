@@ -2,10 +2,10 @@
 
 **Program:** BBM 2 JMMI ITS Kabinet Ekselensi 2026
 **Pelaksanaan:** Sabtu, 14 November 2026 (H), Ruang Rapat Barat Utara Masjid Manarul Ilmi ITS
-**Versi:** 1.0, disusun Kamis, 8 Oktober 2026 (H-38)
+**Versi:** 1.0, disusun Kamis, 8 Oktober 2026 (H-37)
 **Dasar birokrasi:** `tata_kelola_organisasi_jmmi_kabinet_ekselensi_2026.pdf`, Bab VI SOP, 6.1 (Administrasi, Persuratan, Proposal, SPJ, LPJ) dan 6.4 (Permintaan Media)
 
-> **Status proposal.** Draf lengkap sudah tersedia dalam Markdown di `main/proposal_bbm_2.md` (berkas `.docx` belum dibuat). Data yang masih harus dilengkapi, terutama harga satuan RAB (estimasi) dan susunan panitia, tercantum pada "Catatan Penyusunan" di awal draf. Tenggat asistensi proposal (15 Oktober) tinggal **7 hari** dari penyusunan dokumen ini. Bila proposal belum mulai dikerjakan pada 9 Oktober, risiko melanggar SOP meningkat. Lihat bagian 3.
+> **Status proposal.** Draf lengkap sudah tersedia dalam Markdown di `main/proposal_bbm_2.md` (berkas `.docx` dibangun ulang dari Markdown). Data yang masih harus dilengkapi, terutama harga satuan RAB (estimasi) dan susunan panitia, tercantum pada "Catatan Penyusunan" di awal draf. Tenggat asistensi proposal (15 Oktober) tinggal **7 hari** dari penyusunan dokumen ini. Bila proposal belum mulai dikerjakan pada 9 Oktober, risiko melanggar SOP meningkat. Lihat bagian 3.
 
 ---
 
@@ -13,13 +13,13 @@
 
 | Tanggal | Hari | H | Tenggat | Dasar |
 |---|---|---|---|---|
-| 15 September | Selasa | H-61 | **Proposal seharusnya mulai dibuat** (2 bulan sebelum) | 6.1.2 c.1. Sudah terlewat. Dicatat sebagai keterlambatan yang perlu dikomunikasikan ke Sekum |
-| **15 Oktober** | **Kamis** | **H-31** | **Batas asistensi proposal** (1 bulan sebelum) | 6.1.2 c.2 |
-| **1 November** | **Minggu** | **H-14** | **Batas penyerahan proposal ke Sekretaris Umum** (2 pekan sebelum). Karena hari Minggu, target operasional **Jumat 30 Oktober** | 6.1.2 c.6 |
-| 12 November | Kamis | H-3 | Batas pengajuan surat bila tenggat pemakaiannya 14 November (maksimal H-3 sebelum deadline) | 6.1.1 b.7 |
-| **18 November** | **Rabu** | **H+3** | **Batas asistensi SPJ** | 6.1.6 b |
-| **20–21 November** | **Jumat–Sabtu** | **H+5 s.d. H+6** | **Tenggat KPP** = H-1 Forum AHWA JMMI ITS 2026 (Jumat 20 November bila Forum AHWA 21 November; Sabtu 21 November bila 22 November). Tanggal Forum AHWA harus dikonfirmasi | Arahan Ketua Pelaksana |
-| **29 November** | **Minggu** | **H+14** | **Batas asistensi LPJ.** Target operasional **Jumat 27 November** | 6.1.6 b |
+| 15 September | Selasa | H-60 | **Proposal seharusnya mulai dibuat** (2 bulan sebelum) | 6.1.2 c.1. Sudah terlewat. Dicatat sebagai keterlambatan yang perlu dikomunikasikan ke Sekum |
+| **15 Oktober** | **Kamis** | **H-30** | **Batas asistensi proposal** (1 bulan sebelum) | 6.1.2 c.2 |
+| **1 November** | **Minggu** | **H-13** | **Batas penyerahan proposal ke Sekretaris Umum** (2 pekan sebelum). Karena hari Minggu, target operasional **Jumat 30 Oktober** | 6.1.2 c.6 |
+| 11 November | Rabu | H-3 | Batas pengajuan surat bila tenggat pemakaiannya 14 November (maksimal H-3 sebelum deadline) | 6.1.1 b.7 |
+| **17 November** | **Selasa** | **H+3** | **Batas asistensi SPJ** | 6.1.6 b |
+| **16–21 November** | **Senin–Sabtu** | **H+2 s.d. H+7** | **Jendela KPP; tenggat Sabtu 21 November** = H-1 Forum AHWA JMMI ITS 2026 (Minggu 22 November) | Arahan Ketua Pelaksana |
+| **28 November** | **Sabtu** | **H+14** | **Batas asistensi LPJ.** Target operasional **Jumat 27 November** | 6.1.6 b |
 
 ---
 
@@ -29,37 +29,37 @@
 
 | Tanggal | H | Kegiatan | PIC | Keluaran |
 |---|---|---|---|---|
-| Kamis 8 Okt | H-38 | Blueprint selesai. Review oleh Ketua | Ketupel | 5 dokumen knowledge base |
-| Jumat 9 Okt | H-37 | **Mulai proposal** (kerangka, pembagian bab). Kumpulkan data kepanitiaan | Ketupel, Sekpel | Kerangka proposal |
-| Sabtu 10 Okt – Minggu 11 Okt | H-36 s.d. H-35 | Tulis BAB I–II, susunan acara (Lampiran 1) dari rundown, susunan kepanitiaan (Lampiran 2) | Sekpel | Draf BAB I–II, Lampiran 1–2 |
-| **Senin 12 Okt** | H-34 | Konfirmasi tertulis seluruh pemateri (Hazal, Waket I, II, III, Ketua Badan Keorg, Ketua Biro RHE (Kabiro Best OKR 1), Kadep Syi'ar). Draf RAB | Ketupel, Bendahara Pelaksana | Konfirmasi pemateri; draf RAB |
-| Selasa 13 Okt | H-33 | Review internal Ketupel dan Sekpel; cek format Times New Roman 12 spasi 1,15; draf Lampiran 3 (surat permohonan dana) | Ketupel, Sekpel | Proposal lengkap versi review |
-| **Rabu 14 Okt** | H-32 | **Kirim softcopy ke asistensi** (sekretaris bidang atau Badan, lalu Sekum dan Bendum; lihat 3.2) | Sekpel | Bukti pengiriman |
-| **Kamis 15 Okt** | H-31 | **Batas asistensi.** Konfirmasi kapasitas venue Aula dan Ruang AV kepada Takmir | Ketupel | Asistensi tercatat; kapasitas terverifikasi |
-| Jumat 16 Okt – Jumat 23 Okt | H-30 s.d. H-23 | Revisi sesuai catatan asistensi. Mulai survei kasus ke Kabiro dan Staf Ahli aktif. Ajukan form request media pertama | Sekpel, Sie Simulasi | Proposal revisi; draf kasus riil |
-| Jumat 23 Okt | H-23 | Konfirmasi jumlah dan komposisi Staf Muda angkatan 2025 per biro | Badan Personalia | Daftar peserta resmi |
-| Senin 26 Okt | H-20 | **Briefing pemateri 1.** Buka RSVP peserta | Sie Acara | Pemateri paham tujuan; RSVP terbuka |
-| Selasa 27 Okt | H-19 | **Ajukan Surat Permohonan Dana** (tenggat pemakaian Jumat 30 Okt, H-3 sebelum deadline) | Sekpel | Pengajuan surat |
-| Rabu 28 Okt – Kamis 29 Okt | H-18 s.d. H-17 | Persetujuan akhir Sekum dan Bendum. **Baru boleh mencetak proposal setelah disetujui** (6.1.2 c.4) | Sekpel | Persetujuan tertulis (daring atau luring) |
-| **Jumat 30 Okt** | H-16 | **Serah proposal ke Sekum** (target operasional). Softcopy diarsipkan di Google Drive JMMI ITS 2026 | Sekpel | Tanda terima |
-| Sabtu 31 Okt – Minggu 1 Nov | H-15 s.d. H-14 | Cadangan hari kerja bila ada perbaikan. **1 November adalah batas keras** | Sekpel | — |
+| Kamis 8 Okt | H-37 | Blueprint selesai. Review oleh Ketua | Ketupel | 5 dokumen knowledge base |
+| Jumat 9 Okt | H-36 | **Mulai proposal** (kerangka, pembagian bab). Kumpulkan data kepanitiaan | Ketupel, Sekpel | Kerangka proposal |
+| Sabtu 10 Okt – Minggu 11 Okt | H-35 s.d. H-34 | Tulis BAB I–II, susunan acara (Lampiran 1) dari rundown, susunan kepanitiaan (Lampiran 2) | Sekpel | Draf BAB I–II, Lampiran 1–2 |
+| **Senin 12 Okt** | H-33 | Konfirmasi tertulis seluruh pemateri (Hazal, Waket I, II, III, Ketua Badan Keorg, Farhandito Apbrilliant Sulthon (Ketua Biro RHE, Kabiro Best OKR 1), Kadep Syi'ar). Draf RAB | Ketupel, Bendahara Pelaksana | Konfirmasi pemateri; draf RAB |
+| Selasa 13 Okt | H-32 | Review internal Ketupel dan Sekpel; cek format Times New Roman 12 spasi 1,15; draf Lampiran 3 (surat permohonan dana) | Ketupel, Sekpel | Proposal lengkap versi review |
+| **Rabu 14 Okt** | H-31 | **Kirim softcopy ke asistensi** (sekretaris bidang atau Badan, lalu Sekum dan Bendum; lihat 3.2) | Sekpel | Bukti pengiriman |
+| **Kamis 15 Okt** | H-30 | **Batas asistensi.** Konfirmasi kapasitas Ruang Rapat Barat Utara kepada Takmir | Ketupel | Asistensi tercatat; kapasitas terverifikasi |
+| Jumat 16 Okt – Jumat 23 Okt | H-29 s.d. H-22 | Revisi sesuai catatan asistensi. Mulai survei kasus ke Kabiro dan Staf Ahli aktif. Ajukan form request media pertama | Sekpel, Sie Simulasi | Proposal revisi; draf kasus riil |
+| Jumat 23 Okt | H-22 | Konfirmasi jumlah dan komposisi Staf Muda angkatan 2025 per biro | Badan Personalia | Daftar peserta resmi |
+| Senin 26 Okt | H-19 | **Briefing pemateri 1.** Buka RSVP peserta | Sie Acara | Pemateri paham tujuan; RSVP terbuka |
+| Selasa 27 Okt | H-18 | **Ajukan Surat Permohonan Dana** (tenggat pemakaian Jumat 30 Okt, H-3 sebelum deadline) | Sekpel | Pengajuan surat |
+| Rabu 28 Okt – Kamis 29 Okt | H-17 s.d. H-16 | Persetujuan akhir Sekum dan Bendum. **Baru boleh mencetak proposal setelah disetujui** (6.1.2 c.4) | Sekpel | Persetujuan tertulis (daring atau luring) |
+| **Jumat 30 Okt** | H-15 | **Serah proposal ke Sekum** (target operasional). Softcopy diarsipkan di Google Drive JMMI ITS 2026 | Sekpel | Tanda terima |
+| Sabtu 31 Okt – Minggu 1 Nov | H-14 s.d. H-13 | Cadangan hari kerja bila ada perbaikan. **1 November adalah batas keras** | Sekpel | — |
 
 ### 2.2 Fase 2: Persiapan Konten dan Teknis (2–14 November)
 
 | Tanggal | H | Kegiatan | PIC | Keluaran |
 |---|---|---|---|---|
-| Senin 2 Nov | H-13 | Ajukan surat peminjaman tempat dan fasilitas, surat undangan pemateri | Sekpel | Pengajuan surat |
-| Senin 2 – Jumat 6 Nov | H-13 s.d. H-9 | **Validasi kasus dan angka simulasi** dengan Kabiro terkait. Validasi contoh konvensi sementara (disebut lisan di M3) bersama Sekum dan Bendum, serta tinjauan butir tes 6–12 oleh Waket III dan Staf Ahli Badan Personalia (pemateri M3 yang baru) | Sie Simulasi, Pemateri M3 | Kartu dan angka final |
-| Selasa 3 Nov | H-12 | Ajukan surat undangan peserta dan pemberitahuan | Sekpel | Pengajuan surat |
-| Kamis 5 Nov | H-10 | Ajukan form request media untuk dokumentasi hari-H | Sie Dokumentasi | Form request |
-| Jumat 6 Nov | H-9 | Ajukan surat tugas panitia dan fasilitator; RSVP peserta ditutup. **Konfirmasi tanggal Forum AHWA JMMI ITS 2026** untuk menetapkan tenggat KPP | Sekpel, Sie Registrasi, Ketupel | Daftar peserta final; tenggat KPP pasti |
-| Minggu 8 Nov | H-7 | **Daftar meja awal menurut biro asal** (dari RSVP), pembuatan kode peserta, dan identifikasi biro yang berpotensi hadir kurang dari 3 orang. Uji `template_simulasi_taktis.xlsx` dengan 8 akun. **Tanpa penunjukan peran** | Sie Simulasi, Sie Registrasi | Daftar meja awal; uji lulus |
-| Senin 9 Nov | H-6 | Konfirmasi jadwal salat resmi. Uji Form pre-test dan post-test (5 orang). **Pemberitahuan awal (heads-up)** kepada seluruh Kepala Biro dan Staf Ahli aktif: mereka dapat diajak Ngopi Khidmah pada 16–21 November, kuota maksimal 2 ajakan, bebas menerima atau menolak; daftar fungsionaris untuk Papan Kuota disusun | Sie Acara, Sie Registrasi, Badan Personalia | Jadwal salat final; Form teruji; heads-up terkirim; daftar fungsionaris untuk papan |
-| **Selasa 10 Nov** | H-5 | **Briefing pemateri 2 (daring).** Cetak Kartu Rahasia dan name tag. Slide final pemateri dikumpulkan paling lambat Jumat 13 November 2026 pukul 23.59 WIB (H-1) | Sie Acara, Sie Perlengkapan | Bahan siap cetak dan dicetak |
-| **Rabu 11 Nov** | H-4 | **Technical meeting fasilitator** (latihan peran Kadep, Waket, Bendum, dan inject; **kalibrasi 8 pengamat meja** untuk Lembar Observasi Kepemimpinan Emergen). **Papan Kuota Terbuka dan Form Pendaftaran Narasumber diuji**; panduan narasumber (dengan contoh pesan undangan) dan selebaran aturan Canvas dicetak | Sie Simulasi, Badan Personalia | Fasilitator dan pengamat siap; papan kuota siap |
-| Kamis 12 Nov | H-3 | Cek akhir seluruh dokumen, konsumsi, dan tim. Pesan konsumsi. **Belanja kit fisik KPP** (kertas A3, sticky notes, spidol, selotip, map plastik) | Ketupel, Sie Perlengkapan | Daftar periksa H-3 lengkap; kit terbeli |
-| Jumat 13 Nov | H-2 | **Kit fisik KPP dikemas per biro** dan diberi label nama biro serta warna. Konfirmasi ulang kehadiran seluruh pemateri, fasilitator, dan pengamat. **Keputusan penggabungan final** biro dengan hadir < 3 orang (dalam departemen yang sama). Siapkan hotspot cadangan | Sie Acara, Sie Simulasi | Konfirmasi; daftar meja final |
-| **Sabtu 14 Nov** | H-1 | **Setup venue**, uji audio-visual, uji Wi-Fi dan Google Sheets, tata letak klaster | Sie Perlengkapan, Sie Simulasi | Venue siap |
+| Senin 2 Nov | H-12 | Ajukan surat peminjaman tempat dan fasilitas, surat undangan pemateri | Sekpel | Pengajuan surat |
+| Senin 2 – Jumat 6 Nov | H-12 s.d. H-8 | **Validasi kasus dan angka simulasi** dengan Kabiro terkait. Validasi contoh konvensi sementara (disebut lisan di M3) bersama Sekum dan Bendum, serta tinjauan butir tes 6–12 oleh Waket III dan Staf Ahli Badan Personalia (pemateri M3 yang baru) | Sie Simulasi, Pemateri M3 | Kartu dan angka final |
+| Selasa 3 Nov | H-11 | Ajukan surat undangan peserta dan pemberitahuan | Sekpel | Pengajuan surat |
+| Kamis 5 Nov | H-9 | Ajukan form request media untuk dokumentasi hari-H | Sie Dokumentasi | Form request |
+| Jumat 6 Nov | H-8 | Ajukan surat tugas panitia dan fasilitator; RSVP peserta ditutup. Tenggat KPP sudah dikunci Sabtu 21 November (Forum AHWA JMMI ITS 2026 pada Minggu 22 November) | Sekpel, Sie Registrasi, Ketupel | Daftar peserta final; tenggat KPP pasti |
+| Minggu 8 Nov | H-6 | **Daftar meja awal menurut biro asal** (dari RSVP), pembuatan kode peserta, dan identifikasi biro yang berpotensi hadir kurang dari 3 orang. Uji `template_simulasi_taktis.xlsx` dengan 8 akun. **Tanpa penunjukan peran** | Sie Simulasi, Sie Registrasi | Daftar meja awal; uji lulus |
+| Senin 9 Nov | H-5 | Konfirmasi jadwal salat resmi. Uji Form pre-test dan post-test (5 orang). **Pemberitahuan awal (heads-up)** kepada seluruh Kepala Biro dan Staf Ahli aktif: mereka dapat diajak Ngopi Khidmah pada 16–21 November, kuota maksimal 2 ajakan, bebas menerima atau menolak; daftar fungsionaris untuk Papan Kuota disusun | Sie Acara, Sie Registrasi, Badan Personalia | Jadwal salat final; Form teruji; heads-up terkirim; daftar fungsionaris untuk papan |
+| **Selasa 10 Nov** | H-4 | **Briefing pemateri 2 (daring).** Cetak Kartu Rahasia dan name tag. Slide final pemateri dikumpulkan paling lambat Jumat 13 November 2026 pukul 23.59 WIB (H-1) | Sie Acara, Sie Perlengkapan | Bahan siap cetak dan dicetak |
+| **Rabu 11 Nov** | H-3 | **Technical meeting fasilitator** (latihan peran Kadep, Waket, Bendum, dan inject; **kalibrasi 8 pengamat meja** untuk Lembar Observasi Kepemimpinan Emergen). **Papan Kuota Terbuka dan Form Pendaftaran Narasumber diuji**; panduan narasumber (dengan contoh pesan undangan) dan selebaran aturan Canvas dicetak | Sie Simulasi, Badan Personalia | Fasilitator dan pengamat siap; papan kuota siap |
+| Kamis 12 Nov | H-2 | Cek akhir seluruh dokumen, konsumsi, dan tim. Pesan konsumsi. **Belanja kit fisik KPP** (kertas A3, sticky notes, spidol, selotip, map plastik) | Ketupel, Sie Perlengkapan | Daftar periksa H-2 lengkap; kit terbeli |
+| Jumat 13 Nov | H-1 | **Kit fisik KPP dikemas per biro** dan diberi label nama biro serta warna. Konfirmasi ulang kehadiran seluruh pemateri, fasilitator, dan pengamat. **Keputusan penggabungan final** biro dengan hadir < 3 orang (dalam departemen yang sama). Siapkan hotspot cadangan | Sie Acara, Sie Simulasi | Konfirmasi; daftar meja final |
+| **Sabtu 14 Nov** | H | **Setup venue**, uji audio-visual, uji Wi-Fi dan Google Sheets, tata letak klaster | Sie Perlengkapan, Sie Simulasi | Venue siap |
 
 ### 2.3 Fase 3: Hari-H (Sabtu, 14 November 2026)
 
@@ -82,18 +82,18 @@ Rundown peserta ada di dokumen 02 (bagian 1). Rundown operasional panitia:
 
 | Tanggal | H | Kegiatan | PIC |
 |---|---|---|---|
-| Senin 16 Nov | H+1 | Form Minat Peran dan Form Umpan Balik dibuka. **Tiap rombongan mencari dan menghubungi sendiri** komposisi narasumber sesuai dokumen 04, bagian 2.3 (dua Kepala Biro kelompok A dan B, 1 Staf Ahli Biro, dan 1–2 fungsionaris badan); narasumber yang sudah bersedia segera didaftarkan di Papan Kuota (urutan pendaftaran menentukan kuota maksimal 2 ajakan per narasumber). Rekap data pre dan post-test | Koordinator rombongan, Sie Registrasi dan Data |
-| Selasa 17 Nov | H+2 | **Pukul 12.00:** batas pendaftaran komposisi narasumber lengkap; Badan Personalia memfasilitasi rombongan yang belum lengkap. **Pukul 21.00:** seluruh jadwal terkonfirmasi di dashboard | Koordinator rombongan, Badan Personalia |
-| **Selasa 17 – Kamis 19 Nov** | H+2 s.d. H+4 | **Jendela pelaksanaan Ngopi Khidmah** (rombongan biro lengkap bersama komposisi narasumber sesuai dokumen 04, bagian 2.3; Rabu dan Kamis sebagai hari utama). Bukti Instagram dan grup komunal terbit paling lambat 24 jam setelah sesi. Canvas A3 dikerjakan setelah Ngopi | Tiap biro |
-| **Rabu 18 Nov** | H+3 | **Batas asistensi SPJ** (foto kegiatan dan foto nota) | Sekpel, Bendahara Pelaksana |
-| Kamis 19 Nov | H+4 | Pengingat D-1: status Ngopi dan Canvas tiap biro; pendampingan 15 menit bagi biro yang belum lengkap | Badan Personalia |
-| **Jumat 20 Nov** | H+5 | **Tenggat operasional KPP** (bila Forum AHWA 21 November): Canvas fisik diserahkan pukul 17.00; foto Canvas, Form Bukti Ngopi, dan Form Minat Peran paling lambat 23.59. Hari cadangan sesi Ngopi yang tertunda | Semua biro |
-| Sabtu 21 Nov | H+6 | **Batas keras** bila Forum AHWA dikonfirmasi 22 November; hanya untuk keterlambatan yang sudah dilaporkan | Semua biro |
-| 22–25 Nov | H+7 s.d. H+10 | Tabulasi: pengodean tema Canvas, rekap Form Minat Peran, rekap bukti publikasi | Badan Personalia |
-| 26 Nov–3 Des | H+11 s.d. H+18 | Percakapan 1-on-1 untuk peserta kategori Ragu yang bersedia dihubungi | Badan Personalia |
-| **Jumat 27 Nov** | H+12 | **Target operasional asistensi LPJ.** Data KPP final sudah tersedia | Sekpel |
-| **Minggu 29 Nov** | H+14 | **Batas asistensi LPJ** | Sekpel |
-| Jumat 4 Des | H+19 | Laporan KPP kepada Waket II dan Ketua Umum | Badan Personalia |
+| Senin 16 Nov | H+2 | Form Minat Peran dan Form Umpan Balik dibuka. **Tiap rombongan mencari dan menghubungi sendiri** komposisi narasumber sesuai dokumen 04, bagian 2.3 (dua Kepala Biro kelompok A dan B, 1 Staf Ahli Biro, dan 1–2 fungsionaris badan); narasumber yang sudah bersedia segera didaftarkan di Papan Kuota (urutan pendaftaran menentukan kuota maksimal 2 ajakan per narasumber). Rekap data pre dan post-test | Koordinator rombongan, Sie Registrasi dan Data |
+| Selasa 17 Nov | H+3 | **Pukul 12.00:** batas pendaftaran komposisi narasumber lengkap; Badan Personalia memfasilitasi rombongan yang belum lengkap. **Pukul 21.00:** seluruh jadwal terkonfirmasi di dashboard | Koordinator rombongan, Badan Personalia |
+| **Selasa 17 – Kamis 19 Nov** | H+3 s.d. H+5 | **Jendela pelaksanaan Ngopi Khidmah** (rombongan biro lengkap bersama komposisi narasumber sesuai dokumen 04, bagian 2.3; Rabu dan Kamis sebagai hari utama). Bukti Instagram dan grup komunal terbit paling lambat 24 jam setelah sesi. Canvas A3 dikerjakan setelah Ngopi | Tiap biro |
+| **Selasa 17 Nov** | H+3 | **Batas asistensi SPJ** (foto kegiatan dan foto nota) | Sekpel, Bendahara Pelaksana |
+| Kamis 19 Nov | H+5 | Pengingat D-1: status Ngopi dan Canvas tiap biro; pendampingan 15 menit bagi biro yang belum lengkap | Badan Personalia |
+| Jumat 20 Nov | H+6 | Pengingat D-1 tenggat KPP. Hari cadangan sesi Ngopi yang tertunda | Badan Personalia |
+| **Sabtu 21 Nov** | H+7 | **Tenggat KPP** (H-1 Forum AHWA JMMI ITS 2026, Minggu 22 November): Canvas fisik diserahkan pukul 17.00; foto Canvas, Form Bukti Ngopi, dan Form Minat Peran paling lambat 23.59 | Semua biro |
+| 22–25 Nov | H+8 s.d. H+11 | Tabulasi: pengodean tema Canvas, rekap Form Minat Peran, rekap bukti publikasi | Badan Personalia |
+| 26 Nov–3 Des | H+12 s.d. H+19 | Percakapan 1-on-1 untuk peserta kategori Ragu yang bersedia dihubungi | Badan Personalia |
+| **Jumat 27 Nov** | H+13 | **Target operasional asistensi LPJ.** Data KPP final sudah tersedia | Sekpel |
+| **Sabtu 28 Nov** | H+14 | **Batas asistensi LPJ** | Sekpel |
+| Jumat 4 Des | H+20 | Laporan KPP kepada Waket II dan Ketua Umum | Badan Personalia |
 
 KPP kini selesai sebelum batas asistensi LPJ, sehingga data TUK K11–K14 final untuk disusun ke LPJ tanpa penyiasatan jadwal.
 
@@ -172,7 +172,7 @@ Seluruh tanggal "diajukan paling lambat" adalah **usulan jadwal internal** yang 
 
 ### 3.5 SPJ dan LPJ
 
-**SPJ (6.1.3):** dokumen pelengkap yang dilampirkan bersama LPJ, berisi surat pernyataan bahwa seluruh dana digunakan sesuai ketentuan, dibuktikan **foto kegiatan dan foto nota pembelian**. **Asistensi paling lambat H+3 (18 November)**.
+**SPJ (6.1.3):** dokumen pelengkap yang dilampirkan bersama LPJ, berisi surat pernyataan bahwa seluruh dana digunakan sesuai ketentuan, dibuktikan **foto kegiatan dan foto nota pembelian**. **Asistensi paling lambat H+3 (17 November)**.
 
 **LPJ (6.1.4–6.1.5):** laporan akhir yang wajib dibuat semua kepanitiaan. Format:
 
@@ -185,7 +185,7 @@ Seluruh tanggal "diajukan paling lambat" adalah **usulan jadwal internal** yang 
 | BAB IV Penutup | — |
 | Lembar Pengesahan dan Lampiran | — |
 
-Pembuat: Sekretaris Pelaksana dibantu Sekretaris Departemen (6.1.6 a), dengan data TUK dari dokumen 01 (bagian 4.4) dan 04 (bagian 6). **Asistensi paling lambat H+14 (29 November)**, target operasional **27 November**.
+Pembuat: Sekretaris Pelaksana dibantu Sekretaris Departemen (6.1.6 a), dengan data TUK dari dokumen 01 (bagian 4.4) dan 04 (bagian 6). **Asistensi paling lambat H+14 (28 November)**, target operasional **27 November**.
 
 **Bahan bukti yang harus dikumpulkan dari hari-H:** foto kegiatan (setiap sesi), foto nota seluruh belanja, daftar hadir digital, tangkapan layar `PAPAN_JARING` dan `SKOR_EVALUASI`, rekap pre-test dan post-test, rekap Papan Kuota Terbuka (narasumber Ngopi Khidmah), foto bersama dan tangkapan layar publikasi Ngopi Khidmah tiap biro, foto 8 Canvas A3, dan foto kondisi ruangan sebelum dan sesudah acara.
 
@@ -223,7 +223,7 @@ Softcopy proposal, surat, SPJ, LPJ, dan data peserta diarsipkan di **Google Driv
 | Proposal terlambat diasistensi (15 Oktober) | Pelanggaran SOP dan keterlambatan seluruh surat dan dana | Mulai 9 Oktober, kirim 14 Oktober, konfirmasi urutan asistensi ke Sekum hari ini |
 | Perbedaan tafsir "asistensi ke sekretaris biro/bidang" vs "Sekum dan Bendum" | Penolakan atau pengulangan asistensi | Konfirmasi tertulis ke Sekum, lalu ikuti urutan dua tahap |
 | 1 November jatuh pada hari Minggu | Kantor sekretariat tidak aktif | Target operasional 30 Oktober |
-| Tanggal Forum AHWA JMMI ITS 2026 belum pasti atau berubah | Jendela KPP memendek dan tenggat bergeser | Konfirmasi paling lambat 6 November; skenario tenggat di dokumen 04, bagian 4.2 |
+| Tanggal Forum AHWA JMMI ITS 2026 (Minggu 22 November) berubah | Jendela KPP memendek dan tenggat bergeser | Tenggat dikunci Sabtu 21 November; bila berubah, Ketupel dan Personalia merancang ulang (dokumen 04, bagian 4.2) |
 | Surat diajukan mepet | Surat tidak selesai tepat waktu | Gunakan jadwal pengajuan di 3.4 (margin di atas H-3) |
 | Cetak proposal sebelum disetujui | Pelanggaran SOP | Cetak hanya setelah persetujuan Sekum dan Bendum |
 | Template lama tidak diganti seluruhnya | Kesalahan data pada dokumen resmi | Daftar pembersihan di 3.3 diperiksa dua orang |
@@ -250,7 +250,7 @@ Panitia dan fasilitator dapat saling tumpang tindih. Angka di atas adalah batas 
 | Item | Kebutuhan | Status |
 |---|---|---|
 | Surat peminjaman tempat | Diajukan ke Takmir (3.4 no. 2) | Belum diajukan |
-| **Kapasitas ±110 orang** | 8 meja menurut biro asal (jumlah kursi menyesuaikan kehadiran; meja gabungan lebih besar) + kursi pengamat + area pemateri + area panitia | **Belum terverifikasi.** Konfirmasi 15 Oktober |
+| **Kapasitas ruangan (50–70 peserta dan panitia)** | 8 meja menurut biro asal (jumlah kursi menyesuaikan kehadiran; meja gabungan lebih besar) + kursi pengamat + area pemateri + area panitia | **Terverifikasi aman** (fasilitas kursi dan ruangan) untuk 50–70 peserta dan panitia |
 | Pengaturan | 8 klaster berbentuk pulau, jalur lalu lintas fasilitator, 1 panggung atau area depan, 2 layar, 1 meja registrasi di pintu masuk | Rencana |
 | Kebutuhan sepanjang hari | 05.30 s.d. 17.30 (setup dan bongkar) | Dicantumkan di surat |
 | Akses ibadah | Jalur ke masjid untuk Dzuhur dan Ashar, tempat wudu | Rencana |
@@ -284,7 +284,7 @@ Panitia dan fasilitator dapat saling tumpang tindih. Angka di atas adalah batas 
 | 14.11 | Snack sore dan minum (blok Ashar 14.11–14.41) | 60 | Sie Konsumsi |
 | Sepanjang hari | Air mineral cadangan | 1 dus per 2 meja | Sie Konsumsi |
 
-**Catatan:** jumlah porsi ditetapkan **60** sesuai RAB (Rp600.000 untuk makan siang). Bila kehadiran aktual melebihi 60, kebutuhan konsumsi wajib ditambah dan dianggarkan ulang. Seluruh konsumsi halal. Kumpulkan informasi alergi atau pantangan peserta lewat RSVP. Konsumsi disiapkan sebelum azan Dzuhur dan Ashar supaya waktu salat tidak terpotong. Harga dan vendor mengikuti kuotasi (belum tersedia pada dokumen sumber).
+**Catatan:** jumlah porsi ditetapkan **60** sesuai RAB (Rp600.000 untuk makan siang). Bila kehadiran aktual melebihi 60, kebutuhan konsumsi wajib ditambah dan dianggarkan ulang. Seluruh konsumsi halal. Air minum memakai dispenser dan air galon Masjid Manarul Ilmi (gratis), sehingga air galon tidak masuk RAB. Kumpulkan informasi alergi atau pantangan peserta lewat RSVP. Konsumsi disiapkan sebelum azan Dzuhur dan Ashar supaya waktu salat tidak terpotong. Harga dan vendor mengikuti kuotasi (belum tersedia pada dokumen sumber).
 
 ### 4.5 Perlengkapan Peserta dan Simulasi
 
@@ -378,13 +378,13 @@ Sumber dana mengikuti template: pemasukan dari Takmir dan pihak lain yang disetu
 | Pemateri berhalangan | Pengganti yang sudah dibriefing: anggota BPI atau Badan Keorg (M1, M3), Kabiro lain (M2), Kadep lain (M4) |
 | Jadwal salat bergeser | Geser blok rehat tanpa mengubah durasi sesi |
 | Hujan atau akses terganggu | Perpanjang registrasi 15 menit, geser pembukaan, dan pangkas tanya jawab M1 |
-| Hadir kurang dari 3 orang dari suatu biro | Biro itu digabung dengan biro lain **dalam departemen yang sama**; meja memegang dua kartu dan dua tab. Diputuskan pada H-2 (13 November) dan dikonfirmasi lagi saat registrasi |
+| Hadir kurang dari 3 orang dari suatu biro | Biro itu digabung dengan biro lain **dalam departemen yang sama**; meja memegang dua kartu dan dua tab. Diputuskan pada H-1 (13 November) dan dikonfirmasi lagi saat registrasi |
 | Satu departemen seluruhnya hadir kurang dari 3 orang | Ketupel dan Sie Simulasi memutuskan apakah anggota Badan Personalia menjadi peserta pengganti tanpa mengambil kendali |
 | Satu biro hadir lebih dari 10 orang | Tambah kursi di meja yang sama; meja tidak dibagi |
 | Peserta total jauh di bawah 50 atau di atas 70 | Susunan meja mengikuti biro asal; sesuaikan hanya kursi, konsumsi, dan jumlah pengamat |
 | Listrik mati | Genset venue atau tunda sesi. Seluruh data tersimpan di Sheets (cloud) |
 
-### 4.11 Daftar Periksa H-1 (Sabtu, 14 November)
+### 4.11 Daftar Periksa Hari-H (Sabtu, 14 November)
 
 - [ ] Venue ditata (8 klaster, 2 layar, meja registrasi, meja pemateri).
 - [ ] Uji coba proyektor, mikrofon, dan sound.
@@ -447,7 +447,7 @@ R = penanggung jawab pelaksana, A = penanggung jawab akhir, C = dikonsultasikan,
 | No | Risiko | Kemungkinan | Dampak | Mitigasi | PIC |
 |---|---|---|---|---|---|
 | 1 | Proposal terlambat | Sedang | Tinggi | Mulai 9 Oktober, kirim 14 Oktober | Ketupel |
-| 2 | Kapasitas venue tidak cukup | Sedang | Tinggi | Konfirmasi 15 Oktober; opsi Aula | Ketupel |
+| 2 | Kapasitas venue tidak cukup | Rendah | Tinggi | Fasilitas kursi dan ruangan sudah terverifikasi aman untuk 50–70 peserta dan panitia; pantau jumlah RSVP | Ketupel |
 | 3 | Pemateri berhalangan | Rendah–Sedang | Tinggi | Konfirmasi 12 Oktober; pengganti dibriefing | Sie Acara |
 | 4 | Wi-Fi tidak memadai | Sedang | Tinggi | Hotspot cadangan, uji 14 November, Plan B manual | Sie Perlengkapan |
 | 5 | Kasus simulasi tidak sesuai kondisi biro | Sedang | Sedang | Validasi dengan Kabiro 2–6 November | Sie Simulasi |
@@ -466,10 +466,10 @@ R = penanggung jawab pelaksana, A = penanggung jawab akhir, C = dikonsultasikan,
 | 1 | Urutan asistensi proposal (sekretaris bidang, lalu Sekum dan Bendum, atau langsung Sekum dan Bendum) | Sekum | 8–9 Oktober |
 | 2 | Persetujuan angka TUK | Ketua | Sebelum asistensi (14 Oktober) |
 | 3 | Kesediaan seluruh pemateri | Pemateri | 12 Oktober |
-| 4 | Kapasitas dan ketersediaan Ruang Rapat Barat Utara pada 14 November | Takmir | 15 Oktober |
+| 4 | Kapasitas dan ketersediaan Ruang Rapat Barat Utara pada 14 November (**terverifikasi aman** untuk 50–70 peserta dan panitia) | Takmir | Selesai |
 | 5 | Kebijakan honorarium dan bingkisan | Ketupel dan Bendum | 12 Oktober |
 | 6 | Apakah Term of Reference wajib untuk BBM 2 | Sekum | 15 Oktober |
-| 7 | Tanggal Forum AHWA JMMI ITS 2026 untuk menetapkan tenggat KPP | Ketua dan BPI | 6 November |
+| 7 | Tanggal Forum AHWA JMMI ITS 2026 untuk menetapkan tenggat KPP | Ketua dan BPI | Selesai: Minggu, 22 November 2026 |
 | 8 | Tema kegiatan untuk proposal | Ketua | 12 Oktober |
 | 9 | Ketersediaan kru Digipro/Medsist untuk dokumentasi hari Sabtu | Kadep Medigi | 5 November |
 | 10 | Mekanisme meja gabungan (dua kartu dan dua tab) serta transparansi pengamatan kepemimpinan emergen kepada peserta | Ketua | 26 Oktober |

@@ -23,7 +23,7 @@
 | 5 | 08.41 | 09.11 | 30' | **Stadium Generale Pembina: "Semangat Bermasjid dan Ruh Khidmah"** | Dr. Candra Irawan, S.T., M.T. (Pembina JMMI ITS) | Membuka kegiatan dengan semangat berkhidmah di masjid kampus (lihat TOR 0) |
 | 6 | 09.11 | 09.21 | 10' | **Pre-Test (13 butir pilihan ganda, 6 butir sikap, 1 pertanyaan terbuka) via QR** | Operator | Data pre-test terkumpul |
 | 7 | 09.21 | 10.21 | 60' | **Materi 1: "Arsitektur Amanah" (50 menit materi + 10 menit Q&A)** | Ketum, Waket I, Waket II | Peta wewenang menurut konvensi struktur saat ini dipahami |
-| 8 | 10.21 | 11.21 | 60' | **Materi 2: "Seni Eksekusi" (50 menit materi + 10 menit Q&A)** | Ketua Biro Relasi dan Hubungan Eksternal (Kabiro Best Biro OKR 1) | Cerita praktisi memimpin tim lapangan |
+| 8 | 10.21 | 11.21 | 60' | **Materi 2: "Seni Eksekusi" (50 menit materi + 10 menit Q&A)** | Farhandito Apbrilliant Sulthon (Ketua Biro Relasi dan Hubungan Eksternal, Kabiro Best Biro OKR 1) | Cerita praktisi memimpin tim lapangan |
 | 9 | 11.21 | 12.06 | 45' | **Salat Dzuhur dan Ishoma** | Seluruh Panitia & Peserta | Jadwal salat resmi dikonfirmasi H-5 |
 | 10 | 12.06 | 13.06 | 60' | **Materi 3: "Simpul Organisasi" (50 menit materi + 10 menit Q&A)** | Waket III & Staf Ahli Badan Personalia | Presentasi interaktif dan studi kasus verbal |
 | 11 | 13.06 | 13.11 | 5' | Briefing Simulasi Taktis | Ketua Pelaksana | Meja duduk per biro asal. Tanpa penunjukan jabatan |
@@ -31,7 +31,7 @@
 | 13 | 13.41 | 14.11 | 30' | Presentasi Singkat Hasil Simulasi dan ulasan | BPH & Kabiro | Ulasan prinsip koordinasi dan kepemimpinan organik |
 | 14 | 14.11 | 14.41 | 30' | **Salat Ashar** | Seluruh Panitia & Peserta | Lihat catatan waktu ibadah (1.2) |
 | 15 | 14.41 | 15.41 | 60' | **Materi 4: "Saujana Manarul Ilmi" (50 menit materi + 10 menit Q&A)** | Kepala Departemen Syi'ar (M. Fakhri Imamul Huda) | Penutup rangkaian materi |
-| 16 | 15.41 | 15.51 | 10' | **Post-Test via QR** | Sie Acara | Form Umpan Balik dikirim H+1 |
+| 16 | 15.41 | 15.51 | 10' | **Post-Test via QR** | Sie Acara | Form Umpan Balik dikirim 16 November |
 | 17 | 15.51 | 16.01 | 10' | **Briefing Penugasan KPP dan pembagian kit fisik per biro** | Ketua Pelaksana | Tiap biro memegang kit; Papan Kuota Terbuka dibuka pukul 16.01 |
 | 18 | 16.01 | 16.06 | 5' | Penutup dan foto bersama (doa penutup) | MC | Acara selesai 16.06 |
 
@@ -78,11 +78,15 @@ Susunan ini adalah **usulan** untuk disesuaikan dengan jumlah personel Badan Per
 
 ### 2.1 Narasi Besar: Paham → Mampu → Mau
 
-| Fase | Sesi | Pertanyaan yang dijawab peserta |
-|---|---|---|
-| **Paham** | M1, M3 | "Posisiku di mana dan batasku apa (menurut konvensi saat ini), serta bagaimana aku berkomunikasi dan berkolaborasi lintas tim dengan beretika?" |
-| **Mampu** | M2, Simulasi Taktis | "Bagaimana memimpin biro, dan sanggupkah aku?" |
-| **Mau** | M4 | "Mengapa aku tetap mau berkhidmah?" |
+Alur belajar berjalan integratif dalam tiga sesi. Tiap sesi punya fokusnya sendiri, dan Paham selalu diikuti Mampu sebelum peserta sampai pada Mau.
+
+| Sesi | Fokus | Fase | Kegiatan | Pertanyaan yang dijawab peserta |
+|---|---|---|---|---|
+| **Pagi** | Biro | **Paham** | M1 Arsitektur Amanah | "Posisiku di mana dan batasku apa (menurut konvensi saat ini)?" |
+| **Pagi** | Biro | **Mampu** | M2 Seni Eksekusi | "Bagaimana mengeksekusi proker biro bersama tim lapangan, dan sanggupkah aku memimpinnya?" |
+| **Siang** | Lintas tim | **Paham** | M3 Simpul Organisasi | "Bagaimana aku berkomunikasi dan berkolaborasi lintas tim dengan beretika?" |
+| **Siang** | Lintas tim | **Mampu** | Simulasi Taktis | "Sanggupkah aku mempraktikkannya saat krisis?" |
+| **Sore** | Ruhiyah | **Mau** | M4 Saujana Manarul Ilmi | "Mengapa aku tetap mau berkhidmah, dan bagaimana aku merasa menjadi bagian dari JMMI?" |
 
 ### 2.2 Alasan Urutan
 
@@ -101,7 +105,7 @@ P = bahasan utama, S = bahasan pendukung (maksimal 2 menit), — = tidak dibahas
 | Topik | M1 | M2 | M3 | M4 |
 | --- | --- | --- | --- | --- |
 | Alasan perubahan organogram | **P** | — | — | — |
-| Fungsionaris vs Eksekutif | **P** | — | — | — |
+| Fungsionaris vs pelaksana operasional biro | **P** | — | — | — |
 | Wewenang Kabiro, Kadep, Staf Ahli, Staf Muda | **P** | S | S | — |
 | Etika eskalasi dan prinsip koordinasi lintas tim | S | — | **P** | — |
 | Musyawarah, koordinasi asertif, diplomasi internal (antartim) | — | — | **P** | — |
@@ -129,7 +133,7 @@ P = bahasan utama, S = bahasan pendukung (maksimal 2 menit), — = tidak dibahas
 
 ### 3.1 Materi 1 — "Arsitektur Amanah"
 
-**Subjudul:** Hierarki, Fungsionaris–Eksekutif, dan Transisi Organogram
+**Subjudul:** Hierarki, Fungsionaris–Pelaksana Operasional, dan Transisi Organogram
 **Pemateri:** Hazal (Ketua Umum) didampingi Waket I dan Waket II
 **Waktu:** 09.21–10.21 (50 menit materi + 10 menit tanya jawab)
 
@@ -137,7 +141,7 @@ P = bahasan utama, S = bahasan pendukung (maksimal 2 menit), — = tidak dibahas
 
 **Tujuan instruksional:**
 1. Peserta menjelaskan alasan organogram berubah dari BPI → Departemen menjadi BPI → Departemen → Biro.
-2. Peserta membedakan unsur Fungsionaris dan Eksekutif serta menyebutkan siapa saja di dalamnya.
+2. Peserta membedakan unsur Fungsionaris dan pelaksana operasional biro serta menyebutkan siapa saja di dalamnya.
 3. Peserta menyebutkan wewenang inti Kabiro, Staf Ahli, Staf Muda, dan Kadep, dan batas satu terhadap yang lain.
 
 **Indikator capaian:** butir post-test 1, 2, 3, 4, 5 (lihat dokumen 04).
@@ -145,7 +149,7 @@ P = bahasan utama, S = bahasan pendukung (maksimal 2 menit), — = tidak dibahas
 | Menit | Segmen | Pembicara | Isi |
 |---|---|---|---|
 | 0–18 | Dasar pemikiran dan transisi organogram | Hazal | Alasan strategis penambahan lapisan Biro; kaitan dengan Misi 2 (tata kelola transparan dan terukur) dan Pilar F; apa yang berubah dari tahun lalu bagi Staf Muda; apa yang **belum mulus** dalam transisi (disampaikan jujur); harapan kepada calon pengisi lapisan Biro |
-| 18–33 | Fungsionaris vs Eksekutif, dan alur Bidang 1 | Waket I | Pembagian golongan menurut 5.3; wewenang Kadep dan Kabiro berdampingan; contoh alur Dept Pelayanan dan Dept Syi'ar → 4 biro; koordinasi langsung Kadep ↔ Biro **tanpa mengambil alih kewenangan operasional biro** |
+| 18–33 | Fungsionaris vs pelaksana operasional biro, dan alur Bidang 1 | Waket I | Pembagian golongan menurut 5.3; wewenang Kadep dan Kabiro berdampingan; contoh alur Dept Pelayanan dan Dept Syi'ar → 4 biro; koordinasi langsung Kadep ↔ Biro **tanpa mengambil alih kewenangan operasional biro** |
 | 33–50 | Tabel wewenang dan alur Bidang 2 | Waket II | Tabel *memutuskan / mengusulkan / mengetahui*; peran tiga badan di Bidang 2 (Personalia, Keorganisasian, Kemuslimahan) dan hak koordinasi langsung mereka ke departemen dan biro; hak Staf Muda (5.6.11); penutup berupa peta jalan kepengurusan berikutnya (yang tetap dan yang mungkin berubah) |
 | 50–60 | Tanya jawab (Q&A) | Ketiganya | Pertanyaan anonim dikumpulkan sejak registrasi (kertas atau Google Form) dan dijawab bergantian |
 
@@ -154,16 +158,16 @@ P = bahasan utama, S = bahasan pendukung (maksimal 2 menit), — = tidak dibahas
 **A. Susunan resmi (5.2–5.3).**
 - BPI: Ketua Umum; Waket I, II, III (sekaligus Ketua Bidang); Sekretaris Umum dan Wakil; Bendahara Umum dan Wakil.
 - **Fungsionaris** (5.3.1.2): Ketua Badan, Asisten Badan, Sekretaris Badan, Ketua Departemen, Sekretaris Departemen. Tugas: **mengontrol keberjalanan** program dan agenda bagan di bawahnya.
-- **Eksekutif** (5.3.2): Kepala Biro, Staf Ahli Biro, Staf Muda Biro, Staf Ahli Badan. Tugas: **mengonsep dan melaksanakan** program kerja.
+- **Pelaksana operasional biro** (5.3.2): Kepala Biro, Staf Ahli Biro, Staf Muda Biro, Staf Ahli Badan. Tugas: **mengonsep dan melaksanakan** program kerja.
 
-**B. Tugas, fungsi, hak umum Eksekutif (5.4.3).**
+**B. Tugas, fungsi, hak umum pelaksana operasional biro (5.4.3).**
 - Melaksanakan dan memantau amanat fundamental dan haluan kerja.
 - Membuat konsep teknis dan perencanaan program, membuat pelaporan.
 - **Hak:** meminta rapat dan sumber daya kepada bagan di atasnya; mengadakan rapat internal; memberi saran kepada bagan atasnya sesuai hierarki; memperoleh pendampingan dan arahan.
 
 **C. Kabiro vs Kadep (5.6.9 dan 5.6.6).**
 
-| Aspek | Kadep (Fungsionaris) | Kabiro (Eksekutif) |
+| Aspek | Kadep (Fungsionaris) | Kabiro (pelaksana operasional biro) |
 |---|---|---|
 | Peran | Mengontrol dan mengintegrasikan seluruh biro; penghubung Waket dengan biro | Memimpin operasional biro bersama Staf Ahli dan Staf Muda |
 | Memutuskan | Prioritas dan koordinasi **antar-biro**; menyetujui rancangan teknis tingkat departemen; meminta revisi program biro | Pembagian tugas internal biro; langkah teknis; menyetujui keluaran biro sebelum dilaporkan ke Kadep |
@@ -203,7 +207,7 @@ P = bahasan utama, S = bahasan pendukung (maksimal 2 menit), — = tidak dibahas
 ### 3.2 Materi 2 — "Seni Eksekusi"
 
 **Subjudul:** Memimpin Tim Lapangan: Pelajaran dari Biro Relasi dan Hubungan Eksternal
-**Pemateri:** Ketua Biro Relasi dan Hubungan Eksternal (Kabiro Best Biro OKR 1)
+**Pemateri:** Farhandito Apbrilliant Sulthon (Ketua Biro Relasi dan Hubungan Eksternal, Kabiro Best Biro OKR 1)
 **Waktu:** 10.21–11.21 (50 menit materi + 10 menit tanya jawab)
 
 **Tujuan instruksional:**
@@ -216,15 +220,15 @@ P = bahasan utama, S = bahasan pendukung (maksimal 2 menit), — = tidak dibahas
 | Menit | Segmen | Isi |
 |---|---|---|
 | 0–10 | Cerita pembuka | Perjalanan menjadi Ketua Biro Relasi dan Hubungan Eksternal: kejutan, momen ragu, kesalahan terbesar |
-| 10–25 | Studi kasus: Jaulah LDK | Dari tujuan hingga hari-H: persiapan, pembagian tugas, dan pelaksanaan |
+| 10–25 | Studi kasus: Jaulah LDK (tuan rumah) dan Rihlah Anjangsana (delegasi) | Dari tujuan hingga hari-H: persiapan, pembagian tugas, dan pelaksanaan. Pembeda tuan rumah dan delegasi |
 | 25–40 | Mitigasi kendala eksternal | Menghadapi hal yang bergantung pada pihak luar: perizinan, kepastian mitra, dan perubahan rencana |
 | 40–50 | Koordinasi staf dan semangat tim | Pembagian peran Kabiro, Staf Ahli, dan Staf Muda; check-in; apresiasi; bonding |
 | 50–60 | Tanya jawab (Q&A) | Pertanyaan peserta |
 
 **Poin bahasan yang disarankan**
 
-1. **Studi kasus Jaulah LDK (bagian dari Benchmarking 1, Musyker OKR 1 Biro RHE).** Tujuannya menjalin kolaborasi dengan 2–3 LDK untuk memperkuat sinergi dakwah kampus. Jaulah dilaksanakan bersama 1–2 LDK mitra pada Sabtu, 16 Mei 2026. Persiapan berjalan 18 April–11 Mei 2026: menyusun timeline dan pembagian tugas panitia, menyiapkan kebutuhan administratif (surat undangan, proposal, perizinan), serta koordinasi internal untuk finalisasi konsep dan teknis. Pada hari-H ada narasumber atau perwakilan LDK mitra yang berbagi praktik terbaik, forum diskusi antarpengurus, dan FGD dengan perwakilan tiap biro. Setelah acara: laporan dan evaluasi, rekomendasi program baru, serta komunikasi lanjutan dengan LDK mitra.
-2. **Cerita pelengkap: Rihlah Anjangsana.** Pemateri dapat memakai kisah ini sebagai pembanding bila relevan. Detailnya disiapkan pemateri sendiri karena belum ada di dokumen rujukan.
+1. **Studi kasus Jaulah LDK: JMMI sebagai tuan rumah.** Jaulah adalah kunjungan atau studi banding LDK kampus lain ke JMMI. Contoh riil: Jaulah LDK 2 menerima kunjungan UKKI JAM UNY. Tujuan Jaulah dalam rencana Musyker OKR 1 Biro RHE (Benchmarking 1) adalah menjalin kolaborasi dengan 2–3 LDK untuk memperkuat sinergi dakwah kampus. Rencana persiapan berjalan 18 April–11 Mei 2026: menyusun timeline dan pembagian tugas panitia, menyiapkan kebutuhan administratif (surat undangan, proposal, perizinan), serta koordinasi internal untuk finalisasi konsep dan teknis. Pada hari-H tamu dari LDK mitra berbagi praktik terbaik, lalu ada forum diskusi antarpengurus dan FGD dengan perwakilan tiap biro. Setelah acara: laporan dan evaluasi, rekomendasi program baru, serta komunikasi lanjutan dengan LDK mitra. Fokus kepemimpinan lapangan: menyiapkan tuan rumah, membagi tugas panitia, dan menjaga tamu tetap nyaman.
+2. **Studi kasus pembanding: Rihlah Anjangsana, JMMI sebagai delegasi.** Rihlah Anjangsana adalah keberangkatan delegasi JMMI ke LDK atau instansi luar untuk benchmarking dan silaturahim. Pembedanya dengan Jaulah: pada Jaulah tim mengelola tamu di rumah sendiri, sedangkan pada Rihlah tim mengelola delegasi di tempat orang lain, termasuk koordinasi dengan pihak tuan rumah. Detail pelaksanaannya disiapkan pemateri sendiri karena belum ada di dokumen rujukan.
 3. **Manajemen tim lapangan.** Pola kepanitiaan Biro RHE pada prokernya: Penanggung Jawab dijabat Ketua Departemen dan Ketua Biro, Ketua Pelaksana dijabat Staf Ahli, serta Sekretaris dan anggota dijabat Staf Muda. Pemateri menjelaskan alasan pembagian itu dan cara menjaga tiap orang tahu tugasnya.
 4. **Mitigasi kendala eksternal.** Hal yang bergantung pada pihak luar: kepastian mitra, perizinan, dan perubahan rencana. Cara menyiapkan rencana cadangan, komunikasi tertulis dengan mitra, dan kapan membawa kendala ke Kepala Departemen. Pemateri melengkapi dengan kendala nyata yang pernah dihadapi.
 5. **Koordinasi staf.** Pembagian peran yang jelas, titik pantau (check-in), dan apresiasi atas kontribusi. Hak Staf Muda memperoleh apresiasi (5.6.11 c).
@@ -398,7 +402,7 @@ Aturan khusus format terbaru:
 | 2–4 | **Ngopi Khidmah:** seluruh Staf Muda satu biro hadir lengkap; sowan tatap muka dengan **2 Kepala Biro** (satu dari Kelompok A dan satu dari Kelompok B), **1 Staf Ahli Biro**, dan **1–2 fungsionaris badan**, yang **dicari dan dihubungi sendiri** oleh Staf Muda; tiap narasumber maksimal 2 ajakan dengan sistem **first-come, first-served** lewat Papan Kuota Terbuka (narasumber yang penuh wajib dicarikan alternatif); 4 topik (alasan lanjut ber-JMMI, suka-duka memimpin, kekuatan biro dan hal yang ingin dikembangkan bersama, tips menjaga komitmen); bukti berupa foto bersama yang diunggah ke Instagram biro dan dibagikan ke grup komunal anggota JMMI ITS | Badan Personalia |
 | 4–6 | **Canvas A3** (pendekatan *Appreciative Inquiry*): dua zona terbuka yang ditempel, yaitu **Cahaya Biro** (Warisan Baik yang Kita Jaga) dan **Asa dan Terobosan** (Estafet Kita Selanjutnya). Zona **Ruang Tumbuh** (Peluang yang Ingin Kita Jelajahi) ditulis di sticky note, lalu **digulung ke dalam sedotan dan dimasukkan ke botol kaca departemen** khusus Badan Personalia (tidak ditempel). Setiap Staf Muda wajib menulis minimal 1 sticky note di tiap zona, **berinisial nama lengkap** (contoh "BA" untuk Bara Ardiwinata) | Badan Personalia |
 | 6–8 | **Pembagian kit** kepada tiap biro beserta selebaran aturan dan panduan narasumber; hitung cepat kelengkapan; **Papan Kuota Terbuka dibuka pukul 16.01** (tautan atau QR) | Sie Acara |
-| 8–10 | **Tenggat:** KPP dikumpulkan paling lambat H-1 Forum AHWA JMMI ITS 2026 (estimasi Jumat 20 atau Sabtu 21 November); jadwal Ngopi dikonfirmasi paling lambat Senin 16 November pukul 21.00; saluran bantuan Badan Personalia | Badan Personalia |
+| 8–10 | **Tenggat:** KPP dikumpulkan paling lambat Sabtu, 21 November 2026 (H-1 Forum AHWA JMMI ITS 2026, Minggu 22 November); jadwal Ngopi dikonfirmasi paling lambat Senin 16 November pukul 21.00; saluran bantuan Badan Personalia | Badan Personalia |
 
 **Isi kit per biro:** 1 kertas A3 dua zona (tanpa cadangan, sesuai RAB), sticky notes 3 warna (sesuai RAB, 400 lembar untuk seluruh peserta), botol kaca per departemen untuk aspirasi Ruang Tumbuh, spidol tebal, selotip kertas, map plastik A3, selebaran aturan 1 halaman, dan panduan narasumber (dengan contoh pesan undangan). Jumlah total dan rincian logistik ada di dokumen 05; aturan lengkap di dokumen 04, bagian 2 dan 3.
 
@@ -414,7 +418,7 @@ Aturan khusus format terbaru:
 |---|---|
 | **Fokus** | Membuka kegiatan dengan semangat bermasjid dan niat berkhidmah |
 | **Wajib dibahas** | Makna memakmurkan Masjid Manarul Ilmi; niat lurus dalam berorganisasi; ajakan untuk mengikuti rangkaian BBM 2 dengan hati terbuka |
-| **Dilarang** | Membahas struktur, SOP, atau tata kelola (itu Materi 1 dan 2); menyebut data yang belum terverifikasi; menekan peserta untuk menyatakan komitmen |
+| **Dilarang** | Membahas struktur, SOP, atau tata kelola (itu Materi 1 dan 3); menyebut data yang belum terverifikasi; menekan peserta untuk menyatakan komitmen |
 | **Gaya** | Hangat, tenang, dan singkat. Tanpa tanya jawab |
 | **Batas slide** | Maksimal 5 slide, atau tanpa slide |
 | **Koordinasi** | Hadir sebelum 08.30 untuk uji mikrofon dan proyektor |
@@ -425,11 +429,11 @@ Aturan khusus format terbaru:
 | Unsur | Isi |
 |---|---|
 | **Fokus** | Dasar pikir perubahan organogram dan pemetaan wewenang |
-| **Wajib dibahas** | Alasan penambahan Biro; pembagian Fungsionaris dan Eksekutif; wewenang Kabiro, Kadep, Staf Ahli, dan Staf Muda; hak Staf Muda; peran tiga badan di Bidang 2 |
+| **Wajib dibahas** | Alasan penambahan Biro; pembagian Fungsionaris dan pelaksana operasional biro; wewenang Kabiro, Kadep, Staf Ahli, dan Staf Muda; hak Staf Muda; peran tiga badan di Bidang 2 |
 | **Dilarang dibahas panjang** | Detail SOP administrasi (surat, proposal, LPJ), karena tidak diajarkan di BBM 2; prinsip koordinasi dan eskalasi (milik M3); cerita memimpin tim (M2); ajakan emosional (M4) |
 | **Pembingkaian wajib** | Sampaikan bahwa seluruh pemetaan adalah **konvensi struktur kabinet saat ini**; Tata Kelola belum disahkan final dan dapat berubah, sehingga yang dipelajari adalah cara membaca peran dan batas |
 | **Gaya** | Terbuka dan jujur tentang yang belum mulus. Mengakui bahwa sebagian kerancuan ada di dokumen, bukan hanya di pelaksana |
-| **Pembagian peran** | Hazal: latar dan harapan. Waket I: Fungsionaris vs Eksekutif dan contoh Bidang 1. Waket II: tabel wewenang dan Bidang 2 |
+| **Pembagian peran** | Hazal: latar dan harapan. Waket I: Fungsionaris vs pelaksana operasional biro dan contoh Bidang 1. Waket II: tabel wewenang dan Bidang 2 |
 | **Batas slide** | Maksimal 12 |
 | **Kalimat jembatan ke M2** | "Setelah paham siapa memutuskan apa, sekarang kita belajar bagaimana memimpin tim di lapangan, dari pengalaman langsung seorang Ketua Biro." |
 | **Pengumpulan bahan** | Slide final ke Sie Acara paling lambat **Jumat, 13 November 2026 pukul 23.59 WIB** |
@@ -491,7 +495,7 @@ Aturan khusus format terbaru:
 |---|---|
 | Registrasi | 4 poster QR (pre-test), meja registrasi, name tag berwarna sesuai biro |
 | M1, M3, M4 | 1 proyektor dan layar, 2 mikrofon nirkabel, laptop pemateri, pointer |
-| M2 | 1 proyektor, 1 mikrofon, kursi santai |
+| M2 | 1 proyektor dan 1 mikrofon |
 | Simulasi | 8 meja menurut biro asal (jumlah kursi menyesuaikan kehadiran; meja gabungan lebih besar), ≥ 8 laptop dan 2 cadangan, **1 proyektor khusus Papan Jaring**, Wi-Fi memadai untuk ≥ 110 perangkat, hotspot cadangan, penghitung waktu terlihat dari semua meja, 8 amplop tersegel berisi **2 salinan** Kartu Rahasia per meja, kursi pengamat di dekat tiap meja |
 | Presentasi hasil | Proyektor menampilkan `PAPAN_JARING` dan `SKOR_EVALUASI` |
 | Penutup dan briefing KPP | QR post-test, kamera dokumentasi, **8 kit fisik KPP** (kertas A3, sticky notes, spidol, selotip, map plastik) di meja panitia, selebaran aturan dan panduan narasumber, serta tautan atau QR Papan Kuota Terbuka |
