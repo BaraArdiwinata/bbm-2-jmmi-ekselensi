@@ -1,17 +1,17 @@
 # KARTU SKENARIO RAHASIA — Simulasi Taktis BBM 2
 
 **JMMI ITS Kabinet Ekselensi 2026 · Sabtu, 14 November 2026 · Ruang Rapat Barat Utara Masjid Manarul Ilmi ITS**
-Cetak **2 salinan per meja biro** (supaya seluruh anggota bisa membaca bersamaan dalam 5 menit). **Rahasia: dilarang diperlihatkan atau dibacakan ke biro lain.** Pasangkan dengan `template_simulasi_taktis.xlsx` (tab bernama sesuai biro).
+Cetak **2 salinan per meja biro** supaya semua anggota bisa baca bareng dalam 4–5 menit. **Rahasia: jangan diperlihatkan atau dibacakan ke biro lain.** Pasangkan dengan `template_simulasi_taktis.xlsx` (tab sesuai nama biro). Ringkasan 16 tiket ada di `matriks_simulasi_ringkas.md`.
 
-## Kondisi Dunia Simulasi (berlaku untuk semua biro)
+## Aturan Main Singkat (berlaku untuk semua biro)
 
-- **Posisi waktu:** sekarang **H-21** menuju **Hari Puncak** fiktif. Semua kesepakatan harus tuntas dalam sesi (= pekan perencanaan). Sesi hanya **30 menit**: P1 persiapan 0–4 · P2 koordinasi dan inject 4–21 · P3 finalisasi 21–25 · P4 wrap-up 25–30. Ritmenya sengaja padat.
-- **Waktu masjid (sim):** Ashar 15.00 · Maghrib 17.30 · Q-TIME 17.00–17.30 pada hari kerja.
-- **Penanda angka:** angka bertanda **(sim)** adalah angka simulasi. Angka tanpa tanda bersumber dari paparan Musyker OKR 1.
-- **Aturan arah (ringkas):** kamu hanya boleh **memulai** koordinasi ke **2 biro tujuan** di kartumu. Kamu boleh **menerima** dari siapa saja, tetapi **dilarang memulai balik** ke pengirim. Butuh hal di luar 2 tujuan → **eskalasi ke Kadep**. Aturan lengkap ada di tab `00_PETUNJUK`.
-- **Tiket:** gunakan **nomor relasi** (R-01 sampai R-16) sebagai ID Tiket. Biro penerima mencatat nomor yang sama.
-- **Tidak ada jabatan.** Tidak ada ketua, Kepala Biro, atau Staf Ahli yang ditunjuk. Semua anggota setara; cara bekerja ditentukan tim. Keputusan diambil lewat musyawarah dan dicatat. Satu pengamat dari Badan Personalia mencatat pola kontribusi untuk pembinaan, bukan nilai lulus atau gagal.
-- **Meja gabungan:** bila biro kalian hadir kurang dari 3 orang dan digabung dengan biro lain dalam satu departemen, meja memegang **dua kartu** dan membuka **dua tab**.
+- **Waktunya:** sekarang **H-21** menuju **Hari Puncak** (fiktif). Semua kesepakatan harus beres dalam sesi, anggap saja ini pekan perencanaan. Sesinya cuma **30 menit**: persiapan 4' · koordinasi dan inject 17' · finalisasi 4' · wrap-up 5'. Jadi jangan kebanyakan mikir, langsung gerak.
+- **Jadwal masjid (simulasi):** Ashar 15.00, Maghrib 17.30, Q-TIME 17.00–17.30 di hari kerja.
+- **Angka bertanda (sim)** itu angka rekaan untuk simulasi. Angka tanpa tanda diambil dari paparan Musyker OKR 1.
+- **Arah koordinasi:** kamu hanya boleh **memulai** koordinasi ke **2 biro tujuan** di kartumu. Kamu boleh **menerima** dari biro mana saja, tapi **tidak boleh memulai balik** ke pengirim. Butuh sesuatu di luar 2 tujuan itu? **Naikkan ke Kadep.**
+- **Tiket:** pakai nomor relasi (R-01 sampai R-16) sebagai ID. Biro penerima mencatat nomor yang sama.
+- **Tidak ada jabatan.** Semua setara. Cara kerja tim ditentukan bareng lewat musyawarah dan keputusannya dicatat. Satu pengamat dari Badan Personalia mencatat pola kontribusi untuk pembinaan, bukan untuk nilai lulus atau gagal.
+- **Meja gabungan:** kalau biro kalian kurang dari 3 orang dan digabung dengan biro sedang satu departemen, meja pegang **dua kartu** dan buka **dua tab**.
 
 <div style="page-break-after: always;"></div>
 
@@ -22,47 +22,42 @@ Cetak **2 salinan per meja biro** (supaya seluruh anggota bisa membaca bersamaan
 | | |
 |---|---|
 | **Departemen / Bidang** | Syi'ar · Bidang 1 (Kadep Syi'ar → Waket I) |
-| **Proker Amanah** | **Maulid Nabi × Milad JMMI** (kajian, funrun, donor darah) |
-| **Tiket yang kamu mulai** | **R-01** ke Biro Relasi & Hubungan Eksternal · **R-02** ke Biro Usaha Mandiri |
+| **Proker** | **Maulid Nabi × Milad JMMI** (kajian, funrun, donor darah) |
+| **Tiket yang kamu mulai** | **R-01** ke Relasi & Hubungan Eksternal · **R-02** ke Usaha Mandiri |
 
-### 1. Latar Belakang / Trigger
-Maulid Nabi × Milad JMMI bertujuan memperkuat nilai spiritual, kebersamaan, dan identitas JMMI lewat kajian, funrun, dan donor darah. Saat ini **H-21** dan tiga hal belum beres: (1) belum ada mitra penyelenggara **donor darah** yang resmi, (2) belum ada **pemateri tamu** kajian dan **sponsor funrun**, (3) **peralatan event belum tersedia**: panitia butuh HT, sound portable, frame backdrop/standing banner, kabel roll, dan proyektor cadangan untuk kajian, funrun, dan donor darah, sementara anggaran sewa terbatas.
+### 1. Kondisi & Masalah Kita
+Kita lagi nyiapin Maulid Nabi × Milad JMMI, dan sekarang sudah **H-21**. Masalahnya ada tiga: belum ada **mitra donor darah** yang resmi, belum ada **pemateri tamu** kajian dan **sponsor funrun**, dan **alat event** (HT, sound portable, backdrop, kabel roll, proyektor cadangan) belum ada, sementara dana sewa terbatas.
 
-### 2. Limitasi & Kapasitas Internal
-- Panitia **55 orang** (sim); target funrun **300 pelari** (sim); target donor **100 kantong** (sim).
-- **Aula MMI terkunci** untuk pasang–bongkar Maulid mulai **H-3 pukul 12.00 sampai Hari Puncak**. Sebelum itu Aula bebas. **Ruang Audiovisual** (kapasitas 60, sim) bebas kapan saja.
-- Tim cadangan yang tidak terikat tugas panitia: **4 orang** (sim).
-- **Kebutuhan alat (sim):** HT **12 unit** (minimal 8), sound portable **2 set**, frame backdrop/standing banner **3 set**, kabel roll **6**, proyektor cadangan **1**. Dipakai **H-2 sampai H+1 (4 hari)**.
-- **Anggaran sewa alat: maksimal Rp 1.000.000** (sim) untuk seluruh paket. Dana panitia baru cair setelah proposal disetujui, sehingga **deposit** yang sanggup kalian setor saat pengambilan **maksimal 20%** dari nilai sewa.
-- Kalian tidak ingin menanggung **keausan wajar**. Kalian bersedia bertanggung jawab atas kerusakan atau kehilangan akibat kelalaian panitia.
-- Hanya **1 PIC eksternal** yang boleh dipakai untuk semua kontak ke luar.
+### 2. Modal & Batasan Kita
+**Modal:**
+- Panitia 55 orang (sim). Target 300 pelari dan 100 kantong donor (sim).
+- 4 orang cadangan yang tidak terikat tugas panitia (sim).
+- **Ruang Audiovisual** (muat 60 orang) bebas kapan saja. **Aula** bebas sampai **H-3 pukul 12.00**.
+- Alat yang dibutuhkan H-2 sampai H+1 (4 hari): HT 12 (minimal 8), sound portable 2, backdrop 3, kabel roll 6, proyektor cadangan 1.
+- Dana sewa alat **maksimal Rp1.000.000**. Deposit saat ambil alat **maksimal 20%** dari nilai sewa.
 
-### 3. Misi Koordinasi Wajib
-**R-01 · ke Biro Relasi & Hubungan Eksternal**
-- **Wajib disepakati:** (a) **1 mitra donor darah** resmi; (b) **1 pemateri tamu** kajian.
-- Diinginkan: 1 sponsor funrun.
-- Kesepakatan harus memuat: siapa PIC tunggal, tenggat surat, dan siapa yang menghubungi pihak luar.
-- **Dilarang:** menghubungi pihak eksternal sendiri.
+**Batasan:**
+- Jangan hubungi pihak luar sendiri. Satu-satunya PIC eksternal harus lewat Relasi & Hubungan Eksternal.
+- Kita tidak mau menanggung keausan wajar alat. Kalau rusak atau hilang karena kelalaian panitia, kita siap tanggung jawab.
+- Aula tidak boleh dipinjamkan saat terkunci (H-3 pukul 12.00 sampai Hari Puncak).
 
-**R-02 · ke Biro Usaha Mandiri (layanan GoRent)**
-- **Wajib disepakati:**
-  1. **Ketersediaan unit:** minimal 8 HT, 2 sound portable, 3 frame backdrop/standing banner, dan 1 proyektor cadangan.
-  2. **Paket harga sewa internal ormawa:** total **≤ Rp 1.000.000** untuk seluruh paket.
-  3. **Durasi sewa:** H-2 sampai H+1.
-  4. **Klausul ganti rugi dan denda** bila alat rusak atau hilang, termasuk besaran deposit.
-- Diinginkan: HT 12 unit dan kabel roll 6.
-- Yang bisa kalian tawarkan: pengembalian tepat waktu, **satu PIC peminjam**, pengecekan fungsi bersama saat serah terima, dan promosi GoRent di materi acara.
-- Kalian **belum tahu** stok, tarif, dan aturan Biro Usaha Mandiri. Gali dari mereka.
+### 3. Misi Koordinasi Wajib (2 Tiket)
+**R-01 · ke Relasi & Hubungan Eksternal**
+- **Target deal:** 1 mitra donor darah resmi dan 1 pemateri tamu kajian. Sepakati juga siapa PIC tunggal, tenggat surat, dan siapa yang menghubungi pihak luar. (Bonus kalau bisa: 1 sponsor funrun.)
+- **Modal tawar:** brief acara yang lengkap dan tepat waktu, serta kesediaan memakai jalur alumni kalau jatah mereka penuh.
 
-### 4. Permintaan yang Mungkin Masuk ke Kalian
-Biro lain mungkin meminta **dukungan acara** (ruang, tenaga). Kalian boleh memberi: **maksimal 4 orang cadangan**, **1 hari kerja**, tidak untuk H-3 sampai Hari Puncak; **Aula bebas sebelum H-3 pukul 12.00**; **Ruang Audiovisual kapan saja**. Boleh mengajukan syarat balik (mis. tenaga tidak mengambil alih konten).
+**R-02 · ke Usaha Mandiri (layanan GoRent)**
+- **Target deal:** (1) unit tersedia, minimal 8 HT, 2 sound portable, 3 backdrop, dan 1 proyektor; (2) total sewa **tidak lebih dari Rp1.000.000**; (3) durasi H-2 sampai H+1; (4) aturan ganti rugi dan denda yang wajar, termasuk besar deposit. (Bonus: HT 12 dan kabel roll 6.)
+- **Modal tawar:** alat kembali tepat waktu, satu PIC peminjam, cek fungsi bareng saat serah terima, dan promosi GoRent di materi acara.
+- Stok dan tarif mereka belum kita tahu. Gali dari mereka.
 
-### 5. Batasan Wewenang & SOP (WAJIB ESKALASI)
-- Kontak/kerja sama **eksternal** hanya lewat Biro Relasi & Hubungan Eksternal (jalur khusus → Kadep Relasi Publik & Advokasi + Waket III).
-- Biaya sewa **> Rp 1.000.000**, deposit **> 20%**, atau klausul ganti rugi yang menambah beban di luar RAB → usul ke **Kadep Syi'ar**; tim tidak boleh memutuskan sendiri.
-- Peminjaman inventaris **sekretariat JMMI** (bukan GoRent) mengikuti SOP 6.3 melalui Sekretaris Umum.
-- Perubahan tanggal Hari Puncak atau format acara → **Kadep → Waket I → BPI**.
-- Tidak boleh meminjamkan Aula pada rentang terkunci.
+### 4. Kalau Ada Biro Lain Datang ke Kita
+Boleh bantu dukungan acara: **maksimal 4 orang cadangan, 1 hari kerja**, dan tidak untuk H-3 sampai Hari Puncak. Aula bebas sebelum H-3 pukul 12.00, Ruang Audiovisual kapan saja. Boleh minta syarat balik, misalnya tenaga yang dipinjam tidak mengambil alih konten acara.
+
+### 5. Kapan Harus Panggil Kadep / BPH
+- Biaya sewa lewat Rp1.000.000, deposit lewat 20%, atau ganti rugi yang menambah beban di luar anggaran → **Kadep Syi'ar**. Jangan diputuskan sendiri di meja.
+- Mau ubah tanggal Hari Puncak atau format acara → **Kadep → Waket I → BPI**.
+- Mau pinjam inventaris sekretariat (bukan GoRent) → lewat **Sekretaris Umum**.
 
 <div style="page-break-after: always;"></div>
 
@@ -73,41 +68,39 @@ Biro lain mungkin meminta **dukungan acara** (ruang, tenaga). Kalian boleh membe
 | | |
 |---|---|
 | **Departemen / Bidang** | Syi'ar · Bidang 1 (Kadep Syi'ar → Waket I) |
-| **Proker Amanah** | **JMMI Peduli** (penggalangan donasi musibah & bantuan mitra pengabdian) |
-| **Tiket yang kamu mulai** | **R-03** ke Biro Media Analysis & Strategi · **R-04** ke Biro Relasi & Hubungan Eksternal |
+| **Proker** | **JMMI Peduli** (donasi musibah dan bantuan mitra pengabdian) |
+| **Tiket yang kamu mulai** | **R-03** ke Media Analysis & Strategi · **R-04** ke Relasi & Hubungan Eksternal |
 
-### 1. Latar Belakang / Trigger
-JMMI Peduli menggalang donasi untuk musibah dan membantu mitra kegiatan pengabdian JMMI. **Kejadian (sim):** banjir bandang melanda desa dekat lokasi mitra JMMI Mengabdi. BPI meminta JMMI Peduli bergerak sekarang: donasi harus **tayang** dan **penyaluran ke mitra terverifikasi** harus jelas **sebelum donasi dibuka**.
+### 1. Kondisi & Masalah Kita
+Banjir bandang (sim) menerjang desa dekat mitra JMMI Mengabdi. BPI minta JMMI Peduli bergerak sekarang. Masalahnya, ajakan donasi harus **cepat tayang**, dan **mitra penyalur yang terverifikasi** harus jelas **sebelum donasi dibuka**.
 
-### 2. Limitasi & Kapasitas Internal
-- Dua jenis donasi: **dana tunai** dan **barang kebutuhan pokok**.
-- Tim JMMI Peduli: **4 orang** (sim).
-- **Tiga kandidat mitra penyaluran (sim):**
-  - **A** lembaga kemanusiaan nasional: verifikasi 4 hari, jejaring luas.
-  - **B** komunitas relawan lokal: verifikasi 2 hari, tanpa MoU.
-  - **C** mitra JMMI Mengabdi yang sudah dikenal: verifikasi 1 hari, lokasi 30 km dari titik banjir.
-- **Pool volunteer pengajar JMMI Mengajar: 8 orang terlatih** (sim). 6 terikat sesi JMMI Mengajar, **2 cadangan**. Dua cadangan ini dipakai untuk **sortir & packing donasi Senin–Selasa**, baru **bebas Rabu–Kamis**.
-- Standar pengajar JMMI Mengajar: **1× open recruitment + 2 sesi pelatihan** (sesi pelatihan sim: **H-17 dan H-14**).
-- **Rekening resmi** donasi dikelola **Bendum**, bukan biro.
+### 2. Modal & Batasan Kita
+**Modal:**
+- Tim 4 orang (sim). Donasi ada dua jenis: dana tunai dan barang kebutuhan pokok.
+- Tiga kandidat mitra penyalur (sim): **A** lembaga kemanusiaan nasional (verifikasi 4 hari), **B** komunitas relawan lokal (verifikasi 2 hari, tanpa MoU), **C** mitra JMMI Mengabdi yang sudah dikenal (verifikasi 1 hari, lokasinya 30 km dari titik banjir).
+- Pengajar terlatih JMMI Mengajar ada 8 orang (sim): 6 terikat sesi, **2 cadangan**. Dua cadangan ini dipakai sortir dan packing donasi **Senin–Selasa**, baru bebas **Rabu–Kamis**.
+- Standar pengajar: ikut open recruitment dan 2 sesi pelatihan (H-17 dan H-14).
 
-### 3. Misi Koordinasi Wajib
-**R-03 · ke Biro Media Analysis & Strategi**
-- **Wajib disepakati:** **2 posting**: (a) pengumuman donasi tayang **≤ 24 jam** sejak brief, (b) **laporan transparansi** 7 hari setelah donasi dibuka.
-- Isi posting wajib memuat: kanal resmi, penanggung jawab, jadwal laporan.
-- **Dilarang:** meminta memuat kanal yang belum disetujui Bendum.
+**Batasan:**
+- Jangan buka rekening atau kanal donasi sendiri. Rekening resmi dipegang Bendum.
 
-**R-04 · ke Biro Relasi & Hubungan Eksternal**
-- **Wajib disepakati:** **1 mitra penyaluran terverifikasi** sebelum donasi dibuka (maksimal 2 hari).
-- Harus memuat: syarat verifikasi, PIC, prosedur kerja sama.
+### 3. Misi Koordinasi Wajib (2 Tiket)
+**R-03 · ke Media Analysis & Strategi**
+- **Target deal:** 2 posting. (a) Pengumuman donasi tayang **maksimal 24 jam** sejak brief. (b) Laporan transparansi **7 hari** setelah donasi dibuka. Isi posting harus memuat kanal resmi, penanggung jawab, dan jadwal laporan.
+- **Modal tawar:** brief lengkap, data dan foto lokasi, serta kanal donasi yang sudah disetujui Bendum.
+- **Jangan:** minta memuat kanal yang belum disetujui Bendum.
 
-### 4. Permintaan yang Mungkin Masuk ke Kalian
-Biro lain mungkin meminta **meminjam volunteer atau menggabung rekrutmen pengajar**. Kalian boleh meminjamkan **2 cadangan hanya Rabu–Kamis**, dengan syarat: (1) tidak bentrok sesi JMMI Mengajar, (2) relawan ikut **2 sesi pelatihan** standar, (3) jadwal tertulis. **Rekrutmen satu pintu** (open recruitment bersama) boleh.
+**R-04 · ke Relasi & Hubungan Eksternal**
+- **Target deal:** 1 mitra penyalur terverifikasi sebelum donasi dibuka (verifikasi maksimal 2 hari). Sepakati syarat verifikasi, PIC, dan cara kerja samanya.
+- **Modal tawar:** data kebutuhan donasi yang lengkap, dan kesediaan memakai mitra yang sudah dikenal supaya verifikasinya cepat.
 
-### 5. Batasan Wewenang & SOP (WAJIB ESKALASI)
-- Dilarang membuka rekening/kanal donasi sendiri → **Bendum/BPI**.
-- Perubahan target donasi atau kebijakan penyaluran → **BPI**.
-- Kontak eksternal hanya via Biro Relasi & Hubungan Eksternal. Prioritas antrean media → **Kadep Media, Informasi & Digitalisasi**.
-- Mitra baru yang belum pernah bekerja sama wajib mengikuti prosedur verifikasi Biro Relasi & Hubungan Eksternal.
+### 4. Kalau Ada Biro Lain Datang ke Kita
+Boleh pinjamkan **2 relawan cadangan, hanya Rabu–Kamis**, dengan tiga syarat: tidak bentrok sesi JMMI Mengajar, relawan ikut 2 sesi pelatihan standar, dan jadwalnya tertulis. Rekrutmen satu pintu (open recruitment bersama) juga boleh.
+
+### 5. Kapan Harus Panggil Kadep / BPH
+- Buka rekening atau kanal donasi → **Bendum / BPI**.
+- Ubah target donasi atau kebijakan penyaluran → **BPI**.
+- Rebutan antrean media dengan biro lain → **Kadep Media, Informasi & Digitalisasi**. Mitra yang belum pernah bekerja sama wajib lewat verifikasi Relasi & Hubungan Eksternal.
 
 <div style="page-break-after: always;"></div>
 
@@ -118,39 +111,39 @@ Biro lain mungkin meminta **meminjam volunteer atau menggabung rekrutmen pengaja
 | | |
 |---|---|
 | **Departemen / Bidang** | Pelayanan Masjid & Dakwah · Bidang 1 (Kadep Pelayanan Masjid & Dakwah → Waket I) |
-| **Proker Amanah** | **JMMI Academy** (kelas mata kuliah dasar menjelang ETS/EAS) |
-| **Tiket yang kamu mulai** | **R-05** ke Biro Pengabdian Masyarakat · **R-06** ke Biro Amaliyah Yaumiyah |
+| **Proker** | **JMMI Academy** (kelas mata kuliah dasar menjelang ETS/EAS) |
+| **Tiket yang kamu mulai** | **R-05** ke Pengabdian Masyarakat · **R-06** ke Amaliyah Yaumiyah |
 
-### 1. Latar Belakang / Trigger
-JMMI Academy adalah program akademik sebagai sarana dakwah: **minimal 4 kelas**, **minimal 20 peserta per kelas**, **minimal 1 pengajar per kelas**, digelar menjelang ETS/EAS. **Kondisi (sim):** sekarang **H-21**, kelas dijadwalkan **Senin–Kamis pada H-12 sampai H-9**. Pengajar baru 2, pendaftar baru 38 dari target 80, dan kalian mendengar ada kegiatan bimbel lain di kampus untuk mahasiswa yang sama.
+### 1. Kondisi & Masalah Kita
+Kita lagi nyiapin JMMI Academy, kelas dasar menjelang ujian, dan sekarang **H-21**. Kelas dijadwalkan **Senin–Kamis di H-12 sampai H-9**. Masalahnya: pengajar baru 2 dari 4 kelas, pendaftar baru 38 dari target 80 (sim), dan ada bimbel lain di kampus untuk mahasiswa yang sama.
 
-### 2. Limitasi & Kapasitas Internal
-- **4 kelas** (sim): Kalkulus, Fisika Dasar, Kimia Dasar, Pengantar Pemrograman. Durasi ideal **105 menit**, minimal **75 menit**; mulai ideal **15.30**.
-- **Pengajar internal: 2** (Kalkulus & Fisika Dasar) → **kurang 2** (Kimia Dasar & Pemrograman).
-- **Pendaftar: 38** (sim) dari target 80 (4 × 20).
-- Maksimal **2 ruang paralel** (sim).
-- Seluruh materi dakwah yang mewakili JMMI **ke pihak luar** harus disetujui **Kadep Pelayanan Masjid & Dakwah**.
+### 2. Modal & Batasan Kita
+**Modal:**
+- 4 kelas (sim): Kalkulus, Fisika Dasar, Kimia Dasar, Pengantar Pemrograman.
+- Pengajar sendiri baru untuk Kalkulus dan Fisika Dasar. **Kimia Dasar dan Pemrograman belum ada pengajar.**
+- Durasi ideal 105 menit, minimal 75 menit. Mulai ideal pukul 15.30. Maksimal 2 ruang paralel (sim).
 
-### 3. Misi Koordinasi Wajib
-**R-05 · ke Biro Pengabdian Masyarakat**
-- **Wajib disepakati:** **2 pengajar tambahan** siap mengajar pada H-12 sampai H-9, dengan **pelatihan minimal 1 sesi**.
-- Diinginkan: rekrutmen satu pintu (open recruitment bersama) supaya tidak rebutan calon.
-- Yang bisa kalian tawarkan: template materi ajar, sertifikat/jam terbang, bantuan promosi.
+**Batasan:**
+- Materi yang mewakili JMMI ke pihak luar harus disetujui Kadep Pelayanan Masjid & Dakwah.
+- Kerja sama dengan pihak luar hanya lewat Relasi & Hubungan Eksternal.
 
-**R-06 · ke Biro Amaliyah Yaumiyah**
-- **Wajib disepakati:** **4 kelas** terjadwal dalam 4 hari kerja, **selesai ≤ 17.00**, bebas bentrok dengan kegiatan masjid.
-- Diinginkan: durasi ≥ 90 menit, 2 kelas paralel dalam satu hari.
-- Kalian **belum tahu** hari dan jam mana yang tersedia. Gali dari mereka.
+### 3. Misi Koordinasi Wajib (2 Tiket)
+**R-05 · ke Pengabdian Masyarakat**
+- **Target deal:** 2 pengajar tambahan yang siap mengajar H-12 sampai H-9, dengan pelatihan minimal 1 sesi. (Bonus: open recruitment bersama supaya tidak rebutan calon.)
+- **Modal tawar:** template materi ajar, sertifikat dan jam terbang, serta bantuan promosi.
 
-### 4. Permintaan yang Mungkin Masuk ke Kalian
-- **Sinkronisasi bimbel lain** (segmen/jadwal/promosi): boleh bernegosiasi. Syarat kalian: Academy fokus **konsep dasar bagi mahasiswa baru**, nama/logo JMMI Academy **tidak dipakai program lain**, promosi **tidak saling menjatuhkan**. Kalian **tidak berwenang** meminta program biro lain dibatalkan.
-- **Permintaan materi/moderator** dari biro lain untuk tamu eksternal: kalian bisa memberi **1 moderator** (anggota yang bebas hanya **hari Sabtu**) dan **1 materi 15 menit** (butuh persiapan 3 hari + template dari pemohon).
+**R-06 · ke Amaliyah Yaumiyah**
+- **Target deal:** 4 kelas terjadwal di serambi sore hari, selesai paling lambat 16.55, dan tidak bentrok dengan kegiatan masjid. (Bonus: durasi 90 menit ke atas, 2 kelas paralel dalam sehari.)
+- **Modal tawar:** kita luwes soal hari dan durasi (minimal 75 menit), dan siap berhenti tepat waktu.
+- Kita belum tahu hari dan jam mana yang kosong. Gali dari mereka.
 
-### 5. Batasan Wewenang & SOP (WAJIB ESKALASI)
-- Materi untuk pihak eksternal → **persetujuan Kadep Pelayanan Masjid & Dakwah** sebelum dipresentasikan.
-- Penambahan/pengurangan kelas di luar rencana atau anggaran → **Kadep Pelayanan Masjid & Dakwah**.
-- Kerja sama dengan pihak luar → hanya via Biro Relasi & Hubungan Eksternal.
-- Konflik segmen dengan biro lain yang tidak selesai → **Kadep** kedua belah pihak.
+### 4. Kalau Ada Biro Lain Datang ke Kita
+- **Soal bimbel lain** (segmen, jadwal, promosi): boleh dinegosiasikan. Syarat kita: Academy fokus **konsep dasar mahasiswa baru**, nama dan logo JMMI Academy tidak dipakai program lain, promosi tidak saling menjatuhkan. Kita **tidak berwenang** meminta program biro lain dibatalkan.
+- **Minta materi atau moderator** untuk tamu luar: kita bisa kasih **1 moderator** (anggota yang bebas hanya hari Sabtu) dan **1 materi 15 menit** (butuh 3 hari persiapan dan template dari pemohon).
+
+### 5. Kapan Harus Panggil Kadep / BPH
+- Materi untuk pihak luar, atau tambah/kurang kelas di luar rencana dan anggaran → **Kadep Pelayanan Masjid & Dakwah**.
+- Rebutan segmen dengan biro lain yang tidak selesai di meja → **Kadep kedua belah pihak**.
 
 <div style="page-break-after: always;"></div>
 
@@ -161,44 +154,43 @@ JMMI Academy adalah program akademik sebagai sarana dakwah: **minimal 4 kelas**,
 | | |
 |---|---|
 | **Departemen / Bidang** | Relasi Publik & Advokasi · Bidang 3 (Kadep Relasi Publik & Advokasi → Waket III) |
-| **Proker Amanah** | **Minion Class** (layanan lain yang bisa diminta biro lain: **GoRent**, **JMMI Commerce**) |
-| **Tiket yang kamu mulai** | **R-07** ke Biro Kajian & Inovasi Dakwah · **R-08** ke Biro Digital Production |
+| **Proker** | **Minion Class** (layanan lain: **GoRent**, **JMMI Commerce**) |
+| **Tiket yang kamu mulai** | **R-07** ke Kajian & Inovasi Dakwah · **R-08** ke Digital Production |
 
-### 1. Latar Belakang / Trigger
-Minion Class adalah bimbingan belajar mingguan offline dengan tutor, dan Biro Usaha Mandiri mengejar kemandirian pendanaan (pendataan peserta dan net income). **Kondisi (sim):** kalian ingin menjalankan **2 sesi** pada H-12 s.d. H-9, tetapi **mata kuliah, peserta, dan pengajarnya mirip** dengan program kelas milik biro lain, dan promosi belum ada. Pada saat yang sama kalian kebanjiran permintaan **sewa alat GoRent** (termasuk dari klien eksternal untuk Hari Puncak) dan **takjil**.
+### 1. Kondisi & Masalah Kita
+Kita mau jalankan **2 sesi Minion Class** (bimbel mingguan offline) di H-12 sampai H-9, tapi mata kuliah, peserta, dan pengajarnya **mirip dengan kelas Academy** milik biro lain, dan promosinya belum ada. Di saat yang sama, permintaan **sewa alat GoRent** (termasuk dari klien luar untuk Hari Puncak) dan **takjil** lagi ramai-ramainya.
 
-### 2. Limitasi & Kapasitas Internal
-- **Minion Class (sim):** 2 sesi, target 20 peserta/sesi, biaya Rp 15.000/peserta, honor tutor Rp 150.000/sesi, 3 tutor internal.
-- **Inventaris GoRent (sim):** HT **12 unit**; sound portable **2 set**; frame backdrop/standing banner **4 set**; kabel roll **6**; proyektor **2 unit**. Pada **H-1 sampai Hari Puncak**, **4 HT** dan **1 proyektor** sudah dibooking klien eksternal, sehingga yang tersedia pada hari puncak hanya **8 HT** dan **1 proyektor**.
-- **Tarif umum per hari (sim):** HT Rp 10.000/unit · sound portable Rp 100.000/set · frame backdrop Rp 30.000/set · kabel roll Rp 5.000/unit · proyektor Rp 100.000/unit.
-- **Harga internal ormawa JMMI (sim):** **diskon 30%** dari tarif umum. Untuk sewa **≥ 3 hari**, hari ke-3 dan seterusnya dihitung **50% dari tarif internal**. Nilai satu peminjaman besar tidak boleh di bawah **Rp 800.000** (biaya perawatan dan target keuntungan).
-- **Klausul standar GoRent (sim):** deposit **30%** dari nilai sewa (dikembalikan); denda terlambat **25% dari tarif harian per hari**; kerusakan = biaya perbaikan sesuai nota; hilang atau rusak berat = ganti unit setara atau **100% harga pengadaan**; wajib **berita acara serah terima** (foto kondisi dan uji fungsi) saat ambil dan kembali.
-- **Catatan SOP:** SOP 6.3 hanya mengatur peminjaman inventaris sekretariat lewat Sekretaris Umum dan kewajiban menjaga barang sesuai keadaan saat pengambilan. **SOP tidak mengatur tarif sewa, deposit, atau denda**, sehingga klausul itu kalian rumuskan dalam batas wewenang.
-- **Target GoRent (deck):** 20 penyewa dan keuntungan minimal Rp 250.000; poster penyewaan dibuat bersama Biro Digital Production.
-- **JMMI Commerce (takjil), sim:** dapur **40 porsi/hari**; HPP **Rp 8.000**; harga **Rp 11.000**; **diskon 5% (Rp 10.450)** bila komitmen **≥ 400 porsi (8 sesi)**. Porsi tambahan dari **tenant mitra Rp 12.000**, bisa **Rp 11.000** bila komitmen **≥ 80 porsi**. Target keuntungan (deck): minimal Rp 150.000.
+### 2. Modal & Batasan Kita
+**Modal:**
+- **Minion Class (sim):** 2 sesi, target 20 peserta per sesi, Rp15.000 per peserta, honor tutor Rp150.000 per sesi, 3 tutor.
+- **Stok GoRent (sim):** HT 12, sound portable 2, backdrop 4, kabel roll 6, proyektor 2. Mulai H-1 sampai Hari Puncak, 4 HT dan 1 proyektor sudah dibooking klien luar, jadi yang tersisa **8 HT dan 1 proyektor**.
+- **Tarif umum per hari (sim):** HT Rp10.000, sound Rp100.000, backdrop Rp30.000, kabel roll Rp5.000, proyektor Rp100.000.
+- **Harga internal ormawa JMMI:** diskon **30%**. Sewa 3 hari atau lebih: hari ke-3 dan seterusnya setengah harga internal. Satu peminjaman besar jangan di bawah **Rp800.000**.
+- **Aturan standar GoRent:** deposit sekitar 30% (dikembalikan), ada denda kalau telat, rusak diganti sesuai biaya perbaikan, hilang diganti unit setara, dan wajib berita acara serah terima (foto kondisi dan cek fungsi). Belum ada aturan baku untuk tarif dan denda, jadi kita yang merumuskan, asal masih dalam batas wewenang.
+- **Takjil (JMMI Commerce, sim):** dapur 40 porsi per hari, modal Rp8.000, harga Rp11.000. Komit **400 porsi (8 sesi)** dapat diskon 5% (jadi Rp10.450). Porsi tambahan dari tenant mitra Rp12.000, bisa Rp11.000 kalau komit minimal 80 porsi.
+- Target untung: GoRent minimal Rp250.000, takjil minimal Rp150.000.
 
-### 3. Misi Koordinasi Wajib
-**R-07 · ke Biro Kajian & Inovasi Dakwah**
-- **Wajib disepakati:** pembagian **segmen** (mata kuliah/level/jadwal) supaya Minion Class dan kelas Academy **tidak bentrok** dan **tidak saling mematikan**; **2 sesi Minion Class** punya jadwal pasti.
-- Diinginkan: promosi silang atau pembagian pengajar bila beririsan.
-- Yang bisa kalian tawarkan: Minion Class fokus **latihan soal intensif**, bukan konsep dasar.
-- **Dilarang:** meminta mereka membatalkan atau mengurangi programnya.
+**Batasan:**
+- Jangan janjikan unit yang sudah dibooking, dan jangan lewati kapasitas dapur.
 
-**R-08 · ke Biro Digital Production**
-- **Wajib disepakati:** **poster Minion Class siap ≤ H-16** (batas terima ≤ H-14) dan **poster/katalog paket GoRent ≤ H-12**.
-- Harus memuat: tenggat, kelengkapan brief, batas revisi.
-- Kalian tidak tahu kapasitas mereka. Siapkan **brief lengkap** sebelum meminta. Ingat SOP media: desain diajukan minimal **H-7** sebelum hasil dibutuhkan; pengajuan lebih mepet **tidak menjamin** selesai.
+### 3. Misi Koordinasi Wajib (2 Tiket)
+**R-07 · ke Kajian & Inovasi Dakwah**
+- **Target deal:** pembagian segmen (mata kuliah, level, jadwal) supaya Minion Class dan Academy **tidak bentrok dan tidak saling mematikan**, dan 2 sesi Minion Class punya jadwal pasti. (Bonus: promosi silang.)
+- **Modal tawar:** Minion Class fokus **latihan soal intensif**, bukan konsep dasar.
+- **Jangan:** minta mereka membatalkan atau mengurangi programnya.
 
-### 4. Permintaan yang Mungkin Masuk ke Kalian
-Biro lain mungkin menyewa **alat GoRent** atau memesan **takjil**. Layani sesuai batas di atas. Kalian **tidak boleh** menjanjikan unit yang sudah dibooking atau melewati kapasitas dapur. Diskon sewa **> 30%**, sewa gratis, atau pembebasan deposit/denda di luar kewenangan; diskon takjil **> 5%** atau harga di bawah HPP juga di luar kewenangan.
+**R-08 · ke Digital Production**
+- **Target deal:** poster Minion Class siap paling lambat **H-16** (terima brief maksimal H-14) dan poster atau katalog GoRent siap paling lambat **H-12**. Sepakati tenggat, kelengkapan brief, dan batas revisi.
+- **Modal tawar:** brief yang lengkap sejak awal. Ingat, desain minimal diajukan **7 hari** sebelum dibutuhkan, yang lebih mepet tidak dijamin selesai.
+- Kapasitas mereka belum kita tahu. Gali dulu.
 
-### 5. Batasan Wewenang & SOP (WAJIB ESKALASI)
-- Diskon sewa **> 30%**, sewa **gratis**, pembebasan **deposit atau denda**, atau ganti rugi **di bawah 100%** harga pengadaan → **Kadep Relasi Publik & Advokasi**.
-- Diskon takjil **> 5%** / harga di bawah HPP → **Kadep Relasi Publik & Advokasi**.
-- Pengadaan unit baru atau perbaikan besar → **Kadep Relasi Publik & Advokasi** dan **Bendum**.
-- Tenant eksternal **baru** (belum pernah bermitra) → lewat Biro Relasi & Hubungan Eksternal.
-- Penerimaan/pengelolaan uang (sewa, deposit, denda) → **Bendum**.
-- Prioritas permintaan yang berebut kapasitas boleh kalian putuskan, tetapi penolakan harus dikomunikasikan sopan dan diinfokan ke **Kadep Relasi Publik & Advokasi**.
+### 4. Kalau Ada Biro Lain Datang ke Kita
+Biro lain mungkin sewa alat GoRent atau pesan takjil. Layani sesuai modal di atas. Diskon sewa **di atas 30%**, sewa gratis, bebas deposit atau denda, diskon takjil **di atas 5%**, atau harga takjil di bawah modal, itu **bukan wewenang kita**. Kalau permintaan berebut kapasitas, kita boleh menentukan prioritas, asal penolakannya disampaikan sopan dan diinfokan ke Kadep.
+
+### 5. Kapan Harus Panggil Kadep / BPH
+- Diskon sewa lewat 30%, sewa gratis, bebas deposit atau denda, ganti rugi di bawah 100%, atau diskon takjil lewat 5% → **Kadep Relasi Publik & Advokasi**.
+- Beli unit baru atau perbaikan besar → **Kadep Relasi Publik & Advokasi dan Bendum**. Uang sewa, deposit, dan denda dipegang **Bendum**.
+- Tenant luar yang baru pertama kali bermitra → lewat **Relasi & Hubungan Eksternal**.
 
 <div style="page-break-after: always;"></div>
 
@@ -209,40 +201,41 @@ Biro lain mungkin menyewa **alat GoRent** atau memesan **takjil**. Layani sesuai
 | | |
 |---|---|
 | **Departemen / Bidang** | Pelayanan Masjid & Dakwah · Bidang 1 (Kadep Pelayanan Masjid & Dakwah → Waket I) |
-| **Proker Amanah** | **KSSI** — Komunitas Shaum Sunnah ITS (berbuka bersama Senin & Kamis) |
-| **Tiket yang kamu mulai** | **R-09** ke Biro Usaha Mandiri · **R-10** ke Biro Media Analysis & Strategi |
+| **Proker** | **KSSI** — Komunitas Shaum Sunnah ITS (berbuka bersama Senin dan Kamis) |
+| **Tiket yang kamu mulai** | **R-09** ke Usaha Mandiri · **R-10** ke Media Analysis & Strategi |
 
-### 1. Latar Belakang / Trigger
-KSSI memfasilitasi mahasiswa berpuasa Senin–Kamis dengan menyediakan makanan berbuka, mempromosikan lewat konten dokumentasi bulanan, dan membagikan jadwal puasa sunnah. **Kondisi (sim):** donasi takjil dari jamaah menurun, padahal **8 sesi (4 pekan)** butuh pasokan stabil, dan konten dokumentasi bulan ini belum keluar.
+### 1. Kondisi & Masalah Kita
+KSSI nyediain makanan berbuka buat yang puasa Senin–Kamis. Masalahnya: donasi takjil dari jamaah lagi turun padahal **8 sesi (4 pekan)** butuh pasokan stabil, dan konten dokumentasi bulan ini belum keluar.
 
-### 2. Limitasi & Kapasitas Internal
-- **Target KSSI (deck):** rata-rata **minimal 50 porsi** per sesi → 8 sesi = **400 porsi**.
-- **Plafon konsumsi KSSI: Rp 4.250.000** untuk 8 sesi (sim) → rata-rata **Rp 10.625/porsi**.
-- Komitmen rutin yang membatasi pihak lain:
-  - **GDM**: penertiban jamaah saat azan Dzuhur & Ashar.
-  - **Q-TIME**: murottal 17.00–17.30 hari kerja.
-  - **RAPI**: setiap **Selasa** area serambi dipakai untuk perawatan sarung/mukena/sajadah.
-- **Slot ruang yang bisa dipakai pihak lain (sim):** **Senin, Rabu, Kamis** pukul **15.30–16.55**; **Selasa tidak tersedia**; maksimal **1 kelas paralel/hari**, kecuali **Rabu boleh 2 area**. Aktivitas harus berhenti **16.55** dan bersuara pelan.
-- **Siaran langsung Q-TIME (sim):** hanya **Rabu dan Kamis**, **1 kamera**, tripod **di belakang saf terakhir** (bukan di depan saf), **wajib izin pelantun**; GDM mengamankan jalur.
-- Tim **5 orang** (sim).
+### 2. Modal & Batasan Kita
+**Modal:**
+- Target minimal **50 porsi per sesi**, jadi 8 sesi = **400 porsi**.
+- Plafon konsumsi **Rp4.250.000** untuk 8 sesi (sim), artinya rata-rata **Rp10.625 per porsi**.
+- Tim 5 orang (sim).
+- Ruang yang boleh dipakai pihak lain (sim): **Senin, Rabu, Kamis pukul 15.30–16.55**, maksimal 1 kelas paralel per hari (Rabu boleh 2 area). Aktivitas berhenti 16.55 dan bersuara pelan. **Selasa tidak tersedia.**
+- Siaran langsung Q-TIME (sim): hanya **Rabu dan Kamis**, 1 kamera, tripod di **belakang saf terakhir**, wajib izin pelantun, dan GDM mengamankan jalur.
 
-### 3. Misi Koordinasi Wajib
-**R-09 · ke Biro Usaha Mandiri**
-- **Wajib disepakati:** pasokan takjil dengan **rata-rata ≥ 50 porsi/sesi** untuk 8 sesi (boleh 40–60 per sesi selama rata-ratanya ≥ 50), **harga rata-rata ≤ Rp 10.625/porsi**, jadwal pengiriman, standar kualitas.
-- Yang bisa kalian tawarkan: **komitmen 8 sesi (400 porsi)**, pembayaran mingguan, promosi Biro Usaha Mandiri di konten KSSI.
+**Batasan (jangan diganggu):**
+- GDM menertibkan jamaah saat azan Dzuhur dan Ashar.
+- Q-TIME murottal pukul 17.00–17.30 hari kerja.
+- RAPI memakai serambi setiap Selasa untuk merawat sarung, mukena, dan sajadah.
 
-**R-10 · ke Biro Media Analysis & Strategi**
-- **Wajib disepakati:** **1 feed + 1 reels** dokumentasi bulanan KSSI (boleh dibundel) dengan tanggal tayang pasti, plus **pengumuman jadwal puasa sunnah**.
-- Yang bisa kalian tawarkan: materi mentah (foto/video) **lengkap & tepat waktu**, draf caption, brief jelas.
+### 3. Misi Koordinasi Wajib (2 Tiket)
+**R-09 · ke Usaha Mandiri**
+- **Target deal:** pasokan takjil dengan **rata-rata minimal 50 porsi per sesi** untuk 8 sesi (boleh 40–60 per sesi asal rata-ratanya terpenuhi), **harga rata-rata tidak lebih dari Rp10.625 per porsi**, plus jadwal kirim dan standar kualitas.
+- **Modal tawar:** komitmen 8 sesi (400 porsi), pembayaran mingguan, dan promosi Usaha Mandiri di konten KSSI.
 
-### 4. Permintaan yang Mungkin Masuk ke Kalian
-Biro lain mungkin meminta **slot ruang** atau **izin siaran langsung Q-TIME**. Jawab **hanya** dalam batas di atas. Izin resmi pemakaian ruang masjid mengikuti prosedur **surat peminjaman tempat/fasilitas** oleh Sekretaris Pelaksana.
+**R-10 · ke Media Analysis & Strategi**
+- **Target deal:** **1 feed + 1 reels** dokumentasi bulanan KSSI (boleh dibundel) dengan tanggal tayang pasti, plus pengumuman jadwal puasa sunnah.
+- **Modal tawar:** foto dan video mentah yang lengkap dan tepat waktu, draf caption, dan brief yang jelas.
 
-### 5. Batasan Wewenang & SOP (WAJIB ESKALASI)
-- Aturan dan area masjid ada di tangan **Takmir**; di luar serambi dan jam di atas → **Kadep Pelayanan Masjid & Dakwah**.
-- Anggaran konsumsi **> plafon** → **Kadep Pelayanan Masjid & Dakwah**.
-- Kalian **tidak boleh** mengurangi GDM/Q-TIME demi kegiatan biro lain.
-- Permintaan media mengikuti **SOP media** (form + lead time); tidak boleh memotong antrean.
+### 4. Kalau Ada Biro Lain Datang ke Kita
+Kalau ada yang minta **slot ruang** atau **izin siaran langsung Q-TIME**, jawab hanya dalam batas modal di atas. Izin resmi pakai ruang masjid tetap lewat surat peminjaman tempat dari Sekretaris Pelaksana.
+
+### 5. Kapan Harus Panggil Kadep / BPH
+- Aturan dan area masjid ada di tangan **Takmir**. Kebutuhan di luar serambi dan jam di atas → **Kadep Pelayanan Masjid & Dakwah**.
+- Anggaran konsumsi melewati plafon → **Kadep Pelayanan Masjid & Dakwah**.
+- Kita tidak boleh mengurangi GDM atau Q-TIME demi kegiatan biro lain, dan tidak boleh menyerobot antrean media.
 
 <div style="page-break-after: always;"></div>
 
@@ -253,37 +246,36 @@ Biro lain mungkin meminta **slot ruang** atau **izin siaran langsung Q-TIME**. J
 | | |
 |---|---|
 | **Departemen / Bidang** | Media, Informasi & Digitalisasi · Bidang 3 (Kadep Media, Informasi & Digitalisasi → Waket III) |
-| **Proker Amanah** | **STREAMMI** (live streaming & videotron) + **Requesta** (rangkum dan bagi request desain/dokumentasi) |
-| **Tiket yang kamu mulai** | **R-11** ke Biro Media Analysis & Strategi · **R-12** ke Biro Amaliyah Yaumiyah |
+| **Proker** | **STREAMMI** (live streaming dan videotron) + **Requesta** (terima dan bagi order desain/dokumentasi) |
+| **Tiket yang kamu mulai** | **R-11** ke Media Analysis & Strategi · **R-12** ke Amaliyah Yaumiyah |
 
-### 1. Latar Belakang / Trigger
-STREAMMI menyiarkan langsung dan merekam kajian di masjid, sedangkan Requesta menerima permintaan dari luar departemen. **Kondisi (sim):** permintaan masuk bersamaan, kalian ingin memperluas siaran **Q-TIME**, dan hasil produksi menumpuk karena jalur publikasinya lambat.
+### 1. Kondisi & Masalah Kita
+Order masuk barengan, kita pengin memperluas siaran **Q-TIME**, dan hasil produksi menumpuk karena jalur publikasinya lambat.
 
-### 2. Limitasi & Kapasitas Internal
-- Kru (sim): **4 multimedia + 4 kreatif**; **akhir pekan hanya 1 orang** siaga (hanya foto, tanpa video panjang).
-- **Requesta (SOP 6.4):** maksimal **4 order desain/dokumentasi per minggu** (sim). Satu form hanya untuk satu konten. Batas pengajuan dihitung dari tanggal hasil dibutuhkan: **desain kreatif dan motion graphic H-7**, **video/konten < 3 menit H-7**, **video/konten > 3 menit H-10**. Estimasi desain **4–5 hari kerja + 1–2 hari revisi minor**; revisi maksimal **2 kali**. Pengajuan yang lebih mepet **tidak menjamin** selesai tepat waktu.
-- **Output final per minggu: 6 aset** (sim); satu carousel atau reels bisa memuat hingga **4 aset**.
-- Target siaran: **Q-TIME 5 hari/minggu dengan 2 kamera**.
-- Kalian **berhak menolak/menunda** request bila brief tidak jelas, terlalu mepet, atau kapasitas penuh (SOP Permintaan Media 6.4.12).
+### 2. Modal & Batasan Kita
+**Modal:**
+- Kru (sim): 4 multimedia + 4 kreatif. **Akhir pekan cuma 1 orang** yang siaga, hanya untuk foto, tanpa video panjang.
+- Requesta menerima **maksimal 4 order per minggu**, satu form untuk satu konten. Desain dan video pendek diajukan minimal **7 hari** sebelum dibutuhkan, video panjang **10 hari**. Pengajuan yang lebih mepet tidak dijamin selesai. Revisi maksimal 2 kali.
+- Hasil jadi per minggu: **6 aset** (sim). Satu carousel atau reels bisa memuat sampai 4 aset.
+- Target siaran: Q-TIME 5 hari per minggu dengan 2 kamera.
+- Kita **berhak menolak atau menunda** order kalau brief tidak jelas, terlalu mepet, atau kapasitas penuh.
 
-### 3. Misi Koordinasi Wajib
-**R-11 · ke Biro Media Analysis & Strategi**
-- **Wajib disepakati:** *hand-off* produksi → publikasi: **format file**, **tenggat file final** (kalian mengincar **Jumat 20.00**), siapa yang mengunggah, kalender tayang, dan minimal **2 slot tayang/minggu** untuk aset kalian (boleh dibundel).
-- Yang bisa kalian tawarkan: aset siap tayang, **draf caption**, standar penamaan file.
+### 3. Misi Koordinasi Wajib (2 Tiket)
+**R-11 · ke Media Analysis & Strategi**
+- **Target deal:** serah-terima file produksi ke publikasi: format file, **tenggat file final** (kita mengincar Jumat 20.00), siapa yang mengunggah, kalender tayang, dan minimal **2 slot tayang per minggu** (boleh dibundel).
+- **Modal tawar:** aset siap tayang, draf caption, dan penamaan file yang rapi.
 
-**R-12 · ke Biro Amaliyah Yaumiyah**
-- **Wajib disepakati:** izin **siaran langsung Q-TIME minimal 2 hari/minggu**, minimal **1 kamera**, tanpa mengganggu jamaah.
-- Diinginkan: 2 kamera, 5 hari/minggu.
-- Kalian tahu murottal menuntut **kekhusyukan**; siapkan tawaran yang menghormatinya.
+**R-12 · ke Amaliyah Yaumiyah**
+- **Target deal:** izin siaran langsung Q-TIME **minimal 2 hari per minggu**, minimal 1 kamera, tanpa mengganggu jamaah. (Bonus: 2 kamera dan 5 hari.)
+- **Modal tawar:** tawarkan cara siaran yang menghormati kekhusyukan murottal, misalnya kamera diam di belakang saf dan tidak ada yang berlalu-lalang.
 
-### 4. Permintaan yang Mungkin Masuk ke Kalian
-Beberapa biro mungkin mengirim **order desain/dokumentasi**. Layani dalam batas **4 order/minggu**. Order yang terkait **tenggat acara atau kegiatan yang sudah terjadwal** biasanya lebih kritis dari promosi rutin. **Akhir pekan hanya foto** (1 orang). Penolakan disampaikan **sopan lewat PIC** dengan alasan SOP.
+### 4. Kalau Ada Biro Lain Datang ke Kita
+Layani order dalam batas **4 per minggu**. Order yang terkait tenggat acara biasanya lebih mendesak daripada promosi rutin. Akhir pekan hanya foto. Kalau harus menolak, sampaikan sopan lewat PIC dan jelaskan alasannya.
 
-### 5. Batasan Wewenang & SOP (WAJIB ESKALASI)
-- Prioritas ketika dua biro lintas departemen berebut slot kalian → **Kadep Media, Informasi & Digitalisasi** yang memutuskan.
-- Aturan masjid/area/jadwal ada pada Biro Amaliyah Yaumiyah/Takmir; kalian tidak berwenang menentukan.
-- Kontak eksternal hanya via Biro Relasi & Hubungan Eksternal.
-- Konten sensitif atau kanal donasi hanya diproduksi bila sumber/izinnya jelas (**Bendum** untuk kanal donasi).
+### 5. Kapan Harus Panggil Kadep / BPH
+- Dua biro beda departemen rebutan slot kita → **Kadep Media, Informasi & Digitalisasi** yang memutuskan.
+- Aturan dan jadwal masjid bukan wewenang kita, tanyakan ke Amaliyah Yaumiyah atau Takmir. Kontak luar hanya lewat Relasi & Hubungan Eksternal.
+- Konten sensitif atau kanal donasi hanya dibuat kalau sumber dan izinnya jelas (kanal donasi lewat Bendum).
 
 <div style="page-break-after: always;"></div>
 
@@ -294,39 +286,39 @@ Beberapa biro mungkin mengirim **order desain/dokumentasi**. Layani dalam batas 
 | | |
 |---|---|
 | **Departemen / Bidang** | Media, Informasi & Digitalisasi · Bidang 3 (Kadep Media, Informasi & Digitalisasi → Waket III) |
-| **Proker Amanah** | **NARASI** (diskusi publik/FGD isu keumatan) |
-| **Tiket yang kamu mulai** | **R-13** ke Biro Relasi & Hubungan Eksternal · **R-14** ke Biro Manajemen Event |
+| **Proker** | **NARASI** (diskusi publik / FGD isu keumatan) |
+| **Tiket yang kamu mulai** | **R-13** ke Relasi & Hubungan Eksternal · **R-14** ke Manajemen Event |
 
-### 1. Latar Belakang / Trigger
-NARASI adalah forum diskusi publik/FGD isu sosial dan keumatan untuk menumbuhkan kepekaan dan merumuskan gagasan solutif. **Rencana (sim):** NARASI digelar **H-2 pukul 19.30 di Aula**, **80 peserta**. Kalian belum punya **narasumber**, **media partner**, maupun **tim teknis acara**. Antrean publikasi juga sedang penuh.
+### 1. Kondisi & Masalah Kita
+Kita lagi mau bikin NARASI di **H-2 pukul 19.30 di Aula** untuk **80 peserta** (sim). Masalahnya: belum ada **narasumber**, belum ada **media partner**, belum ada **tim teknis acara**, dan antrean publikasi kita juga lagi penuh.
 
-### 2. Limitasi & Kapasitas Internal
-- **Kalender konten (sim):** sisa **5 slot posting** untuk 14 hari ke depan. **1 slot** untuk promosi NARASI → **4 slot** untuk permintaan biro lain.
-- **Lead time publikasi** standar **48 jam**. **Kilat 24 jam** hanya bila disetujui **Kadep Media, Informasi & Digitalisasi** untuk kondisi kemanusiaan/darurat.
-- **Hanya draf final** dari Form Request yang diunggah; brief tidak lengkap → ditolak.
-- Tim: **5 orang** (sim), piket **Senin–Kamis**, **tanpa piket akhir pekan** → tenggat file final hand-off **Kamis 16.00**.
-- Target KPI Instagram (deck): **250 ribu tayangan**, **3 ribu interaksi**, **+300 pengikut**.
-- Kebutuhan NARASI: **2 narasumber** (1 akademisi, 1 praktisi), **1 media partner** (Medpar, sesuai SOP), **80 peserta**.
+### 2. Modal & Batasan Kita
+**Modal:**
+- Sisa **5 slot posting** untuk 14 hari ke depan: 1 untuk promosi NARASI, **4 untuk permintaan biro lain**.
+- Publikasi normal butuh 48 jam. Jalur kilat 24 jam hanya untuk kondisi kemanusiaan atau darurat dan harus disetujui Kadep Media.
+- Hanya draf final dari form request yang kita unggah. Brief tidak lengkap, kita tolak.
+- Tim 5 orang (sim), piket Senin–Kamis, **tanpa piket akhir pekan**. Jadi file final dari biro lain harus masuk **Kamis pukul 16.00**.
+- Kebutuhan NARASI: 2 narasumber (1 akademisi, 1 praktisi), 1 media partner, dan 80 peserta.
 
-### 3. Misi Koordinasi Wajib
-**R-13 · ke Biro Relasi & Hubungan Eksternal**
-- **Wajib disepakati:** **2 narasumber** dan **1 Medpar** lewat jalur resmi (siapa menghubungi, kapan, siapa PIC).
-- Boleh mempertimbangkan **jaringan alumni** sebagai sumber narasumber.
-- **Dilarang:** menghubungi pihak luar sendiri.
+**Batasan:**
+- Jangan hubungi pihak luar sendiri. Semua lewat Relasi & Hubungan Eksternal.
 
-**R-14 · ke Biro Manajemen Event**
-- **Wajib disepakati:** **tempat & tanggal pasti**, dan **dukungan 4 panitia** (MC, registrasi, rundown, dokumentasi).
-- Diinginkan: **Aula untuk 80 orang pada H-2**.
-- Yang bisa kalian tawarkan: **konten & moderator disiapkan sendiri**, mereka hanya mengurus manajemen acara; materi promosi siap.
+### 3. Misi Koordinasi Wajib (2 Tiket)
+**R-13 · ke Relasi & Hubungan Eksternal**
+- **Target deal:** **2 narasumber dan 1 media partner** lewat jalur resmi. Sepakati siapa yang menghubungi, kapan, dan siapa PIC-nya.
+- **Modal tawar:** tema dan rundown yang jelas, serta kesediaan memakai **jaringan alumni** sebagai sumber narasumber.
 
-### 4. Permintaan yang Mungkin Masuk ke Kalian
-Beberapa biro mungkin meminta **slot posting** atau **hand-off produksi**. Layani hanya dengan **brief lengkap + konten final**, dalam batas **4 slot** (nanti bisa turun). Konten kemanusiaan dapat didahulukan **dengan persetujuan Kadep Media, Informasi & Digitalisasi**. Boleh menawarkan **bundling** (carousel/reels) agar satu slot memuat beberapa aset.
+**R-14 · ke Manajemen Event**
+- **Target deal:** **tempat dan tanggal pasti**, plus bantuan **4 panitia** (MC, registrasi, rundown, dokumentasi). (Bonus: Aula untuk 80 orang di H-2.)
+- **Modal tawar:** konten dan moderator kita siapkan sendiri, mereka cukup mengurus manajemen acara. Materi promosi sudah siap.
 
-### 5. Batasan Wewenang & SOP (WAJIB ESKALASI)
-- Prioritas antar-permintaan **lintas departemen** dan publikasi kilat → **Kadep Media, Informasi & Digitalisasi**.
-- Kontak eksternal hanya via Biro Relasi & Hubungan Eksternal (→ Kadep Relasi Publik & Advokasi + Waket III).
-- Kanal donasi atau konten yang belum disetujui pemilik/Bendum **tidak diunggah**.
-- Tema sensitif NARASI yang berpotensi menimbulkan polemik → **Kadep Media, Informasi & Digitalisasi**.
+### 4. Kalau Ada Biro Lain Datang ke Kita
+Kalau ada yang minta **slot posting** atau serah-terima produksi, layani hanya kalau **brief lengkap dan konten sudah final**, dalam batas **4 slot** (bisa turun). Konten kemanusiaan boleh didahulukan kalau Kadep Media setuju. Boleh tawarkan **bundling** (carousel atau reels) supaya satu slot memuat beberapa aset.
+
+### 5. Kapan Harus Panggil Kadep / BPH
+- Rebutan prioritas lintas departemen, atau butuh publikasi kilat → **Kadep Media, Informasi & Digitalisasi**.
+- Tema NARASI yang berpotensi memicu polemik → **Kadep Media, Informasi & Digitalisasi**.
+- Kanal donasi atau konten yang belum disetujui pemiliknya atau Bendum jangan diunggah.
 
 <div style="page-break-after: always;"></div>
 
@@ -337,43 +329,44 @@ Beberapa biro mungkin meminta **slot posting** atau **hand-off produksi**. Layan
 | | |
 |---|---|
 | **Departemen / Bidang** | Relasi Publik & Advokasi · Bidang 3 (Kadep Relasi Publik & Advokasi → Waket III) |
-| **Proker Amanah** | **Benchmarking / Jaulah LDK** |
-| **Tiket yang kamu mulai** | **R-15** ke Biro Digital Production · **R-16** ke Biro Kajian & Inovasi Dakwah |
+| **Proker** | **Benchmarking / Jaulah LDK** (JMMI sebagai tuan rumah) |
+| **Tiket yang kamu mulai** | **R-15** ke Digital Production · **R-16** ke Kajian & Inovasi Dakwah |
 
-### 1. Latar Belakang / Trigger
-Benchmarking adalah kegiatan menerima tamu sesama LDK/pengurus masjid kampus agar terjalin kolaborasi dan JMMI belajar tata kelola, inovasi program, dan strategi dakwah lewat sharing session dan FGD. **Kondisi (sim):** **H-7 (hari Sabtu)** kalian menerima **2 LDK mitra (±20 tamu)** di **Ruang Audiovisual**. Di waktu yang sama beberapa biro mengajukan kontak ke pihak luar lewat kalian.
+### 1. Kondisi & Masalah Kita
+Di **H-7 (hari Sabtu)** kita menerima **2 LDK mitra (sekitar 20 tamu)** di Ruang Audiovisual untuk sharing session dan FGD. Masalahnya: kita butuh dokumentasi dan desain undangan, butuh moderator dan pemateri, sementara di waktu yang sama banyak biro minta kontak ke pihak luar lewat kita.
 
-### 2. Limitasi & Kapasitas Internal
-- **Pintu eksternal: 6 total** (sim). **2 terpakai** (2 LDK) → **sisa 4 slot** untuk kontak eksternal baru.
-- Setiap kontak eksternal baru wajib memiliki **surat resmi** (SOP: diajukan paling lambat H-3 sebelum tenggat, diasistensi Pembina) dan **persetujuan Kadep Relasi Publik & Advokasi dan Waket III** (jalur khusus).
-- Tim: **3 orang** (sim).
-- **Database Alumni 2020–2025:** sekitar **40 alumni berkontak lengkap** (sim). Menghubungi alumni **tidak memakai slot**, tetapi tetap lewat kalian.
-- **Mitra yang sudah pernah bekerja sama** tidak memakai slot dan hanya butuh **verifikasi 1 hari**.
-- Hari-H Jaulah (sim): **ada sesi sharing 15 menit + FGD**, perlu dokumentasi.
+### 2. Modal & Batasan Kita
+**Modal:**
+- Pintu eksternal ada **6** (sim). **2 sudah terpakai** untuk 2 LDK, jadi **sisa 4 slot** untuk kontak luar yang baru.
+- Tim 3 orang (sim).
+- Database alumni 2020–2025: sekitar 40 alumni berkontak lengkap (sim). Menghubungi alumni **tidak memakai slot**, tapi tetap lewat kita.
+- Mitra yang pernah bekerja sama **tidak memakai slot** dan hanya butuh verifikasi 1 hari.
 
-### 3. Misi Koordinasi Wajib
-**R-15 · ke Biro Digital Production**
-- **Wajib disepakati:** dokumentasi Jaulah **H-7 (Sabtu)**: **1 fotografer + 1 videografer**, **1 desain undangan LDK**, **1 video recap 2 menit**.
-- Siapkan tawaran: form request dan brief lengkap sesuai SOP (video < 3 menit diajukan minimal **H-7**), aset logo, akses lokasi, rencana publikasi.
-- Kalian **belum tahu** kru mereka di akhir pekan. Gali dan siapkan alternatif.
+**Batasan:**
+- Setiap kontak luar baru wajib punya **surat resmi** dan persetujuan **Kadep Relasi Publik & Advokasi dan Waket III**.
+- Jangan berkomitmen lisan atas nama JMMI ke pihak luar.
 
-**R-16 · ke Biro Kajian & Inovasi Dakwah**
-- **Wajib disepakati:** **1 moderator FGD** dan **1 materi 15 menit** "Inovasi Dakwah JMMI".
-- Diinginkan: 3 perwakilan di FGD.
-- Yang bisa kalian tawarkan: **template slide**, naskah, jam latihan.
-- Ingat: materi untuk tamu eksternal perlu **persetujuan Kadep Pelayanan Masjid & Dakwah**; tanyakan alurnya.
+### 3. Misi Koordinasi Wajib (2 Tiket)
+**R-15 · ke Digital Production**
+- **Target deal:** dokumentasi Jaulah hari Sabtu, minimal **1 fotografer**, plus **desain undangan LDK** dengan tenggat yang jelas. (Bonus: 1 videografer dan video recap 2 menit.)
+- **Modal tawar:** form request dan brief lengkap, logo dan aset, akses lokasi, rencana publikasi. Video pendek diajukan minimal 7 hari sebelumnya.
+- Kru akhir pekan mereka belum kita tahu. Gali dulu, siapkan alternatif.
 
-### 4. Permintaan yang Mungkin Masuk ke Kalian
-Beberapa biro akan meminta **kontak eksternal** (mitra, narasumber, media partner, sponsor), kemungkinan **melebihi 4 slot**. Aturan jawaban kalian:
-- Setiap permintaan harus memuat **tujuan, nama pihak, tenggat, PIC, penandatangan surat**; yang tidak lengkap boleh **ditunda**.
-- Kalian boleh menawarkan **alternatif** (alumni atau mitra yang sudah ada) yang tidak memakai slot.
-- **Prioritas** antar-permintaan diputuskan bersama **Kadep Relasi Publik & Advokasi**.
+**R-16 · ke Kajian & Inovasi Dakwah**
+- **Target deal:** **1 moderator FGD** dan **1 materi 15 menit** "Inovasi Dakwah JMMI". (Bonus: 3 perwakilan di FGD.)
+- **Modal tawar:** template slide, naskah, dan jam latihan.
+- Ingat: materi untuk tamu luar perlu persetujuan Kadep Pelayanan Masjid & Dakwah. Tanyakan alurnya.
 
-### 5. Batasan Wewenang & SOP (WAJIB ESKALASI)
-- **Menambah slot di atas 4** → **Kadep Relasi Publik & Advokasi + Waket III**.
+### 4. Kalau Ada Biro Lain Datang ke Kita
+Banyak biro akan minta kontak luar (mitra, narasumber, media partner, sponsor), kemungkinan **melebihi 4 slot**. Pegangan kita:
+- Permintaan harus jelas: tujuan, nama pihak, tenggat, PIC, dan penandatangan surat. Yang belum lengkap boleh **ditunda**.
+- Tawarkan **alternatif** yang tidak memakai slot, yaitu alumni atau mitra lama.
+- Prioritas antar-permintaan diputuskan bareng **Kadep Relasi Publik & Advokasi**.
+
+### 5. Kapan Harus Panggil Kadep / BPH
+- Mau menambah slot di atas 4 → **Kadep Relasi Publik & Advokasi dan Waket III**.
 - Kerja sama yang mengikat organisasi atau mengubah kebijakan → **BPI**.
-- Surat resmi melalui **Sekum/Sekretaris Pelaksana**; tidak boleh berkomitmen lisan atas nama JMMI ke pihak luar.
-- Kerja sama eksternal final: **Kadep Relasi Publik & Advokasi + Waket III**, bukan keputusan meja sendirian.
+- Kerja sama luar yang final bukan keputusan satu meja. Surat resmi lewat **Sekum atau Sekretaris Pelaksana**.
 
 <div style="page-break-after: always;"></div>
 
