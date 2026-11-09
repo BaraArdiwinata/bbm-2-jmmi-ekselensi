@@ -207,12 +207,14 @@ Peserta berhak:
 
 | Parameter | Poin |
 |---|---|
-| Kehadiran penuh pada seluruh sesi materi, atau kelengkapan tugas pengganti (resume) bagi sesi yang terlewat | **60 poin** |
+| Kehadiran penuh pada seluruh sesi materi, atau kelengkapan tugas pengganti (resume) bagi sesi yang terlewat (syarat dasar kelulusan) | **60 poin** |
 | Evaluasi Pemahaman (Post-Test) | **maksimal 25 poin** |
-| Keaktifan diskusi dan partisipasi forum | **1 poin** per aktivitas atau tanggapan |
+| Keaktifan diskusi dan partisipasi forum | **1 poin** per aktivitas atau tanggapan, dengan **akumulasi maksimal 15 poin** |
+| **Total nilai sempurna** | **100 poin** |
 
-3. Nilai akhir peserta merupakan **akumulasi poin performa** selama pelatihan.
-4. Nilai akhir menjadi bahan pembinaan dan pemetaan pertumbuhan peserta, sedangkan syarat kelulusan diatur dalam Pasal 28.
+3. Nilai akhir peserta merupakan **akumulasi poin performa** selama pelatihan pada skala 0–100, dikurangi poin peringatan sebagaimana Pasal 22 ayat 3.
+4. Nilai akhir menjadi **Indeks Performa Staf Muda** yang dilaporkan kepada Badan Personalia dan BPI sebagai bahan pembinaan dan pemetaan pertumbuhan peserta.
+5. Syarat kelulusan tetap diatur dalam Pasal 28.
 
 ---
 
@@ -222,15 +224,16 @@ Peserta berhak:
 Sanksi disusun dengan semangat membina, yaitu mengingatkan lebih dahulu dan memberi kesempatan memperbaiki, kecuali pada pelanggaran berat.
 
 ### PASAL 22 · PELANGGARAN ATAS LARANGAN
-1. Peserta yang melanggar Pasal 15 ayat 1 sampai 6 mendapat **peringatan** dari panitia. Peringatan dicatat sebagai bahan pembinaan.
+1. Peserta yang melanggar Pasal 15 ayat 1 sampai 6 mendapat **peringatan** dari panitia sesuai ayat 3.
 2. Peserta yang melanggar Pasal 15 ayat 7 akan **dipertimbangkan status kepesertaannya** oleh Ketua Pelaksana dan panitia.
+3. Setiap **peringatan tertulis** atas pelanggaran tata tertib dan larangan, termasuk pada Pasal 22, 23, dan 24, dikenakan **pengurangan 3 poin** dari total skor performa dan dicatat sebagai evaluasi kedisiplinan Staf Muda.
 
 ### PASAL 23 · PELANGGARAN ATAS PAKAIAN
-1. Peserta yang tidak memenuhi Pasal 16 mendapat **peringatan** dari panitia dan dicatat sebagai bahan pembinaan.
+1. Peserta yang tidak memenuhi Pasal 16 mendapat **peringatan** dari panitia sesuai Pasal 22 ayat 3.
 2. Peserta wajib segera mengganti pakaian sesuai ketentuan Pasal 16.
 
 ### PASAL 24 · PELANGGARAN ATAS KETERTIBAN
-Peserta yang melanggar Pasal 14 mendapat **peringatan** dari panitia. Peringatan dicatat sebagai bahan pembinaan.
+Peserta yang melanggar Pasal 14 mendapat **peringatan** dari panitia sesuai Pasal 22 ayat 3.
 
 ### PASAL 25 · PELANGGARAN MENINGGALKAN SESI
 1. Izin yang melebihi 15 menit sebagaimana Pasal 17 ayat 3 menyebabkan peserta tidak dapat mengajukan izin kembali pada sesi yang sama.
