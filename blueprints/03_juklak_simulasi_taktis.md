@@ -5,7 +5,7 @@
 **Peserta:** Staf Muda angkatan 2025, ±50–70 orang, duduk per meja menurut **biro asalnya**
 **Fasilitator:** Badan Personalia (Bidang 2)
 **Medium:** Google Sheets (`main/template_simulasi_taktis.xlsx`) dan Kartu Rahasia (`main/kartu_skenario_simulasi.md`)
-**Versi:** 2.3, topologi 16 relasi diseimbangkan menjadi 2 keluar dan 2 masuk per biro dengan kasus yang disesuaikan pada OKR riil (November 2026). Versi 2.2: durasi simulasi 30 menit dan presentasi hasil 30 menit (1 November 2026, hasil rapat Ketua Pelaksana dan Badan Personalia). Versi 2.1 menambahkan pembingkaian "simulasi berbasis konvensi struktur kabinet saat ini" (24 Oktober 2026); versi 2.0 adalah revisi atas arahan Ketua
+**Versi:** 2.3, topologi 16 relasi diseimbangkan menjadi 2 keluar dan 2 masuk per biro dengan kasus yang disesuaikan pada OKR riil (November 2026). Versi 2.2: durasi simulasi 30 menit dan presentasi hasil 30 menit (1 November 2026, hasil rapat Ketua Pelaksana dan Badan Personalia). Versi 2.3 juga memangkas template Sheets menjadi 11 tab Ultra-Lean (lihat bagian 8). Versi 2.1 menambahkan pembingkaian "simulasi berbasis konvensi struktur kabinet saat ini" (24 Oktober 2026); versi 2.0 adalah revisi atas arahan Ketua
 
 ---
 
@@ -132,7 +132,7 @@ Keputusan penggabungan final diumumkan pada **13 November (H-2)** berdasarkan ko
 | Pengendali waktu dan Master Inject | 1 | Menjalankan jam dan mengumumkan inject |
 | Operator Papan Jaring | 1 | Menampilkan `PAPAN_JARING` dan memantau Sheets |
 | **Pengamat meja (Badan Personalia)** | **8** | **Satu pengamat per meja** mencatat pola kontribusi individu (bagian 10) |
-| Penilai kinerja meja | 1–2 | Mengisi rubrik meja di `SKOR_EVALUASI` setelah sesi (dari Blok B–E dan Papan Jaring) |
+| Penilai kinerja meja | 1–2 | Mengisi rubrik meja di `SKOR_EVALUASI` setelah sesi (dari Tabel 1–3 tab biro dan Papan Jaring) |
 | **Total** | **±17–19** | |
 
 Peran Kadep dimainkan oleh anggota Badan Personalia atau pengurus yang memahami wewenang Kadep. Pemateri yang masih hadir boleh mengisi peran, tetapi tidak wajib. **Pengamat meja tidak boleh ikut mengarahkan tim.**
@@ -165,32 +165,31 @@ Peran Kadep dimainkan oleh anggota Badan Personalia atau pengurus yang memahami 
 | 7 | **Tanpa jabatan yang ditunjuk.** Keputusan diambil bersama lewat musyawarah dan dicatat. Komitmen yang melampaui batas wewenang dieskalasi. | 7.1.1 |
 | 8 | Kesepakatan yang menyangkut anggaran di luar RAB, perubahan kebijakan, atau program lintas bidang tidak diputuskan sendiri: Kadep → Waket → BPI. | 5.5.2.7 penutup |
 
-**Pelanggaran arah** (membuka tiket ke biro di luar daftar 2 tujuan) ditandai otomatis pada kolom *Flag Arah* di Blok C dan mengurangi skor jalur meja sebesar 25 poin per pelanggaran. Pelanggaran tidak ditegur di depan umum; dibahas pada presentasi dan ulasan.
+**Pelanggaran arah** (membuka tiket ke biro di luar daftar 2 tujuan) dicatat pengamat dan dibahas pada presentasi dan ulasan, tanpa teguran di depan umum. Template tidak memuat penanda otomatis agar peserta fokus bergerak.
 
 ### 3.2 Enam Belas Relasi Resmi
 
 Arah panah: **biro pengusung → biro tujuan** (pengusung adalah pihak yang boleh memulai).
 
-| No | Biro Pengusung | Biro Tujuan | Jenis lintas | Esensi target kesepakatan |
-|---|---|---|---|---|
-| R-01 | Biro Manajemen Event | Biro Relasi & Hubungan Eksternal | [B] | Medpar dan undangan resmi LDK se-Surabaya untuk Maulid × Milad lewat jalur Relasi: PIC tunggal, tenggat surat, prioritas bila kuota pintu eksternal terbatas |
-| R-02 | Biro Manajemen Event | Biro Usaha Mandiri | [B] | Pinjam GoRent internal gratis (HT, kabel roll, proyektor, standing banner): ketersediaan unit terhadap booking klien luar, jadwal, PIC, dan jaminan perawatan lewat berita acara |
-| R-03 | Biro Pengabdian Masyarakat | Biro Digital Production | [B] | Poster darurat open donasi banjir JMMI Peduli ≤ 24 jam: jalur darurat terhadap aturan pengajuan 7 hari, isi wajib (kanal resmi, penanggung jawab, jadwal laporan) |
-| R-04 | Biro Pengabdian Masyarakat | Biro Relasi & Hubungan Eksternal | [B] | Pilihan 1 mitra penyalur resmi dari kandidat beserta syarat verifikasi, PIC, dan prosedur kerja sama lewat jalur khusus |
-| R-05 | Biro Kajian & Inovasi Dakwah | Biro Usaha Mandiri | [B] | Paket sarapan SaJi 50–75 porsi per sesi lewat JMMI Commerce: harga rata-rata terhadap plafon, jadwal antar, standar menu, cara bayar |
-| R-06 | Biro Kajian & Inovasi Dakwah | Biro Amaliyah Yaumiyah | [=] | Penugasan kader da'i dan silabus kultum 10 menit untuk buka bersama KSSI dan penutupan OWOJ: slot, jam kultum terhadap azan, persetujuan silabus |
-| R-07 | Biro Usaha Mandiri | Biro Manajemen Event | [B] | Izin lapak bazaar resmi JMMI Store dan JMMI Commerce di venue Hari Puncak: jumlah, posisi, jam buka, listrik, kebersihan, dan benturan dengan zonasi makan |
-| R-08 | Biro Usaha Mandiri | Biro Pengabdian Masyarakat | [B] | Merchandise amal totebag dan stiker relawan JMMI Mengabdi: jumlah produksi, harga, bagi hasil ke kas JMMI Peduli lewat Bendum, tenggat pre-order |
-| R-09 | Biro Amaliyah Yaumiyah | Biro Manajemen Event | [D] | Protokol adab masjid, jeda salat di rundown, zonasi makan di luar karpet utama, dan penugasan petugas GDM pada Hari Puncak |
-| R-10 | Biro Amaliyah Yaumiyah | Biro Media Analysis & Strategi | [B] | Slot dan kalender konten bulanan KSSI (feed, reels, rilis kalender puasa sunnah di Instagram JMMI): format, tenggat brief, jadwal tayang |
-| R-11 | Biro Digital Production | Biro Media Analysis & Strategi | [=] | Penyerahan file final desain tiap Kamis 16.00 dan jatah minimal 2 slot posting per minggu: format, penamaan file, siapa yang mengunggah |
-| R-12 | Biro Digital Production | Biro Amaliyah Yaumiyah | [B] | Teknis STREAMMI khatmil Qur'an OWOJ: posisi kamera dan tripod, jam persiapan sebelum Q-TIME, izin pembaca, PIC lokasi, aftermovie |
-| R-13 | Biro Media Analysis & Strategi | Biro Kajian & Inovasi Dakwah | [B] | Kurasi dalil, hadits, dan sudut pandang syar'i untuk draf opini dan policy brief: alur, waktu review, PIC, format catatan, batas wewenang |
-| R-14 | Biro Media Analysis & Strategi | Biro Pengabdian Masyarakat | [B] | Data riil desa mitra JMMI Mengabdi untuk artikel rilis media massa kampus: daftar data, tenggat, izin desa, review draf oleh Pengmas |
-| R-15 | Biro Relasi & Hubungan Eksternal | Biro Digital Production | [D] | Dokumentasi (1 fotografer) dan e-invitation Jaulah LDK di akhir pekan: cakupan, tenaga akhir pekan, tenggat brief, batas revisi |
-| R-16 | Biro Relasi & Hubungan Eksternal | Biro Kajian & Inovasi Dakwah | [B] | Sinergi rekomendasi narasumber alumni dan ustadz jejaring luar untuk pemateri kajian: kriteria, nama rekomendasi, etiket kontak langsung oleh biro pemilik acara |
+| No | Biro Pengusung | Biro Tujuan | Esensi target kesepakatan |
+|---|---|---|---|
+| R-01 | Biro Manajemen Event | Biro Relasi & Hubungan Eksternal | Medpar dan undangan resmi LDK se-Surabaya untuk Maulid × Milad lewat jalur Relasi: PIC tunggal, tenggat surat, prioritas bila kuota pintu eksternal terbatas |
+| R-02 | Biro Manajemen Event | Biro Usaha Mandiri | Pinjam GoRent internal gratis (HT, kabel roll, proyektor, standing banner): ketersediaan unit terhadap booking klien luar, jadwal, PIC, dan jaminan perawatan lewat berita acara |
+| R-03 | Biro Pengabdian Masyarakat | Biro Digital Production | Poster darurat open donasi banjir JMMI Peduli ≤ 24 jam: jalur darurat terhadap aturan pengajuan 7 hari, isi wajib (kanal resmi, penanggung jawab, jadwal laporan) |
+| R-04 | Biro Pengabdian Masyarakat | Biro Relasi & Hubungan Eksternal | Pilihan 1 mitra penyalur resmi dari kandidat beserta syarat verifikasi, PIC, dan prosedur kerja sama lewat jalur khusus |
+| R-05 | Biro Kajian & Inovasi Dakwah | Biro Usaha Mandiri | Paket sarapan SaJi 50–75 porsi per sesi lewat JMMI Commerce: harga rata-rata terhadap plafon, jadwal antar, standar menu, cara bayar |
+| R-06 | Biro Kajian & Inovasi Dakwah | Biro Amaliyah Yaumiyah | Penugasan kader da'i dan silabus kultum 10 menit untuk buka bersama KSSI dan penutupan OWOJ: slot, jam kultum terhadap azan, persetujuan silabus |
+| R-07 | Biro Usaha Mandiri | Biro Manajemen Event | Izin lapak bazaar resmi JMMI Store dan JMMI Commerce di venue Hari Puncak: jumlah, posisi, jam buka, listrik, kebersihan, dan benturan dengan zonasi makan |
+| R-08 | Biro Usaha Mandiri | Biro Pengabdian Masyarakat | Merchandise amal totebag dan stiker relawan JMMI Mengabdi: jumlah produksi, harga, bagi hasil ke kas JMMI Peduli lewat Bendum, tenggat pre-order |
+| R-09 | Biro Amaliyah Yaumiyah | Biro Manajemen Event | Protokol adab masjid, jeda salat di rundown, zonasi makan di luar karpet utama, dan penugasan petugas GDM pada Hari Puncak |
+| R-10 | Biro Amaliyah Yaumiyah | Biro Media Analysis & Strategi | Slot dan kalender konten bulanan KSSI (feed, reels, rilis kalender puasa sunnah di Instagram JMMI): format, tenggat brief, jadwal tayang |
+| R-11 | Biro Digital Production | Biro Media Analysis & Strategi | Penyerahan file final desain tiap Kamis 16.00 dan jatah minimal 2 slot posting per minggu: format, penamaan file, siapa yang mengunggah |
+| R-12 | Biro Digital Production | Biro Amaliyah Yaumiyah | Teknis STREAMMI khatmil Qur'an OWOJ: posisi kamera dan tripod, jam persiapan sebelum Q-TIME, izin pembaca, PIC lokasi, aftermovie |
+| R-13 | Biro Media Analysis & Strategi | Biro Kajian & Inovasi Dakwah | Kurasi dalil, hadits, dan sudut pandang syar'i untuk draf opini dan policy brief: alur, waktu review, PIC, format catatan, batas wewenang |
+| R-14 | Biro Media Analysis & Strategi | Biro Pengabdian Masyarakat | Data riil desa mitra JMMI Mengabdi untuk artikel rilis media massa kampus: daftar data, tenggat, izin desa, review draf oleh Pengmas |
+| R-15 | Biro Relasi & Hubungan Eksternal | Biro Digital Production | Dokumentasi (1 fotografer) dan e-invitation Jaulah LDK di akhir pekan: cakupan, tenaga akhir pekan, tenggat brief, batas revisi |
+| R-16 | Biro Relasi & Hubungan Eksternal | Biro Kajian & Inovasi Dakwah | Sinergi rekomendasi narasumber alumni dan ustadz jejaring luar untuk pemateri kajian: kriteria, nama rekomendasi, etiket kontak langsung oleh biro pemilik acara |
 
-Legenda: **[=]** satu departemen · **[D]** lintas departemen dalam satu bidang · **[B]** lintas bidang. Hitungan: 2 × [=], 2 × [D], 12 × [B].
 
 ### 3.3 Sifat Graf (Telah Diverifikasi Program)
 
@@ -236,7 +235,7 @@ Legenda: **[=]** satu departemen · **[D]** lintas departemen dalam satu bidang 
 | 0–1 | Tujuan dan gambaran game; kondisi H-21; ritme 30 menit yang sengaja padat; **pembingkaian: "simulasi berbasis konvensi struktur kabinet saat ini"** (aturan dan batas wewenang di kartu adalah aturan permainan, bukan pasal baku; yang dilatih adalah prinsip) | Ketua Pelaksana |
 | 1–2 | Aturan arah (2 keluar, 2 masuk), eskalasi, dan larangan membuka tiket di luar daftar | Fasilitator utama |
 | 2–3 | **Tidak ada jabatan.** Semua setara; tim menentukan sendiri cara bekerja. Pengumuman meja dan penggabungan bila ada | Fasilitator utama, Sie Simulasi |
-| 3–4 | Pengenalan tab Google Sheets (Blok A–E, flag arah, ID tiket) | Operator Papan Jaring |
+| 3–4 | Pengenalan tab Google Sheets (3 tabel di tab biro: misi keluar, koordinasi masuk, eskalasi; dropdown Status; ID tiket) | Operator Papan Jaring |
 | 4–5 | Transparansi pengamatan, tanya jawab kilat, lalu pembagian amplop | Fasilitator utama |
 
 **Naskah transparansi pengamatan (wajib dibacakan):**
@@ -246,22 +245,22 @@ Legenda: **[=]** satu departemen · **[D]** lintas departemen dalam satu bidang 
 
 | Fase | Menit game | Aktivitas | Output | Yang dilakukan fasilitator |
 |---|---|---|---|---|
-| **P1 Persiapan** | 0–4 | Seluruh anggota membaca Kartu Rahasia bersama (disediakan 2 salinan per meja), menuliskan nama anggota di Blok A, dan menyepakati dua tiket yang dibuka lebih dulu. Boleh langsung bergerak | Blok A terisi; arah kerja | Memastikan tiap meja membuka tab yang benar. **Tidak menunjuk siapa pun** |
-| **P2 Koordinasi dan Inject** | 4–21 | Membuka tiket ke 2 biro tujuan, melayani permintaan masuk, bernegosiasi, dan mengeskalasi ke Kadep bila perlu. Tiga inject berjalan | Blok C dan D terisi; status tiap tiket | Mengumumkan inject pada menit 8, 12, dan 16; memantau Papan Jaring; Kadep menjawab eskalasi |
-| **P3 Finalisasi** | 21–25 | Melapor ke Kadep dan meminta persetujuan; tim mengisi keputusan final di Blok E | Blok E terisi; persetujuan Kadep | Kadep memeriksa konsistensi keputusan dengan hasil tiket |
+| **P1 Persiapan** | 0–4 | Seluruh anggota membaca Kartu Rahasia bersama (disediakan 2 salinan per meja), menuliskan nama anggota di sel kuning header tab, dan menyepakati dua tiket yang dibuka lebih dulu. Boleh langsung bergerak | Nama anggota terisi; arah kerja | Memastikan tiap meja membuka tab yang benar. **Tidak menunjuk siapa pun** |
+| **P2 Koordinasi dan Inject** | 4–21 | Mendatangi 2 biro tujuan, melayani 2 tamu yang masuk, bernegosiasi, dan mengeskalasi ke Kadep bila macet. Tiga inject berjalan | Hasil Kesepakatan dan Status Tabel 1 dan 2 terisi | Mengumumkan inject pada menit 8, 12, dan 16; memantau Papan Jaring; Kadep menjawab eskalasi |
+| **P3 Finalisasi** | 21–25 | Merapikan poin deal pada Tabel 1 dan 2, memastikan Status benar, dan melapor ke Kadep bila ada hal yang perlu persetujuan | Tabel 1 dan 2 final; Tabel 3 bila ada | Kadep memeriksa kesesuaian hasil dengan batas wewenang |
 | **P4 Wrap-up** | 25–30 | Layar menampilkan `PAPAN_JARING`; tiap biro menyebut satu kesepakatan terbaik dan satu kompromi tersulit (±30 detik) | Papan final | Operator menampilkan papan; pengendali waktu menjaga 30 detik per biro |
 
 **Penyesuaian akibat pemadatan:**
 - Jumlah tiket minimal tetap **2 per biro** (satu per biro tujuan). Tiket boleh ditutup dengan status *Sepakat* walau rincian akhir bersifat bersyarat, asalkan syarat dicatat pada kolom *Syarat*.
 - Waktu respons Kadep **maksimal 3 menit**.
-- Komunikasi antar-meja boleh lisan untuk kecepatan, dan **hasilnya wajib dicatat** pada Blok C (pengirim) dan Blok D (penerima).
+- Komunikasi antar-meja boleh lisan untuk kecepatan, dan **poin deal wajib dicatat** pada Tabel 1 (tiket keluar) dan Tabel 2 (tiket masuk).
 - Penutupan P3 tepat pada menit 25 agar presentasi dan Ashar tidak bergeser.
 
 ### 4.3 Tiket Koordinasi
 
-- Setiap biro membuka **minimal 2 tiket** (satu per biro tujuan). Baris pertama dan kedua Blok C sudah terisi ID relasi dan biro tujuan.
-- Setiap tiket memuat: kebutuhan, tawaran, hasil kesepakatan (isi, volume, waktu, PIC), syarat, status, dan perlunya eskalasi.
-- Status: `Pending`, `Negosiasi`, `Sepakat`, `Ditolak`, `Batal`. Pada `PAPAN_JARING` ditampilkan sebagai *Pending / Deal / Reject / Batal*.
+- Setiap biro memegang **2 tiket keluar dan 2 tiket masuk**. Kolom ID Tiket, biro lawan, dan ringkasan kebutuhan sudah terisi di Tabel 1 dan 2; peserta hanya mengisi sel kuning.
+- Setiap tiket memuat satu baris: kebutuhan atau permintaan (terisi), hasil kesepakatan atau respon (poin konkret seperti jumlah, kuota, harga, tenggat, PIC), dan status.
+- Status keluar: `Sepakat` / `Masih Negosiasi` / `Batal`. Status masuk: `Diterima` / `Diterima Bersyarat` / `Ditolak`. Pada `PAPAN_JARING` tiket keluar ditampilkan sebagai *Deal / Pending / Batal*.
 
 ---
 
@@ -510,22 +509,22 @@ Legenda: **[=]** satu departemen · **[D]** lintas departemen dalam satu bidang 
 
 | Biro pengusung | Proker | Trigger masalah atau kebutuhan | Wajib koordinasi ke | Esensi yang harus disepakati |
 |---|---|---|---|---|
-| **Biro Manajemen Event** | **Maulid Nabi × Milad JMMI ke-37** (event Hari Puncak), plus peran konsultan teknis acara bagi biro lain | Kita lagi nyiapin Maulid Nabi × Milad JMMI ke-37, dan sekarang **H-21**. Panitia kita mandiri dan tupoksinya lengkap, tapi dua hal belum beres: belum ada **Medpar (media partner)** dan **undangan resmi ke LDK se-Surabaya**, dan **alat event** dari GoRent belum dipastikan. Kita tidak boleh menghubungi pihak luar sendiri. Di sisi lain, biro lain akan datang minta izin dan aturan main di venue Hari Puncak. | **Tujuan 1:** Biro Relasi & Hubungan Eksternal [B] (R-01) | Medpar dan undangan resmi LDK se-Surabaya untuk Maulid × Milad lewat jalur Relasi: PIC tunggal, tenggat surat, prioritas bila kuota pintu eksternal terbatas |
-| | | | **Tujuan 2:** Biro Usaha Mandiri [B] (R-02) | Pinjam GoRent internal gratis (HT, kabel roll, proyektor, standing banner): ketersediaan unit terhadap booking klien luar, jadwal, PIC, dan jaminan perawatan lewat berita acara |
-| **Biro Pengabdian Masyarakat** | **JMMI Peduli** (donasi musibah) dan **JMMI Mengabdi** (desa mitra) | Banjir bandang (sim) menerjang desa dekat mitra JMMI Mengabdi. BPI minta JMMI Peduli bergerak sekarang. Masalahnya, **poster open donasi harus jadi dalam 24 jam**, dan **mitra penyalur yang terverifikasi** harus jelas **sebelum donasi dibuka**. Di saat yang sama, data desa mitra kita masih belum rapi. | **Tujuan 1:** Biro Digital Production [B] (R-03) | Poster darurat open donasi banjir JMMI Peduli ≤ 24 jam: jalur darurat terhadap aturan pengajuan 7 hari, isi wajib (kanal resmi, penanggung jawab, jadwal laporan) |
-| | | | **Tujuan 2:** Biro Relasi & Hubungan Eksternal [B] (R-04) | Pilihan 1 mitra penyalur resmi dari kandidat beserta syarat verifikasi, PIC, dan prosedur kerja sama lewat jalur khusus |
-| **Biro Kajian & Inovasi Dakwah** | **SaJi** (Sarapan & Ngaji), **KID Insight**, dan **Simposium Nalar** | Kita lagi nyiapin **SaJi**, sarapan bareng sambil ngaji, dan sekarang **H-21**. Masalahnya: **paket sarapan** belum dipastikan, padahal RSVP baru 52 dari target rata-rata 75 (sim). Kita juga punya **kader da'i** dan **silabus kultum 10 menit** yang belum punya panggung tetap. | **Tujuan 1:** Biro Usaha Mandiri [B] (R-05) | Paket sarapan SaJi 50–75 porsi per sesi lewat JMMI Commerce: harga rata-rata terhadap plafon, jadwal antar, standar menu, cara bayar |
-| | | | **Tujuan 2:** Biro Amaliyah Yaumiyah [=] (R-06) | Penugasan kader da'i dan silabus kultum 10 menit untuk buka bersama KSSI dan penutupan OWOJ: slot, jam kultum terhadap azan, persetujuan silabus |
-| **Biro Usaha Mandiri** | **JMMI Store**, **JMMI Commerce**, dan **GoRent** | Kita lagi ngejar omzet **JMMI Store** dan **JMMI Commerce** menuju Hari Puncak. Dua hal yang kita butuhkan: **izin lapak bazaar** di venue Hari Puncak, dan **mitra untuk merchandise amal**. Sambil itu, permintaan **pinjam alat GoRent** dan **paket sarapan** lagi masuk. | **Tujuan 1:** Biro Manajemen Event [B] (R-07) | Izin lapak bazaar resmi JMMI Store dan JMMI Commerce di venue Hari Puncak: jumlah, posisi, jam buka, listrik, kebersihan, dan benturan dengan zonasi makan |
-| | | | **Tujuan 2:** Biro Pengabdian Masyarakat [B] (R-08) | Merchandise amal totebag dan stiker relawan JMMI Mengabdi: jumlah produksi, harga, bagi hasil ke kas JMMI Peduli lewat Bendum, tenggat pre-order |
-| **Biro Amaliyah Yaumiyah** | **KSSI** (berbuka bersama Senin dan Kamis), **OWOJ**, **GDM**, **Q-TIME**, dan **RAPI** | Hari Puncak bakal ramai, dan kita khawatir **salat berjamaah** terganggu dan **karpet utama** kotor oleh makanan. Kita juga punya urusan lain: **dokumentasi KSSI bulan ini** belum tayang, dan jadwal puasa sunnah belum keluar. | **Tujuan 1:** Biro Manajemen Event [D] (R-09) | Protokol adab masjid, jeda salat di rundown, zonasi makan di luar karpet utama, dan penugasan petugas GDM pada Hari Puncak |
-| | | | **Tujuan 2:** Biro Media Analysis & Strategi [B] (R-10) | Slot dan kalender konten bulanan KSSI (feed, reels, rilis kalender puasa sunnah di Instagram JMMI): format, tenggat brief, jadwal tayang |
-| **Biro Digital Production** | **STREAMMI** (live streaming dan videotron), **Requesta**, dan **POTRET JMMI** | Order masuk barengan, dan kita mau **STREAMMI** menyiarkan langsung **khatmil Qur'an OWOJ** tanpa mengganggu jamaah. Hasil produksi kita juga menumpuk karena jalur posting di Biro Media Analysis & Strategi lambat, sementara kru akhir pekan tinggal satu orang. | **Tujuan 1:** Biro Media Analysis & Strategi [=] (R-11) | Penyerahan file final desain tiap Kamis 16.00 dan jatah minimal 2 slot posting per minggu: format, penamaan file, siapa yang mengunggah |
-| | | | **Tujuan 2:** Biro Amaliyah Yaumiyah [B] (R-12) | Teknis STREAMMI khatmil Qur'an OWOJ: posisi kamera dan tripod, jam persiapan sebelum Q-TIME, izin pembaca, PIC lokasi, aftermovie |
-| **Biro Media Analysis & Strategi** | **Publikasi Request**, **Analysis Media**, dan **IQRA X AKSI** (opini dan policy brief) | Kita lagi menyiapkan **draf opini dan policy brief IQRA X AKSI** yang mau rilis pekan depan, plus **artikel rilis media massa kampus** tentang desa mitra. Dua hal bikin cemas: **dalil dan sudut pandang syar'i** belum ada yang mengecek, dan **data desa mitra** belum kita pegang. Di saat yang sama antrean posting lagi penuh. | **Tujuan 1:** Biro Kajian & Inovasi Dakwah [B] (R-13) | Kurasi dalil, hadits, dan sudut pandang syar'i untuk draf opini dan policy brief: alur, waktu review, PIC, format catatan, batas wewenang |
-| | | | **Tujuan 2:** Biro Pengabdian Masyarakat [B] (R-14) | Data riil desa mitra JMMI Mengabdi untuk artikel rilis media massa kampus: daftar data, tenggat, izin desa, review draf oleh Pengmas |
-| **Biro Relasi & Hubungan Eksternal** | **Jaulah LDK** (JMMI sebagai tuan rumah), **Database Alumni**, dan pintu kerja sama eksternal | Di **H-7 (hari Sabtu)** kita menerima **2 LDK mitra (sekitar 20 tamu)** di Ruang Audiovisual untuk **Jaulah**, yaitu forum silaturahmi dan sharing kelembagaan (bukan ceramah). Kita butuh **fotografer dan e-invitation**. Di sisi lain, **database alumni** kita belum nyambung dengan kebutuhan pemateri biro lain, dan banyak biro minta kontak luar lewat kita. | **Tujuan 1:** Biro Digital Production [D] (R-15) | Dokumentasi (1 fotografer) dan e-invitation Jaulah LDK di akhir pekan: cakupan, tenaga akhir pekan, tenggat brief, batas revisi |
-| | | | **Tujuan 2:** Biro Kajian & Inovasi Dakwah [B] (R-16) | Sinergi rekomendasi narasumber alumni dan ustadz jejaring luar untuk pemateri kajian: kriteria, nama rekomendasi, etiket kontak langsung oleh biro pemilik acara |
+| **Biro Manajemen Event** | **Maulid Nabi × Milad JMMI ke-37** (event Hari Puncak), plus peran konsultan teknis acara bagi biro lain | Kita lagi nyiapin Maulid Nabi × Milad JMMI ke-37, dan sekarang **H-21**. Panitia kita mandiri dan tupoksinya lengkap, tapi dua hal belum beres: belum ada **Medpar (media partner)** dan **undangan resmi ke LDK se-Surabaya**, dan **alat event** dari GoRent belum dipastikan. Kita tidak boleh menghubungi pihak luar sendiri. Di sisi lain, biro lain akan datang minta izin dan aturan main di venue Hari Puncak. | **Tujuan 1:** Biro Relasi & Hubungan Eksternal (R-01) | Medpar dan undangan resmi LDK se-Surabaya untuk Maulid × Milad lewat jalur Relasi: PIC tunggal, tenggat surat, prioritas bila kuota pintu eksternal terbatas |
+| | | | **Tujuan 2:** Biro Usaha Mandiri (R-02) | Pinjam GoRent internal gratis (HT, kabel roll, proyektor, standing banner): ketersediaan unit terhadap booking klien luar, jadwal, PIC, dan jaminan perawatan lewat berita acara |
+| **Biro Pengabdian Masyarakat** | **JMMI Peduli** (donasi musibah) dan **JMMI Mengabdi** (desa mitra) | Banjir bandang (sim) menerjang desa dekat mitra JMMI Mengabdi. BPI minta JMMI Peduli bergerak sekarang. Masalahnya, **poster open donasi harus jadi dalam 24 jam**, dan **mitra penyalur yang terverifikasi** harus jelas **sebelum donasi dibuka**. Di saat yang sama, data desa mitra kita masih belum rapi. | **Tujuan 1:** Biro Digital Production (R-03) | Poster darurat open donasi banjir JMMI Peduli ≤ 24 jam: jalur darurat terhadap aturan pengajuan 7 hari, isi wajib (kanal resmi, penanggung jawab, jadwal laporan) |
+| | | | **Tujuan 2:** Biro Relasi & Hubungan Eksternal (R-04) | Pilihan 1 mitra penyalur resmi dari kandidat beserta syarat verifikasi, PIC, dan prosedur kerja sama lewat jalur khusus |
+| **Biro Kajian & Inovasi Dakwah** | **SaJi** (Sarapan & Ngaji), **KID Insight**, dan **Simposium Nalar** | Kita lagi nyiapin **SaJi**, sarapan bareng sambil ngaji, dan sekarang **H-21**. Masalahnya: **paket sarapan** belum dipastikan, padahal RSVP baru 52 dari target rata-rata 75 (sim). Kita juga punya **kader da'i** dan **silabus kultum 10 menit** yang belum punya panggung tetap. | **Tujuan 1:** Biro Usaha Mandiri (R-05) | Paket sarapan SaJi 50–75 porsi per sesi lewat JMMI Commerce: harga rata-rata terhadap plafon, jadwal antar, standar menu, cara bayar |
+| | | | **Tujuan 2:** Biro Amaliyah Yaumiyah (R-06) | Penugasan kader da'i dan silabus kultum 10 menit untuk buka bersama KSSI dan penutupan OWOJ: slot, jam kultum terhadap azan, persetujuan silabus |
+| **Biro Usaha Mandiri** | **JMMI Store**, **JMMI Commerce**, dan **GoRent** | Kita lagi ngejar omzet **JMMI Store** dan **JMMI Commerce** menuju Hari Puncak. Dua hal yang kita butuhkan: **izin lapak bazaar** di venue Hari Puncak, dan **mitra untuk merchandise amal**. Sambil itu, permintaan **pinjam alat GoRent** dan **paket sarapan** lagi masuk. | **Tujuan 1:** Biro Manajemen Event (R-07) | Izin lapak bazaar resmi JMMI Store dan JMMI Commerce di venue Hari Puncak: jumlah, posisi, jam buka, listrik, kebersihan, dan benturan dengan zonasi makan |
+| | | | **Tujuan 2:** Biro Pengabdian Masyarakat (R-08) | Merchandise amal totebag dan stiker relawan JMMI Mengabdi: jumlah produksi, harga, bagi hasil ke kas JMMI Peduli lewat Bendum, tenggat pre-order |
+| **Biro Amaliyah Yaumiyah** | **KSSI** (berbuka bersama Senin dan Kamis), **OWOJ**, **GDM**, **Q-TIME**, dan **RAPI** | Hari Puncak bakal ramai, dan kita khawatir **salat berjamaah** terganggu dan **karpet utama** kotor oleh makanan. Kita juga punya urusan lain: **dokumentasi KSSI bulan ini** belum tayang, dan jadwal puasa sunnah belum keluar. | **Tujuan 1:** Biro Manajemen Event (R-09) | Protokol adab masjid, jeda salat di rundown, zonasi makan di luar karpet utama, dan penugasan petugas GDM pada Hari Puncak |
+| | | | **Tujuan 2:** Biro Media Analysis & Strategi (R-10) | Slot dan kalender konten bulanan KSSI (feed, reels, rilis kalender puasa sunnah di Instagram JMMI): format, tenggat brief, jadwal tayang |
+| **Biro Digital Production** | **STREAMMI** (live streaming dan videotron), **Requesta**, dan **POTRET JMMI** | Order masuk barengan, dan kita mau **STREAMMI** menyiarkan langsung **khatmil Qur'an OWOJ** tanpa mengganggu jamaah. Hasil produksi kita juga menumpuk karena jalur posting di Biro Media Analysis & Strategi lambat, sementara kru akhir pekan tinggal satu orang. | **Tujuan 1:** Biro Media Analysis & Strategi (R-11) | Penyerahan file final desain tiap Kamis 16.00 dan jatah minimal 2 slot posting per minggu: format, penamaan file, siapa yang mengunggah |
+| | | | **Tujuan 2:** Biro Amaliyah Yaumiyah (R-12) | Teknis STREAMMI khatmil Qur'an OWOJ: posisi kamera dan tripod, jam persiapan sebelum Q-TIME, izin pembaca, PIC lokasi, aftermovie |
+| **Biro Media Analysis & Strategi** | **Publikasi Request**, **Analysis Media**, dan **IQRA X AKSI** (opini dan policy brief) | Kita lagi menyiapkan **draf opini dan policy brief IQRA X AKSI** yang mau rilis pekan depan, plus **artikel rilis media massa kampus** tentang desa mitra. Dua hal bikin cemas: **dalil dan sudut pandang syar'i** belum ada yang mengecek, dan **data desa mitra** belum kita pegang. Di saat yang sama antrean posting lagi penuh. | **Tujuan 1:** Biro Kajian & Inovasi Dakwah (R-13) | Kurasi dalil, hadits, dan sudut pandang syar'i untuk draf opini dan policy brief: alur, waktu review, PIC, format catatan, batas wewenang |
+| | | | **Tujuan 2:** Biro Pengabdian Masyarakat (R-14) | Data riil desa mitra JMMI Mengabdi untuk artikel rilis media massa kampus: daftar data, tenggat, izin desa, review draf oleh Pengmas |
+| **Biro Relasi & Hubungan Eksternal** | **Jaulah LDK** (JMMI sebagai tuan rumah), **Database Alumni**, dan pintu kerja sama eksternal | Di **H-7 (hari Sabtu)** kita menerima **2 LDK mitra (sekitar 20 tamu)** di Ruang Audiovisual untuk **Jaulah**, yaitu forum silaturahmi dan sharing kelembagaan (bukan ceramah). Kita butuh **fotografer dan e-invitation**. Di sisi lain, **database alumni** kita belum nyambung dengan kebutuhan pemateri biro lain, dan banyak biro minta kontak luar lewat kita. | **Tujuan 1:** Biro Digital Production (R-15) | Dokumentasi (1 fotografer) dan e-invitation Jaulah LDK di akhir pekan: cakupan, tenaga akhir pekan, tenggat brief, batas revisi |
+| | | | **Tujuan 2:** Biro Kajian & Inovasi Dakwah (R-16) | Sinergi rekomendasi narasumber alumni dan ustadz jejaring luar untuk pemateri kajian: kriteria, nama rekomendasi, etiket kontak langsung oleh biro pemilik acara |
 
 ---
 
@@ -558,7 +557,7 @@ Inject dijalankan oleh **Pengendali Waktu / Master Inject** pada menit game yang
 | **Trigger** | Fasilitator berperan sebagai **Waket** (Waket I untuk Biro Manajemen Event, Biro Pengabdian Masyarakat, Biro Kajian & Inovasi Dakwah, Biro Amaliyah Yaumiyah; Waket III untuk biro lainnya) mendatangi **satu anggota** di meja sasaran dan memberi arahan lisan yang bertentangan dengan keputusan tim atau aturan. Anggota dipilih fasilitator, sebaiknya yang sedang tidak memegang kendali tim |
 | **Meja sasaran** | Dipilih fasilitator. Rekomendasi: Biro Usaha Mandiri atau Biro Pengabdian Masyarakat (lihat 7.2.1) |
 | **Yang diuji** | Anggota tidak mengeksekusi sendiri; membawa arahan itu ke tim; tim mengonfirmasinya ke Kadep |
-| **Perilaku ideal** | Anggota berkata sopan: "Siap, saya sampaikan ke tim dulu agar dikonfirmasi lewat Kadep." Tim mencatatnya di Blok B dan melapor |
+| **Perilaku ideal** | Anggota berkata sopan: "Siap, saya sampaikan ke tim dulu agar dikonfirmasi lewat Kadep." Tim mencatatnya di Tabel 3 dan melapor |
 | **Perilaku bermasalah** | Langsung mengeksekusi, mengabaikan Waket, atau membahasnya di luar jalur |
 
 #### 7.2.1 Pilihan Naskah Instruksi
@@ -577,7 +576,7 @@ Inject dijalankan oleh **Pengendali Waktu / Master Inject** pada menit game yang
 | **Trigger** | Fasilitator menyerahkan kartu "kabar mendadak, harap keluar sebentar" kepada **anggota yang sedang paling banyak memegang kendali** di meja sasaran (ditentukan pengamat meja). Anggota itu meninggalkan meja selama **5 menit** (sampai menit ke-27) |
 | **Meja sasaran** | Dipilih fasilitator, bukan meja yang sama dengan inject B. Rekomendasi: Biro Manajemen Event atau Biro Usaha Mandiri (dua meja yang bertukar tiket R-02 dan R-07 serta menerima permintaan dari dua biro lain, sehingga dampaknya terasa luas) |
 | **Yang diuji** | Perpindahan kepemimpinan, penunjukan pengganti sementara lewat Kadep, kontinuitas keputusan, dan siapa yang melangkah maju |
-| **Perilaku ideal** | Tim berhenti sejenak, menyepakati siapa yang melanjutkan, menyampaikan kepada Kadep dan menuliskannya di Blok B, lalu menunda keputusan kritis atau mengambilnya dalam batas yang disepakati. Setelah anggota kembali, tim memaparkan keputusan yang dibuat |
+| **Perilaku ideal** | Tim berhenti sejenak, menyepakati siapa yang melanjutkan, menyampaikan kepada Kadep dan menuliskannya di Tabel 3, lalu menunda keputusan kritis atau mengambilnya dalam batas yang disepakati. Setelah anggota kembali, tim memaparkan keputusan yang dibuat |
 | **Perilaku bermasalah** | Tim berhenti total, satu orang mengambil alih tanpa musyawarah, atau tiket yang sudah disepakati diubah tanpa sepengetahuan tim |
 | **Nilai observasi** | Inject ini paling informatif untuk melihat kepemimpinan yang tumbuh: siapa yang melangkah maju saat pemimpin sementara hilang |
 
@@ -585,50 +584,43 @@ Inject dijalankan oleh **Pengendali Waktu / Master Inject** pada menit game yang
 
 ## 8. Struktur Google Sheets
 
-**File:** `main/template_simulasi_taktis.xlsx` (12 tab). Unggah ke Google Drive dan buka dengan Google Sheets, lalu pilih *File → Simpan sebagai Google Sheets*.
+**File:** `main/template_simulasi_taktis.xlsx` (11 tab, **Ultra-Lean Layout**). Berkas biner ini hanya disimpan lokal (diabaikan Git) dan dibangun oleh `python main/generate_template_simulasi.py`. Unggah ke Google Drive dan buka dengan Google Sheets, lalu pilih *File → Simpan sebagai Google Sheets*. Fase koordinasi aktif hanya 17 menit, sehingga peserta cukup mengisi sel kuning pada tiga tabel kecil dan sisanya bergerak langsung ke meja lain.
 
 ### 8.1 Daftar Tab
 
 | Tab | Isi | Pengisi |
 |---|---|---|
-| `00_PETUNJUK` | Gambaran umum, aturan, alur 30 menit, inject, prinsip kerja organik, SOP eskalasi, daftar biro dan penggabungan, cara pakai | Dibaca peserta |
-| `ALLOWED_EDGES` | 16 relasi resmi dengan nomor R-01 sampai R-16, jenis lintas, esensi, dan Kadep yang diinfokan. Kolom F berisi kunci `Biro Pengusung\|Biro Tujuan` untuk formula | Fasilitator |
-| Delapan tab biro, **berjudul sesuai nama biro** (`Manajemen Event`, `Pengabdian Masyarakat`, `Kajian & Inovasi Dakwah`, `Usaha Mandiri`, `Amaliyah Yaumiyah`, `Digital Production`, `Media Analysis & Strategi`, `Relasi & Hubungan Eksternal`) | Lembar kendali tiap biro (Blok A–E) | Meja biro |
-| `PAPAN_JARING` | Matriks 8×8 status 16 relasi, rekap, dan papan eskalasi serta keputusan | Otomatis |
-| `SKOR_EVALUASI` | Rubrik dan rekap nilai meja | Otomatis dan penilai |
+| `00_PETUNJUK` | Satu halaman: tujuan latihan, jadwal 30 menit, cara mengisi, tata krama antarmeja, aturan eskalasi, dan catatan pengamat | Dibaca peserta |
+| Delapan tab biro, **berjudul sesuai nama biro** (`Manajemen Event`, `Pengabdian Masyarakat`, `Kajian & Inovasi Dakwah`, `Usaha Mandiri`, `Amaliyah Yaumiyah`, `Digital Production`, `Media Analysis & Strategi`, `Relasi & Hubungan Eksternal`) | Lembar kerja ringkas tiap biro, 19 baris | Meja biro |
+| `PAPAN_JARING` | Matriks 8×8 status 16 tiket (Deal / Pending / Batal) yang membaca Tabel 1 tiap tab biro, kartu skor, dan rekap per meja | Otomatis |
+| `SKOR_EVALUASI` | Satu tabel penilaian ringkas untuk pengamat Badan Personalia yang berkeliling | Penilai |
 
-### 8.2 Tata Letak Tab Biro
+### 8.2 Tata Letak Tab Biro (19 Baris)
 
-| Blok | Baris | Isi |
+| Bagian | Baris | Isi |
 |---|---|---|
-| Banner dan petunjuk | 1–2 | Judul biro (warna departemen) |
-| **A. Identitas, Proker Amanah, Anggota Tim** | 4–10 | Nama biro, departemen, bidang, proker, **2 target terkunci** (dengan nomor relasi); kotak **anggota tim** (tulis nama semua anggota, tanpa jabatan); Kadep dan Waket |
-| **B. Log Laporan dan Eskalasi ke Kadep** | 13–22 (data 15–22) | No, Menit ke-, Jenis, Urgensi, Jalur sudah dicoba?, Topik, Fakta, Opsi, Permintaan Arahan, Respon Kadep/Fasilitator, Tindak Lanjut, Status Respon |
-| **C. Log Koordinasi Keluar** | 24–35 (data 26–35) | ID Tiket (nomor relasi), Menit ke-, Biro Tujuan, Jenis Lintas (otomatis), Kadep diinfokan?, Kebutuhan, Tawaran, Hasil Kesepakatan, Syarat, Status, Perlu Eskalasi?, Flag Arah (otomatis) |
-| **D. Log Koordinasi Masuk** | 37–48 (data 39–48) | ID Tiket, Menit ke-, Biro Pengirim, Respons, Kadep diinfokan?, Isi Permintaan, Dampak Internal, Keputusan Tim, Syarat Balik, Alasan atau Dasar SOP, Sudah dibalas?, Cek Jalur Pengirim (otomatis) |
-| **E. Keputusan Final Eksekusi** | 50–59 | Status keputusan (Go / Go Bersyarat / Tunda), Scope final, Komitmen keluar (otomatis), Komitmen masuk (otomatis), Risiko tersisa, Mitigasi, **Pembagian tugas tindak lanjut**, Persetujuan Kadep (Ya / Belum / Revisi), Refleksi |
+| Header | 1–4 | Nama biro, departemen dan bidang (Kadep → Waket), sel kuning anggota meja, dan kalimat "Fokus negosiasi langsung antarmeja. Cukup isi sel kuning pada tabel di bawah." |
+| **Tabel 1: Misi Koordinasi Keluar** | 7–9 | 2 tiket keluar. Kolom: ID Tiket, Biro Tujuan, Kebutuhan / Kasus Kita (terisi), **Hasil Kesepakatan / Deal** (kuning), **Status** (dropdown: Sepakat / Masih Negosiasi / Batal) |
+| **Tabel 2: Koordinasi Masuk** | 12–14 | 2 tiket masuk. Kolom: ID Tiket, Biro Pengirim, Permintaan Mereka (terisi), **Respon & Syarat Balik Kita** (kuning), **Status** (dropdown: Diterima / Diterima Bersyarat / Ditolak) |
+| **Tabel 3: Catatan Kebuntuan / Eskalasi ke Kadep** | 16–19 | Opsional, 2 baris cadangan. Kolom: No, Isu / Kebuntuan, Arahan & Solusi Kadep. Diisi hanya bila koordinasi macet total |
 
-Kode warna: sel kuning = diisi peserta; sel abu-abu = otomatis atau terkunci secara konvensi. Header berwarna menurut departemen (Syi'ar jingga, Pelayanan hijau, Medigi biru, Relasi Publik & Advokasi ungu).
+Kode warna: sel kuning = diisi peserta; sel abu-abu = terisi dan terkunci secara konvensi. Header berwarna menurut departemen (Syi'ar jingga, Pelayanan hijau, Medigi biru, Relasi Publik & Advokasi ungu). Tidak ada kolom jenis lintas, menit, atau borang Fakta–Opsi–Permintaan.
 
 ### 8.3 Formula Kunci
 
-Nama biro lengkap pada sel `C5` setiap tab dipakai sebagai kunci. Kode dua huruf tidak muncul di Sheets.
-
-| Fungsi | Formula (contoh baris 26) |
+| Fungsi | Formula (contoh) |
 |---|---|
-| Jenis lintas otomatis | `=IF(C26="","",IFERROR(INDEX(ALLOWED_EDGES!$D$6:$D$21,MATCH($C$5&"\|"&C26,ALLOWED_EDGES!$F$6:$F$21,0)),"—"))` |
-| Flag arah (Blok C) | `=IF(C26="","",IF(COUNTIF(ALLOWED_EDGES!$F$6:$F$21,$C$5&"\|"&C26)=0,"⛔ DI LUAR JALUR — eskalasi ke Kadep","✔ sesuai jalur"))` (cek arah balik dihapus pada versi 2.3 karena pasangan Biro Manajemen Event ↔ Biro Usaha Mandiri sah) |
-| Cek jalur pengirim (Blok D) | `=IF(C39="","",IF(COUNTIF(ALLOWED_EDGES!$F$6:$F$21,C39&"\|"&$C$5)>0,"✔ pengirim di jalur resmi","⚠ pengirim di luar jalur — catat & lapor Kadep"))` |
-| Status relasi (`PAPAN_JARING`) | `=IF(COUNTIFS('Manajemen Event'!$C$26:$C$35,"Biro Usaha Mandiri",'Manajemen Event'!$J$26:$J$35,"Sepakat")>0,"Deal",IF(COUNTIFS(…,"Ditolak")>0,"Reject",IF(COUNTIFS(…,"Batal")>0,"Batal","Pending")))` |
-| Skor jalur otomatis | `=MAX(0,100-25*C13)` dengan `C13 = COUNTIF('Manajemen Event'!$L$26:$L$35,"⛔*")` |
-| Total skor | `=ROUND(G13*0.3+N(H13)*0.3+N(I13)*0.15+N(J13)*0.15+N(K13)*0.1,1)` |
+| Status relasi (`PAPAN_JARING`) | `=IF('Manajemen Event'!E8="Sepakat","Deal",IF('Manajemen Event'!E8="Batal","Batal","Pending"))` untuk R-01. Tiap sel matriks menunjuk sel Status Tabel 1 pada tab biro pengusung; sel tanpa tiket berisi "—" |
+| Kartu skor | `=COUNTIF(B5:I12,"Deal")`, dan serupa untuk "Pending" dan "Batal" |
+| Rekap per meja | Keluar Deal `=COUNTIF('Manajemen Event'!E8:E9,"Sepakat")`; Masuk Diterima `=COUNTIF('Manajemen Event'!E13:E14,"Diterima*")`; Eskalasi `=COUNTA('Manajemen Event'!B18:B19)` |
+| Total skor (`SKOR_EVALUASI`) | `=IF(COUNT(B5:E5)=0,"",ROUND(AVERAGE(B5:E5)*20,0))` |
 
-**Validasi data:** dropdown pada Jenis (Briefing / Minta Arahan / Eskalasi / Laporan), Urgensi, Jalur dicoba, Status Respon; pada Biro Tujuan (nama lengkap biro lain); pada Respons masuk (Terima / Terima Bersyarat / Tolak / Tunda); pada Status tiket (Pending / Negosiasi / Sepakat / Ditolak / Batal); dan pada Status Keputusan dan Persetujuan Kadep. Skor evaluasi dibatasi angka 0–100.
+**Validasi data:** dropdown Status Tabel 1 (Sepakat / Masih Negosiasi / Batal) dan Status Tabel 2 (Diterima / Diterima Bersyarat / Ditolak); skor evaluasi dibatasi bilangan bulat 1–5. Status Tabel 1 terisi awal "Masih Negosiasi" sehingga papan langsung menampilkan Pending.
 
 ### 8.4 Pengaturan Google Sheets Sebelum Hari-H
 
 1. Unggah dan konversi file ke Google Sheets.
-2. Atur **Protected range** manual: tab biro hanya untuk mejanya; kolom *Respon Kadep/Fasilitator* (Blok B) hanya fasilitator; `ALLOWED_EDGES`, `PAPAN_JARING`, `SKOR_EVALUASI` hanya fasilitator (sebaiknya disembunyikan dari peserta). Proteksi lembar dari berkas xlsx tidak terbawa ke Google Sheets.
+2. Atur **Protected range** manual: sel abu-abu pada tab biro terkunci, sel kuning terbuka untuk mejanya; `PAPAN_JARING` dan `SKOR_EVALUASI` hanya fasilitator (sebaiknya disembunyikan dari peserta). Proteksi lembar dari berkas xlsx tidak terbawa ke Google Sheets.
 3. Buat salinan cadangan di Drive dan simpan tautan tab tiap biro dalam kode QR agar tiap meja langsung membuka tab yang benar. Meja gabungan menyimpan dua tautan.
 4. Uji dengan 8 akun uji coba secara bersamaan.
 5. Hapus data uji sebelum hari-H.
@@ -637,15 +629,14 @@ Nama biro lengkap pada sel `C5` setiap tab dipakai sebagai kunci. Kode dua huruf
 
 ## 9. Rubrik Penilaian Kinerja Meja
 
-Bobot: Ketepatan Jalur **30%**, Kualitas Kesepakatan **30%**, Ketepatan Eskalasi **15%**, Keputusan Final **15%**, Adab dan Musyawarah **10%**.
+Empat kriteria dengan bobot sama (**25% masing-masing**), dinilai satu pengamat Badan Personalia yang berkeliling pada `SKOR_EVALUASI`. Skala 1–5 per kriteria; total = rata-rata × 20 (0–100).
 
-| Kriteria | Skor 100 | Skor 70 | Skor 40 | Skor 0 | Sumber data |
+| Kriteria | Skor 5 | Skor 3 | Skor 2 | Skor 1 | Sumber data |
 |---|---|---|---|---|---|
-| **1. Ketepatan Jalur (30%)** | Tanpa pelanggaran arah atau jalur | — | — | — | **Otomatis:** 100 − 25 × pelanggaran, minimum 0 |
-| **2. Kualitas Kesepakatan (30%)** | Konkret (volume, waktu, PIC, syarat), seimbang, bisa dieksekusi di **kedua** tujuan | Ada, tetapi satu unsur samar | Umum atau sepihak | Tidak ada kesepakatan | Penilai membaca Blok C dan Papan Jaring |
-| **3. Ketepatan Eskalasi (15%)** | Tepat topik dan waktu, format fakta–opsi–permintaan jelas | Tepat tetapi format kurang | Terlambat atau tidak perlu | Tidak mengeskalasi padahal wajib atau memutuskan di luar wewenang | Blok B dan respon Kadep |
-| **4. Keputusan Final (15%)** | Konsisten dengan hasil tiket, risiko dan mitigasi realistis, pembagian tugas tindak lanjut jelas | Ada satu bagian lemah | Tidak konsisten | Kosong | Blok E dan persetujuan Kadep |
-| **5. Adab dan Musyawarah (10%)** | Santun, keputusan lahir dari musyawarah (semua didengar), SOP media dan eksternal dipatuhi, catatan rapi | Satu pelanggaran ringan | Beberapa pelanggaran | Pelanggaran berat | Pengamatan pengamat meja dan penilai |
+| **1. Keaktifan Negosiasi** | Meja langsung bergerak, mendatangi kedua tujuan, dan melayani kedua tamu | Bergerak, tetapi satu tiket tertinggal | Menunggu, baru bergerak setelah didorong | Tidak bergerak | Pengamatan pengamat meja |
+| **2. Kualitas Deal Konkret** | Konkret (volume, waktu, PIC, syarat), seimbang, bisa dieksekusi di **kedua** tujuan | Ada, tetapi satu unsur samar | Umum atau sepihak | Tidak ada kesepakatan | Tabel 1 dan 2 tab biro dan `PAPAN_JARING` |
+| **3. Ketepatan Eskalasi** | Tepat topik dan waktu, fakta–opsi–permintaan jelas | Tepat tetapi format kurang | Terlambat atau tidak perlu | Tidak mengeskalasi padahal wajib, atau memutuskan di luar wewenang | Tabel 3 tab biro dan respon Kadep |
+| **4. Adab Kerjasama** | Santun, keputusan lahir dari musyawarah (semua didengar), batas wewenang dipatuhi, tolak dengan alasan dan alternatif | Satu pelanggaran ringan | Beberapa pelanggaran | Pelanggaran berat | Pengamatan pengamat meja |
 
 **Predikat:** ≥ 85 Tangguh · 70–84 Cakap · 55–69 Berkembang · < 55 Perlu pendalaman.
 
@@ -724,7 +715,7 @@ Tata kelola data (akses, retensi, pelaporan agregat) mengikuti dokumen 04, bagia
 2. **Jangan menyelesaikan masalah.** Berikan arahan atau persetujuan, bukan solusi lengkap. Kadep tidak mengambil alih kewenangan operasional biro.
 3. **Respons maksimal 3 menit.** Catat respons di kolom *Respon Kadep/Fasilitator*, bukan hanya lisan.
 4. **Lintas departemen:** hubungi Kadep departemen lain atau eskalasikan ke Waket (peran fasilitator lain).
-5. **Persetujuan P3:** periksa konsistensi Blok E dengan Blok C dan D; minta revisi bila keputusan tidak sejalan dengan tiket.
+5. **Persetujuan P3:** periksa kesesuaian poin deal di Tabel 1 dan 2 dengan yang dilaporkan meja; minta revisi bila tidak sejalan dengan batas wewenang.
 6. **Hak tolak:** Kadep boleh menolak komitmen di luar RAB atau kapasitas, dengan alasan tertulis.
 7. **Jangan menunjuk pemimpin.** Bila anggota bertanya "siapa yang harus bicara dengan Kadep?", jawab: "Siapa pun yang mewakili tim." Biarkan tim memutuskan.
 
@@ -751,7 +742,7 @@ Tata kelola data (akses, retensi, pelaporan agregat) mengikuti dokumen 04, bagia
 | 18 | Peringatan "3 menit lagi" |
 | 19 | Anggota Inject C kembali |
 | 20 | Peringatan "1 menit lagi, siapkan laporan ke Kadep" |
-| 21 | "P3 dimulai: lapor Kadep, isi Blok E" |
+| 21 | "P3 dimulai: rapikan deal, lapor Kadep" |
 | 23 | Peringatan "2 menit lagi" |
 | 25 | "P4 dimulai: Papan Jaring" |
 | 30 | Selesai. Foto Papan Jaring |
@@ -790,9 +781,9 @@ Bukan jawaban tunggal. Dipakai untuk menilai kualitas kesepakatan (rubrik 2).
 | Tim tidak bergerak di P2 | Pengamat **tidak** mengarahkan; fasilitator lain boleh bertanya "Siapa tujuan pertama kalian?" tanpa memberi jawaban |
 | Satu orang mendominasi, yang lain diam | Biarkan dinamika berjalan sampai presentasi dan ulasan; catat sebagai bahan pembelajaran. Jika tim jelas macet, Kadep dapat bertanya "Apa pendapat anggota lain?" |
 | Dua tim saling memaksa | Kadep memanggil keduanya dan mengingatkan wewenang Kadep dan jalur eskalasi |
-| Tim menghubungi biro di luar daftar | Tegur lembut, arahkan eskalasi ke Kadep. Flag arah otomatis mencatat |
+| Tim menghubungi biro di luar daftar | Tegur lembut, arahkan eskalasi ke Kadep. Pengamat mencatatnya untuk bahan ulasan |
 | Wi-Fi bermasalah | Aktifkan hotspot cadangan. Bila gagal, tulis tiket pada kertas dan operator memasukkan sesudahnya |
-| Google Sheets lambat | Minta tim mengisi hanya Blok C dan D selama P2, Blok B dan E pada P3 |
+| Google Sheets lambat | Minta tim mengisi hanya kolom Hasil Kesepakatan dan Status selama P2; Tabel 3 hanya bila macet |
 | Kartu terlalu panjang dibaca dalam 5 menit | Sediakan 2 salinan per meja dan anjurkan membagi baca; tidak ada perpanjangan P1 |
 | Inject membuat tim panik | Master Inject mengingatkan bahwa kekacauan adalah bagian dari pembelajaran |
 
@@ -802,7 +793,7 @@ Presentasi ini menggantikan debrief 25 menit pada versi 2.0. Kegiatan dilakukan 
 
 | Menit | Kegiatan | Pembawa |
 |---|---|---|
-| 0–5 | Tampilkan `PAPAN_JARING` dan rekap (Deal, Reject, Batal, Pending) | Operator |
+| 0–5 | Tampilkan `PAPAN_JARING` dan rekap (Deal, Pending, Batal) | Operator |
 | 5–12 | Presentasi singkat tiap biro (±1 menit per biro): satu kesepakatan terbaik dan satu tiket tersulit | Perwakilan meja |
 | 12–20 | Ulasan: tiga pertanyaan ulasan (di bawah); 3–4 meja bicara | Fasilitator utama bersama BPH dan Kabiro yang hadir |
 | 20–25 | **Pelajaran kepemimpinan organik:** bagaimana keputusan lahir di meja, bagaimana yang pendiam dilibatkan, apa yang terjadi saat pengambil kendali ditarik (Inject C). Tidak menyebut nama peserta | Fasilitator utama |
@@ -830,12 +821,13 @@ Penilai mencatat **titik ambigu Tata Kelola** yang muncul saat simulasi (misalny
 
 | Pemeriksaan | Metode | Hasil terakhir |
 |---|---|---|
-| Graf: 16 relasi, 2 keluar dan 2 masuk per biro, satu pasangan timbal-balik (Biro Manajemen Event ↔ Biro Usaha Mandiri) | Skrip Python penyusun dokumen versi 2.3 (assert derajat masuk dan keluar) | Lulus. `generate_template_simulasi.py` dan `template_simulasi_taktis.xlsx` **belum** disinkronkan |
-| Tujuan dan pengirim pada kartu sama dengan tabel 3.2 | Skrip penyusun (assert) | 8 dari 8 sama |
-| Formula (jenis lintas, flag arah, status Papan Jaring, skor) dengan nama biro lengkap | Dihitung dengan pustaka `formulas` pada data uji versi 2.2 | Perlu diuji ulang setelah `ALLOWED_EDGES` diperbarui |
+| Graf: 16 tiket, 2 keluar dan 2 masuk per biro, tanpa loop diri | Skrip generator (assert pada daftar `TIKET` di `generate_template_simulasi.py`) | Lulus |
+| Daftar `TIKET` skrip sama dengan tabel 3.2 (ID, pengusung, tujuan) | Skrip pembanding | 16 dari 16 sama |
+| Tujuan dan pengirim pada kartu sama dengan tabel 3.2 | Skrip penyusun dokumen (assert) | 8 dari 8 sama |
+| Formula `PAPAN_JARING`, rekap per meja, dan total skor dengan nama biro lengkap | Dihitung dengan pustaka `formulas` pada data uji (R-01 dan R-03 Sepakat, R-02 Batal, satu tiket masuk Diterima Bersyarat, satu eskalasi, skor 4 dan 5) | Sesuai: 2 Deal, 13 Pending, 1 Batal; rekap meja dan skor 90 benar |
 | Tampilan di Excel dan Google Sheets | **Belum diuji** | Perlu pemeriksaan visual setelah unggah |
 
-**Regenerasi file:** `python main/generate_template_simulasi.py`. Sumber kebenaran graf adalah daftar `EDGES` di skrip. Bila relasi diubah, perbarui `kartu_skenario_simulasi.md` dan dokumen ini. **Catatan versi 2.3:** `EDGES` di skrip masih memuat 16 relasi versi 2.2 (termasuk assert tanpa pasangan timbal-balik dan hitungan [=]/[D]/[B] = 2/4/10), sehingga harus diperbarui ke tabel 3.2 sebelum template diregenerasi.
+**Regenerasi file:** `python main/generate_template_simulasi.py`. Sumber kebenaran graf adalah daftar `TIKET` di skrip, yang **sinkron penuh** dengan tabel 3.2 dan lolos uji di atas. Bila relasi diubah, perbarui `kartu_skenario_simulasi.md` dan dokumen ini. Skrip dilacak Git; berkas xlsx hasilnya tidak.
 
 ---
 

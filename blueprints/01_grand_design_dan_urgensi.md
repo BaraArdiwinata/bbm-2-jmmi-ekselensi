@@ -259,7 +259,7 @@ Seluruh narasi "amanah" dan "khidmah" di Materi 4 diturunkan dari nilai-nilai di
 | K5 | Ketepatan menjawab butir wewenang serta prinsip koordinasi dan eskalasi (butir 3, 4, 5, 6, 7, 13) | ≥ 80% benar pada post-test | Post-test | 14 Nov |
 | K6 | Relasi koordinasi berstatus *Deal* pada Papan Jaring | ≥ 12 dari 16 relasi (75%) | `PAPAN_JARING` | 14 Nov, 14.00 |
 | K7 | Pelanggaran arah per biro pada simulasi | Rata-rata ≤ 1 | `SKOR_EVALUASI` | 14 Nov |
-| K8 | Biro yang mengisi Blok E (keputusan final) dan memperoleh persetujuan Kadep | 8 dari 8 | `PAPAN_JARING` (papan keputusan) | 14 Nov |
+| K8 | Biro yang mengisi Tabel 1 dan 2 tab biro (hasil kesepakatan dan status) | 8 dari 8 | `PAPAN_JARING` (rekap per meja) | 14 Nov |
 | K9 | Rerata kepuasan tiap materi | ≥ 4,2 dari 5 | Form Umpan Balik | H+2 (16 Nov) |
 | K10 | Kenaikan rerata butir "siap berkhidmah di peran struktural" (pre → post) | ≥ +0,5 poin (skala 1–5) | Butir L6 pre-test dan post-test | 14 Nov |
 | K11 | Peserta yang mengisi Form Minat Peran | ≥ 85% | Form Minat Peran (KPP) | Tenggat KPP (21 Nov) |

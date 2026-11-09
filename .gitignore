@@ -50,6 +50,9 @@
 *.bat
 *.ipynb
 
+# 4b. Pengecualian: skrip sumber yang dilacak (letakkan SETELAH aturan *.py)
+!main/generate_template_simulasi.py
+
 # 5. Cache, lingkungan virtual, dan dependensi
 # (diletakkan di bawah !*/ agar berkas *.md di dalamnya ikut diabaikan)
 __pycache__/

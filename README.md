@@ -123,8 +123,8 @@ Sesuai kebijakan repositori (hanya `*.md` dan `.gitignore`), berkas berikut ters
 
 | Berkas | Fungsi |
 |---|---|
-| `main/template_simulasi_taktis.xlsx` | Template Google Sheets "Lembar Kendali Eksekusi Biro" (12 tab) |
-| `main/generate_template_simulasi.py` | Skrip pembuat template di atas |
+| `main/template_simulasi_taktis.xlsx` | Template Google Sheets Simulasi Taktis, 11 tab (Ultra-Lean Layout): 8 tab biro @ 19 baris, dashboard `PAPAN_JARING` otomatis, dan rubrik `SKOR_EVALUASI`. Berkas biner hanya lokal (tidak dilacak Git) |
+| `main/generate_template_simulasi.py` | Skrip pembuat template di atas (dilacak Git; hasil xlsx dibangun ulang dengan `python main/generate_template_simulasi.py`) |
 | `docs/*.pdf`, `docs/*.docx` | Dokumen Tata Kelola, template proposal, dan 8 paparan Musyker OKR 1 |
 
 Struktur Google Sheets dijelaskan lengkap pada [dokumen 03](blueprints/03_juklak_simulasi_taktis.md), bagian 8.

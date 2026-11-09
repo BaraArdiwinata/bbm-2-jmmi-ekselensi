@@ -324,7 +324,7 @@ Tiga tingkat ini adalah **kerangka universal**, bukan pasal. Skrip kalimat conto
 
 **Pembingkaian:** Simulasi Taktis dibawakan sebagai **simulasi berbasis konvensi struktur kabinet saat ini**. Aturan arah, jalur eskalasi, dan batas kewenangan di dalamnya adalah *aturan permainan*, bukan pasal baku, dan dikaitkan dengan prinsip koordinasi serta etika eskalasi dari Materi 3 saat presentasi dan ulasan.
 
-Ringkasan: satu ronde terpadu yang memperlakukan 8 biro sebagai jaringan berarah. Tiap biro hanya boleh memulai koordinasi ke 2 biro tujuan, dengan 3 inject (menit 8, 13, 18). Alurnya P1 persiapan 4', P2 koordinasi dan inject 17', P3 finalisasi 4', P4 wrap-up 5'. Output akhir adalah `PAPAN_JARING`, Blok E tiap biro, dan skor di `SKOR_EVALUASI`.
+Ringkasan: satu ronde terpadu yang memperlakukan 8 biro sebagai jaringan berarah. Tiap biro hanya boleh memulai koordinasi ke 2 biro tujuan, dengan 3 inject (menit 8, 12, 16). Alurnya P1 persiapan 4', P2 koordinasi dan inject 17', P3 finalisasi 4', P4 wrap-up 5'. Output akhir adalah `PAPAN_JARING`, tabel kesepakatan tiap biro, dan skor di `SKOR_EVALUASI`.
 
 Aturan khusus format terbaru:
 - **Satu meja diisi Staf Muda dari biro asalnya.** Bila hadir kurang dari 3 orang, biro itu digabung dengan biro lain dalam **departemen yang sama** (tidak lintas departemen) dan meja memegang dua kartu.

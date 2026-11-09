@@ -685,7 +685,7 @@ KPP selesai pada 21 November, **sebelum** batas asistensi LPJ (28 November). Dat
 | K5 | Ketepatan butir jalur dan wewenang (butir 3, 4, 5, 6, 7, 13) | ≥ 80% benar | Post-test | 14 Nov |
 | K6 | Relasi Deal pada Papan Jaring | ≥ 12 dari 16 | `PAPAN_JARING` | 14 Nov |
 | K7 | Pelanggaran arah per biro | Rata-rata ≤ 1 | `SKOR_EVALUASI` | 14 Nov |
-| K8 | Biro dengan Blok E dan persetujuan Kadep | 8 dari 8 | `PAPAN_JARING` | 14 Nov |
+| K8 | Biro dengan Tabel 1 dan 2 terisi (hasil kesepakatan dan status) | 8 dari 8 | `PAPAN_JARING` | 14 Nov |
 | K9 | Kepuasan per materi | ≥ 4,2 | Form Umpan Balik | 16 Nov |
 | K10 | Kenaikan rerata L6 | ≥ +0,5 | Pre dan post-test | 14 Nov |
 | K11 | Pengisian Form Minat Peran | ≥ 85% | Form Minat Peran | Tenggat KPP (21 Nov) |
