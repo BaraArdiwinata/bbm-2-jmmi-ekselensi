@@ -48,11 +48,10 @@ Peserta BBM 2 JMMI ITS 2026 adalah seluruh **Staf Muda JMMI ITS Kabinet Ekselens
 
 ### PASAL 5 · SESI
 1. Sesi adalah bagian dari rangkaian kegiatan BBM 2 JMMI ITS 2026 yang ditetapkan oleh panitia.
-2. Rangkaian kegiatan BBM 2 JMMI ITS 2026 mencakup:
-   1. **Stadium Generale Pembina** bertema "Semangat Bermasjid dan Ruh Khidmah";
-   2. **Empat sesi materi utama**, yaitu **M1: Arsitektur Amanah**, **M2: Seni Eksekusi**, **M3: Simpul Organisasi**, dan **M4: Saujana Manarul Ilmi**;
-   3. **Evaluasi pemahaman** berupa Pre-Test dan Post-Test;
-   4. **Simulasi Taktis**, yaitu *Live Cross-Bureau Coordination Game*.
+2. Rangkaian kegiatan BBM 2 JMMI ITS 2026 terdiri atas:
+   1. **Sesi Materi Pembekalan**;
+   2. **Evaluasi Pemahaman**; dan
+   3. **Simulasi Aplikatif**.
 3. Durasi tiap sesi mengikuti rundown yang ditetapkan oleh panitia.
 
 ### PASAL 6 · MATERI
@@ -63,12 +62,11 @@ Peserta BBM 2 JMMI ITS 2026 adalah seluruh **Staf Muda JMMI ITS Kabinet Ekselens
 1. Pre-Test dilaksanakan pada awal kegiatan dan Post-Test pada akhir kegiatan, melalui formulir digital yang dibagikan panitia.
 2. Pre-Test dan Post-Test dimaksudkan untuk melihat pertumbuhan pemahaman peserta terhadap materi, sehingga peserta dianjurkan menjawab dengan jujur dan tanpa bekerja sama.
 
-### PASAL 8 · SIMULASI TAKTIS
-1. Simulasi Taktis adalah bentuk penerapan materi berupa permainan koordinasi lintas biro (*Live Cross-Bureau Coordination Game*) selama **30 menit**.
-2. Simulasi menggunakan **lembar kendali taktis** dan **kartu skenario** yang dibagikan panitia pada saat simulasi. Isi kartu skenario bersifat rahasia dan tidak diperlihatkan kepada meja lain.
-3. Peserta duduk per meja menurut biro asalnya. Seluruh peserta setara dan tidak ada jabatan yang ditunjuk; cara kerja meja diputuskan bersama lewat musyawarah.
-4. Peralatan simulasi disediakan oleh panitia dan/atau peserta. Peserta dianjurkan membawa perangkat untuk mengisi lembar kendali.
-5. Format simulasi menjadi wewenang panitia dan fasilitator. Seorang pengamat dari Badan Personalia mencatat pola kontribusi untuk keperluan pembinaan, bukan untuk menentukan lulus atau tidaknya peserta.
+### PASAL 8 · SIMULASI APLIKATIF
+1. Simulasi adalah bentuk penerapan materi dalam suasana yang mendekati kegiatan berorganisasi.
+2. Format, skenario, dan perlengkapan simulasi ditetapkan dan disediakan oleh panitia, serta disampaikan pada saat pelaksanaan. Peserta dianjurkan membawa perangkat pribadi untuk keperluan kegiatan.
+3. Peserta diharapkan mengikuti simulasi dengan aktif, jujur, dan santun, serta menjaga kerahasiaan isi simulasi dari pihak yang belum mengikutinya.
+4. Panitia dapat mencatat pola kontribusi peserta untuk keperluan pembinaan, bukan untuk menentukan lulus atau tidaknya peserta.
 
 ---
 
@@ -114,7 +112,7 @@ Peserta dianggap tidak hadir (absen) pada suatu sesi apabila:
 2. meninggalkan forum tanpa izin dari panitia;
 3. tidak mengisi presensi pada sesi tersebut;
 4. terlambat mengikuti sesi lebih dari 15 menit; atau
-5. izin meninggalkan forum melebihi ketentuan pada Pasal 18.
+5. izin meninggalkan forum melebihi ketentuan pada Pasal 17.
 
 ---
 
@@ -136,7 +134,7 @@ Selama sesi berlangsung, peserta dilarang:
 4. tertidur selama sesi berlangsung;
 5. merokok dan/atau menggunakan vape di dalam dan di sekitar area pelatihan, kecuali telah diizinkan panitia;
 6. berkata atau bertindak yang menyinggung SARA; dan
-7. tidak mengikuti lebih dari satu sesi materi selama pelatihan berlangsung tanpa izin yang sah menurut Pasal 19.
+7. tidak mengikuti lebih dari satu sesi materi selama pelatihan berlangsung tanpa izin yang sah menurut Pasal 18.
 
 ### PASAL 16 · PAKAIAN PESERTA (SOPAN DAN SYAR'I)
 Peserta BBM 2 JMMI ITS 2026 wajib berpakaian sebagai berikut.
@@ -155,26 +153,18 @@ Peserta BBM 2 JMMI ITS 2026 wajib berpakaian sebagai berikut.
 
 **3.** Peserta yang belum berpakaian sesuai ketentuan di atas wajib segera menggantinya dalam jangka waktu registrasi.
 
-### PASAL 17 · ADAB RUANG MASJID
-Karena kegiatan berlangsung di lingkungan Masjid Manarul Ilmi, peserta wajib:
-1. tidak membawa makanan atau minuman yang berpotensi mengotori karpet ruang rapat masjid (air putih dalam botol tertutup diperbolehkan). Makan siang dan snack dinikmati di tempat dan waktu yang diarahkan panitia;
-2. menjaga kebersihan, membuang sampah pada tempatnya, dan merapikan kembali tempat duduk;
-3. mematikan atau menyenyapkan (*silent*) nada dering HP sebelum masuk ruangan;
-4. menjaga salat berjamaah tepat waktu sesuai jeda yang ada pada rundown; dan
-5. menjaga ukhuwah serta adab Islami dalam bertutur dan bersikap.
-
 ---
 
 ## BAB IX
 ## PERIZINAN DAN TUGAS PENGGANTI
 
-### PASAL 18 · IZIN MENINGGALKAN SESI
+### PASAL 17 · IZIN MENINGGALKAN SESI
 1. Peserta berhak meminta izin meninggalkan forum saat sesi berlangsung untuk keperluan tertentu dengan **melapor kepada panitia**.
 2. Lama izin **maksimal 15 menit terakumulasi** pada tiap sesi.
 3. Apabila izin melebihi 15 menit, peserta tidak dapat mengajukan izin kembali pada sesi yang sama.
 4. Apabila hingga sesi berakhir peserta belum kembali, peserta dianggap tidak mengikuti sesi tersebut.
 
-### PASAL 19 · TIDAK MENGIKUTI SESI MATERI
+### PASAL 18 · TIDAK MENGIKUTI SESI MATERI
 1. Peserta diperbolehkan tidak mengikuti sesi materi (**maksimal 1 (satu) sesi materi**, mengingat BBM 2 hanya memiliki empat sesi materi) karena alasan:
    1. sakit;
    2. berita duka;
@@ -183,10 +173,10 @@ Karena kegiatan berlangsung di lingkungan Masjid Manarul Ilmi, peserta wajib:
 2. Izin di luar empat alasan tersebut dapat diberikan oleh panitia apabila disertai alasan dan bukti yang dapat diterima.
 3. Izin untuk tidak mengikuti **lebih dari 1 (satu) sesi materi** hanya dipertimbangkan untuk kondisi darurat luar biasa atau keadaan memaksa (*force majeure*), dan diputuskan oleh Ketua Pelaksana bersama panitia.
 4. Peserta wajib melampirkan **surat izin tertulis** beserta bukti pendukung, yang ditujukan kepada panitia BBM 2 JMMI ITS 2026.
-5. Surat izin disampaikan melalui tautan yang dibagikan panitia **paling lambat H-1**, yaitu Jumat, 13 November 2026, pukul 21.00 WIB.
+5. Surat izin diajukan melalui tautan resmi **https://its.id/m/perizinan-bbm-2-ekselensi** **paling lambat H-1**, yaitu Jumat, 13 November 2026, pukul 21.00 WIB. Format atau template surat perizinan telah disediakan langsung di dalam formulir tersebut.
 6. Apabila peserta terbukti memalsukan alasan ketidakhadiran, panitia berhak mencabut status kepesertaan peserta tersebut.
 
-### PASAL 20 · TUGAS PENGGANTI (RESUME)
+### PASAL 19 · TUGAS PENGGANTI (RESUME)
 1. Peserta yang tidak mengikuti sesi materi, atau meninggalkan sesi lebih dari 15 menit, **wajib membuat resume atau infografis** tentang materi yang ditinggalkan, memuat poin-poin pokok materi tersebut.
 2. Pembuatan resume atau infografis merupakan **syarat kelulusan** pelatihan.
 3. Resume diserahkan kepada panitia paling lambat **Ahad, 15 November 2026 pukul 23.59 WIB** (H+1 pelaksanaan).
@@ -197,7 +187,7 @@ Karena kegiatan berlangsung di lingkungan Masjid Manarul Ilmi, peserta wajib:
 ## BAB X
 ## HAK PESERTA
 
-### PASAL 21
+### PASAL 20
 Peserta berhak:
 1. menerima materi dari awal hingga akhir pelatihan;
 2. menerima fasilitas pembekalan, **makan siang**, **snack**, dan **e-sertifikat**;
@@ -211,14 +201,18 @@ Peserta berhak:
 ## BAB XI
 ## EVALUASI PERFORMA PESERTA
 
-### PASAL 22
-1. Peserta dinilai dalam mengikuti BBM 2 JMMI ITS 2026 secara utuh dan adil.
-2. Evaluasi mencakup:
-   1. **kedisiplinan**, yaitu presensi dan ketepatan waktu;
-   2. **keaktifan diskusi** pada sesi materi;
-   3. **partisipasi aktif dalam Simulasi Taktis**; dan
-   4. **hasil evaluasi pemahaman** melalui Pre-Test dan Post-Test.
-3. Penilaian bertujuan membina dan memetakan pertumbuhan peserta. Catatan pola kontribusi pada simulasi dipakai untuk pembinaan dan hanya dilihat oleh Badan Personalia.
+### PASAL 21
+1. Peserta dinilai secara utuh dan adil selama mengikuti BBM 2 JMMI ITS 2026.
+2. Penilaian performa peserta menggunakan parameter berikut:
+
+| Parameter | Poin |
+|---|---|
+| Kehadiran penuh pada seluruh sesi materi, atau kelengkapan tugas pengganti (resume) bagi sesi yang terlewat | **60 poin** |
+| Evaluasi Pemahaman (Post-Test) | **maksimal 25 poin** |
+| Keaktifan diskusi dan partisipasi forum | **1 poin** per aktivitas atau tanggapan |
+
+3. Nilai akhir peserta merupakan **akumulasi poin performa** selama pelatihan.
+4. Nilai akhir menjadi bahan pembinaan dan pemetaan pertumbuhan peserta, sedangkan syarat kelulusan diatur dalam Pasal 28.
 
 ---
 
@@ -227,47 +221,45 @@ Peserta berhak:
 
 Sanksi disusun dengan semangat membina, yaitu mengingatkan lebih dahulu dan memberi kesempatan memperbaiki, kecuali pada pelanggaran berat.
 
-### PASAL 23 · PELANGGARAN ATAS LARANGAN
-1. Peserta yang melanggar Pasal 15 ayat 1 sampai 6 mendapat **peringatan** dari panitia. Peringatan dapat memengaruhi penilaian kelulusan.
+### PASAL 22 · PELANGGARAN ATAS LARANGAN
+1. Peserta yang melanggar Pasal 15 ayat 1 sampai 6 mendapat **peringatan** dari panitia. Peringatan dicatat sebagai bahan pembinaan.
 2. Peserta yang melanggar Pasal 15 ayat 7 akan **dipertimbangkan status kepesertaannya** oleh Ketua Pelaksana dan panitia.
 
-### PASAL 24 · PELANGGARAN ATAS PAKAIAN
-1. Peserta yang tidak memenuhi Pasal 16 mendapat **peringatan** dari panitia dan dapat memengaruhi penilaian kelulusan.
+### PASAL 23 · PELANGGARAN ATAS PAKAIAN
+1. Peserta yang tidak memenuhi Pasal 16 mendapat **peringatan** dari panitia dan dicatat sebagai bahan pembinaan.
 2. Peserta wajib segera mengganti pakaian sesuai ketentuan Pasal 16.
 
-### PASAL 25 · PELANGGARAN ATAS KETERTIBAN DAN ADAB
-Peserta yang melanggar Pasal 14 dan Pasal 17 mendapat **peringatan** dari panitia. Peringatan dapat memengaruhi penilaian kelulusan.
+### PASAL 24 · PELANGGARAN ATAS KETERTIBAN
+Peserta yang melanggar Pasal 14 mendapat **peringatan** dari panitia. Peringatan dicatat sebagai bahan pembinaan.
 
-### PASAL 26 · PELANGGARAN MENINGGALKAN SESI
-1. Izin yang melebihi 15 menit sebagaimana Pasal 18 ayat 3 menyebabkan peserta tidak dapat mengajukan izin kembali pada sesi yang sama.
-2. Peserta yang belum kembali hingga sesi berakhir dianggap tidak mengikuti sesi dan wajib mengerjakan tugas pengganti pada Pasal 20.
+### PASAL 25 · PELANGGARAN MENINGGALKAN SESI
+1. Izin yang melebihi 15 menit sebagaimana Pasal 17 ayat 3 menyebabkan peserta tidak dapat mengajukan izin kembali pada sesi yang sama.
+2. Peserta yang belum kembali hingga sesi berakhir dianggap tidak mengikuti sesi dan wajib mengerjakan tugas pengganti pada Pasal 19.
 
-### PASAL 27 · PELANGGARAN TIDAK MENGIKUTI SESI MATERI
+### PASAL 26 · PELANGGARAN TIDAK MENGIKUTI SESI MATERI
 1. Peserta yang tidak mengikuti sesi materi tanpa surat izin dianggap **tidak lolos** BBM 2 JMMI ITS 2026.
 2. Peserta yang telah membuat surat izin tetapi tidak membuat resume atau infografis dianggap **lulus bersyarat** hingga tugas pengganti diselesaikan.
-3. Peserta yang tidak mengikuti lebih dari satu sesi materi akan dipertimbangkan status kepesertaannya, dengan memperhatikan ada atau tidaknya surat izin yang sah dan apakah kondisinya termasuk darurat luar biasa menurut Pasal 19 ayat 3.
+3. Peserta yang tidak mengikuti lebih dari satu sesi materi akan dipertimbangkan status kepesertaannya, dengan memperhatikan ada atau tidaknya surat izin yang sah dan apakah kondisinya termasuk darurat luar biasa menurut Pasal 18 ayat 3.
 
-### PASAL 28 · PEMALSUAN
-Pemalsuan alasan perizinan atau kecurangan dalam penyusunan tugas pengganti dapat berakibat pencabutan status kepesertaan sebagaimana Pasal 19 ayat 6 dan Pasal 20 ayat 4.
+### PASAL 27 · PEMALSUAN
+Pemalsuan alasan perizinan atau kecurangan dalam penyusunan tugas pengganti dapat berakibat pencabutan status kepesertaan sebagaimana Pasal 18 ayat 6 dan Pasal 19 ayat 4.
 
 ---
 
 ## BAB XIII
 ## KELULUSAN PESERTA DAN KEGIATAN PASCA PELATIHAN (KPP)
 
-### PASAL 29 · KELULUSAN
-1. Peserta dinyatakan **lulus upgrading BBM 2 JMMI ITS 2026** apabila:
-   1. memenuhi ambang batas **kehadiran**;
-   2. memenuhi ambang batas **keaktifan**; dan
-   3. **tuntas menyelesaikan Kegiatan Pasca Pelatihan (KPP)**.
-2. Ambang batas kehadiran dan keaktifan ditetapkan oleh Ketua Pelaksana dan panitia, serta disampaikan kepada peserta.
+### PASAL 28 · KELULUSAN
+Peserta dinyatakan **lulus upgrading BBM 2 JMMI ITS 2026** apabila:
+1. menghadiri penuh seluruh sesi materi, atau melengkapi kekurangan materi yang terlewat dengan **tugas resume pengganti** sebagaimana Pasal 19; dan
+2. **tuntas menyelesaikan Kegiatan Pasca Pelatihan (KPP)**.
 
-### PASAL 30 · KEGIATAN PASCA PELATIHAN (KPP)
+### PASAL 29 · KEGIATAN PASCA PELATIHAN (KPP)
 1. KPP dilaksanakan pada **16 hingga 21 November 2026**, sebelum pelaksanaan **Forum AHWA pada Ahad, 22 November 2026**.
-2. KPP berupa Ngopi Khidmah, penyusunan 1-Page Canvas Biro Masa Depan, dan pengisian Form Minat Peran, yang rinciannya dipaparkan panitia pada akhir kegiatan 14 November 2026.
+2. KPP merupakan rangkaian penugasan pasca pelatihan yang wajib diselesaikan peserta. Rincian teknis penugasan akan dibagikan panitia pada akhir pelatihan.
 3. Batas akhir penyelesaian KPP adalah **Sabtu, 21 November 2026**.
 
-### PASAL 31 · KETENTUAN LAIN
+### PASAL 30 · KETENTUAN LAIN
 1. Hal-hal yang di kemudian hari diperlukan dan mendesak serta belum diatur dalam kontrak belajar ini akan ditetapkan oleh Ketua Pelaksana bersama panitia BBM 2 JMMI ITS 2026, dan disampaikan kepada peserta.
 2. Peserta yang memiliki kendala dipersilakan menghubungi panitia lebih awal agar dapat dicarikan jalan keluar bersama.
 
