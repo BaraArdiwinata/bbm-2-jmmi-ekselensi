@@ -136,7 +136,7 @@ Selama sesi berlangsung, peserta dilarang:
 4. tertidur selama sesi berlangsung;
 5. merokok dan/atau menggunakan vape di dalam dan di sekitar area pelatihan, kecuali telah diizinkan panitia;
 6. berkata atau bertindak yang menyinggung SARA; dan
-7. meninggalkan lebih dari dua sesi materi selama pelatihan berlangsung tanpa izin yang sah menurut Pasal 19.
+7. tidak mengikuti lebih dari satu sesi materi selama pelatihan berlangsung tanpa izin yang sah menurut Pasal 19.
 
 ### PASAL 16 · PAKAIAN PESERTA (SOPAN DAN SYAR'I)
 Peserta BBM 2 JMMI ITS 2026 wajib berpakaian sebagai berikut.
@@ -175,20 +175,21 @@ Karena kegiatan berlangsung di lingkungan Masjid Manarul Ilmi, peserta wajib:
 4. Apabila hingga sesi berakhir peserta belum kembali, peserta dianggap tidak mengikuti sesi tersebut.
 
 ### PASAL 19 · TIDAK MENGIKUTI SESI MATERI
-1. Peserta diperbolehkan tidak mengikuti sesi materi (**maksimal dua sesi**) karena alasan:
+1. Peserta diperbolehkan tidak mengikuti sesi materi (**maksimal 1 (satu) sesi materi**, mengingat BBM 2 hanya memiliki empat sesi materi) karena alasan:
    1. sakit;
    2. berita duka;
    3. agenda akademik yang mendesak; atau
    4. keagamaan.
 2. Izin di luar empat alasan tersebut dapat diberikan oleh panitia apabila disertai alasan dan bukti yang dapat diterima.
-3. Peserta wajib melampirkan **surat izin tertulis** beserta bukti pendukung, yang ditujukan kepada panitia BBM 2 JMMI ITS 2026.
-4. Surat izin disampaikan melalui tautan yang dibagikan panitia **paling lambat H-1**, yaitu Jumat, 13 November 2026, pukul 21.00 WIB.
-5. Apabila peserta terbukti memalsukan alasan ketidakhadiran, panitia berhak mencabut status kepesertaan peserta tersebut.
+3. Izin untuk tidak mengikuti **lebih dari 1 (satu) sesi materi** hanya dipertimbangkan untuk kondisi darurat luar biasa atau keadaan memaksa (*force majeure*), dan diputuskan oleh Ketua Pelaksana bersama panitia.
+4. Peserta wajib melampirkan **surat izin tertulis** beserta bukti pendukung, yang ditujukan kepada panitia BBM 2 JMMI ITS 2026.
+5. Surat izin disampaikan melalui tautan yang dibagikan panitia **paling lambat H-1**, yaitu Jumat, 13 November 2026, pukul 21.00 WIB.
+6. Apabila peserta terbukti memalsukan alasan ketidakhadiran, panitia berhak mencabut status kepesertaan peserta tersebut.
 
 ### PASAL 20 · TUGAS PENGGANTI (RESUME)
 1. Peserta yang tidak mengikuti sesi materi, atau meninggalkan sesi lebih dari 15 menit, **wajib membuat resume atau infografis** tentang materi yang ditinggalkan, memuat poin-poin pokok materi tersebut.
 2. Pembuatan resume atau infografis merupakan **syarat kelulusan** pelatihan.
-3. Resume diserahkan kepada panitia paling lambat keesokan harinya.
+3. Resume diserahkan kepada panitia paling lambat **Ahad, 15 November 2026 pukul 23.59 WIB** (H+1 pelaksanaan).
 4. Kecurangan atau plagiarisme dalam pembuatan resume dapat berakibat status kepesertaan dipertimbangkan dan/atau dicabut.
 
 ---
@@ -244,10 +245,10 @@ Peserta yang melanggar Pasal 14 dan Pasal 17 mendapat **peringatan** dari paniti
 ### PASAL 27 · PELANGGARAN TIDAK MENGIKUTI SESI MATERI
 1. Peserta yang tidak mengikuti sesi materi tanpa surat izin dianggap **tidak lolos** BBM 2 JMMI ITS 2026.
 2. Peserta yang telah membuat surat izin tetapi tidak membuat resume atau infografis dianggap **lulus bersyarat** hingga tugas pengganti diselesaikan.
-3. Peserta yang tidak mengikuti lebih dari dua sesi materi akan dipertimbangkan status kepesertaannya, dengan memperhatikan ada atau tidaknya surat izin yang sah.
+3. Peserta yang tidak mengikuti lebih dari satu sesi materi akan dipertimbangkan status kepesertaannya, dengan memperhatikan ada atau tidaknya surat izin yang sah dan apakah kondisinya termasuk darurat luar biasa menurut Pasal 19 ayat 3.
 
 ### PASAL 28 · PEMALSUAN
-Pemalsuan alasan perizinan atau kecurangan dalam penyusunan tugas pengganti dapat berakibat pencabutan status kepesertaan sebagaimana Pasal 19 ayat 5 dan Pasal 20 ayat 4.
+Pemalsuan alasan perizinan atau kecurangan dalam penyusunan tugas pengganti dapat berakibat pencabutan status kepesertaan sebagaimana Pasal 19 ayat 6 dan Pasal 20 ayat 4.
 
 ---
 
