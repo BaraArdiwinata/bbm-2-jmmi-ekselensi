@@ -48,16 +48,16 @@ TIKET = [
      "Kajian & Inovasi Dakwah minta paket sarapan SaJi 50–75 porsi lewat JMMI Commerce dengan harga nego mahasiswa."),
     ("R-06", "K", "A", "Menawarkan kader da'i dan silabus kultum 10 menit untuk buka puasa KSSI dan penutupan OWOJ.",
      "Kajian & Inovasi Dakwah menawarkan penugasan da'i dan silabus kultum 10 menit untuk KSSI dan OWOJ."),
-    ("R-07", "U", "E", "Butuh izin lapak bazaar resmi untuk merchandise JMMI Store dan snack Commerce di venue Maulid.",
-     "Usaha Mandiri minta izin buka lapak bazaar resmi (merchandise JMMI Store dan snack Commerce) di venue Maulid."),
+    ("R-07", "U", "M", "Butuh slot kalender konten dan jadwal tayang di Instagram JMMI untuk katalog sewa GoRent dan pre-order merchandise, padahal slot terbatas.",
+     "Usaha Mandiri minta slot kalender konten dan jadwal tayang di Instagram JMMI untuk katalog sewa GoRent dan pre-order merchandise."),
     ("R-08", "U", "P", "Ajak kolaborasi merchandise amal totebag dan stiker relawan, dengan bagi hasil ke kas JMMI Peduli lewat Bendum.",
      "Usaha Mandiri ajak kolaborasi merchandise amal relawan, bagi hasil disalurkan ke kas JMMI Peduli via Bendum."),
     ("R-09", "A", "E", "Butuh protokol adab masjid untuk Hari Puncak: salat tepat waktu dikawal petugas GDM, makan peserta di luar karpet utama.",
      "Amaliyah Yaumiyah minta protokol adab masjid, petugas GDM, dan zonasi makan di luar karpet utama pada Hari Puncak."),
     ("R-10", "A", "M", "Butuh publikasi dokumentasi KSSI bulanan dan rilis infografis jadwal puasa sunnah di Instagram.",
      "Amaliyah Yaumiyah minta publikasi dokumentasi KSSI dan infografis jadwal puasa sunnah di Instagram."),
-    ("R-11", "D", "M", "Mau serah-terima file final desain tiap Kamis 16.00 dengan jatah minimal 2 slot posting per minggu.",
-     "Digital Production minta file final diterima tiap Kamis 16.00 dan jatah minimal 2 slot posting per minggu."),
+    ("R-11", "D", "E", "Butuh fiksasi titik kamera, jalur listrik dan videotron, serta rundown dokumentasi untuk live streaming kajian akbar Maulid × Milad.",
+     "Digital Production minta fiksasi titik kamera, jalur listrik dan videotron, dan rundown dokumentasi untuk live streaming kajian akbar Maulid × Milad."),
     ("R-12", "D", "A", "Mau live streaming khatmil Qur'an OWOJ (STREAMMI) tanpa mengganggu jamaah dan siap sebelum Q-TIME.",
      "Digital Production minta izin STREAMMI live streaming khatmil Qur'an OWOJ sebelum waktu Q-TIME."),
     ("R-13", "M", "K", "Butuh telaah dan kurasi syar'i atas draf opini dan policy brief supaya dalil tidak keliru.",
@@ -76,6 +76,8 @@ INCOMING = {k: [t for t in TIKET if t[2] == k] for k in ORDER}
 assert len(TIKET) == 16 and len({t[0] for t in TIKET}) == 16
 assert all(len(OUTGOING[k]) == 2 and len(INCOMING[k]) == 2 for k in ORDER)
 assert all(t[1] != t[2] for t in TIKET) and len({(t[1], t[2]) for t in TIKET}) == 16
+_arah = {(t[1], t[2]) for t in TIKET}
+assert not any((b, a) in _arah for a, b in _arah), "ada pasangan timbal-balik A <-> B"  # graf searah murni
 assert max(len(n) for n in NAME.values()) <= 31  # batas judul tab Excel
 
 # ---------------------------------------------------------------- style

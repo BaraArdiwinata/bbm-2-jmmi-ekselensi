@@ -157,7 +157,7 @@ Peran Kadep dimainkan oleh anggota Badan Personalia atau pengurus yang memahami 
 | No | Aturan | Dasar |
 |---|---|---|
 | 1 | Setiap biro hanya boleh **menginisiasi** koordinasi ke **2 biro tujuan** di kartunya (terkunci). Menerima permintaan dari biro mana pun diperbolehkan. | Desain simulasi |
-| 2 | Tiket yang **diterima** dijawab di tiket yang sama (membalas, menawar, memberi syarat), bukan dengan membuka tiket baru. Satu-satunya pasangan dua arah adalah Biro Manajemen Event ↔ Biro Usaha Mandiri (R-02 dan R-07), yaitu dua tiket yang berbeda. | Desain simulasi |
+| 2 | Tiket yang **diterima** dijawab di tiket yang sama (membalas, menawar, memberi syarat), bukan dengan membuka tiket baru. Seluruh 16 tiket **searah murni** (asimetris): tidak ada dua biro yang saling memulai tiket satu sama lain. | Desain simulasi |
 | 3 | Butuh sesuatu di luar 2 target? **Eskalasi ke Kadep.** Kadep menentukan jalurnya. | 5.5.2.7 (eskalasi) |
 | 4 | Koordinasi lintas departemen atau bidang wajib **diinfokan** ke Kadep masing-masing. | 5.5.1 ("diketahui koordinator masing-masing") |
 | 5 | Request ke Biro Digital Production dan Biro Media Analysis & Strategi wajib lewat form dan lead time; keduanya **berhak menolak atau menunda** bila brief tidak jelas, terlalu mepet, atau kapasitas penuh. Kontak ke pihak eksternal **hanya** lewat Biro Relasi & Hubungan Eksternal. | 6.4.3, 6.4.12, 5.5.2.7 |
@@ -179,17 +179,16 @@ Arah panah: **biro pengusung → biro tujuan** (pengusung adalah pihak yang bole
 | R-04 | Biro Pengabdian Masyarakat | Biro Relasi & Hubungan Eksternal | Pilihan 1 mitra penyalur resmi dari kandidat beserta syarat verifikasi, PIC, dan prosedur kerja sama lewat jalur khusus |
 | R-05 | Biro Kajian & Inovasi Dakwah | Biro Usaha Mandiri | Paket sarapan SaJi 50–75 porsi per sesi lewat JMMI Commerce: harga rata-rata terhadap plafon, jadwal antar, standar menu, cara bayar |
 | R-06 | Biro Kajian & Inovasi Dakwah | Biro Amaliyah Yaumiyah | Penugasan kader da'i dan silabus kultum 10 menit untuk buka bersama KSSI dan penutupan OWOJ: slot, jam kultum terhadap azan, persetujuan silabus |
-| R-07 | Biro Usaha Mandiri | Biro Manajemen Event | Izin lapak bazaar resmi JMMI Store dan JMMI Commerce di venue Hari Puncak: jumlah, posisi, jam buka, listrik, kebersihan, dan benturan dengan zonasi makan |
+| R-07 | Biro Usaha Mandiri | Biro Media Analysis & Strategi | Slot kalender konten dan jadwal tayang di Instagram JMMI untuk katalog sewa GoRent dan pre-order merchandise JMMI Store: jumlah slot, bundling, tenggat file final, prioritas terhadap konten donasi |
 | R-08 | Biro Usaha Mandiri | Biro Pengabdian Masyarakat | Merchandise amal totebag dan stiker relawan JMMI Mengabdi: jumlah produksi, harga, bagi hasil ke kas JMMI Peduli lewat Bendum, tenggat pre-order |
 | R-09 | Biro Amaliyah Yaumiyah | Biro Manajemen Event | Protokol adab masjid, jeda salat di rundown, zonasi makan di luar karpet utama, dan penugasan petugas GDM pada Hari Puncak |
 | R-10 | Biro Amaliyah Yaumiyah | Biro Media Analysis & Strategi | Slot dan kalender konten bulanan KSSI (feed, reels, rilis kalender puasa sunnah di Instagram JMMI): format, tenggat brief, jadwal tayang |
-| R-11 | Biro Digital Production | Biro Media Analysis & Strategi | Penyerahan file final desain tiap Kamis 16.00 dan jatah minimal 2 slot posting per minggu: format, penamaan file, siapa yang mengunggah |
+| R-11 | Biro Digital Production | Biro Manajemen Event | Fiksasi live streaming kajian akbar Maulid × Milad: titik kamera, jalur listrik dan videotron, rundown dokumentasi, jadwal survei sebelum Aula terkunci, tenaga operator akhir pekan |
 | R-12 | Biro Digital Production | Biro Amaliyah Yaumiyah | Teknis STREAMMI khatmil Qur'an OWOJ: posisi kamera dan tripod, jam persiapan sebelum Q-TIME, izin pembaca, PIC lokasi, aftermovie |
 | R-13 | Biro Media Analysis & Strategi | Biro Kajian & Inovasi Dakwah | Kurasi dalil, hadits, dan sudut pandang syar'i untuk draf opini dan policy brief: alur, waktu review, PIC, format catatan, batas wewenang |
 | R-14 | Biro Media Analysis & Strategi | Biro Pengabdian Masyarakat | Data riil desa mitra JMMI Mengabdi untuk artikel rilis media massa kampus: daftar data, tenggat, izin desa, review draf oleh Pengmas |
 | R-15 | Biro Relasi & Hubungan Eksternal | Biro Digital Production | Dokumentasi (1 fotografer) dan e-invitation Jaulah LDK di akhir pekan: cakupan, tenaga akhir pekan, tenggat brief, batas revisi |
 | R-16 | Biro Relasi & Hubungan Eksternal | Biro Kajian & Inovasi Dakwah | Sinergi rekomendasi narasumber alumni dan ustadz jejaring luar untuk pemateri kajian: kriteria, nama rekomendasi, etiket kontak langsung oleh biro pemilik acara |
-
 
 ### 3.3 Sifat Graf (Telah Diverifikasi Program)
 
@@ -198,31 +197,32 @@ Arah panah: **biro pengusung → biro tujuan** (pengusung adalah pihak yang bole
 | Jumlah relasi | 16 |
 | Jumlah tujuan per biro | Tepat 2 |
 | Jumlah pengirim per biro | Tepat 2 |
-| Pasangan timbal-balik | 1 (Biro Manajemen Event ↔ Biro Usaha Mandiri, tiket R-02 dan R-07 yang berbeda) |
+| Pasangan timbal-balik | 0 (tidak ada A→B bersama B→A; diperiksa oleh assert pada skrip generator) |
 | Loop diri | 0 |
 | Konektivitas | Terhubung kuat: dari tiap biro dapat dicapai tiap biro lain lewat arah panah |
 
 | Biro | Memulai ke | Menerima dari (jumlah) |
 |---|---|---|
-| Biro Manajemen Event | Biro Relasi & Hubungan Eksternal, Biro Usaha Mandiri | 2 (Biro Usaha Mandiri, Biro Amaliyah Yaumiyah) |
+| Biro Manajemen Event | Biro Relasi & Hubungan Eksternal, Biro Usaha Mandiri | 2 (Biro Amaliyah Yaumiyah, Biro Digital Production) |
 | Biro Pengabdian Masyarakat | Biro Digital Production, Biro Relasi & Hubungan Eksternal | 2 (Biro Usaha Mandiri, Biro Media Analysis & Strategi) |
 | Biro Kajian & Inovasi Dakwah | Biro Usaha Mandiri, Biro Amaliyah Yaumiyah | 2 (Biro Media Analysis & Strategi, Biro Relasi & Hubungan Eksternal) |
-| Biro Usaha Mandiri | Biro Manajemen Event, Biro Pengabdian Masyarakat | 2 (Biro Manajemen Event, Biro Kajian & Inovasi Dakwah) |
+| Biro Usaha Mandiri | Biro Media Analysis & Strategi, Biro Pengabdian Masyarakat | 2 (Biro Manajemen Event, Biro Kajian & Inovasi Dakwah) |
 | Biro Amaliyah Yaumiyah | Biro Manajemen Event, Biro Media Analysis & Strategi | 2 (Biro Kajian & Inovasi Dakwah, Biro Digital Production) |
-| Biro Digital Production | Biro Media Analysis & Strategi, Biro Amaliyah Yaumiyah | 2 (Biro Pengabdian Masyarakat, Biro Relasi & Hubungan Eksternal) |
-| Biro Media Analysis & Strategi | Biro Kajian & Inovasi Dakwah, Biro Pengabdian Masyarakat | 2 (Biro Amaliyah Yaumiyah, Biro Digital Production) |
+| Biro Digital Production | Biro Manajemen Event, Biro Amaliyah Yaumiyah | 2 (Biro Pengabdian Masyarakat, Biro Relasi & Hubungan Eksternal) |
+| Biro Media Analysis & Strategi | Biro Kajian & Inovasi Dakwah, Biro Pengabdian Masyarakat | 2 (Biro Usaha Mandiri, Biro Amaliyah Yaumiyah) |
 | Biro Relasi & Hubungan Eksternal | Biro Digital Production, Biro Kajian & Inovasi Dakwah | 2 (Biro Manajemen Event, Biro Pengabdian Masyarakat) |
 
-**Beban seimbang:** tiap biro memegang 2 tiket keluar dan 2 tiket masuk, sehingga tidak ada meja yang pasif maupun kewalahan. Biro Manajemen Event berperan sebagai konsultan dan fasilitator manajemen teknis acara bagi biro lain (R-07, R-09), sesuai praktik panitia event yang mandiri.
+**Beban seimbang:** tiap biro memegang 2 tiket keluar dan 2 tiket masuk, sehingga tidak ada meja yang pasif maupun kewalahan. Biro Manajemen Event berperan sebagai konsultan dan fasilitator manajemen teknis acara bagi biro lain (R-09, R-11), sesuai praktik panitia event yang mandiri. Graf searah murni, tanpa pasangan timbal-balik.
 
 **Rantai dampak (cascade):**
-1. **Venue Hari Puncak:** Biro Manajemen Event menerima dua permintaan sekaligus: lapak bazaar dari Biro Usaha Mandiri (R-07) dan zonasi makan serta jeda salat dari Biro Amaliyah Yaumiyah (R-09). Pelataran dan serambi dipakai bersama, sehingga keduanya harus ditata bersamaan.
+1. **Venue Hari Puncak:** Biro Manajemen Event menerima dua permintaan untuk Aula dan sekitarnya: zonasi makan, jeda salat, dan petugas GDM dari Biro Amaliyah Yaumiyah (R-09), serta titik kamera, jalur listrik, dan videotron dari Biro Digital Production (R-11). Keduanya berbagi ruang yang sama dan Aula terkunci mulai H-3 pukul 12.00.
 2. **GoRent:** Biro Manajemen Event bersaing dengan booking klien eksternal Biro Usaha Mandiri untuk HT dan proyektor pada H-1 sampai Hari Puncak (R-02). Pinjam internal gratis, jadi yang diuji adalah prioritas dan jaminan perawatan.
 3. **Slot eksternal Biro Relasi & Hubungan Eksternal (4):** Medpar dan undangan LDK dari Biro Manajemen Event (R-01) bersaing dengan mitra penyalur dari Biro Pengabdian Masyarakat (R-04). Alumni dan mitra lama adalah jalan keluar.
-4. **Antrean Biro Digital Production dan Biro Media Analysis & Strategi:** poster darurat donasi (R-03) dan Jaulah (R-15) masuk ke Biro Digital Production; dokumentasi KSSI (R-10) dan file mingguan (R-11) masuk ke Biro Media Analysis & Strategi. Inject A memotong keduanya menjadi 3.
-5. **Khatmil OWOJ:** siaran STREAMMI (R-12) dan kultum kader da'i Biro Kajian & Inovasi Dakwah (R-06) bertemu di acara yang sama milik Biro Amaliyah Yaumiyah.
-6. **Rantai kurasi dan data:** Biro Media Analysis & Strategi bergantung pada kurasi Biro Kajian & Inovasi Dakwah (R-13) dan data Biro Pengabdian Masyarakat (R-14), yang sedang sibuk banjir (R-03, R-04).
-7. **Dapur dan merchandise Biro Usaha Mandiri:** paket sarapan SaJi (R-05) dan merchandise amal (R-08) bersaing untuk perhatian tim yang sama dengan lapak bazaar (R-07).
+4. **Antrean Biro Digital Production dan Biro Media Analysis & Strategi:** poster darurat donasi (R-03) dan Jaulah (R-15) masuk ke Biro Digital Production; dokumentasi KSSI (R-10) dan katalog serta pre-order JMMI Store (R-07) masuk ke Biro Media Analysis & Strategi. Inject A memotong keduanya menjadi 3.
+5. **Kru akhir pekan Biro Digital Production (1 orang):** live streaming Hari Puncak (R-11) dan dokumentasi Jaulah (R-15) sama-sama jatuh pada hari Sabtu.
+6. **Khatmil OWOJ:** siaran STREAMMI (R-12) dan kultum kader da'i Biro Kajian & Inovasi Dakwah (R-06) bertemu di acara yang sama milik Biro Amaliyah Yaumiyah.
+7. **Rantai kurasi dan data:** Biro Media Analysis & Strategi bergantung pada kurasi Biro Kajian & Inovasi Dakwah (R-13) dan data Biro Pengabdian Masyarakat (R-14), yang sedang sibuk banjir (R-03, R-04).
+8. **Biro Usaha Mandiri:** paket sarapan SaJi (R-05), merchandise amal (R-08), dan konten promosi (R-07) bersaing untuk perhatian tim yang sama.
 
 ---
 
@@ -284,8 +284,8 @@ Arah panah: **biro pengusung → biro tujuan** (pengusung adalah pihak yang bole
 **Limitasi dan kapasitas.**
 - Panitia 55 orang (sim). Target peserta ≥ **750**. Medpar yang dicari minimal 2, idealnya 5 media.
 - Undangan resmi ke LDK se-Surabaya (sim: 10 LDK, cukup 1 surat edaran lewat forum LDK).
-- Venue Hari Puncak (sim): kajian di **Aula**, yang **terkunci** untuk pasang-bongkar mulai **H-3 pukul 12.00**. **Pelataran** dipakai untuk lapak bazaar dan area makan. Area makan di luar karpet utama (serambi dan pelataran) muat ±250 orang per gelombang.
-- Maksimal **6 lapak bazaar** di pelataran (sim).
+- Venue Hari Puncak (sim): kajian di **Aula**, yang **terkunci** untuk pasang-bongkar mulai **H-3 pukul 12.00**. Area makan di luar karpet utama (serambi dan pelataran) muat ±250 orang per gelombang.
+- Aula punya satu panel listrik dan videotron di sisi panggung (sim). **Semua panitia terikat tugas**, jadi tidak ada tenaga cadangan untuk Hari Puncak.
 - Alat yang kita butuhkan H-2 sampai H+1 (4 hari) dari GoRent: **HT 12 (minimal 8), kabel roll 6, proyektor 2 (minimal 1), standing banner 4 (minimal 3)**.
 - Pihak luar hanya lewat Biro Relasi & Hubungan Eksternal. Pemateri kajian kita hubungi sendiri.
 - Aula tidak boleh dipinjamkan saat terkunci.
@@ -296,10 +296,10 @@ Arah panah: **biro pengusung → biro tujuan** (pengusung adalah pihak yang bole
 - **R-02 ke Biro Usaha Mandiri:** wajib menyepakati unit tersedia (**minimal 8 HT, 6 kabel roll, 1 proyektor, 3 standing banner**) untuk H-2 sampai H+1, **pinjam gratis (Rp0)** karena sesama biro JMMI, plus **jaminan perawatan**: berita acara serah terima dengan foto dan uji fungsi, satu PIC peminjam, dan tanggung jawab bila rusak atau hilang karena kelalaian. (Bonus: HT 12 dan proyektor kedua.) Yang bisa ditawarkan: alat kembali tepat waktu, cek fungsi bareng saat serah terima, dan promosi GoRent di materi acara. Stok dan booking klien luar mereka belum kita tahu. Gali dari mereka.
 
 **Permintaan yang mungkin masuk (2 tiket masuk).**
-- **R-07 dari Biro Usaha Mandiri** (izin lapak bazaar JMMI Store dan JMMI Commerce di venue Hari Puncak): Kita bisa memberi **maksimal 2 lapak** dari 6 di pelataran sisi timur, dengan syarat: tidak berjualan saat kajian utama dan saat azan, jarak minimal 3 meter dari pintu Aula dan jalur wudu, 1 titik listrik per lapak, dan sampah dibereskan sendiri. Lapak ke-3 dan seterusnya bukan keputusan satu meja.
 - **R-09 dari Biro Amaliyah Yaumiyah** (protokol adab masjid, penugasan GDM, dan zonasi makan peserta): Kita bisa memasukkan **jeda salat Dzuhur (11.30–12.15) dan Ashar (15.00–15.45)** ke rundown dan memakai **petugas GDM** dari Biro Amaliyah Yaumiyah. Makan peserta dibagi **3 gelombang** di serambi bawah dan pelataran sisi barat (±250 orang per gelombang), dan karpet utama bebas makanan. Kita tidak bisa mengubah isi atau urutan kajian utama.
+- **R-11 dari Biro Digital Production** (titik kamera, jalur listrik atau videotron, dan rundown dokumentasi untuk live streaming kajian akbar Maulid × Milad): Kita bisa memberi **1 titik kamera** di belakang area peserta Aula (bukan di jalur masuk), **1 jalur listrik** dari panel Aula, tempat videotron di sisi panggung, dan **rundown dokumentasi 1 halaman**. Survei lokasi hanya boleh **sebelum H-3 pukul 12.00** karena Aula lalu terkunci. Kita **tidak punya tenaga cadangan** untuk Hari Puncak, jadi operator kamera harus dari tim mereka.
 
-**Batasan wewenang dan SOP.** Lapak lebih dari 2 untuk satu biro, atau perubahan rundown inti, tanggal, dan format Hari Puncak → **Kadep Syi'ar → Waket I → BPI**. Perubahan karpet atau area masjid → **Kadep Pelayanan Masjid & Dakwah** (aturan masjid ada di tangan Takmir). Pinjam inventaris sekretariat (bukan GoRent) → lewat **Sekretaris Umum**.
+**Batasan wewenang dan SOP.** Perubahan rundown inti, tanggal, atau format Hari Puncak → **Kadep Syi'ar → Waket I → BPI**. Perubahan karpet atau area masjid → **Kadep Pelayanan Masjid & Dakwah** (aturan masjid ada di tangan Takmir). Pinjam inventaris sekretariat (bukan GoRent) → lewat **Sekretaris Umum**.
 
 ### 5.2 Kasus 2 — Biro Pengabdian Masyarakat
 
@@ -364,20 +364,21 @@ Arah panah: **biro pengusung → biro tujuan** (pengusung adalah pihak yang bole
 |---|---|
 | Departemen / Bidang | Relasi Publik & Advokasi · Bidang 3 (Kadep Relasi Publik & Advokasi → Waket III) |
 | Proker Amanah | **JMMI Store**, **JMMI Commerce**, dan **GoRent** |
-| Tiket yang dimulai | **R-07** ke Biro Manajemen Event · **R-08** ke Biro Pengabdian Masyarakat |
+| Tiket yang dimulai | **R-07** ke Biro Media Analysis & Strategi · **R-08** ke Biro Pengabdian Masyarakat |
 | Sumber deck | JMMI Store: desain atribut dan merchandise JMMI (3 aset merchandise siap cetak), kolaborasi desain bersama Biro Digital Production; GoRent: penyewaan perlengkapan kerja (proyektor, layar, HT, kamera, tripod) dalam paket, KR 20 penyewa dan keuntungan minimal Rp 250.000, reinventaris dan perbaikan; JMMI Commerce: keuntungan ≥ Rp 150.000, papan transparansi harga. Peminjaman GoRent untuk biro internal JMMI gratis (cukup koordinasi jadwal, unit, dan berita acara jaminan perawatan) |
 
-**Latar belakang / trigger (sim).** Kita lagi ngejar omzet **JMMI Store** dan **JMMI Commerce** menuju Hari Puncak. Dua hal yang kita butuhkan: **izin lapak bazaar** di venue Hari Puncak, dan **mitra untuk merchandise amal**. Sambil itu, permintaan **pinjam alat GoRent** dan **paket sarapan** lagi masuk.
+**Latar belakang / trigger (sim).** Kita lagi ngejar omzet **JMMI Store** dan **GoRent** menuju Hari Puncak. Dua hal yang kita butuhkan: **slot posting di Instagram JMMI** untuk katalog sewa alat dan pre-order merchandise, padahal slot Biro Media Analysis & Strategi terbatas, dan **mitra untuk merchandise amal**. Sambil itu, permintaan **pinjam alat GoRent** dan **paket sarapan** lagi masuk.
 
 **Limitasi dan kapasitas.**
 - **Merchandise amal (sim):** totebag modal Rp22.000, jual Rp35.000; stiker modal Rp4.000, jual Rp10.000. Rencana produksi **100 totebag dan 200 stiker**, desain sudah siap.
+- **Konten promosi (sim):** katalog sewa GoRent (1 carousel 4 halaman) dan poster pre-order merchandise (1 feed), keduanya sudah final dengan caption.
 - **Stok GoRent (sim):** HT 12, kabel roll 6, proyektor 2, standing banner 4. Mulai H-1 sampai Hari Puncak, **4 HT dan 1 proyektor sudah dibooking klien luar**, jadi yang tersisa **8 HT dan 1 proyektor**. Klien luar itu penting untuk target untung GoRent minimal Rp250.000.
 - **JMMI Commerce (sim):** dapur 40 porsi per hari, modal Rp8.000, harga Rp11.000, diskon 5% (Rp10.450) kalau komit minimal 200 porsi. Porsi tambahan dari tenant mitra Rp12.000, bisa Rp11.000 kalau komit minimal 80 porsi. Target untung minimal Rp150.000.
 - Pinjam GoRent untuk biro JMMI **gratis**, tapi wajib koordinasi jadwal, unit, dan berita acara jaminan perawatan.
 - Jangan janjikan unit yang sudah dibooking, dan jangan lewati kapasitas dapur.
 
 **Misi koordinasi wajib.**
-- **R-07 ke Biro Manajemen Event:** wajib menyepakati **izin 2 lapak bazaar resmi** (1 JMMI Store, 1 JMMI Commerce) di venue Hari Puncak: posisi, jam buka, listrik, dan aturan kebersihan. (Bonus: lapak ke-3 untuk merchandise.) Yang bisa ditawarkan: lapak rapi sesuai tema, taat jam kajian dan azan, sampah dibawa sendiri, dan siap dipindah kalau zonasi berubah. Jumlah lapak dan aturan panitia belum kita tahu. Gali dari mereka.
+- **R-07 ke Biro Media Analysis & Strategi:** wajib menyepakati **slot kalender konten dan jadwal tayang di Instagram JMMI** untuk katalog sewa GoRent dan pre-order merchandise JMMI Store: **minimal 2 slot** (boleh digabung dalam satu carousel), tanggal tayang pasti, dan tenggat file final tiap Kamis pukul 16.00. Yang bisa ditawarkan: konten sudah final (desain dan caption), mau digabung dalam satu carousel, dan mau mengalah kalau ada konten donasi atau kemanusiaan. **Jangan:** minta jalur kilat atau menyerobot antrean untuk promosi komersial. Jumlah slot dan kalender mereka belum kita tahu. Gali dari mereka.
 - **R-08 ke Biro Pengabdian Masyarakat:** wajib menyepakati **kolaborasi merchandise amal** totebag dan stiker relawan JMMI Mengabdi: jumlah produksi, harga jual, **bagi hasil ke kas JMMI Peduli**, dan tata cara penyetoran. (Bonus: 100 totebag habis lewat pre-order.) Yang bisa ditawarkan: desain dan vendor siap, margin yang transparan (papan transparansi harga), dan nama JMMI Mengabdi di setiap produk. **Jangan:** menerima atau menitipkan uang bagi hasil lewat tangan relawan.
 
 **Permintaan yang mungkin masuk (2 tiket masuk).**
@@ -421,21 +422,21 @@ Arah panah: **biro pengusung → biro tujuan** (pengusung adalah pihak yang bole
 |---|---|
 | Departemen / Bidang | Media, Informasi & Digitalisasi · Bidang 3 (Kadep Media, Informasi & Digitalisasi → Waket III) |
 | Proker Amanah | **STREAMMI** (live streaming dan videotron), **Requesta**, dan **POTRET JMMI** |
-| Tiket yang dimulai | **R-11** ke Biro Media Analysis & Strategi · **R-12** ke Biro Amaliyah Yaumiyah |
+| Tiket yang dimulai | **R-11** ke Biro Manajemen Event · **R-12** ke Biro Amaliyah Yaumiyah |
 | Sumber deck | STREAMMI: live streaming dan tayangan sinergi di videotron sesuai request; Requesta: merangkum semua permintaan luar departemen dan membaginya sesuai jobdesk dan kemampuan staf; POTRET JMMI: dokumentasi kegiatan |
 
-**Latar belakang / trigger (sim).** Order masuk barengan, dan kita mau **STREAMMI** menyiarkan langsung **khatmil Qur'an OWOJ** tanpa mengganggu jamaah. Hasil produksi kita juga menumpuk karena jalur posting di Biro Media Analysis & Strategi lambat, sementara kru akhir pekan tinggal satu orang.
+**Latar belakang / trigger (sim).** Order masuk barengan, dan kita mau **STREAMMI** dan **POTRET JMMI** menyiarkan langsung **kajian akbar Maulid × Milad** di Hari Puncak serta khatmil Qur'an OWOJ tanpa mengganggu jamaah. Titik kamera, listrik, dan rundown belum ada, sementara kru akhir pekan tinggal satu orang.
 
 **Limitasi dan kapasitas.**
 - Kru (sim): 4 multimedia + 4 kreatif. **Akhir pekan cuma 1 orang** yang siaga, hanya untuk foto, tanpa video panjang.
 - Requesta menerima **maksimal 4 order per minggu**, satu form untuk satu konten. Desain dan video pendek diajukan minimal **7 hari** sebelum dibutuhkan, video panjang **10 hari**. Revisi maksimal 2 kali.
-- Hasil jadi per minggu: **6 aset** (sim). Satu carousel atau reels bisa memuat sampai 4 aset.
+- Hasil jadi per minggu: **6 aset** (sim).
 - Pengecualian untuk order darurat kemanusiaan (sim): bisa dikejar ≤ 24 jam kalau brief lengkap dan **Kadep Media** setuju.
 - Kita **berhak menolak atau menunda** order kalau brief tidak jelas, terlalu mepet, atau kapasitas penuh.
 - Aturan dan jadwal masjid bukan wewenang kita, tanyakan ke Biro Amaliyah Yaumiyah atau Takmir.
 
 **Misi koordinasi wajib.**
-- **R-11 ke Biro Media Analysis & Strategi:** wajib menyepakati **file final desain kita kirim tiap Kamis pukul 16.00**, dan kita dapat **minimal 2 jatah posting per minggu** (boleh digabung dalam satu carousel). Sepakati juga siapa yang mengunggah dan penamaan file. Yang bisa ditawarkan: file siap tayang, caption sudah ada, dan nama file rapi.
+- **R-11 ke Biro Manajemen Event:** wajib menyepakati **fiksasi untuk live streaming kajian akbar Maulid × Milad**: titik kamera, jalur listrik atau kabel dan tempat videotron, **rundown dokumentasi** (momen penting, jam mulai, pembicara), dan jadwal survei lokasi. (Bonus: 2 kamera.) Yang bisa ditawarkan: kamera tidak menutupi pandangan peserta atau jalur masuk, kita bawa kabel dan penyangga sendiri, dan kru siap survei lokasi lebih dulu. Kru akhir pekan kita cuma 1 orang. Gali apakah panitia bisa membantu tenaga.
 - **R-12 ke Biro Amaliyah Yaumiyah:** wajib menyepakati **izin siaran langsung STREAMMI khatmil Qur'an OWOJ**: minimal 1 kamera (posisi tripod, jam persiapan yang selesai sebelum Q-TIME, uji coba), PIC lokasi, izin pembaca, dan tidak mengganggu jamaah. (Bonus: 2 kamera dan **aftermovie 2 menit** dengan tenggat tayang.) Yang bisa ditawarkan: cara siaran yang menghormati kekhusyukan, misalnya kamera diam di belakang saf dan tidak ada yang berlalu-lalang, plus permintaan rundown dan daftar momen dari Biro Amaliyah Yaumiyah.
 
 **Permintaan yang mungkin masuk (2 tiket masuk).**
@@ -457,7 +458,7 @@ Arah panah: **biro pengusung → biro tujuan** (pengusung adalah pihak yang bole
 
 **Limitasi dan kapasitas.**
 - Tim 5 orang (sim), piket Senin–Kamis, **tanpa piket akhir pekan**. File final dari biro lain harus masuk **Kamis pukul 16.00**.
-- **4 slot posting per minggu** untuk permintaan biro lain (sim).
+- **4 slot posting per minggu** untuk permintaan biro lain (sim). Satu carousel atau reels bisa memuat sampai 4 aset.
 - Publikasi normal butuh 48 jam. Jalur kilat 24 jam hanya untuk kondisi kemanusiaan atau darurat dan harus disetujui Kadep Media.
 - Hanya draf final dari form request yang kita unggah. Brief tidak lengkap, kita tolak.
 - Draf opini: 2 per minggu (sim). Artikel media massa butuh 5 hari kerja sejak data lengkap (sim).
@@ -470,7 +471,7 @@ Arah panah: **biro pengusung → biro tujuan** (pengusung adalah pihak yang bole
 
 **Permintaan yang mungkin masuk (2 tiket masuk).**
 - **R-10 dari Biro Amaliyah Yaumiyah** (publikasi dokumentasi KSSI bulanan dan rilis kalender puasa sunnah): Layani **1 slot bundling** (carousel atau reels) untuk dokumentasi bulanan KSSI, dan jadwal puasa sunnah lewat kanal WA atau Google Calendar (**tidak memakai slot**). Brief harus lengkap dan konten sudah final.
-- **R-11 dari Biro Digital Production** (penyerahan file final desain tiap Kamis 16.00 dan minimal 2 slot posting per minggu): Terima file dari Biro Digital Production **Kamis pukul 16.00** dengan **minimal 2 slot per minggu**, boleh dibundel (satu carousel atau reels memuat sampai 4 aset). Jatah total tetap 4 slot, jadi sisanya untuk biro lain. Kalau file terlambat, tayang minggu berikutnya.
+- **R-07 dari Biro Usaha Mandiri** (slot kalender konten untuk katalog sewa GoRent dan pre-order merchandise JMMI Store): Layani **maksimal 2 slot** (satu untuk katalog GoRent, satu untuk pre-order merchandise) kalau brief lengkap dan **file final masuk Kamis pukul 16.00**. Boleh digabung dalam satu carousel supaya hemat slot. Jatah total 4 slot, jadi dengan R-10 tinggal 1 slot sisa. Promosi komersial tidak boleh mengalahkan konten donasi atau kemanusiaan.
 
 **Batasan wewenang dan SOP.** Rebutan prioritas lintas departemen, atau butuh publikasi kilat → **Kadep Media, Informasi & Digitalisasi**. Tema opini atau policy brief yang berpotensi memicu polemik → **Kadep Media, Informasi & Digitalisasi**. Beda pendapat dalil dengan Biro Kajian & Inovasi Dakwah yang buntu → **Kadep Pelayanan Masjid & Dakwah** juga dilibatkan. Kanal donasi atau konten yang belum disetujui pemiliknya atau Bendum jangan diunggah.
 
@@ -515,11 +516,11 @@ Arah panah: **biro pengusung → biro tujuan** (pengusung adalah pihak yang bole
 | | | | **Tujuan 2:** Biro Relasi & Hubungan Eksternal (R-04) | Pilihan 1 mitra penyalur resmi dari kandidat beserta syarat verifikasi, PIC, dan prosedur kerja sama lewat jalur khusus |
 | **Biro Kajian & Inovasi Dakwah** | **SaJi** (Sarapan & Ngaji), **KID Insight**, dan **Simposium Nalar** | Kita lagi nyiapin **SaJi**, sarapan bareng sambil ngaji, dan sekarang **H-21**. Masalahnya: **paket sarapan** belum dipastikan, padahal RSVP baru 52 dari target rata-rata 75 (sim). Kita juga punya **kader da'i** dan **silabus kultum 10 menit** yang belum punya panggung tetap. | **Tujuan 1:** Biro Usaha Mandiri (R-05) | Paket sarapan SaJi 50–75 porsi per sesi lewat JMMI Commerce: harga rata-rata terhadap plafon, jadwal antar, standar menu, cara bayar |
 | | | | **Tujuan 2:** Biro Amaliyah Yaumiyah (R-06) | Penugasan kader da'i dan silabus kultum 10 menit untuk buka bersama KSSI dan penutupan OWOJ: slot, jam kultum terhadap azan, persetujuan silabus |
-| **Biro Usaha Mandiri** | **JMMI Store**, **JMMI Commerce**, dan **GoRent** | Kita lagi ngejar omzet **JMMI Store** dan **JMMI Commerce** menuju Hari Puncak. Dua hal yang kita butuhkan: **izin lapak bazaar** di venue Hari Puncak, dan **mitra untuk merchandise amal**. Sambil itu, permintaan **pinjam alat GoRent** dan **paket sarapan** lagi masuk. | **Tujuan 1:** Biro Manajemen Event (R-07) | Izin lapak bazaar resmi JMMI Store dan JMMI Commerce di venue Hari Puncak: jumlah, posisi, jam buka, listrik, kebersihan, dan benturan dengan zonasi makan |
+| **Biro Usaha Mandiri** | **JMMI Store**, **JMMI Commerce**, dan **GoRent** | Kita lagi ngejar omzet **JMMI Store** dan **GoRent** menuju Hari Puncak. Dua hal yang kita butuhkan: **slot posting di Instagram JMMI** untuk katalog sewa alat dan pre-order merchandise, padahal slot Biro Media Analysis & Strategi terbatas, dan **mitra untuk merchandise amal**. Sambil itu, permintaan **pinjam alat GoRent** dan **paket sarapan** lagi masuk. | **Tujuan 1:** Biro Media Analysis & Strategi (R-07) | Slot kalender konten dan jadwal tayang di Instagram JMMI untuk katalog sewa GoRent dan pre-order merchandise JMMI Store: jumlah slot, bundling, tenggat file final, prioritas terhadap konten donasi |
 | | | | **Tujuan 2:** Biro Pengabdian Masyarakat (R-08) | Merchandise amal totebag dan stiker relawan JMMI Mengabdi: jumlah produksi, harga, bagi hasil ke kas JMMI Peduli lewat Bendum, tenggat pre-order |
 | **Biro Amaliyah Yaumiyah** | **KSSI** (berbuka bersama Senin dan Kamis), **OWOJ**, **GDM**, **Q-TIME**, dan **RAPI** | Hari Puncak bakal ramai, dan kita khawatir **salat berjamaah** terganggu dan **karpet utama** kotor oleh makanan. Kita juga punya urusan lain: **dokumentasi KSSI bulan ini** belum tayang, dan jadwal puasa sunnah belum keluar. | **Tujuan 1:** Biro Manajemen Event (R-09) | Protokol adab masjid, jeda salat di rundown, zonasi makan di luar karpet utama, dan penugasan petugas GDM pada Hari Puncak |
 | | | | **Tujuan 2:** Biro Media Analysis & Strategi (R-10) | Slot dan kalender konten bulanan KSSI (feed, reels, rilis kalender puasa sunnah di Instagram JMMI): format, tenggat brief, jadwal tayang |
-| **Biro Digital Production** | **STREAMMI** (live streaming dan videotron), **Requesta**, dan **POTRET JMMI** | Order masuk barengan, dan kita mau **STREAMMI** menyiarkan langsung **khatmil Qur'an OWOJ** tanpa mengganggu jamaah. Hasil produksi kita juga menumpuk karena jalur posting di Biro Media Analysis & Strategi lambat, sementara kru akhir pekan tinggal satu orang. | **Tujuan 1:** Biro Media Analysis & Strategi (R-11) | Penyerahan file final desain tiap Kamis 16.00 dan jatah minimal 2 slot posting per minggu: format, penamaan file, siapa yang mengunggah |
+| **Biro Digital Production** | **STREAMMI** (live streaming dan videotron), **Requesta**, dan **POTRET JMMI** | Order masuk barengan, dan kita mau **STREAMMI** dan **POTRET JMMI** menyiarkan langsung **kajian akbar Maulid × Milad** di Hari Puncak serta khatmil Qur'an OWOJ tanpa mengganggu jamaah. Titik kamera, listrik, dan rundown belum ada, sementara kru akhir pekan tinggal satu orang. | **Tujuan 1:** Biro Manajemen Event (R-11) | Fiksasi live streaming kajian akbar Maulid × Milad: titik kamera, jalur listrik dan videotron, rundown dokumentasi, jadwal survei sebelum Aula terkunci, tenaga operator akhir pekan |
 | | | | **Tujuan 2:** Biro Amaliyah Yaumiyah (R-12) | Teknis STREAMMI khatmil Qur'an OWOJ: posisi kamera dan tripod, jam persiapan sebelum Q-TIME, izin pembaca, PIC lokasi, aftermovie |
 | **Biro Media Analysis & Strategi** | **Publikasi Request**, **Analysis Media**, dan **IQRA X AKSI** (opini dan policy brief) | Kita lagi menyiapkan **draf opini dan policy brief IQRA X AKSI** yang mau rilis pekan depan, plus **artikel rilis media massa kampus** tentang desa mitra. Dua hal bikin cemas: **dalil dan sudut pandang syar'i** belum ada yang mengecek, dan **data desa mitra** belum kita pegang. Di saat yang sama antrean posting lagi penuh. | **Tujuan 1:** Biro Kajian & Inovasi Dakwah (R-13) | Kurasi dalil, hadits, dan sudut pandang syar'i untuk draf opini dan policy brief: alur, waktu review, PIC, format catatan, batas wewenang |
 | | | | **Tujuan 2:** Biro Pengabdian Masyarakat (R-14) | Data riil desa mitra JMMI Mengabdi untuk artikel rilis media massa kampus: daftar data, tenggat, izin desa, review draf oleh Pengmas |
@@ -544,7 +545,7 @@ Inject dijalankan oleh **Pengendali Waktu / Master Inject** pada menit game yang
 |---|---|
 | **Trigger** | Master Inject mengumumkan: "Dua staf Digital Production dan satu staf Media Analysis & Strategi mendadak berhalangan." |
 | **Efek mekanik** | **Biro Digital Production turun dari 4 menjadi 3 order** desain atau dokumentasi. **Biro Media Analysis & Strategi turun dari 4 menjadi 3 slot** posting untuk biro lain. Berlaku sampai akhir sesi |
-| **Yang terdampak** | Pengirim ke Biro Digital Production: Biro Pengabdian Masyarakat (R-03, poster darurat donasi), Biro Relasi & Hubungan Eksternal (R-15, fotografer dan e-invitation). Pengirim ke Biro Media Analysis & Strategi: Biro Amaliyah Yaumiyah (R-10, 1 slot bundling), Biro Digital Production (R-11, minimal 2 slot per minggu) |
+| **Yang terdampak** | Pengirim ke Biro Digital Production: Biro Pengabdian Masyarakat (R-03, poster darurat donasi), Biro Relasi & Hubungan Eksternal (R-15, fotografer dan e-invitation). Pengirim ke Biro Media Analysis & Strategi: Biro Amaliyah Yaumiyah (R-10, 1 slot bundling), Biro Usaha Mandiri (R-07, katalog GoRent dan pre-order merchandise, sampai 2 slot) |
 | **Yang diuji** | Prioritisasi, penolakan beradab, eskalasi ke Kadep Media, Informasi & Digitalisasi |
 | **Perilaku ideal** | Meja yang terdampak berdiskusi cepat, memutuskan prioritas berdasarkan urgensi dan dampak (poster untuk sesi yang sudah terjadwal dan donasi kemanusiaan mendahului katalog atau promosi rutin), menjelaskan alasan kepada biro yang tertolak, dan melaporkan penolakan ke Kadep |
 | **Perilaku bermasalah** | Menolak tanpa penjelasan, membagi rata tanpa dasar, melobi biro pengirim di luar jalur |
@@ -574,7 +575,7 @@ Inject dijalankan oleh **Pengendali Waktu / Master Inject** pada menit game yang
 | Unsur | Isi |
 |---|---|
 | **Trigger** | Fasilitator menyerahkan kartu "kabar mendadak, harap keluar sebentar" kepada **anggota yang sedang paling banyak memegang kendali** di meja sasaran (ditentukan pengamat meja). Anggota itu meninggalkan meja selama **5 menit** (sampai menit ke-27) |
-| **Meja sasaran** | Dipilih fasilitator, bukan meja yang sama dengan inject B. Rekomendasi: Biro Manajemen Event atau Biro Usaha Mandiri (dua meja yang bertukar tiket R-02 dan R-07 serta menerima permintaan dari dua biro lain, sehingga dampaknya terasa luas) |
+| **Meja sasaran** | Dipilih fasilitator, bukan meja yang sama dengan inject B. Rekomendasi: Biro Manajemen Event (menerima R-09 dan R-11 yang berbagi ruang) atau Biro Media Analysis & Strategi (menerima R-07 dan R-10 yang berebut slot), sehingga dampaknya terasa luas |
 | **Yang diuji** | Perpindahan kepemimpinan, penunjukan pengganti sementara lewat Kadep, kontinuitas keputusan, dan siapa yang melangkah maju |
 | **Perilaku ideal** | Tim berhenti sejenak, menyepakati siapa yang melanjutkan, menyampaikan kepada Kadep dan menuliskannya di Tabel 3, lalu menunda keputusan kritis atau mengambilnya dalam batas yang disepakati. Setelah anggota kembali, tim memaparkan keputusan yang dibuat |
 | **Perilaku bermasalah** | Tim berhenti total, satu orang mengambil alih tanpa musyawarah, atau tiket yang sudah disepakati diubah tanpa sepengetahuan tim |
@@ -759,11 +760,11 @@ Bukan jawaban tunggal. Dipakai untuk menilai kualitas kesepakatan (rubrik 2).
 | R-04 Biro Pengabdian Masyarakat → Biro Relasi & Hubungan Eksternal | **Mitra C** (sudah ada, tanpa slot, verifikasi 1 hari) sebagai penyalur pertama; B opsional; A ditunda | Mitra A (4 hari) terlalu lambat. Mitra baru berebut slot Relasi dengan R-01. Kadep dan Waket III diinfokan |
 | R-05 Biro Kajian & Inovasi Dakwah → Biro Usaha Mandiri | 4 sesi, dapur 40 porsi per hari @ **Rp10.450** (diskon 5%, komit ≥ 200 porsi). **Skema 50 porsi**: tambah 10 porsi tenant @ Rp12.000 (komit tenant 40 < 80) = Rp538.000 per sesi, total Rp2.152.000, rata-rata **Rp10.760**. **Skema 75 porsi**: tambah 35 porsi tenant @ Rp11.000 (komit tenant 140 ≥ 80) = Rp803.000 per sesi, total Rp3.212.000, rata-rata **Rp10.707**. Keduanya ≤ plafon Rp11.000. Antar sebelum 06.30, menu halal, bayar per sesi | Dapur maksimal 40 porsi per hari. Diskon di atas 5% atau harga di bawah modal Rp8.000 butuh Kadep Relasi Publik & Advokasi. Tenant baru lewat Relasi. RSVP baru 52 dari target 75, jadi jumlah pasti harus disepakati 3 hari sebelumnya |
 | R-06 Biro Kajian & Inovasi Dakwah → Biro Amaliyah Yaumiyah | **8 sesi KSSI** (Senin dan Kamis) dan **1 penutupan OWOJ**, satu kader per sesi dari 6 kader (maksimal 2 sesi per kader); kultum **17.15–17.25** sebelum Maghrib 17.30; silabus dibaca Biro Amaliyah Yaumiyah maksimal 2 hari; 1 kali latihan | Kultum tidak boleh menabrak azan dan buka puasa. Penutupan OWOJ juga disiarkan STREAMMI (R-12), jadi kader tampil di siaran dan silabusnya harus disetujui sebelum itu |
-| R-07 Biro Usaha Mandiri → Biro Manajemen Event | **2 lapak** (1 Store, 1 Commerce) di pelataran sisi timur dari 6 lapak; tidak berjualan saat kajian utama dan saat azan; jarak ≥ 3 meter dari pintu Aula dan jalur wudu; 1 titik listrik per lapak; sampah dibawa sendiri; lapak ke-3 hanya lewat Kadep Syi'ar | Pelataran sisi barat dipakai zonasi makan (R-09). Bila lapak dan antrean makan menumpuk di titik yang sama, panitia harus memindahkan salah satunya |
+| R-07 Biro Usaha Mandiri → Biro Media Analysis & Strategi | **2 slot** untuk Biro Usaha Mandiri (katalog sewa GoRent dan pre-order merchandise), idealnya **digabung dalam 1 carousel** (4 aset) sehingga hanya memakai 1 slot; file final **Kamis 16.00**; tanggal tayang pasti; caption dan desain sudah final | Jatah 4 slot: R-10 memakai 1, R-07 memakai 1–2, sisa 1–2. Bila Inject A (3 slot), tiket ini bersaing dengan R-10. Konten donasi atau kemanusiaan (R-03) boleh didahulukan, jalur kilat tidak untuk promosi komersial |
 | R-08 Biro Usaha Mandiri → Biro Pengabdian Masyarakat | **100 totebag dan 200 stiker**; harga jual Rp35.000 dan Rp10.000. Margin total: 100 × Rp13.000 + 200 × Rp6.000 = Rp2.500.000. **Bagi hasil 20–30%** (Rp500.000–Rp750.000) ke kas JMMI Peduli **lewat Bendum**; pre-order dibuka dengan tenggat jelas; papan transparansi harga | Uang tidak boleh melewati tangan relawan. Persentase dan skema penyaluran di luar wewenang meja butuh BPI. Biro Pengabdian Masyarakat lagi sibuk banjir (R-03, R-04) |
-| R-09 Biro Amaliyah Yaumiyah → Biro Manajemen Event | Jeda salat **Dzuhur 11.30–12.15** dan **Ashar 15.00–15.45** masuk rundown; makan **3 gelombang × ±250 orang** di serambi bawah dan pelataran sisi barat; karpet utama bebas makanan; petugas GDM bertugas di pintu Aula, jalur wudu, dan zona makan; lembar adab dibagikan | Konsumsi 750 orang butuh waktu, sementara Biro Manajemen Event tidak bisa menukar isi kajian utama. Pelataran dipakai juga oleh lapak bazaar (R-07). Mengubah karpet atau area masjid butuh Takmir lewat Kadep Pelayanan Masjid & Dakwah |
-| R-10 Biro Amaliyah Yaumiyah → Biro Media Analysis & Strategi | **1 slot bundling** (carousel atau reels) bulanan; jadwal puasa lewat kanal WA atau Calendar (tidak memakai slot); tanggal tayang pasti | Slot sangat terbatas, bundling adalah kunci. Bila Inject A (3 slot), tiket ini bersaing dengan R-11 |
-| R-11 Biro Digital Production → Biro Media Analysis & Strategi | File final **Kamis 16.00**; bundling sampai 4 aset per carousel; **≥ 2 slot per minggu**; draf caption disediakan; yang mengunggah ditetapkan | Tanpa piket akhir pekan di Biro Media Analysis & Strategi, dan Biro Digital Production mengincar Jumat 20.00. Bila Inject A, kedua biro turun jadi 3 order dan 3 slot |
+| R-09 Biro Amaliyah Yaumiyah → Biro Manajemen Event | Jeda salat **Dzuhur 11.30–12.15** dan **Ashar 15.00–15.45** masuk rundown; makan **3 gelombang × ±250 orang** di serambi bawah dan pelataran sisi barat; karpet utama bebas makanan; petugas GDM bertugas di pintu Aula, jalur wudu, dan zona makan; lembar adab dibagikan | Konsumsi 750 orang butuh waktu, sementara Biro Manajemen Event tidak bisa menukar isi kajian utama. Serambi dan area Aula juga dipakai titik kamera dan jalur kabel STREAMMI (R-11). Mengubah karpet atau area masjid butuh Takmir lewat Kadep Pelayanan Masjid & Dakwah |
+| R-10 Biro Amaliyah Yaumiyah → Biro Media Analysis & Strategi | **1 slot bundling** (carousel atau reels) bulanan; jadwal puasa lewat kanal WA atau Calendar (tidak memakai slot); tanggal tayang pasti | Slot sangat terbatas, bundling adalah kunci. Bila Inject A (3 slot), tiket ini bersaing dengan R-07 |
+| R-11 Biro Digital Production → Biro Manajemen Event | **1 titik kamera** di belakang area peserta Aula (bukan jalur masuk), **1 jalur listrik** dari panel Aula, videotron di sisi panggung, **rundown dokumentasi 1 halaman**; survei lokasi **sebelum H-3 pukul 12.00**; operator kamera dari Biro Digital Production (1 kru akhir pekan), kamera ke-2 sebagai bonus hanya bila ada tenaga | Aula terkunci mulai H-3 pukul 12.00, jadi survei wajib lebih awal. Biro Manajemen Event tidak punya tenaga cadangan di Hari Puncak. Kru akhir pekan Biro Digital Production hanya 1 orang dan Jaulah (R-15) juga hari Sabtu, jadi kru bersaing. Titik kamera tidak boleh menabrak zonasi makan dan jalur GDM (R-09) |
 | R-12 Biro Digital Production → Biro Amaliyah Yaumiyah | STREAMMI khatmil OWOJ (Kamis H-9): **1 kamera** di belakang saf terakhir (kamera ke-2 sisi samping sebagai bonus); persiapan selesai **< 17.00**, uji coba H-1 setelah Ashar; izin pembaca dan pengisi; GDM amankan jalur; aftermovie 2 menit dari rundown dan daftar momen Biro Amaliyah Yaumiyah | Tripod di depan saf dilarang. Persiapan tidak boleh menabrak Q-TIME 17.00–17.30. Aftermovie butuh pengajuan 10 hari. Kultum kader Biro Kajian & Inovasi Dakwah (R-06) ikut tersiarkan |
 | R-13 Biro Media Analysis & Strategi → Biro Kajian & Inovasi Dakwah | Alur: draf masuk Biro Kajian & Inovasi Dakwah, catatan kembali dalam **2 hari kerja**, **maksimal 2 draf per minggu**; tiga penanda (aman, perlu diperiksa, ganti); keputusan tayang tetap di Biro Media Analysis & Strategi; PIC kedua pihak; kredit Biro Kajian & Inovasi Dakwah di tulisan | KID Insight sedang padat (12 konten). Kurasi bukan fatwa: topik sensitif atau khilafiyah ke Kadep Pelayanan Masjid & Dakwah dan Kadep Media, Informasi & Digitalisasi |
 | R-14 Biro Media Analysis & Strategi → Biro Pengabdian Masyarakat | Data: jumlah penerima manfaat, 3 foto, 2 kutipan warga (izin desa), tanggal kegiatan, **dalam 3 hari kerja**; Biro Pengabdian Masyarakat membaca draf maksimal 2 hari; Biro Media Analysis & Strategi menulis 5 hari kerja; tanpa data pribadi warga | Data desa baru 60% rapi dan tim Biro Pengabdian Masyarakat sibuk banjir. Izin desa belum keluar. Rilis media kampus mengikuti tenggat redaksi, jadi jadwal harus mundur dari tanggal rilis |
@@ -821,7 +822,7 @@ Penilai mencatat **titik ambigu Tata Kelola** yang muncul saat simulasi (misalny
 
 | Pemeriksaan | Metode | Hasil terakhir |
 |---|---|---|
-| Graf: 16 tiket, 2 keluar dan 2 masuk per biro, tanpa loop diri | Skrip generator (assert pada daftar `TIKET` di `generate_template_simulasi.py`) | Lulus |
+| Graf: 16 tiket, 2 keluar dan 2 masuk per biro, tanpa loop diri, **tanpa pasangan timbal-balik** | Skrip generator (assert pada daftar `TIKET` di `generate_template_simulasi.py`) | Lulus |
 | Daftar `TIKET` skrip sama dengan tabel 3.2 (ID, pengusung, tujuan) | Skrip pembanding | 16 dari 16 sama |
 | Tujuan dan pengirim pada kartu sama dengan tabel 3.2 | Skrip penyusun dokumen (assert) | 8 dari 8 sama |
 | Formula `PAPAN_JARING`, rekap per meja, dan total skor dengan nama biro lengkap | Dihitung dengan pustaka `formulas` pada data uji (R-01 dan R-03 Sepakat, R-02 Batal, satu tiket masuk Diterima Bersyarat, satu eskalasi, skor 4 dan 5) | Sesuai: 2 Deal, 13 Pending, 1 Batal; rekap meja dan skor 90 benar |
