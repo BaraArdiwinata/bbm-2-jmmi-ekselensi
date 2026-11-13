@@ -554,10 +554,10 @@ KPP selesai pada 21 November, **sebelum** batas asistensi LPJ (28 November). Dat
 | K4 | Peserta dengan skor post ≥ 70 | ≥ 80% | Post-test | 14 Nov |
 | K5 | Ketepatan soal jalur dan wewenang (soal 2, 3, 4, 11, 12, 14) | ≥ 80% benar | Post-test | 14 Nov |
 | K6 | Relasi Deal pada Papan Jaring | ≥ 12 dari 16 | `PAPAN_JARING` | 14 Nov |
-| K7 | Pelanggaran arah per biro | Rata-rata ≤ 1 | `SKOR_EVALUASI` | 14 Nov |
+| K7 | Biro dengan kedua tiket keluar *Deal* | ≥ 50% biro (≥ 4 dari 8) | `PAPAN_JARING` (rekap per meja) | 14 Nov |
 | K8 | Biro dengan Tabel 1 dan 2 terisi (hasil kesepakatan dan status) | 8 dari 8 | `PAPAN_JARING` | 14 Nov |
 | K9 | Kepuasan per materi | ≥ 4,2 | Form Umpan Balik | 16 Nov |
-| K10 | (tidak dipakai: butir sikap tidak diukur pada skema 20 soal) | — | — | — |
+| K10 | Ketuntasan Form Minat Peran dan 1-Page Canvas, serta kenaikan skor blok soal Materi 4 (nomor 16–20) | ≥ 85% peserta tuntas; skor blok 16–20 naik | Dashboard KPP dan Pre/Post-Test | Tenggat KPP (21 Nov) dan 14 Nov |
 | K11 | Pengisian Form Minat Peran | ≥ 85% | Form Minat Peran | Tenggat KPP (21 Nov) |
 | K12 | Biro menyelesaikan Ngopi Khidmah dengan **kehadiran lengkap**, komposisi narasumber lengkap (dua Kepala Biro dari Kelompok A dan B, satu Staf Ahli Biro, dan 1–2 fungsionaris badan), dan **bukti publikasi** (Instagram + grup komunal) | 8 dari 8 | Dashboard Tab 1 | Tenggat KPP |
 | K13 | Canvas A3 terkumpul dari seluruh biro, dengan **100% anggota** menulis ≥ 1 sticky di dua zona terbuka dan mengisi lembar aspirasi (botol departemen diterima) | 8 dari 8 biro; 100% anggota | Dashboard, foto Canvas, dan penerimaan botol | Tenggat KPP |

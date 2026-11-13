@@ -258,10 +258,10 @@ Seluruh narasi "amanah" dan "khidmah" di Materi 4 diturunkan dari nilai-nilai di
 | K4 | Proporsi peserta dengan skor post-test ≥ 70 | ≥ 80% | Post-test | 14 Nov |
 | K5 | Ketepatan menjawab butir wewenang serta prinsip koordinasi dan eskalasi (soal 2, 3, 4, 11, 12, 14) | ≥ 80% benar pada post-test | Post-test | 14 Nov |
 | K6 | Relasi koordinasi berstatus *Deal* pada Papan Jaring | ≥ 12 dari 16 relasi (75%) | `PAPAN_JARING` | 14 Nov, 14.00 |
-| K7 | Pelanggaran arah per biro pada simulasi | Rata-rata ≤ 1 | `SKOR_EVALUASI` | 14 Nov |
+| K7 | Biro yang kedua tiket keluarnya berstatus *Deal* (kolom "Keluar Deal" = 2 pada rekap per meja) | ≥ 50% biro (≥ 4 dari 8) | `PAPAN_JARING` (rekap per meja) | 14 Nov, 14.00 |
 | K8 | Biro yang mengisi Tabel 1 dan 2 tab biro (hasil kesepakatan dan status) | 8 dari 8 | `PAPAN_JARING` (rekap per meja) | 14 Nov |
 | K9 | Rerata kepuasan tiap materi | ≥ 4,2 dari 5 | Form Umpan Balik | H+2 (16 Nov) |
-| K10 | (tidak dipakai: butir sikap tidak diukur pada skema 20 soal) | — | — | — |
+| K10 | Ketuntasan Form Minat Peran dan 1-Page Canvas pada KPP, serta peningkatan skor blok soal Materi 4 (nomor 16–20) pre → post | ≥ 85% peserta tuntas kedua tugas KPP; skor blok soal 16–20 naik | Dashboard KPP, Form Minat Peran, dan Pre/Post-Test | Tenggat KPP (21 Nov) dan 14 Nov |
 | K11 | Peserta yang mengisi Form Minat Peran | ≥ 85% | Form Minat Peran (KPP) | Tenggat KPP (21 Nov) |
 | K12 | Biro yang menyelesaikan Ngopi Khidmah dengan kehadiran lengkap, komposisi narasumber lengkap (2 Kepala Biro kelompok A dan B, 1 Staf Ahli Biro, 1–2 fungsionaris badan), dan bukti publikasi (Instagram biro + grup komunal) | 8 dari 8 | Dashboard KPP | Tenggat KPP |
 | K13 | Canvas A3 terkumpul dari seluruh biro, dengan seluruh anggota menempel minimal 1 sticky note berinisial pada tiap 3 zona | 8 dari 8 biro; 100% anggota | Dashboard dan foto Canvas | Tenggat KPP |
@@ -271,11 +271,11 @@ Seluruh narasi "amanah" dan "khidmah" di Materi 4 diturunkan dari nilai-nilai di
 
 | Kode | Indikator | Cara menilai |
 |---|---|---|
-| Q1 | Peserta mampu menjelaskan dengan kata sendiri perbedaan peran Kabiro, Staf Ahli, dan Kadep | Observasi fasilitator pada presentasi dan ulasan |
-| Q2 | Peserta menunjukkan perilaku koordinasi yang tepat saat simulasi (eskalasi tepat, tidak mengambil keputusan di luar wewenang, adab komunikasi) | Rubrik `SKOR_EVALUASI` (kriteria 3 dan 5) |
-| Q3 | Kualitas negosiasi: kesepakatan konkret, seimbang, dapat dieksekusi | Rubrik kriteria 2 |
-| Q4 | Peserta menyampaikan alasan pribadi yang kuat atau keraguan yang jujur | Ngopi Khidmah, Form Minat Peran |
-| Q5 | Suasana kekeluargaan dan kebanggaan pada sesi penutup | Catatan observasi, Form Umpan Balik |
+| Q1 | Peserta mampu menjelaskan dengan kata sendiri perbedaan peran Kabiro, Staf Ahli, dan Kadep | Form Umpan Balik pasca-pelatihan (butir terbuka) dan catatan Ngopi Khidmah |
+| Q2 | Peserta menunjukkan perilaku koordinasi yang tepat saat simulasi (eskalasi tepat, tidak mengambil keputusan di luar wewenang, adab komunikasi) | Rubrik `SKOR_EVALUASI`: Keaktifan Negosiasi, Ketepatan Eskalasi, dan Adab Kerjasama |
+| Q3 | Kualitas negosiasi: kesepakatan konkret, seimbang, dapat dieksekusi | Rubrik `SKOR_EVALUASI`: Kualitas Deal Konkret |
+| Q4 | Peserta menyampaikan alasan pribadi yang kuat atau keraguan yang jujur | Form Umpan Balik pasca-pelatihan, catatan Ngopi Khidmah, dan Form Minat Peran |
+| Q5 | Suasana kekeluargaan dan kebanggaan pada sesi penutup | Catatan observasi, Form Umpan Balik pasca-pelatihan, dan catatan Ngopi Khidmah |
 | Q6 | Kualitas praktik baik, peluang tumbuh, serta asa dan terobosan pada 1-Page Canvas (pendekatan *Appreciative Inquiry*) | Rubrik Canvas (dokumen 04) |
 | Q7 | Pola kontribusi dan kepemimpinan yang tumbuh organik pada Simulasi Taktis terpetakan untuk pembinaan, termasuk peran pendukung dan penengah, bukan hanya yang paling vokal | Lembar Observasi Kepemimpinan Emergen (dokumen 03, bagian 10), akses terbatas Badan Personalia |
 
