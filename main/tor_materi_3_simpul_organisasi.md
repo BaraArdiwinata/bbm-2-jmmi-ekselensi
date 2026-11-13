@@ -41,7 +41,7 @@ Adapun tujuan yang ingin dicapai pada sesi ini adalah sebagai berikut:
 5. Peserta menunjukkan diplomasi internal: memahami kepentingan pihak lain dan menawarkan jalan tengah saat buntu.
 6. Peserta menjelaskan sikap adaptif: prinsipnya tetap, bentuknya bisa berubah.
 
-**Indikator:** butir post-test 6–12 (dokumen 04, bagian 1.4) dan butir sikap L2.
+**Indikator:** soal Pre/Post-Test nomor 11–15 (`main/soal_pretest_posttest_bbm_2.md`).
 
 ## E. MATERI
 

@@ -36,7 +36,7 @@ Adapun tujuan yang ingin dicapai pada sesi ini adalah sebagai berikut:
 3. Peserta menyeimbangkan Prinsip Profesionalitas (instruksi dan pelaporan vertikal) dengan Prinsip Kekeluargaan (ukhuwah horizontal).
 4. Peserta mengenali lima tantangan internal angkatan dan memilih satu langkah awal yang dapat dilakukan, termasuk menyampaikan keraguan lewat jalur yang disediakan.
 
-**Indikator:** butir sikap L5 (bangga menjadi bagian JMMI ITS) dan L6 (siap berkhidmah), jawaban terbuka post-test, dan suasana sesi.
+**Indikator:** soal Pre/Post-Test nomor 16–20 (`main/soal_pretest_posttest_bbm_2.md`) dan suasana sesi.
 
 ## E. MATERI
 

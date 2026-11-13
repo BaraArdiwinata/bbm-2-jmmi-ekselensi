@@ -17,7 +17,7 @@
 
 **Pengaturan Form yang disarankan:**
 1. Jadikan Form sebagai *Quiz*, isi kunci jawaban dari Bagian 2, dan beri 5 poin per soal.
-2. Wajibkan isian identitas di bagian atas (nama, biro, NRP) dan batasi satu tanggapan per akun.
+2. Wajibkan isian identitas di bagian atas (kode peserta pada name tag, atau nama dan biro, sesuai rancangan panitia) dan batasi satu tanggapan per peserta.
 3. Matikan tampilan skor dan kunci jawaban setelah pengiriman agar naskah tidak menyebar sebelum Post-Test.
 4. Buat dua Form dari naskah yang sama (Pre-Test dan Post-Test), dan tampilkan QR-nya sesuai rundown.
 5. Kunci jawaban pada Bagian 2 hanya untuk panitia. **Jangan dibagikan ke peserta.**
@@ -30,11 +30,11 @@ Soal tidak menguji hafalan pasal, tenggat, atau angka SOP. Yang diuji adalah nal
 
 ### Materi 1: Arsitektur Amanah (No. 1–5)
 
-**1.** Kabinet Ekselensi 2026 menambah lapisan Biro di bawah Departemen, sehingga susunannya BPI–Departemen–Biro. Gambaran peran lapisan Biro yang paling tepat adalah ...
-A. Mengambil alih fungsi pengarahan yang sebelumnya dipegang Departemen
-B. Memberi ruang bagi pengurus tahun kedua untuk memimpin operasional program
-C. Menjadi forum tambahan yang hanya menerima laporan dari Staf Muda
-D. Menggantikan BPI dalam menentukan arah kebijakan organisasi
+**1.** Dalam struktur BPI–Departemen–Biro, fungsi utama lapisan Biro adalah ...
+A. Menetapkan arah kebijakan dan target organisasi secara keseluruhan
+B. Menjadi ujung tombak yang mengeksekusi program kerja secara teknis
+C. Mengintegrasikan beberapa biro dan menjadi penghubung dengan Wakil Ketua
+D. Mengontrol jalannya program lewat pemantauan dan evaluasi berkala
 
 **2.** Kamu Staf Muda dan ingin mengusulkan perubahan teknis pada program biro. Kepada siapa usulan itu pertama kali kamu sampaikan?
 A. Ketua Badan, karena memiliki wewenang paling tinggi
@@ -48,11 +48,11 @@ B. Mengambil alih program dan menjalankannya sendiri agar tepat waktu
 C. Menugaskan Staf Muda secara langsung tanpa melalui Kepala Biro
 D. Menghentikan program sampai BPI memberi persetujuan ulang
 
-**4.** Dalam rapat biro, seorang Staf Muda bertanya apakah Staf Ahli Biro otomatis menjadi wakil Kepala Biro. Jawaban yang paling tepat adalah ...
-A. Ya, Staf Ahli menggantikan Kepala Biro dalam semua keputusan
-B. Ya, tetapi hanya untuk urusan keuangan dan perizinan biro
-C. Tidak, Staf Ahli hanya bertugas mencatat dan menyimpan arsip biro
-D. Tidak, Staf Ahli memberi arahan teknis sesuai keahlian, bukan menjadi wakil
+**4.** Pernyataan yang paling tepat tentang peran Staf Ahli Biro adalah ...
+A. Staf Ahli menggantikan Kepala Biro dalam semua keputusan
+B. Staf Ahli bertugas mencatat dan menyimpan arsip biro
+C. Staf Ahli memegang kendali penuh atas urusan keuangan biro
+D. Staf Ahli memberi arahan teknis sesuai keahlian, bukan menjadi wakil Kepala Biro
 
 **5.** Aturan organisasi belum disahkan final dan bentuknya bisa berubah pada kepengurusan berikutnya. Pemahaman yang paling tepat adalah ...
 A. Seluruh peran, jabatan, dan batas wewenang pasti berubah total
@@ -74,11 +74,11 @@ B. Anggaran kegiatan membengkak melebihi rencana awal
 C. Mitra eksternal membatalkan kerja sama secara sepihak
 D. Jumlah peserta kegiatan menurun pada hari pelaksanaan
 
-**8.** Pada pola kepanitiaan proker biro yang dicontohkan di sesi ini, siapa yang menjabat Ketua Pelaksana?
-A. Ketua Departemen yang membawahi biro tersebut
-B. Ketua Biro yang menjadi penanggung jawab
-C. Staf Ahli yang ditunjuk memimpin pelaksanaan
-D. Staf Muda yang paling senior di biro
+**8.** Kepala Biro memiliki beberapa program kerja dalam setahun dan cenderung menunjuk orang yang sama sebagai Ketua Pelaksana. Prinsip penunjukan Ketua Pelaksana yang lebih tepat adalah ...
+A. Selalu menunjuk pengurus paling berpengalaman agar program lebih aman
+B. Menunjuk anggota yang paling aktif berbicara di setiap rapat biro
+C. Memeratakan amanah dan mengader pengurus agar tugas tidak menumpuk pada satu orang
+D. Mempertahankan ketua pelaksana yang sama sepanjang tahun agar konsisten
 
 **9.** Dua minggu sebelum acara, mitra pengisi belum membalas pesan dan perizinan belum keluar. Langkah mitigasi yang paling tepat adalah ...
 A. Menunggu balasan mitra dulu dan tidak menyiapkan rencana lain
@@ -164,14 +164,14 @@ D. Menyadari kondisi diri, menyampaikan keraguan lewat jalur yang disediakan, la
 
 | No | Materi | Kunci Jawaban | Indikator yang Diuji | Pembahasan Singkat |
 |---|---|---|---|---|
-| 1 | M1 Arsitektur Amanah | **B** | Alasan susunan BPI–Departemen–Biro | Lapisan Biro diisi pengurus tahun kedua untuk memimpin operasional program, bukan menggantikan Departemen atau BPI. |
+| 1 | M1 Arsitektur Amanah | **B** | Fungsi lapisan Biro dalam struktur BPI–Departemen–Biro | Biro adalah ujung tombak eksekusi teknis program kerja. Arah kebijakan ada di BPI, integrasi dan penghubung ke Wakil Ketua di Departemen, dan kontrol jalannya program di Fungsionaris. |
 | 2 | M1 Arsitektur Amanah | **C** | Tugas utama Kepala Biro dan batasnya | Kepala Biro memimpin operasional biro, sehingga usulan teknis diajukan ke Kepala Biro lebih dulu, bukan melompati jalur. |
 | 3 | M1 Arsitektur Amanah | **A** | Batas Kepala Departemen terhadap biro | Kepala Departemen boleh memberi arahan dan evaluasi, tetapi tidak mengambil alih urusan operasional biro. |
 | 4 | M1 Arsitektur Amanah | **D** | Peran Staf Ahli dan Staf Muda | Staf Ahli memberi arahan teknis sesuai keahlian dan bukan wakil Kepala Biro. |
 | 5 | M1 Arsitektur Amanah | **B** | Peta jalan kepengurusan berikutnya | Prinsip peran dan batas wewenang kemungkinan tetap, sedangkan nama jabatan dan bagan bisa berubah. |
 | 6 | M2 Seni Eksekusi | **D** | Menimbang kemampuan tim sebelum menetapkan proker | Cakupan proker disesuaikan dengan kemampuan tim, arahan Kadep, dan OKR agar tenggat tidak meleset dan anggota tidak kelelahan. |
 | 7 | M2 Seni Eksekusi | **A** | Pembagian tugas yang jelas | Tugas yang kabur menyebabkan pekerjaan ganda atau terlewat, salah satu kesulitan umum Kepala Biro tahun kedua. |
-| 8 | M2 Seni Eksekusi | **C** | Pembagian peran Kabiro, Staf Ahli, dan Staf Muda dalam kepanitiaan | Pada pola yang dicontohkan, Ketua Pelaksana dijabat Staf Ahli, penanggung jawab oleh Ketua Departemen dan Ketua Biro, sekretaris dan anggota oleh Staf Muda. |
+| 8 | M2 Seni Eksekusi | **C** | Prinsip penunjukan Ketua Pelaksana: pemerataan amanah dan kaderisasi | Amanah dipegang bergantian dan pengurus dikader, sehingga tugas tidak menumpuk pada satu pengurus. |
 | 9 | M2 Seni Eksekusi | **B** | Mitigasi kendala pihak luar | Siapkan rencana cadangan, komunikasi tertulis dengan mitra, dan bawa kendala ke Kepala Departemen bila buntu. |
 | 10 | M2 Seni Eksekusi | **C** | Menjaga semangat dan mengenali anggota yang menurun | Mulai dengan obrolan berdua yang empatik. Persoalan dibawa ke Kepala Departemen sebagai bahan pembinaan, bukan diputuskan atau dipermalukan sendiri. |
 | 11 | M3 Simpul Organisasi | **A** | Tingkat koordinasi yang tepat | Meminta persetujuan dipakai bila keputusan memengaruhi pekerjaan pihak lain. Memberi tahu cukup bila tidak mengubah pekerjaan pihak lain. |
@@ -189,8 +189,8 @@ D. Menyadari kondisi diri, menyampaikan keraguan lewat jalur yang disediakan, la
 
 | Materi | Soal | Konsep | Kasus | Nomor konsep |
 |---|---|---|---|---|
-| M1 Arsitektur Amanah | 1–5 | 2 | 3 | 1, 5 |
-| M2 Seni Eksekusi | 6–10 | 2 | 3 | 7, 8 |
+| M1 Arsitektur Amanah | 1–5 | 3 | 2 | 1, 4, 5 |
+| M2 Seni Eksekusi | 6–10 | 1 | 4 | 7 |
 | M3 Simpul Organisasi | 11–15 | 2 | 3 | 11, 12 |
 | M4 Saujana Manarul Ilmi | 16–20 | 2 | 3 | 16, 17 |
 | **Total** | **20** | **8 (40%)** | **12 (60%)** | |

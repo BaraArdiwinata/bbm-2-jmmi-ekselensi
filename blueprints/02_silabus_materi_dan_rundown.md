@@ -21,7 +21,7 @@
 | 3 | 08.35 | 08.38 | 3' | Sambutan Ketua Pelaksana | Bara Ardiwinata |  |
 | 4 | 08.38 | 08.41 | 3' | Sambutan Ketua Umum JMMI ITS | Muhammad Hazal Ma'aly Mahmud |  |
 | 5 | 08.41 | 09.11 | 30' | **Stadium Generale Pembina: "Semangat Bermasjid dan Ruh Khidmah"** | Dr. Candra Irawan, S.T., M.T. (Pembina JMMI ITS) | Membuka kegiatan dengan semangat berkhidmah di masjid kampus (lihat TOR 0) |
-| 6 | 09.11 | 09.21 | 10' | **Pre-Test (13 butir pilihan ganda, 6 butir sikap, 1 pertanyaan terbuka) via QR** | Operator | Data pre-test terkumpul |
+| 6 | 09.11 | 09.21 | 10' | **Pre-Test (20 soal pilihan ganda, identik dengan Post-Test) via QR** | Operator | Data pre-test terkumpul |
 | 7 | 09.21 | 10.21 | 60' | **Materi 1: "Arsitektur Amanah" (50 menit materi + 10 menit Q&A)** | Ketum, Waket I, Waket II | Peta wewenang menurut konvensi struktur saat ini dipahami |
 | 8 | 10.21 | 11.21 | 60' | **Materi 2: "Seni Eksekusi" (50 menit materi + 10 menit Q&A)** | Farhandito Apbrilliant Sulthon (Ketua Biro Relasi dan Hubungan Eksternal, Kabiro Best Biro OKR 1) | Cerita praktisi memimpin tim lapangan |
 | 9 | 11.21 | 12.06 | 45' | **Salat Dzuhur dan Ishoma** | Seluruh Panitia & Peserta | Jadwal salat resmi dikonfirmasi H-5 |
@@ -144,7 +144,7 @@ P = bahasan utama, S = bahasan pendukung (maksimal 2 menit), — = tidak dibahas
 2. Peserta membedakan unsur Fungsionaris dan pelaksana operasional biro serta menyebutkan siapa saja di dalamnya.
 3. Peserta menyebutkan wewenang inti Kabiro, Staf Ahli, Staf Muda, dan Kadep, dan batas satu terhadap yang lain.
 
-**Indikator capaian:** butir post-test 1, 2, 3, 4, 5 (lihat dokumen 04).
+**Indikator capaian:** soal Pre/Post-Test nomor 1–5 (naskah di `main/soal_pretest_posttest_bbm_2.md`).
 
 | Menit | Segmen | Pembicara | Isi |
 |---|---|---|---|
@@ -215,7 +215,7 @@ P = bahasan utama, S = bahasan pendukung (maksimal 2 menit), — = tidak dibahas
 2. Peserta memiliki acuan menyusun proker yang realistis terhadap kemampuan tim dan kendala dari pihak luar.
 3. Peserta memiliki langkah praktis untuk membagi tugas, mengoordinasikan staf, menghadapi kendala eksternal, dan menjaga semangat tim.
 
-**Indikator capaian:** butir sikap L3 (percaya diri memimpin biro) dan jawaban terbuka post-test.
+**Indikator capaian:** soal Pre/Post-Test nomor 6–10.
 
 | Menit | Segmen | Isi |
 |---|---|---|
@@ -253,7 +253,7 @@ P = bahasan utama, S = bahasan pendukung (maksimal 2 menit), — = tidak dibahas
 3. Peserta menunjukkan **diplomasi internal** (memahami kepentingan pihak lain, menawarkan penyesuaian) ketika permintaan ditolak atau koordinasi buntu.
 4. Peserta menjelaskan sikap **adaptif** saat struktur atau tata kelola berubah: prinsip tetap, bentuk dapat berubah.
 
-**Indikator capaian:** butir post-test 6–12 (butir 13 bersama Materi 1 dan Simulasi) dan butir sikap L2 (lihat dokumen 04).
+**Indikator capaian:** soal Pre/Post-Test nomor 11–15.
 
 | Menit | Segmen | Pembicara | Isi |
 |---|---|---|---|
@@ -346,7 +346,7 @@ Aturan khusus format terbaru:
 3. Peserta menyeimbangkan prinsip profesionalitas (jalur vertikal) dan prinsip kekeluargaan (jalur horizontal).
 4. Peserta mengenali lima tantangan internal angkatan dan memilih langkah awal yang dapat dilakukan.
 
-**Indikator capaian:** butir sikap L5 (bangga) dan L6 (siap berkhidmah), jawaban terbuka, dan observasi suasana.
+**Indikator capaian:** soal Pre/Post-Test nomor 16–20 dan observasi suasana sesi.
 
 | Menit | Segmen | Isi |
 |---|---|---|
@@ -508,13 +508,13 @@ Daftar lengkap logistik dan konsumsi ada pada dokumen 05.
 
 | Modul | Instrumen yang mengukur |
 |---|---|
-| M1 | Post-test butir 1–5, L1 |
-| M2 | L3, Form Umpan Balik, jawaban terbuka |
-| M3 | Post-test butir 6–13, L2 |
+| M1 | Pre/Post-Test soal 1–5 |
+| M2 | Pre/Post-Test soal 6–10, Form Umpan Balik |
+| M3 | Pre/Post-Test soal 11–15 |
 | Simulasi | `PAPAN_JARING`, `SKOR_EVALUASI` |
-| M4 | L5, L6, Form Umpan Balik, jawaban terbuka |
+| M4 | Pre/Post-Test soal 16–20, Form Umpan Balik |
 
-Butir soal dan kunci jawaban lengkap ada di dokumen 04.
+Naskah 20 soal, kunci jawaban, indikator, dan pembahasan ada di `main/soal_pretest_posttest_bbm_2.md`. Skema dan analisis ada di dokumen 04, bagian 1.
 
 ---
 

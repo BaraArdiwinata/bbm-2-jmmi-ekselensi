@@ -37,7 +37,7 @@ Adapun tujuan yang ingin dicapai pada sesi ini adalah sebagai berikut:
 4. Peserta menjelaskan mengapa Kepala Departemen mengarahkan dan memantau biro tanpa mengambil alih urusan operasional biro.
 5. Peserta menyebutkan garis besar peta jalan kepengurusan berikutnya: apa yang kemungkinan tetap dan apa yang mungkin berubah.
 
-**Indikator:** butir post-test 1–5 (dokumen 04, bagian 1.4) dan butir sikap L1 (paham batas wewenang).
+**Indikator:** soal Pre/Post-Test nomor 1–5 (`main/soal_pretest_posttest_bbm_2.md`).
 
 ## E. MATERI
 

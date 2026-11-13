@@ -18,15 +18,15 @@
 | Medium | Google Form, diakses melalui **QR code** (poster di meja registrasi dan di layar) |
 | Pre-test | 09.11–09.21 (±10 menit pengerjaan), sesi setelah sambutan dan sebelum M1 |
 | Post-test | 15.41–15.51 (±10 menit pengerjaan), setelah M4 dan sebelum briefing penugasan KPP |
-| Isi | 13 butir pengetahuan (pilihan ganda, skor 0–100), 6 butir sikap (skala 1–5), 1–2 butir terbuka |
-| Tujuan | Mengukur **kenaikan pemahaman** dan **perubahan sikap** peserta, serta menjadi sumber TUK K2–K5 dan K10 |
+| Isi | 20 soal pilihan ganda (5 soal per materi untuk M1–M4), naskah identik pada Pre-Test dan Post-Test. Skor 0–100 (5 poin per soal) |
+| Tujuan | Mengukur **kenaikan pemahaman** peserta, menjadi sumber TUK K2–K5, dan menjadi sumber **Poin PostTest** pada Indeks Performa Staf Muda (skor post-test × 0,25, maksimal 25 poin, Kontrak Belajar Pasal 21) |
 | Identitas | **Kode Peserta** (contoh `BBM2-17`) yang tercetak pada name tag. Digunakan untuk memasangkan pre dan post tanpa menampilkan nama pada analisis |
 | Bentuk butir | **Butir sama** pada pre dan post, dengan **urutan opsi diacak** oleh Google Form. Keterbatasan: efek ingatan. Dicatat sebagai keterbatasan, bukan dihilangkan |
 
 ### 1.2 Pengaturan Google Form
 
-1. Aktifkan **mode kuis** (skor otomatis) untuk Bagian B (pengetahuan). Bagian C (sikap) dan D (terbuka) tidak diskor.
-2. Kunci jawaban dimasukkan sesuai 1.4. Jangan tampilkan jawaban benar setelah mengirim (supaya pre-test tidak membocorkan post-test).
+1. Aktifkan **mode kuis** (skor otomatis) untuk Bagian B (20 soal), masing-masing 5 poin.
+2. Kunci jawaban dimasukkan sesuai naskah di `main/soal_pretest_posttest_bbm_2.md` (Bagian 2). Jangan tampilkan jawaban benar setelah mengirim (supaya pre-test tidak membocorkan post-test).
 3. Bagian A: **Kode Peserta** (jawaban singkat, validasi ekspresi reguler `^BBM2-[0-9]{2}$`) dan **Biro Asal** (dropdown 8 biro). Wajib diisi.
 4. Pilihan: acak urutan opsi; satu respons per orang (batasi lewat kode); tidak mengumpulkan alamat surel; batas waktu tidak dipasang (ditutup panitia).
 5. Buat dua formulir terpisah: **BBM2-PRETEST** dan **BBM2-POSTTEST**. Kedua formulir menautkan ke satu Google Sheet analisis.
@@ -37,155 +37,32 @@
 | Bagian | Isi | Skor |
 |---|---|---|
 | A. Identitas | Kode Peserta, Biro Asal | Tidak diskor |
-| B. Pengetahuan | 13 butir pilihan ganda | 1 poin per butir, skor akhir = (benar ÷ 13) × 100 |
-| C. Sikap dan kesiapan | 6 butir skala 1–5 | Tidak diskor, dianalisis sebagai rerata |
-| D. Terbuka | Pre: 1 butir; Post: 2 butir (opsional) | Dianalisis kualitatif |
+| B. Pengetahuan | 20 soal pilihan ganda (M1: 1–5, M2: 6–10, M3: 11–15, M4: 16–20) | 5 poin per soal, skor akhir = jumlah benar × 5 |
 
-### 1.4 Butir Pengetahuan dan Kunci Jawaban
+### 1.4 Naskah Soal dan Kunci Jawaban
 
-Rujukan pasal mengacu pada dokumen `tata_kelola_organisasi_jmmi_kabinet_ekselensi_2026.pdf`.
+Naskah 20 soal siap salin, kunci jawaban, indikator, dan pembahasan singkat ada di `main/soal_pretest_posttest_bbm_2.md`. Pre-Test dan Post-Test memakai naskah yang sama persis. Materi 0 (Open Speech Pembina) tidak diujikan.
 
-> **Pembingkaian butir.** Tata Kelola belum disahkan secara final dan belum pasti dipertahankan pada kepengurusan berikutnya. Butir 1–5 (Materi 1) karena itu menguji pemahaman atas **konvensi struktur kabinet saat ini**, bukan pasal yang dianggap baku. Butir 6–12 (Materi 3) menguji **prinsip komunikasi, kolaborasi lintas tim, dan etika eskalasi** lewat skenario; tidak ada butir yang meminta hafalan angka tenggat atau nomor pasal SOP. Rujukan pasal pada kunci hanya untuk memudahkan validasi, bukan materi yang diujikan.
+> **Pembingkaian soal.** Tata Kelola belum disahkan secara final dan belum pasti dipertahankan pada kepengurusan berikutnya. Soal M1 (1–5) karena itu menguji pemahaman atas **konvensi struktur kabinet saat ini**, bukan pasal yang dianggap baku. Soal M3 (11–15) menguji **prinsip komunikasi, kolaborasi lintas tim, dan etika eskalasi** lewat skenario. Tidak ada soal yang meminta hafalan angka tenggat atau nomor pasal SOP.
 
-**Butir 1.** Menurut Tata Kelola, kelompok yang termasuk **Fungsionaris** adalah...
-- A. Kepala Biro, Staf Ahli Biro, dan Staf Muda Biro
-- B. Ketua Badan, Asisten Badan, Sekretaris Badan, Ketua Departemen, dan Sekretaris Departemen
-- C. Ketua Umum, Wakil Ketua, Sekretaris Umum, dan Bendahara Umum
-- D. Staf Ahli Badan, Kepala Biro, dan Sekretaris Pelaksana
-
-**Kunci: B** (5.3.1.2). *Modul: M1. Indikator: membedakan Fungsionaris dan pelaksana operasional biro.*
-
-**Butir 2.** Kepala Biro termasuk unsur...
-- A. Badan Pengurus Inti
-- B. Fungsionaris
-- C. Pelaksana operasional biro
-- D. Unit (Badan Semi Otonom)
-
-**Kunci: C** (5.3.2). *Modul: M1.*
-
-**Butir 3.** Terhadap operasional biro, Kepala Departemen berwenang untuk...
-- A. mengambil alih pelaksanaan program biro apabila lambat
-- B. mengangkat dan memberhentikan Staf Muda
-- C. menyetujui kerja sama eksternal biro secara mandiri
-- D. memberi arahan, rekomendasi, asistensi, monitoring, dan evaluasi **tanpa mengambil alih kewenangan operasional biro**
-
-**Kunci: D** (5.5.2.5; 5.6.6). *Modul: M1. Kelompok K5.*
-
-**Butir 4.** Arahan Staf Ahli kepada Staf Muda bersifat...
-- A. arahan teknis sesuai bidang keahlian, dan permintaan data dilakukan dengan sepengetahuan Kabiro
-- B. instruksi penugasan penuh atas nama Kabiro
-- C. keputusan final pembagian tugas biro
-- D. persetujuan anggaran biro
-
-**Kunci: A** (5.6.10). *Modul: M1. Kelompok K5.*
-
-**Butir 5.** Untuk kebutuhan sumber daya dan anggaran biro, Kepala Biro...
-- A. memutuskan sendiri lalu melapor setelahnya
-- B. meminta langsung ke Bendahara Umum tanpa melalui Kadep
-- C. **mengusulkan** kepada Kepala Departemen
-- D. meminta persetujuan Staf Ahli
-
-**Kunci: C** (5.6.9 c). *Modul: M1. Kelompok K5.*
-
-**Butir 6.** Staf Muda menemukan kendala yang tidak dapat diselesaikan di tingkat biro. Langkah eskalasi yang paling beretika adalah...
-- A. mengadukan langsung kepada pimpinan tertinggi agar cepat selesai
-- B. menyampaikan fakta, opsi penyelesaian, dan permintaan arahan melalui atasan langsung secara berjenjang
-- C. membahasnya di grup angkatan untuk mencari dukungan
-- D. menunggu sampai masalahnya reda dengan sendirinya
-
-**Kunci: B** (prinsip pelaporan berjenjang dan format fakta–opsi–permintaan; konvensi struktur saat ini: 5.5.1). *Modul: M3. Kelompok K5.*
-
-**Butir 7.** Biro lain meminta bantuan mendadak yang mustahil dipenuhi tepat waktu. Respons yang paling asertif adalah...
-- A. menyanggupi semuanya agar tidak mengecewakan
-- B. mengabaikan pesan sampai ada pengingat kedua
-- C. menolak singkat tanpa penjelasan
-- D. menyampaikan batas kapasitas dengan sopan, menawarkan alternatif waktu atau bentuk bantuan, dan memberi tahu koordinator
-
-**Kunci: D** (koordinasi asertif; koordinasi antarbagian tetap diketahui koordinator, 5.5.1). *Modul: M3. Kelompok K5.*
-
-**Butir 8.** Biro Anda hendak mengubah jam serah materi, dan perubahan itu menggeser pekerjaan biro lain. Tingkat koordinasi yang paling tepat adalah...
-- A. meminta kesepakatan biro yang terdampak sebelum perubahan ditetapkan
-- B. cukup memberi tahu setelah perubahan berlaku
-- C. memutuskan sepihak karena jadwal adalah wewenang biro sendiri
-- D. menunggu sampai biro lain mengajukan keberatan
-
-**Kunci: A** (tiga tingkat koordinasi: memberi tahu, meminta persetujuan, memutuskan bersama). *Modul: M3.*
-
-**Butir 9.** Ketika anggota tim berbeda pendapat dalam musyawarah, sikap yang paling sesuai prinsip musyawarah adalah...
-- A. langsung memakai suara terbanyak tanpa mendengar pihak yang kalah
-- B. memakai pendapat anggota yang paling senior
-- C. mendengar lebih dahulu, memisahkan pendapat dari pribadi, lalu menyepakati langkah bersama
-- D. menunda keputusan sampai semua orang setuju mutlak
-
-**Kunci: C** (budaya Diskusi dan Musyawarah, 7.1.1). *Modul: M3.*
-
-**Butir 10.** Tim biro lain menolak permintaan Anda karena kapasitas mereka penuh. Langkah yang paling selaras dengan diplomasi internal adalah...
-- A. menekan mereka lewat grup umum agar merasa tidak enak
-- B. memahami kepentingan dan batas mereka, menawarkan penyesuaian tenggat atau ruang lingkup, dan mengeskalasi hanya bila tetap buntu
-- C. meminta Kabiro Anda menegur Kabiro mereka
-- D. menghubungi kenalan pribadi di biro itu agar permintaan tetap diproses
-
-**Kunci: B** (diplomasi internal dan etika eskalasi). *Modul: M3.*
-
-**Butir 11.** Eskalasi masalah kepada atasan paling tepat dilakukan ketika...
-- A. ada perbedaan pendapat sekecil apa pun
-- B. ingin menunjukkan bahwa pihak lain bersalah
-- C. belum sempat berbicara langsung dengan pihak terkait
-- D. upaya langsung sudah ditempuh tetapi buntu, atau keputusan berdampak melampaui kewenangan biro
-
-**Kunci: D** (etika eskalasi; keputusan lintas bidang atau tata kelola memerlukan BPI, 5.5.2.7). *Modul: M3.*
-
-**Butir 12.** Struktur atau tata kelola berubah pada kepengurusan berikutnya. Sikap yang paling tepat adalah...
-- A. mempertahankan prinsip komunikasi, kejelasan peran, dan etika koordinasi, sambil menyesuaikan bentuk jalur dengan ketentuan terbaru
-- B. menolak menyesuaikan diri sampai ada pelatihan ulang
-- C. menganggap seluruh pelajaran hari ini gugur
-- D. tetap memakai alur lama tanpa konfirmasi
-
-**Kunci: A** (adaptabilitas: prinsip tetap, bentuk dapat berubah). *Modul: M3.*
-
-**Butir 13 (kasus).** Seorang Waket memberi instruksi lisan langsung kepada Anda sebagai Staf Muda, dan instruksi itu bertentangan dengan arahan Kabiro Anda. Langkah paling tepat adalah...
-- A. mengeksekusi karena Waket lebih tinggi
-- B. mengabaikan instruksi tersebut
-- C. menyampaikan ke Kabiro agar dikonfirmasi ke Kadep melalui jalur koordinasi
-- D. membahasnya di grup angkatan
-
-**Kunci: C** (pelaporan melalui atasan langsung menurut konvensi struktur saat ini, 5.5.1 dan 5.5.2.3; prinsip koordinasi dan etika eskalasi). *Modul: M1, M3, Simulasi (inject B). Kelompok K5.*
-
-**Ringkasan kunci:** 1B · 2C · 3D · 4A · 5C · 6B · 7D · 8A · 9C · 10B · 11D · 12A · 13C.
-
-**Pemetaan butir ke modul:** M1: butir 1–5. M3: butir 6–12. Simulasi dan M1/M3: butir 13.
-
-**Kelompok butir jalur dan wewenang (K5):** butir 3, 4, 5, 6, 7, 13.
-
-> **Catatan validasi:** butir 1–5 dan 13 disusun dari teks Tata Kelola yang telah dibaca dan diperlakukan sebagai konvensi struktur saat ini. Sebelum formulir dikunci (uji coba H-6, 9 November), Badan Keorganisasian meninjau butir 1–5 dan 13 agar sejalan dengan interpretasi terbaru, sedangkan Ketua Badan Keorganisasian dan Waket III meninjau butir 6–12 agar sejalan dengan isi Materi 3. Isi tenggat administrasi (proposal, SPJ, LPJ) dan SOP media tidak lagi diujikan.
-
-### 1.5 Butir Sikap dan Kesiapan (Skala 1–5)
-
-Skala: 1 = Sangat tidak setuju, 2 = Tidak setuju, 3 = Netral, 4 = Setuju, 5 = Sangat setuju.
-
-| Kode | Pernyataan | Dimensi |
+| Modul | Nomor soal | Komposisi |
 |---|---|---|
-| L1 | Saya memahami batas wewenang Kabiro, Staf Ahli, dan Staf Muda. | Pemahaman peran |
-| L2 | Saya tahu langkah yang harus ditempuh ketika koordinasi dengan biro lain menemui jalan buntu. | Pemahaman jalur |
-| L3 | Saya percaya diri memimpin sebuah tim biro. | Kepercayaan diri |
-| L4 | Saya merasa organisasi memberi dukungan memadai bagi pengurus yang naik ke peran struktural. | Persepsi dukungan |
-| L5 | Saya bangga menjadi bagian dari JMMI ITS. | Kebanggaan |
-| L6 | Saya siap berkhidmah pada peran struktural di kepengurusan berikutnya. | Kesiapan berkhidmah |
+| M1 Arsitektur Amanah | 1–5 | 3 konsep, 2 kasus |
+| M2 Seni Eksekusi | 6–10 | 1 konsep, 4 kasus |
+| M3 Simpul Organisasi | 11–15 | 2 konsep, 3 kasus |
+| M4 Saujana Manarul Ilmi | 16–20 | 2 konsep, 3 kasus |
 
-### 1.6 Butir Terbuka
+**Kelompok soal jalur dan wewenang (K5):** soal 2, 3, 4, 11, 12, 14.
 
-| Formulir | Butir | Wajib |
-|---|---|---|
-| Pre-test | "Satu hal yang paling Anda khawatirkan jika diberi peran struktural di kepengurusan berikutnya." | Tidak |
-| Post-test | "Satu hal yang paling mengubah cara pandang Anda hari ini." | Tidak |
-| Post-test | "Satu hal yang masih Anda ragukan (boleh dikosongkan)." | Tidak |
+**Konversi ke rekap panitia:** `Poin PostTest = Nilai PostTest × 0,25` (maksimal 25 poin).
 
-Butir terbuka dibuat opsional dan tidak dipaksa. Isinya dipakai untuk pembinaan, bukan penilaian.
+> **Catatan validasi:** soal M1 disusun dari ToR Materi 1 dan konvensi struktur saat ini. Sebelum formulir dikunci (uji coba H-6, 9 November), Badan Keorganisasian dan Ketua Umum meninjau soal 1–5 agar sejalan dengan interpretasi terbaru.
 
-### 1.7 Analisis Data
+### 1.5 Analisis Data
 
 **A. Skor pengetahuan:**
-- Skor = (jumlah benar ÷ 13) × 100.
+- Skor = jumlah benar × 5 (skala 0–100).
+- Poin PostTest = skor post × 0,25 (maksimal 25 poin).
 - Rerata pre, rerata post, dan selisih.
 
 **B. N-Gain per peserta dan kelompok (Hake):**
@@ -199,23 +76,16 @@ Kategori: **g ≥ 0,70** tinggi · **0,30 ≤ g < 0,70** sedang · **g < 0,30** 
 - N-Gain: `=IF(OR(B2="",C2="",B2=100),"",(C2-B2)/(100-B2))`
 - Rerata g: `=AVERAGE(D2:D71)`
 - Proporsi post ≥ 70: `=COUNTIF(C2:C71,">=70")/COUNT(C2:C71)`
-- Proporsi benar kelompok K5: tabulasi butir 3, 4, 5, 6, 7, 13 dari data respons kuis.
+- Proporsi benar kelompok K5: tabulasi soal 2, 3, 4, 11, 12, 14 dari data respons kuis.
 
-**D. Butir sikap:** rerata per butir untuk pre dan post; selisih rerata. K10 memakai selisih rerata L6. Untuk menghindari kesalahan membaca, laporkan juga **sebaran** (persentase pilihan 1–2, 3, 4–5), bukan hanya rerata.
-
-**E. Butir terbuka:** pengodean tema oleh dua anggota tim (kategori contoh: beban waktu, kemampuan diri, ketidakjelasan peran, dukungan, kebanggaan, relasi antar-pengurus). Hasil dibagikan sebagai ringkasan tanpa nama.
-
-### 1.8 Interpretasi dan Tindak Lanjut
+### 1.6 Interpretasi dan Tindak Lanjut
 
 | Temuan | Tafsir | Tindak lanjut |
 |---|---|---|
 | Butir tertentu menunjukkan < 60% benar pada post-test | Materi terkait kurang tersampaikan atau butir ambigu | Evaluasi pemateri dan butir. Sertakan penjelasan pada ringkasan pasca-acara |
 | N-Gain rerata < 0,30 | Efek materi rendah | Telaah desain sesi dan tindak lanjut lewat pembahasan Ngopi Khidmah dan Canvas |
-| L4 (dukungan organisasi) rendah | Persepsi dukungan kurang | Catat sebagai masukan ke Badan Keorganisasian dan BPI |
-| L6 turun atau tetap rendah | Keraguan berkhidmah belum terjawab | Prioritaskan peserta tersebut untuk percakapan pendampingan oleh Badan Personalia, dengan persetujuan mereka |
-| Jawaban terbuka memuat hambatan akademik berulang | Beban akademik adalah faktor utama | Bahas di rapat Personalia: mekanisme kelonggaran peran atau peran ringan |
 
-### 1.9 Form Umpan Balik (16 November)
+### 1.7 Form Umpan Balik (16 November)
 
 Dikirim **16 November (H+2)** lewat tautan agar waktu penutupan hari-H tidak terpotong. Tidak diskor.
 
@@ -636,7 +506,7 @@ KPP selesai pada 21 November, **sebelum** batas asistensi LPJ (28 November). Dat
 | Profil peserta | Registrasi dan Form Minat Peran | Nama, angkatan, jurusan, biro asal |
 | Kesiapan dan minat | Form Minat Peran | Peran minat, pilihan biro, tingkat kesiapan, kategori |
 | Hambatan dan dukungan | Form Minat Peran | Hambatan, kebutuhan dukungan, hal yang membuat bertahan dan ragu |
-| Hasil belajar | Pre-test dan post-test | Skor pre, post, N-Gain, sikap L1–L6 |
+| Hasil belajar | Pre-test dan post-test | Skor pre, post, N-Gain, Poin PostTest |
 | Hasil Ngopi Khidmah | Dashboard (Tab 1 dan 2) | Narasumber, tanggal, kehadiran, bukti publikasi |
 | Hasil Canvas | Foto A3 dan rekap tema | Tema per zona terbuka; aspirasi Ruang Tumbuh dari botol hanya direkap Badan Personalia tanpa nama |
 | Observasi kontribusi (Simulasi Taktis) | Lembar Observasi Kepemimpinan Emergen (formulir terpisah, dokumen 03 bagian 10) | Skor 1–4 pada 6 dimensi perilaku dengan bukti singkat per kode peserta; momen kunci saat Inject B dan C. **Bukan peringkat dan bukan dasar tunggal seleksi** |
@@ -682,12 +552,12 @@ KPP selesai pada 21 November, **sebelum** batas asistensi LPJ (28 November). Dat
 | K2 | Rerata skor post-test | ≥ 75 | Post-test | 14 Nov |
 | K3 | N-Gain rerata | ≥ 0,40 | Pre dan post-test | 14 Nov |
 | K4 | Peserta dengan skor post ≥ 70 | ≥ 80% | Post-test | 14 Nov |
-| K5 | Ketepatan butir jalur dan wewenang (butir 3, 4, 5, 6, 7, 13) | ≥ 80% benar | Post-test | 14 Nov |
+| K5 | Ketepatan soal jalur dan wewenang (soal 2, 3, 4, 11, 12, 14) | ≥ 80% benar | Post-test | 14 Nov |
 | K6 | Relasi Deal pada Papan Jaring | ≥ 12 dari 16 | `PAPAN_JARING` | 14 Nov |
 | K7 | Pelanggaran arah per biro | Rata-rata ≤ 1 | `SKOR_EVALUASI` | 14 Nov |
 | K8 | Biro dengan Tabel 1 dan 2 terisi (hasil kesepakatan dan status) | 8 dari 8 | `PAPAN_JARING` | 14 Nov |
 | K9 | Kepuasan per materi | ≥ 4,2 | Form Umpan Balik | 16 Nov |
-| K10 | Kenaikan rerata L6 | ≥ +0,5 | Pre dan post-test | 14 Nov |
+| K10 | (tidak dipakai: butir sikap tidak diukur pada skema 20 soal) | — | — | — |
 | K11 | Pengisian Form Minat Peran | ≥ 85% | Form Minat Peran | Tenggat KPP (21 Nov) |
 | K12 | Biro menyelesaikan Ngopi Khidmah dengan **kehadiran lengkap**, komposisi narasumber lengkap (dua Kepala Biro dari Kelompok A dan B, satu Staf Ahli Biro, dan 1–2 fungsionaris badan), dan **bukti publikasi** (Instagram + grup komunal) | 8 dari 8 | Dashboard Tab 1 | Tenggat KPP |
 | K13 | Canvas A3 terkumpul dari seluruh biro, dengan **100% anggota** menulis ≥ 1 sticky di dua zona terbuka dan mengisi lembar aspirasi (botol departemen diterima) | 8 dari 8 biro; 100% anggota | Dashboard, foto Canvas, dan penerimaan botol | Tenggat KPP |

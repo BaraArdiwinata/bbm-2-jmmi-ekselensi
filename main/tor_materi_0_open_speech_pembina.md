@@ -33,7 +33,7 @@ Adapun tujuan yang ingin dicapai pada sesi ini adalah sebagai berikut:
 2. Peserta memahami arti memakmurkan masjid, yaitu lebih dari tempat salat: tempat belajar, membina, dan melayani.
 3. Peserta memiliki niat yang lurus dalam berorganisasi dan siap mengikuti rangkaian BBM 2.
 
-**Indikator:** kesan awal peserta yang tercermin dari suasana sesi dan jawaban terbuka pada post-test.
+**Indikator:** kesan awal peserta yang tercermin dari suasana sesi. Materi 0 tidak diujikan pada Pre/Post-Test.
 
 ## E. MATERI
 

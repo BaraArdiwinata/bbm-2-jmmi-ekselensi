@@ -42,7 +42,7 @@ Adapun tujuan yang ingin dicapai pada sesi ini adalah sebagai berikut:
 4. Peserta menyusun mitigasi untuk hal yang bergantung pada pihak luar: rencana cadangan, komunikasi tertulis dengan mitra, dan kapan membawa kendala ke Kepala Departemen.
 5. Peserta menerapkan koordinasi staf yang jelas dan cara menjaga semangat anggota, termasuk mengenali anggota yang mulai menurun.
 
-**Indikator:** butir sikap L3 (percaya diri memimpin biro) dan jawaban terbuka post-test.
+**Indikator:** soal Pre/Post-Test nomor 6–10 (`main/soal_pretest_posttest_bbm_2.md`).
 
 ## E. MATERI
 

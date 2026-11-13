@@ -123,7 +123,7 @@ Temuan berikut berasal dari pembacaan teks dokumen `tata_kelola_organisasi_jmmi_
 1. **Materi 3 tidak mengajarkan SOP kaku.** Fokusnya prinsip komunikasi, kolaborasi lintas tim, dan etika eskalasi, ditambah segmen adaptabilitas. Detail administrasi (surat, proposal, SPJ, LPJ, request media, inventaris) hanya disebut lisan sebagai contoh konvensi sementara, tidak diajarkan, tidak diujikan, dan tidak dibagikan sebagai handout.
 2. **Materi 1 dan Simulasi Taktis dibingkai sebagai "simulasi berbasis konvensi struktur kabinet saat ini".** Peserta berlatih dalam struktur yang berlaku, sambil memahami bahwa prinsipnya bertahan walau bentuknya berubah.
 3. **Ketidakfinalan dijadikan kekuatan.** Materi 3 mengajak peserta melihat aturan sebagai konvensi yang masih bisa disempurnakan. Temuan 1–8 pada tabel di atas menjadi agenda internal Badan Keorganisasian.
-4. **Instrumen evaluasi** (butir pre-test dan post-test 6–12) menguji prinsip dan skenario, bukan hafalan angka atau pasal.
+4. **Instrumen evaluasi** (soal pre-test dan post-test nomor 11–15) menguji prinsip dan skenario, bukan hafalan angka atau pasal.
 
 ### 2.3 Risiko Resistensi Kader Staf Muda
 
@@ -253,15 +253,15 @@ Seluruh narasi "amanah" dan "khidmah" di Materi 4 diturunkan dari nilai-nilai di
 | Kode | Indikator | Target usulan | Instrumen | Waktu ukur |
 |---|---|---|---|---|
 | K1 | Kehadiran peserta terdaftar | ≥ 90% | Daftar hadir digital | 14 Nov |
-| K2 | Rerata skor pemahaman post-test | ≥ 75 dari 100 | Post-test (13 butir pilihan ganda) | 14 Nov, 16.00 |
+| K2 | Rerata skor pemahaman post-test | ≥ 75 dari 100 | Post-test (20 soal pilihan ganda) | 14 Nov, 16.00 |
 | K3 | N-Gain rerata kelompok (pre → post) | ≥ 0,40 (kategori sedang) | Pre-test dan post-test | 14 Nov |
 | K4 | Proporsi peserta dengan skor post-test ≥ 70 | ≥ 80% | Post-test | 14 Nov |
-| K5 | Ketepatan menjawab butir wewenang serta prinsip koordinasi dan eskalasi (butir 3, 4, 5, 6, 7, 13) | ≥ 80% benar pada post-test | Post-test | 14 Nov |
+| K5 | Ketepatan menjawab butir wewenang serta prinsip koordinasi dan eskalasi (soal 2, 3, 4, 11, 12, 14) | ≥ 80% benar pada post-test | Post-test | 14 Nov |
 | K6 | Relasi koordinasi berstatus *Deal* pada Papan Jaring | ≥ 12 dari 16 relasi (75%) | `PAPAN_JARING` | 14 Nov, 14.00 |
 | K7 | Pelanggaran arah per biro pada simulasi | Rata-rata ≤ 1 | `SKOR_EVALUASI` | 14 Nov |
 | K8 | Biro yang mengisi Tabel 1 dan 2 tab biro (hasil kesepakatan dan status) | 8 dari 8 | `PAPAN_JARING` (rekap per meja) | 14 Nov |
 | K9 | Rerata kepuasan tiap materi | ≥ 4,2 dari 5 | Form Umpan Balik | H+2 (16 Nov) |
-| K10 | Kenaikan rerata butir "siap berkhidmah di peran struktural" (pre → post) | ≥ +0,5 poin (skala 1–5) | Butir L6 pre-test dan post-test | 14 Nov |
+| K10 | (tidak dipakai: butir sikap tidak diukur pada skema 20 soal) | — | — | — |
 | K11 | Peserta yang mengisi Form Minat Peran | ≥ 85% | Form Minat Peran (KPP) | Tenggat KPP (21 Nov) |
 | K12 | Biro yang menyelesaikan Ngopi Khidmah dengan kehadiran lengkap, komposisi narasumber lengkap (2 Kepala Biro kelompok A dan B, 1 Staf Ahli Biro, 1–2 fungsionaris badan), dan bukti publikasi (Instagram biro + grup komunal) | 8 dari 8 | Dashboard KPP | Tenggat KPP |
 | K13 | Canvas A3 terkumpul dari seluruh biro, dengan seluruh anggota menempel minimal 1 sticky note berinisial pada tiap 3 zona | 8 dari 8 biro; 100% anggota | Dashboard dan foto Canvas | Tenggat KPP |
@@ -271,11 +271,11 @@ Seluruh narasi "amanah" dan "khidmah" di Materi 4 diturunkan dari nilai-nilai di
 
 | Kode | Indikator | Cara menilai |
 |---|---|---|
-| Q1 | Peserta mampu menjelaskan dengan kata sendiri perbedaan peran Kabiro, Staf Ahli, dan Kadep | Observasi fasilitator pada debrief, jawaban terbuka post-test |
+| Q1 | Peserta mampu menjelaskan dengan kata sendiri perbedaan peran Kabiro, Staf Ahli, dan Kadep | Observasi fasilitator pada presentasi dan ulasan |
 | Q2 | Peserta menunjukkan perilaku koordinasi yang tepat saat simulasi (eskalasi tepat, tidak mengambil keputusan di luar wewenang, adab komunikasi) | Rubrik `SKOR_EVALUASI` (kriteria 3 dan 5) |
 | Q3 | Kualitas negosiasi: kesepakatan konkret, seimbang, dapat dieksekusi | Rubrik kriteria 2 |
-| Q4 | Peserta menyampaikan alasan pribadi yang kuat atau keraguan yang jujur | Jawaban terbuka post-test, Ngopi Khidmah, Form Minat Peran |
-| Q5 | Suasana kekeluargaan dan kebanggaan pada sesi penutup | Catatan observasi, jawaban terbuka |
+| Q4 | Peserta menyampaikan alasan pribadi yang kuat atau keraguan yang jujur | Ngopi Khidmah, Form Minat Peran |
+| Q5 | Suasana kekeluargaan dan kebanggaan pada sesi penutup | Catatan observasi, Form Umpan Balik |
 | Q6 | Kualitas praktik baik, peluang tumbuh, serta asa dan terobosan pada 1-Page Canvas (pendekatan *Appreciative Inquiry*) | Rubrik Canvas (dokumen 04) |
 | Q7 | Pola kontribusi dan kepemimpinan yang tumbuh organik pada Simulasi Taktis terpetakan untuk pembinaan, termasuk peran pendukung dan penengah, bukan hanya yang paling vokal | Lembar Observasi Kepemimpinan Emergen (dokumen 03, bagian 10), akses terbatas Badan Personalia |
 
@@ -302,14 +302,14 @@ Indikator berikut tidak masuk TUK acara, tetapi berguna untuk menilai BBM 2 pada
 | Pemateri: Stadium Generale Dr. Candra Irawan; M1 Hazal + Waket I, II; M2 Farhandito Apbrilliant Sulthon (Ketua Biro Relasi dan Hubungan Eksternal, Kabiro Best Biro OKR 1); M3 Waket III + 1 Staf Ahli Badan Personalia; M4 Kadep Syi'ar (M. Fakhri Imamul Huda) | **Final** | Konfirmasi Ketupel |
 | Materi 3 dibingkai ulang: **Prinsip Komunikasi, Kolaborasi Lintas Tim, dan Etika Eskalasi**, dengan segmen adaptabilitas (Opsi A) | **Final** (keputusan Ketua Pelaksana, pasca-audiensi 24 Oktober 2026) | Alasan: Tata Kelola belum final. Detail di dokumen 02 bagian 3.2 |
 | Materi 1 dan Simulasi Taktis dibingkai sebagai "simulasi berbasis konvensi struktur kabinet saat ini" | **Final** (keputusan Ketua Pelaksana) | Dokumen 02 dan 03 |
-| Butir pre-test dan post-test Materi 3 (butir 6–12) menguji prinsip koordinasi dan skenario etika eskalasi, bukan hafalan angka atau pasal | **Final** (keputusan Ketua Pelaksana) | Dokumen 04 bagian 1.4 |
+| Soal pre-test dan post-test Materi 3 (nomor 11–15) menguji prinsip koordinasi dan skenario etika eskalasi, bukan hafalan angka atau pasal | **Final** (keputusan Ketua Pelaksana) | Naskah di `main/soal_pretest_posttest_bbm_2.md` |
 | Simulasi: 1 ronde terpadu **30 menit** (P1 4', P2 17', P3 4', P4 5'), 8 biro, 16 relasi asimetris, 3 inject (menit 8, 12, 16), Google Sheets | **Final** (revisi durasi 1 November 2026, arahan Ketua Pelaksana) | Artefak di `main/` |
 | Nama biro ditulis lengkap pada seluruh dokumen. Kode dua huruf hanya di dalam skrip generator | **Final** (arahan Ketua) | ID Tiket memakai nomor relasi R-01 sampai R-16 |
 | Peran tim organik: tidak ada penunjukan jabatan; kepemimpinan emergen diamati non-formal | **Final** (arahan Ketua) | Instrumen dan pengamannya di dokumen 03 bagian 2.5 dan 10 |
 | Pembentukan meja berbasis biro asal; hadir < 3 orang digabung dalam departemen yang sama | **Final** (arahan Ketua) | Mekanisme meja gabungan dua kartu adalah interpretasi penyusun, perlu konfirmasi |
 | KPP: Ngopi Khidmah (rombongan biro, komposisi narasumber 2 Kepala Biro kelompok A dan B, 1 Staf Ahli Biro, dan 1–2 fungsionaris badan yang dicari sendiri, kuota 2 ajakan first-come first-served, bukti Instagram dan grup komunal) dan 1-Page Canvas Biro Masa Depan (kertas A3 + sticky notes berinisial; dua zona terbuka *Appreciative Inquiry*: **Cahaya Biro** (Warisan Baik yang Kita Jaga) dan **Asa dan Terobosan** (Estafet Kita Selanjutnya); zona **Ruang Tumbuh** (Peluang yang Ingin Kita Jelajahi) tertutup dalam botol aspirasi per departemen untuk Badan Personalia) | **Final** (disetujui penuh Ketua Pelaksana; nama zona dan topik ketiga Ngopi Khidmah ("Kekuatan biro dan hal yang ingin dikembangkan bersama") ditetapkan pasca-audiensi) | Detail di dokumen 04. Interpretasi yang perlu konfirmasi ada di dokumen 04 bagian 8 |
 | Tenggat KPP: Sabtu, 21 November 2026 (H-1 Forum AHWA JMMI ITS 2026, Minggu 22 November; jendela 16–21 November) | **Final** (dikonfirmasi Ketua Pelaksana) | Selesai |
-| Pre-test dan post-test | **Final secara konsep** (arahan Ketua Pelaksana, 8 Oktober 2026) | Butir soal ada di dokumen 04 |
+| Pre-test dan post-test | **Final secara konsep** (arahan Ketua Pelaksana, 8 Oktober 2026) | Final: 20 soal pilihan ganda identik pre dan post, naskah di `main/soal_pretest_posttest_bbm_2.md` |
 | Angka TUK (4.4) | **Usulan**, belum disetujui | Perlu persetujuan Ketua |
 | Transparansi kepada peserta tentang pengamatan pola kontribusi (naskah di dokumen 03, bagian 4.1) | **Usulan penyusun** | Pengaman etika; perlu persetujuan Ketua |
 | Dokumen proposal (.docx) | **Ditahan** | Belum diminta |

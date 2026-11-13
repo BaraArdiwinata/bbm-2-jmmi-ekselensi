@@ -174,7 +174,7 @@ KPP berlangsung pada 16–21 November 2026, dengan tenggat Sabtu, 21 November 20
 
 **d. Evaluasi**
 
-Pemahaman peserta diukur melalui pre-test dan post-test berbasis formulir digital (13 butir pengetahuan berbasis pemahaman dan skenario penerapan prinsip, serta 6 butir sikap), serta Form Umpan Balik pada hari berikutnya.
+Pemahaman peserta diukur melalui pre-test dan post-test berbasis formulir digital (20 soal pilihan ganda, 5 soal per materi, berbasis pemahaman konsep dan skenario penerapan prinsip, dengan naskah identik pada pre-test dan post-test), serta Form Umpan Balik pada hari berikutnya.
 
 ### 2.4 Sasaran Kegiatan
 
@@ -304,7 +304,7 @@ Sabtu, 14 November 2026 · Ruang Rapat Barat Utara Masjid Manarul Ilmi ITS
 | 3 | Sambutan Ketua Pelaksana | 0:03 | 08.35 | 08.38 | Bara Ardiwinata |
 | 4 | Sambutan Ketua Umum JMMI ITS | 0:03 | 08.38 | 08.41 | Muhammad Hazal Ma'aly Mahmud |
 | 5 | Stadium Generale Pembina: "Semangat Bermasjid dan Ruh Khidmah" | 0:30 | 08.41 | 09.11 | Dr. Candra Irawan, S.T., M.T. (Pembina JMMI ITS) |
-| 6 | Pre-Test (13 butir pilihan ganda, 6 butir sikap, 1 pertanyaan terbuka) via QR | 0:10 | 09.11 | 09.21 | Operator |
+| 6 | Pre-Test (20 soal pilihan ganda, identik dengan Post-Test) via QR | 0:10 | 09.11 | 09.21 | Operator |
 | 7 | Materi 1: "Arsitektur Amanah" (50 menit materi + 10 menit Q&A) | 1:00 | 09.21 | 10.21 | Ketum, Waket I, Waket II |
 | 8 | Materi 2: "Seni Eksekusi" (50 menit materi + 10 menit Q&A) | 1:00 | 10.21 | 11.21 | Farhandito Apbrilliant Sulthon (Ketua Biro Relasi dan Hubungan Eksternal, Kabiro Best Biro OKR 1) |
 | 9 | Salat Dzuhur dan Ishoma | 0:45 | 11.21 | 12.06 | Seluruh Panitia & Peserta |

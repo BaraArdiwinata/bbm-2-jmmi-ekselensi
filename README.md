@@ -75,7 +75,7 @@ Delapan biro (Biro Manajemen Event, Biro Pengabdian Masyarakat, Biro Kajian & In
 | 01 | [Grand Design dan Urgensi](blueprints/01_grand_design_dan_urgensi.md) | Latar belakang restrukturisasi, problem statement, 8 ambiguitas Tata Kelola, risiko resistensi kader, landasan filosofis dan regulasi, profil peserta, TUK kuantitatif dan kualitatif, register keputusan |
 | 02 | [Silabus Materi dan Rundown](blueprints/02_silabus_materi_dan_rundown.md) | Rundown 08.00–16.06 dengan PIC dan waktu ibadah, silabus 4 modul, tabel wewenang, studi kasus Biro RHE, kerangka Essential Awareness, *speaker's brief* |
 | 03 | [Juklak Simulasi Taktis](blueprints/03_juklak_simulasi_taktis.md) | Konsep game, aturan arah dan *directed graph* 16 relasi, katalog 8 kasus biro, 3 inject, struktur Google Sheets, rubrik, panduan fasilitator dan kunci titik temu |
-| 04 | [Skema KPP dan Instrumen Evaluasi](blueprints/04_skema_kpp_dan_instrumen_evaluasi.md) | Pre-test dan post-test (13 butir berbasis prinsip dan skenario, beserta kunci), butir sikap, N-Gain, Ngopi Khidmah, Form Minat Peran, 1-Page Canvas, timeline dan monitoring, database kader |
+| 04 | [Skema KPP dan Instrumen Evaluasi](blueprints/04_skema_kpp_dan_instrumen_evaluasi.md) | Pre-test dan post-test (20 soal pilihan ganda identik pre dan post, naskah dan kunci di `main/soal_pretest_posttest_bbm_2.md`), N-Gain, Ngopi Khidmah, Form Minat Peran, 1-Page Canvas, timeline dan monitoring, database kader |
 | 05 | [Timeline Eksekusi dan Birokrasi](blueprints/05_timeline_eksekusi_dan_birokrasi.md) | Kalender tenggat, milestone 8 Oktober–6 Desember, kepatuhan SOP proposal/surat/SPJ/LPJ, checklist logistik, RACI, register risiko |
 
 ### Artefak (`main/`)
